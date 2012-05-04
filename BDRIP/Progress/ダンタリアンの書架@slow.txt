@@ -1,0 +1,115 @@
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2011.12.09 - 09:05:07GMT -----
+
+ソース：1080p
+
+File:  [アニメ BD] ダンタリアンの書架 Vol.01 映像特典 「TV予告」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@xNDE1YQ-iN0iLcq~ciNaXtCkVrweW4~d43FTeU0Upik,JGe1k4oGDhEecvjJ1lkGbhX3rd7f7ObCOi4~KKkD5Sw,AAIC--8/[アニメ BD] ダンタリアンの書架 Vol.01 映像特典 「TV予告」 [1920x1080 H.264 AAC].mp4
+Bytes: 196832076
+Hash_SHA1:   4233466339af6fe49a4a7b719c3a1ffc247cda22
+
+File:  [アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part1.rar
+Key:   CHK@UT70UonE1XrV2MPQMoy8n9ok85P5oFq0dbzuE2J8KCk,g3UlOY5LtpiufYHpLsaO7g34VydC4Dj~Q-iQ3zoX1Wc,AAIC--8/[アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part1.rar
+Bytes: 500000000
+Hash_SHA1:   34f7223b89dbfb846730db309c9ea1341c7e3fc9
+
+File:  [アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part2.rar
+Key:   CHK@RAfGxN~BkA48fvBIzfBfgVEAmJx22JVsZZ5wGntSelU,I0n9n6ki23qkSKMX5zmT0sY-88CJzUOhNLZpjKkDRm4,AAIC--8/[アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part2.rar
+Bytes: 500000000
+Hash_SHA1:   843a1d8839875b76ec69070b6aa7efc750f6adcf
+
+File:  [アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part3.rar
+Key:   CHK@lh1KedmjpxSZzw-JQGx81RzBDbh3rPaCQ82h33Di4~E,hQHhOwGutLOKShDUCa1LiaV0AjGhrFqFLpFPbmK-8rY,AAIC--8/[アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part3.rar
+Bytes: 500000000
+Hash_SHA1:   a1137c72b48650c89f59b1da8f151406dac45be2
+
+File:  [アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part4.rar
+Key:   CHK@cLygvKorRq6wF8IZdQQ-m~AyQpGCRLK~BlN2bjs95gg,mbr2dWq7GMaZzAOJ7SbGXdqeuHLs1cc~jpdNgFvY7j4,AAIC--8/[アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part4.rar
+Bytes: 500000000
+Hash_SHA1:   679134adcbaa0ff813452f00847ac28aa361566d
+
+File:  [アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part5.rar
+Key:   CHK@OovkA7ImPLp-awyDZC2UVJFptmCCz-jEpFJyqr9UGnI,kPU8LDA~o6VaOKcAtq4bZcw0OwjIjSmTyI6A4JDW0A4,AAIC--8/[アニメ BD] ダンタリアンの書架 第01話 「仕掛け絵本」 [1920x1080 H.264 AAC].part5.rar
+Bytes: 129844129
+Hash_SHA1:   47746c3e049dcf6f0c6b11803ef0f85b30ec2f23
+
+File:  [アニメ BD] ダンタリアンの書架 第02話 「胎児の書」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@H-HB162vh6hyuvJeZCmQCR4PJqdHnOXjfHmElRWjUck,wxgNmEt7Q9mWKSWJzTidR-wWtgO6EJPIUvXYJ6qJfmY,AAIC--8/[アニメ BD] ダンタリアンの書架 第02話 「胎児の書」 [1920x1080 H.264 AAC].mp4
+Bytes: 1411624360
+Hash_SHA1:   b43b5a4175dfe1bb77ecbe9d60c74c2ae6e72c1e
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.01.30 - 15:09:50GMT -----
+
+File:  [アニメ BD] ダンタリアンの書架 Vol.02 映像特典 「CM集」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@GnUmqpzjbfaQ16s9qUwjxkE4hG1tyq2BhwSGwGbjROQ,QHVr4cLIVLIDy0zwOiQWRGb3RgxpmFMNgRA3qHtDFI0,AAIC--8/[アニメ BD] ダンタリアンの書架 Vol.02 映像特典 「CM集」 [1920x1080 H.264 AAC].mp4
+Bytes: 68595822
+Hash_SHA1:   bea6304288fcbe5c5ea0759d8a8a90f7f76cdcf1
+
+File:  [アニメ BD] ダンタリアンの書架 第03話 「叡智の書／月下美人」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@XyGzyGkCUVeM9SG7Y-YFQod7bWtsBmPye~MFqbsByTU,9BrBzYiaMDh-bI42DdP65BF5GRUdub0f1yMTZvSmRu0,AAIC--8/[アニメ BD] ダンタリアンの書架 第03話 「叡智の書／月下美人」 [1920x1080 H.264 AAC].mp4
+Bytes: 1008154509
+Hash_SHA1:   9b4930ad25e896339ea346381dde7ac988773116
+
+File:  [アニメ BD] ダンタリアンの書架 第04話 「換魂の書」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@ZLRCNkBNGfVtqF698hQ6o8SBN5l-a54O3BbcqYci-qw,3BUsXUtz5uqyHao2sw4X719MAEM745v6F5El4Wg0L-4,AAIC--8/[アニメ BD] ダンタリアンの書架 第04話 「換魂の書」 [1920x1080 H.264 AAC].mp4
+Bytes: 1140434839
+Hash_SHA1:   39a4bd3f95912bad6907b84e50164367556d9bef
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2011.12.09 - 11:27:31GMT -----
+
+File:  [アニメ BD] ダンタリアンの書架 Vol.03 映像特典 「ノンテロップOP」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@g6ULOCg8DdLh8UKPCAGBBWSV1TqNqMCujXTMHd-ASco,wMD~~58rvdumSMPGZxwmGVjTRAo2-7lQIhxy5kLkvbQ,AAIC--8/[アニメ BD] ダンタリアンの書架 Vol.03 映像特典 「ノンテロップOP」 [1920x1080 H.264 AAC].mp4
+Bytes: 74959519
+Hash_SHA1:   4f49a5d78198518ae0017444a6d8762120c8fea1
+
+File:  [アニメ BD] ダンタリアンの書架 5話-6話.part1.rar
+Key:   CHK@zYepuuZsuSdZq0UbgxxYR0khnOgcJARo42IS~Kko8I0,QoqGu1GbVCHoaaZAwL~gGweGk-tiYGnoWBzy1IpF6tA,AAIC--8/[アニメ BD] ダンタリアンの書架 5話-6話.part1.rar
+Bytes: 500000000
+Hash_SHA1:   efba422496efbd7a24356ae466f071036538a9ab
+
+File:  [アニメ BD] ダンタリアンの書架 5話-6話.part2.rar
+Key:   CHK@z~tlVfu9gGsyn-Q0D6ZuWiak~fF5yWWPv39cRwSTzDY,jzs89ws8hVWZlRwYHi-QijvTKaEpQEKlq8bU~W-~f7M,AAIC--8/[アニメ BD] ダンタリアンの書架 5話-6話.part2.rar
+Bytes: 500000000
+Hash_SHA1:   716f9c93b9ff078cce31cc651ba55c739c986fed
+
+File:  [アニメ BD] ダンタリアンの書架 5話-6話.part3.rar
+Key:   CHK@tFpIPGmV9kK3TKlpIVj3dT1-P4i9HhHADhDjXj02Qjk,UMiryehRFCih79EnB5TEMz6Dbj1a76ObPYCmwfX7d3o,AAIC--8/[アニメ BD] ダンタリアンの書架 5話-6話.part3.rar
+Bytes: 500000000
+Hash_SHA1:   dcf3843620cfc5e1d6cbce47c56a5f30c60cba92
+
+File:  [アニメ BD] ダンタリアンの書架 5話-6話.part4.rar
+Key:   CHK@KDF7953lat8GXE~tkgqx54SJBZeo0NhV9qvmhPGzWZ8,~HK6nMoFVhVOZH2P5ukXEEA82KCoN7zb-Kd5OBpF4fI,AAIC--8/[アニメ BD] ダンタリアンの書架 5話-6話.part4.rar
+Bytes: 477053655
+Hash_SHA1:   b534ece193cfe87c5733c18208ca22221e62172d
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.01.15 - 11:28:56GMT -----
+
+File:  [アニメ BD] ダンタリアンの書架 Vol.04 映像特典 「ノンテロップED」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@eTrNGibdpHy4Hitn22vQpwHAfgUjIDyJCJY2iSjEDmw,XkMkSxJpDLyERRGsGcIjHjBMySkIlQqZnHiWswSG~iU,AAIC--8/[アニメ BD] ダンタリアンの書架 Vol.04 映像特典 「ノンテロップED」 [1920x1080 H.264 AAC].mp4
+Bytes: 113047816
+Hash_SHA1:   96b794b9e0bafc23c3a1830c174cba1ecb966b8f
+
+File:  [アニメ BD] ダンタリアンの書架 第07話 「調香師」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@7Xaoo3Zsx220lpCz0YWFOu9jpjRUeVibteczCwmkyc4,EwRjRRMDMrgH21NNFwJ-ZrbEsJQ7AT6kQUuoSr5Zqck,AAIC--8/[アニメ BD] ダンタリアンの書架 第07話 「調香師」 [1920x1080 H.264 AAC].mp4
+Bytes: 854559413
+Hash_SHA1:   85785b291c2c0c5caa5f39f30e7dc4c1e4019032
+
+File:  [アニメ BD] ダンタリアンの書架 第08話 「連理の書／等価の書」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@ibYZQ7Uj3Osubp30h2POC85xjkCFE77Yqs0XgiFqMSI,K59MbD4wnTMdsa0bLRaotAnmONtWcxeN4xeaGpqr5ec,AAIC--8/[アニメ BD] ダンタリアンの書架 第08話 「連理の書／等価の書」 [1920x1080 H.264 AAC].mp4
+Bytes: 842694116
+Hash_SHA1:   c863183e95e611d0cc00b0528d8413f4625e5bee
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.02.08 - 06:44:07GMT -----
+
+File:  [アニメ BD] ダンタリアンの書架 Vol.05 映像特典 「Blu-ray & DVD CM」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@W5KJjwoVSa0q0q7nx3wPbwEXjAvbhkD0bMXcGa1HDds,QAVHPCNNckErOiOHtEpZyqhUGgZzwaHfSrystEjgDbo,AAIC--8/[アニメ BD] ダンタリアンの書架 Vol.05 映像特典 「Blu-ray & DVD CM」 [1920x1080 H.264 AAC].mp4
+Bytes: 15919623
+Hash_SHA1:   0207f547b614d3869d292fda299b7a588b31507b
+
+File:  [アニメ BD] ダンタリアンの書架 第09話 「黄昏の書」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@9WMK7ZOJakXSXeZNoLvDBPbNb30LMC58q1x1t-Ci~e4,tQDRcedPeanoeCyE9eTbb36f4DJkWq1GAQVrRrnLwGc,AAIC--8/[アニメ BD] ダンタリアンの書架 第09話 「黄昏の書」 [1920x1080 H.264 AAC].mp4
+Bytes: 927708393
+Hash_SHA1:   86893040772013e32c947537f5fb6a32b2e1299c
+
+File:  [アニメ BD] ダンタリアンの書架 第10話 「幻曲」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@3ItZw3Oi7lwk08S~hCLpWCv2WNdV5EKLUJo05-oAUYg,I5C8oiT14WJkLQEkeDUDvxTQI~84IMP32d7ARMnB0dY,AAIC--8/[アニメ BD] ダンタリアンの書架 第10話 「幻曲」 [1920x1080 H.264 AAC].mp4
+Bytes: 845886962
+Hash_SHA1:   1a7636d3cdac50305f5589bfa9d25b9716e128de

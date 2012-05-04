@@ -1,0 +1,156 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.06 - 20:58:11GMT -----
+
+今回はLevelsではなくSmoothAdjust-v2.00beta9を使用してみました。
+これでレンジ圧縮時に見られるグラデーションの階調割れがかなり緩和されました。
+
+SmoothLevels(16,1.0,255,16,235)
+
+File : ドラゴンクライシス！ 第01話 ｢さらわれた少女｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@qqdog7HlXGhtAVphxaQXAn81L5PH67U2prwgeufbMnk,bBb4~ZqbhHtQXZwVxpwuFtDmAKaqmjB1L1r2RgSjSNk,AAIC--8/ドラゴンクライシス！ 第01話 ｢さらわれた少女｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 844837892
+SHA-1: 4062e22fd9798eb42a1bb91c02cf4c4d988ea4cb
+
+File : ドラゴンクライシス！ 第02話 ｢黒の襲撃｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@1GhbcBtxzvawX4NNtK65OoWGlaO1BotP7G~ZoiyfZUE,JDcOzoOISOT-Ilyp5mejZ2q03Imlwbw-EfSymMbWxI8,AAIC--8/ドラゴンクライシス！ 第02話 ｢黒の襲撃｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 794980369
+SHA-1: 6ba7feb3ec1763f49cd8c1239bdb8ca8babc2b3e
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢PV（90秒）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ikfEsB1WSjAyckrGwC-ZVMqxfbfGjewg5JN2HwFo93c,HN3o2fxycfTPF3JP7JoG4SeJq3sKZ-o72quOCNWMEyI,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢PV（90秒）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 68104245
+SHA-1: 97186f02559b68ec3f108692f81a9b35d6824efe
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢ノンクレジットエンディング｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@oiY~A0-IwD3U764GmzoH9U2QmKKezGViUwD5AzavD38,rfdhuOIsyED3JhTXtcs0o7GM~cM0w3hfGq04U8zUhWU,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢ノンクレジットエンディング｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 104004249
+SHA-1: d708aaf51a3ef6d84d4ff1b97f7e59bc47277888
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢ノンクレジットオープニング｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@hOBVDNkKA8ghORimR5GiNjVIq18Uzduh7y9GpJzn4oA,Y5kRpB3SdvtFuw6jWGqKLfVCufg3qyvEhQKeLjViNvM,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢ノンクレジットオープニング｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 197310784
+SHA-1: d1defb79316e049b6ebe2bfdc36f483a783c9f8c
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢特報SPOT（15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@oRyuT8w-5NTloMKOMz8n5owpXZ9l7VBB4wH77gq~Bwo,GCp9qus0Udw6Np6QJutfK0Vq9ez3NFqsl9gqFMbxlzY,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢特報SPOT（15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 11463595
+SHA-1: 11f9535937f1f25c794d885d312840269da4967e
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢放送前（TOKYO MX Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@iLWGk7-wsH92WbDYNfV6923dIGUX-32hkDGSLmnGfsw,Ddl6~b4vQDq8N8SW1h2KTqt7lmdQO2DF730jJ6NmmCA,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢放送前（TOKYO MX Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 14726956
+SHA-1: 1f2ea840f6e01b1ca1c7bdbb9e8300755bc591a5
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢放送前（読売テレビ Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@FRtGEih2aWbk3vrV5ASMpg87Vcbigg38WZ8HNGXUG24,5fJ6SnE~CZDtUfafbPJtb9YU4DrpvUPNjzyiKIox-Kc,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢放送前（読売テレビ Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 14652688
+SHA-1: 67a091bd839a7e2f246bea40d655fbe1c49d0e74
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢放送中（TOKYO MX Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@2iG3PAA2eotySxi6ibr1MXE0n0njHTTUwdB8nLCWa7o,LvBfsMGgAmLg99vfCXTsNPQNXQaEDPL5H652OeaPync,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢放送中（TOKYO MX Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 14648955
+SHA-1: ac282d8646c0d994a2799d937a9df9229c21f656
+
+File : ドラゴンクライシス！ 第１巻 映像特典 ｢放送中（読売テレビ Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@DBmakbnyKzfCiQPckNh8G4zLYxi9vz4tiZ0WNa0G0iM,ZyVO-153fXayF2vBFPy7FamQTiWV7ySpjApNpUUhKmo,AAIC--8/ドラゴンクライシス！ 第１巻 映像特典 ｢放送中（読売テレビ Ver.15秒）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 14580838
+SHA-1: 3c7a8460b29fced5f9dd28aebfab9dffaa6ff937
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.07 - 11:24:23GMT -----
+
+File : ドラゴンクライシス！ 第03話 ｢決意の契約｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@zd7-k8QZGeCUYVyMi-AGSCA1Ano5zEz5yuk1aSvioAE,g6i7bUDZJ3adAO2NBkvFn757K-Hfmxt8GmM8O2yanr8,AAIC--8/ドラゴンクライシス！ 第03話 ｢決意の契約｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 922778241
+SHA-1: da7423e98a9583a63caf35d8448971328befeb1c
+
+File : ドラゴンクライシス！ 第04話 ｢海辺の美少女｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@9zs2XHVx-lWVtkVp9W6kX4r9ztk2iS5IrS1swIUitXg,4btGlUgpK30emQsLvgp-m3JRb7nOUZNHXCp5mf-Z2bY,AAIC--8/ドラゴンクライシス！ 第04話 ｢海辺の美少女｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 797459329
+SHA-1: a12267bc2075367f9542e8a42293f3c333ea48da
+
+File : ドラゴンクライシス！ 第05話 ｢忌まわしき覚醒｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@0~7AU3Rrwe6Sonw7CvgydzcqBmy5lea5MPCoEJNkxaQ,kH4YtH41xHYJscVlTz2zSQs1wAAy6K9I5qb0HiUZk7Q,AAIC--8/ドラゴンクライシス！ 第05話 ｢忌まわしき覚醒｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 842011430
+SHA-1: bc44264b8e2fb93b758dcd529764102323013489
+
+File : ドラゴンクライシス！ 第06話 ｢狼の襲撃｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@pBhOnQ5Z-xkOsW0jwZ4Idyw0F6F5E4DJ7-b09zMJnBw,3wtIyowbdeFdMbfmjO8jnWF6ekNmGkAEXzhSvc3OIek,AAIC--8/ドラゴンクライシス！ 第06話 ｢狼の襲撃｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 769361964
+SHA-1: 7ac36edb1a7eec973f3ba0baccb6be9ea246d948
+
+File : ドラゴンクライシス！ 第07話 ｢狼たちの真実｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@vQPwR8EmAO8zMUbDKTc~g3yo7WDHc~GAdBiXjUWchww,eVaxWvzIthnpR4bjLTdgZTGj6gz3E8XCKul0eSQEhnU,AAIC--8/ドラゴンクライシス！ 第07話 ｢狼たちの真実｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 860537033
+SHA-1: edffabec50c2f17738a3928c56e504e20c4bc52d
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.08 - 00:41:59GMT -----
+
+おわりです。
+
+File : ドラゴンクライシス！ 第08話 ｢危険なテスト｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@0Bmv2iBu4MBPBT1Na36cv2s7koo4qo6sZxWMqKz60IY,-RMYavOTV49IzCT3KXdA5ZpyeSdzTWP2eRvfBMmVSsw,AAIC--8/ドラゴンクライシス！ 第08話 ｢危険なテスト｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 933657779
+SHA-1: 8f8f5c933337573dea04a56c295d1ce1c54ddcf5
+
+File : ドラゴンクライシス！ 第09話 ｢真実の鏡｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@JU8iqXY2ZR4udTPRRUOXMPJOdJhK6k5vbp4h~VTsiLY,jpmvbsWqATQzFbfEaHCz~FdsY6eTzfCkOEB~iPdIIHU,AAIC--8/ドラゴンクライシス！ 第09話 ｢真実の鏡｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 769811420
+SHA-1: 325c1e9d3f31f4af1606465d41238928195aa4a2
+
+File : ドラゴンクライシス！ 第10話 ｢オトナの儀式｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@9RYMnR6fweOXHNxLIgneMUzNC~GEAxZfi9pEgrE0Ek8,gs3b1aWTUAK5jEXkK3stks3m7giDsGBHC-Ytus1cPMA,AAIC--8/ドラゴンクライシス！ 第10話 ｢オトナの儀式｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 714052685
+SHA-1: 3e1f48794fcb4172d4a4d271e8940845a354ad5b
+
+File : ドラゴンクライシス！ 第11話 ｢ドラゴンクライシス｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@G9hEB~LWKM4u11sHJV1LeqOhGl7RevWP2Qh7YA1jhM8,6kdBpsM~Kx5~lB9T81ihw7D1jZuCXDPwHeu3Nsnro1U,AAIC--8/ドラゴンクライシス！ 第11話 ｢ドラゴンクライシス｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 750287357
+SHA-1: d4b437502e728c9e68968ddcd072720a3c82241b
+
+File : ドラゴンクライシス！ 第12話 ｢エンゲージ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@u6m~HD05IOWvt2GfXlOz7~6nz-DracikKoEjxaGZ-yM,gQcna9nre2Yakj3QxqcaHuq1pk4MkOM-MAuJjn~cGtI,AAIC--8/ドラゴンクライシス！ 第12話 ｢エンゲージ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 804133361
+SHA-1: d5cb79320ff8c025f0711db7f053d76cf97f1c53
+
+File : ドラゴンクライシス！ 第６巻 映像特典 ｢日本テレビ放送版次話予告｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@R6PTW1gZ0uG7yhlspoOU92zWOZan3ZR9VOAh3OfQC6c,bRoxRhY~4CRqsqts27xZAZPLZXMscospoXh0votNxn8,AAIC--8/ドラゴンクライシス！ 第６巻 映像特典 ｢日本テレビ放送版次話予告｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 114376955
+SHA-1: 729fce4355257b91180a85f083a6917683fd6584
+
+File : ドラゴンクライシス！ 第６巻 映像特典 ｢日本テレビ放送版アイキャッチ｣ (BD 1920x1080 PNGx11).rar
+Key  : CHK@g1oob1BpILwpBsvVOJSaZWacU3A8QDi7bu21PcFzIqc,fNzOaDHCSiVTLo9q02Hlbvd8t-I0EXN3Wp-bWyEQ-O0,AAIC--8/ドラゴンクライシス！ 第６巻 映像特典 ｢日本テレビ放送版アイキャッチ｣ (BD 1920x1080 PNGx11).rar
+Bytes: 21635967
+SHA-1: f55b933f064fd60a967e9f7ba5c483395c7cd03f
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.08 - 11:39:11GMT -----
+
+全６巻分のメニューです
+
+File : ドラゴンクライシス！ 第１巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@Pne1ucfMWPnbwJUw8J0gIbyEWlbB8iDptqw4YC7K90Y,nr264N5-jtBQF~HCpol1e6yVXYtgrbidRkbcLeMMTnQ,AAIC--8/ドラゴンクライシス！ 第１巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 7876209
+SHA-1: 65698ceebde80e47f37133e47098e75fe4521249
+
+File : ドラゴンクライシス！ 第２巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@gZKVBOTDP2dvB2cLAkhYR6PATqeT~qZ4~08FBPQWNe4,e1AP9c2UsMN4zhAyniBXCTiZ6TI5VNzkBeV3KWoSqyU,AAIC--8/ドラゴンクライシス！ 第２巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 7880652
+SHA-1: 0e96a29f65784f5a9429eb701ebb63001680c37d
+
+File : ドラゴンクライシス！ 第３巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@V~WUvB8vTcNA4wvLcfrGLqGc92qwQjnu4-r5GGonadU,kGvXjiB0H9lBdPeUPcdF~FIsDY9LbMDkNp3coYnddb8,AAIC--8/ドラゴンクライシス！ 第３巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 8535668
+SHA-1: b2e04e793285abbf91d77c27121e821623426084
+
+File : ドラゴンクライシス！ 第４巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@QHbYfs~D7geAD-edA4lCAyIf3baCazBQdsAc5KRuZOg,HyUgaBO7PQEiPT3JSY80zuAVnvH6fRXDzNUB91w-r8w,AAIC--8/ドラゴンクライシス！ 第４巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 8048982
+SHA-1: 84b89b84c61d94156b814ede2fb24e4b1e394692
+
+File : ドラゴンクライシス！ 第５巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@xC4YoIcywtifjdbpMSTB4WFAtBpOK~yPHpn0BkrmLZg,wjSbzGSnXZEb-Q-hDjXRHprpuQ6aU9XzvTucCreXemM,AAIC--8/ドラゴンクライシス！ 第５巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 11565678
+SHA-1: 57da1e4aad05cb26c1549212727922e444904bcf
+
+File : ドラゴンクライシス！ 第６巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@6XOqtEKDxA9NnXxKyZIrkrOxWdAYEmVprEddP~GNV-o,aUzZ2jsNgbDhLzWPWkf47GaH3sXAtoaPLfvPneTYK8o,AAIC--8/ドラゴンクライシス！ 第６巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 8032081
+SHA-1: b42140d5d1dc8c8fed8d2de6142975891e0773c1

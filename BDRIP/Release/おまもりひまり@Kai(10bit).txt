@@ -1,0 +1,368 @@
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.01.29 - 08:28:17GMT -----
+
+File:  おまもりひまり BD VOL1 メニュー (1920x1080 x264).mp4
+Key:   CHK@b7k0sSsY3zA0tK3xJqMF7fOJepOoKWXueJIc4N~4rXs,zuu~Wc4H5ohSzGBnqqBibpOZArzyaeeXP4~ssnm5-Mk,AAIC--8/おまもりひまり BD VOL1 メニュー (1920x1080 x264).mp4
+Bytes: 6524741
+Hash_SHA1:   755a9477dc51db5cfaf6954af7335dd002d5dcf8
+
+File:  おまもりひまり BD VOL2 メニュー (1920x1080 x264).mp4
+Key:   CHK@ZpxPjbjSjMIkxCdVS9B3JR-c9ShDsSt2FM1089O1Lts,mFyZWo2VRBMQMsL9iiKSmZW9Vcb3cOwxGzvLzmh8ji8,AAIC--8/おまもりひまり BD VOL2 メニュー (1920x1080 x264).mp4
+Bytes: 6832510
+Hash_SHA1:   d6508e70348e5898ac8e05d4ffc46f907937f14d
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #01 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@Iu-cqVIuf4TKx4QwThQZRwtBCYxTaZ6P3kTlxXOSCWE,QRcTq5rOOuLEDhomycH9KS8rIIEr80b4avGpiytQWQM,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #01 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 85234367
+Hash_SHA1:   c5b90fa14ef0c580fd676a84443102613f9e43bd
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@J62IdxNk0hU6Caws6eACQTSJFtuGVIhmZTlC09estm4,k0RtzZxAs-rRHSBNU7aDZ3YagSDF4ByD4MuFiqBS2XE,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ エンディング (1920x1080 x264 AAC).mp4
+Bytes: 72472089
+Hash_SHA1:   2102a8ffc8da0775e98f8c9071478ca231ecd3a6
+
+
+とりあえずこれだけ
+10bitというのもあってエンコに時間がかかるのと
+この作業だけできるわけでもないのでゆっくりとやっていきます
+
+BDは残念画質でした
+フィルタで綺麗にできる腕もないのでソースそのままです
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.01.29 - 20:08:52GMT -----
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #02 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@m39yNj6bbRW1seDb6H58SBuwMGFBmUdRhIPBFIrpSX0,k8N19MDaLpXaAmDjiW80zgVuGwMgzsGKBLtowpvTmYQ,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #02 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 85070374
+Hash_SHA1:   27f18dfec518031170ccce873734ffc6082ae883
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #03 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@THAbASPeQqkY6162zLLSRgubxToNKP5EA8RRdcSNtWo,RE05JWuMdiGnT6zHT9BIXszlsmYDApMl3UI48g-CyO4,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #03 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84755259
+Hash_SHA1:   e1da190cfa08c44a351284daf967158ba27994c0
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #04 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@DIovylm5Y1f0zrFgzIhY~mwc3bH6yyXcDIAuxdfvxnY,kI~wr9RxWwaVKLY4FYW4-aiwp6pxkUPznZoJAwrT47w,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #04 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84802539
+Hash_SHA1:   d75063350c5e20587e7b779289b26814dff06acf
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #05 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@~zZ~NBRyLze5k49wmRQKrQAsVMPHw3gkCo54Qbo7NDk,0Toq6ng0syFC2J-8FCv5kRhFqQqKp~Y3PUet0abPEWo,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #05 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84779030
+Hash_SHA1:   2da92425085200f35c1d54127303377562491099
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #06 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@S2qyGyTHOorzRkcsFIPjG-VBi9KCcrbGFh0CJfyel~E,krgK4BASuDeO--d7sL307mapijV1-3r0UVXPrZdcPx8,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #06 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 85318008
+Hash_SHA1:   eb9d5e23bf1491800cfb0b41cb111a8148a8cb74
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #07 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@KcAnET7zaNS2Y7sW3sd96h0uX0TTdg76FtqzgOt-E8I,mVfyD0VZK9sX-p4SyrYBY1vv-C1LiB8zOYyzP1arcCg,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #07 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84609359
+Hash_SHA1:   f47e42936cf3a8574529cfa33a4439e76e53a0c2
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #08 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@VaXcmtQ6DFBVlcJ9FDwGVSMjr-wd0FMw4CYIiWHLcWQ,K-BTWpy-Tl-ganH-GyB2DxVoigfVhvZzhTxVimhr66M,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #08 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84833174
+Hash_SHA1:   b630c8c801d662844cc2292e2cdb94ebf2d3a9a4
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #09 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@FXL9098ePX4F1JwHOfxuzDtxqma9iA3T9zv866iv57I,hDpMSxTo2rFZUij1Tk0M5QW9fAOYgeiACOYFVJSKqng,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #09 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 85195261
+Hash_SHA1:   aa299916b25f1ebfcb8c78195de657f239ae6988
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #10 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@j-U0D8CY3LvIeBD6bDS0qh8KnQZdje~st4CdpJRser8,42Hkvym3Qw0qVYGTyT3zAHdT9O6oo70l0cQlo7i4QKE,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #10 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84945547
+Hash_SHA1:   d3922f6a7fe19c1d60fbae474911254b580b12c2
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #11 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@OtcD0YkcukxfU5Oe9xBROhqpxY11AAcq3PGIlWM6DUs,yir6hvnNMCkexsofT44jonGUE0~aNQ0Aj~-pbOLE8Lc,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #11 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 84464223
+Hash_SHA1:   839037f4a74390d0cf8f7d4c80f86f3fc8b0eefc
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.01.30 - 18:57:40GMT -----
+
+File:  おまもりひまり BD-BOX 映像特典 番宣集 (1920x1080i x264 AAC).mp4
+Key:   CHK@Cd1I5BoRAMhGXNjNzCp2MNh8QaGPATaFMn36pNrAt1g,gIDmJmMrHGELS9zxQ5Gy1QXx-5Lvgfp8p9RgADok094,AAIC--8/おまもりひまり BD-BOX 映像特典 番宣集 (1920x1080i x264 AAC).mp4
+Bytes: 278272035
+Hash_SHA1:   170f7363327fabd59b62b8dd104ed55e425b01c2
+
+File:  おまもりひまり BD-BOX 映像特典 プロモーション映像 (1920x1080i x264 AAC).mp4
+Key:   CHK@0X~OzIXwHzwpwM0jcNz1qrjyRj9n6CX43lzmqp5eqac,1Lqwmsapwxcb-sXFYeMlPFVsV0KTg1oH9vTZAk8MIqI,AAIC--8/おまもりひまり BD-BOX 映像特典 プロモーション映像 (1920x1080i x264 AAC).mp4
+Bytes: 88041159
+Hash_SHA1:   8591e2dcb9d4a0ad1bd7655193af01208f1fe3fa
+
+File:  おまもりひまり BD-BOX 映像特典 DVD告知 (1920x1080i x264 AAC).mp4
+Key:   CHK@vG5kQ1QuODJMMN0mlgxva9wEL2TsiWer6ljHjx-yBt8,QmpviCjAe~y-qPatrxKlykUBuxpgVBC2Iubp6bihRKs,AAIC--8/おまもりひまり BD-BOX 映像特典 DVD告知 (1920x1080i x264 AAC).mp4
+Bytes: 32604950
+Hash_SHA1:   0bc9139bd58acedb91a6982ac1d5549f0caa1aab
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #07 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@YkgPyhrBB5MyMp8IfU7dYvh93~ATnK-aML38~LNudBY,AdJSF9M2MQkA2g1IFcifwjQkxV525MXNMd2k3r5-r0k,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #07 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 73311856
+Hash_SHA1:   a85a70bd482459d5deb956d68f9ae356926a4ec5
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #08 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@JPPcIyA9fpem-wL5szRpfNBYLanG5J3hK2g-ryZ4hZg,NN2OMd83u08AofSJ7JE8QTooLFIFoqhKrY-m91tTap4,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #08 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 74731604
+Hash_SHA1:   f3c68285bb6f94bd22f827a83577bd0266cf1371
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #09 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@Ep0jDQE2KVJRSODtdTmROpEHxqadPOdseA9OWzzhNj4,tE5FOWZWObzaZ1nCFSrWCuWNyMmZ7wD1mpOMJvdf3oA,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #09 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 74638139
+Hash_SHA1:   997be670dd9ed0e9e7123266b4007f6d4173f440
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #10 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@xRsUXGJfffMj38Lx5xsLwPMHcMXrbc43R6h9FWPKvwI,khEn~O-nsdEu4iiEgBg4zY3tYJYRzhRATdd1-4WA-hI,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #10 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 74410228
+Hash_SHA1:   2c599bf951c201e856810f08f637509d66a37be3
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #11 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@yxW~r9FgIy0aAG-nNjuMbpm4zYQ4IvlORcOvIf6KZmk,CyLzRBtzjAbWyzuZlGYhF0~xUZcrrjfoF8K9PKQ0oEI,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #11 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 74383652
+Hash_SHA1:   163a277b92a423121e6353c41cd6fd632126856f
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #12 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@is7pwZa2X2ajR1IGxAD5HCyD0qmymIarsbaIWkwMPWQ,sPkc6xFw-h80zbKHyDriDV0uTBLg4xQgklN10Ey2rwI,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #12 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 43028322
+Hash_SHA1:   de995b1cb16c36f237df88e500b2ea05b35a51e0
+
+File:  おまもりひまり 第01話 「猫と少女とアレルギー」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@tmQz5rmzDPUiDev7uA~2942FTe0~KqkB2lZrb5vZF-I,m6~8LBqYKVrK-HqpFm6I2SSYf0cb2A2F0R9vRzssacM,AAIC--8/おまもりひまり 第01話 「猫と少女とアレルギー」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 864865347
+Hash_SHA1:   845da9566f88130a8eb36fd8b791973e60397ae5
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.01 - 17:34:45GMT -----
+
+File:  おまもりひまり 第02話 「海ねこスクランブル」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@F-J5CfUPepimUjTugd4~ndciLEQLnqSiQj8jsNg8Lx4,zzpGBLb~LEKIM5qbY3FBO5YTSeDHEiej6wMieInIp5M,AAIC--8/おまもりひまり 第02話 「海ねこスクランブル」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 804704981
+Hash_SHA1:   9c4dd657546c56e17f66c307709e7aa93fac2113
+
+File:  おまもりひまり 第03話 「メイドinネコ」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@hIpqH6gi~SW6WRezZ6NGz2wiTM6jZl7OAemI312~8tM,K5L~kG1BxItOK2mQi83pROq~Lcy4f3J4U~USxieS4IY,AAIC--8/おまもりひまり 第03話 「メイドinネコ」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 777560319
+Hash_SHA1:   b5b4a235631ec4ddf7c36e7f8666b1fdac58a646
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.02 - 13:44:03GMT -----
+
+落としている方がいたらすみません
+特典のOP、ED集、本編についてはエンコをやり直します
+いろいろ試してみてWarpSharpをかけるだけでも結構違ってくる感じなので
+
+----- Anonymous ----- 2012.02.02 - 19:37:35GMT -----
+
+特典から先に落としていました、revも追随させて頂きます
+放送・DVD版・ソース未視聴でこれがグレインかただの暈けなのかは断言できませんが
+それは別にしてBDとは思えないフォーカスの甘さは感じますのでSharp系の使用自体はアリだと思います
+個人的にはWSより某先鋭化が好みなんですがこちらはお試しになられましたか？
+さらに個人的にはぽこぺん氏なら何と為さるか聞いてみたいですが
+
+Sharpで暈け解消するとバンディングが強く出ることがありますが10bitなら安心やも
+ソースなりエンコから改良エンコにシフトするとそこから深淵ですが（ｗ
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.03 - 15:16:21GMT -----
+
+アドバイスどうも
+某先鋭化が何なのかわかりませんけど試してないです
+ただ、もうWSをかけてエンコしてしまったのでこれでいきます
+個人的にはエンコを苦行にしたくないというのもありますし
+BDエンコでフィルタかけるのはどうかなという思い込みもあるので
+フィルタ関係であまり苦心するのはちょっと
+
+----- Anonymous ----- 2012.02.03 - 21:38:42GMT -----
+
+仰るとおりほとんどのBDはそのままで無問題だと思います
+HV1280のアプコンソースでも折角のBDを720pにするのはもったいないと思う方なので
+私でも軽くシャープを掛けたりすると思いますが、あとは個人の載量ですかね
+苦心・苦行と仰りますが既に第一歩を（ny ソースに不満を持ち始めるとキリがないですからね
+ちなみに某の正式名称は「非線形処理な先鋭化」といいます
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.03 - 22:51:41GMT -----
+
+どうも
+せっかく教えていただいたので試してみます
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.03 - 23:02:55GMT -----
+
+File:  おまもりひまり 第01話 「猫と少女とアレルギー」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@W4~rTF9-MGi-5pPD4vJfmELfTYgaOFHc~oCmHfNbZUk,dch5OPikrSIn5uLWdMycUc6EnlFOabR6xqxqDvwbYEM,AAIC--8/おまもりひまり 第01話 「猫と少女とアレルギー」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 842046828
+Hash_SHA1:   343b5f3ccf78250dcf01f9eea6a923cbac9e17d9
+
+File:  おまもりひまり 第02話 「海ねこスクランブル」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@Hf5XDeimwVasjBB-~qAIs387oY8RKiBKFqjfdy7wk9o,ItfFXQv5N9-27yPA7wRKhmD8WbwaVEtBnWtzsXU2zqo,AAIC--8/おまもりひまり 第02話 「海ねこスクランブル」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 781802388
+Hash_SHA1:   baf1846c7e58ed6ba9dc4b633dbf58756331dc2b
+
+
+やり直し、ならびに新規分については、ここからツリーをのばしていきます
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.04 - 06:32:04GMT -----
+
+File:  おまもりひまり 第03話 「メイドinネコ」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@X5J6fHJe2ZF2Gh91ZMgAyrORQIxNIgrV9ES2TfqB2BQ,kfiuPOiOfO0IrrL8E1a9w44Ukwlm92i3g1OLWdJWbg0,AAIC--8/おまもりひまり 第03話 「メイドinネコ」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 753997401
+Hash_SHA1:   70c5b754c5876270eefb8b4bdb4d05bf853f18b3
+
+File:  おまもりひまり 第04話 「野井原の白いネコ」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@omkqUKYNtJRnmCmMpSJS8V9WJxJEm2D20ssb7oADap8,7VdCtyv643PpiR77uB2zCo7-qAybJnmcsNSdo3L8024,AAIC--8/おまもりひまり 第04話 「野井原の白いネコ」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 910759771
+Hash_SHA1:   b56ddb56703cb35803cb7a3b6d4aff02dcaf1fda
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.05 - 02:17:38GMT -----
+
+File:  おまもりひまり 第05話 「悩める猫と平常心」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@jn3HWVxDqoDz8BjDaLDQqdGrg64Pf-kE8Zb4NYr5DTE,uDiqy~eNYhEaxC63ZR~gsH1zeSPa3mKIbywrqEe05AU,AAIC--8/おまもりひまり 第05話 「悩める猫と平常心」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 708015910
+Hash_SHA1:   fcc7029c6122b4d29c3bf33fe1a597a2076c7152
+
+File:  おまもりひまり 第06話 「キス×ネコ×KISS」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@n6XqbXtqXBUMLu0JPwYwSRgt7gr15onBxzw4u41gXDU,9a8otd06fSq0CvmcYFQ8dPBMZfI3PsSapyoQYVlYjiU,AAIC--8/おまもりひまり 第06話 「キス×ネコ×KISS」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 853923424
+Hash_SHA1:   13e6b124336a4e727b8f3012195b4e4c7193bb4f
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.05 - 07:06:26GMT -----
+
+File:  おまもりひまり 第07話 「猫の想いと魔法少女のユウウツ」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@P79Ghut2eKKUq2KAcv6EzRrJZYx1YLlM0OixV3BUWzw,~S2RvqIxdb019y16FSJQB4jKmBM5b-6vkImelgl9bK8,AAIC--8/おまもりひまり 第07話 「猫の想いと魔法少女のユウウツ」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 895804322
+Hash_SHA1:   e6fba28a41fb8e589ed103204099baeb733dfa72
+
+File:  おまもりひまり 第08話 「Curiosity killed the cat」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@NAlNc2bz5d3nuJpDdq1aa681LKc2gPhImosCAUzjReo,vJD0inmq9bSOyeFbmsf2c1EsTzCYVQFikVk-85flmtI,AAIC--8/おまもりひまり 第08話 「Curiosity killed the cat」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 665377724
+Hash_SHA1:   d4a13204f976ab744fcb484f931d2fa2e98d229c
+
+
+別件で一応お知らせを
+おまひまが終わったらいつ天10bitいきます
+向こうの方の8bitエンコも当然そのまま最後までいきます
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.06 - 00:00:49GMT -----
+
+File:  おまもりひまり 第09話 「猫鳴く忍び寄る闇」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@awlhDicQ7ifqQwDVZBzHRV63lVZ1Qu7lS-shPeHHhdA,G4xaDtM7KEoAE5g26wwfUpM1tgAzE2epSquP03aSv~E,AAIC--8/おまもりひまり 第09話 「猫鳴く忍び寄る闇」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 822111610
+Hash_SHA1:   415f0d0e02663d0b4f2aac5a2a055a803042c890
+
+File:  おまもりひまり 第10話 「妖しき猫の思い」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@5VIZOyxuT6M5iP8Fg8RU2PA3Z-yQQlpa0q3M4DsAAaA,LTq4Nphq9sizkLjMu0bF6~HKRLffwTFBKf9Wu8M4iJs,AAIC--8/おまもりひまり 第10話 「妖しき猫の思い」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 641271794
+Hash_SHA1:   3138073e6254157b86d68723f503a9d812d18179
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.06 - 06:11:27GMT -----
+
+File:  おまもりひまり 第11話 「猫（ひまり）、護り刀として…」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@qZ2Qt6rlVbElAWw8rfVq~W4Ns1eiNUCnTyMh1xaqZVc,hUsidBjveb10AsB-06ipRCLZFxtnOHFNV53bjf0wsoM,AAIC--8/おまもりひまり 第11話 「猫（ひまり）、護り刀として…」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 781586046
+Hash_SHA1:   b63a6061dfb0975206d3b61c78695536c7b87bf2
+
+File:  おまもりひまり 第12話 「猫と優人と乙女の純情」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@9D8~aHJuzwr2OzdqElrjvfI1InTCl2IDDRIkAAohf1Y,RM6lCgx0h-ZuaecHCACllrbOgo3nQpWky1-uVBuXn64,AAIC--8/おまもりひまり 第12話 「猫と優人と乙女の純情」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 768965812
+Hash_SHA1:   fabbd01052f902084d9c35da2bedda1824db76b4
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.06 - 12:23:16GMT -----
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #01 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@TxWb2U7LZna4fGOUkC~~Qa4lEdMoBPV7r5d-ouEqfq4,ytuE5ut6vlwEuiAs0kdUIfsb2CrWB0tt16Vf0ZxUULw,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #01 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79224751
+Hash_SHA1:   022ebc0144871ec9f744c4172f4355eb1ebeb5a0
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #02 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@PRn3fqJoFeRcYe3FP46dgNDuNY6VJoMWW-76ON888Ww,ieVWHVjI81upRBBr~gdHOFKXFUP0WXbEJqHN-dD45DA,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #02 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79617418
+Hash_SHA1:   b83602703cdd6d5dd19cdea1636792b90b4745e9
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #03 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@wL~4Ww3-ud7b1X2nfwUpFMVw8AF2GlTS-cgYRVGBsm0,y4PGB9YLLaLoJfDIIOskXUjM9Uh3GT5R~FcyuD1ThUU,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #03 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79267504
+Hash_SHA1:   a76d6dc47f9da5e81c58cc88297b76bf43418314
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #04 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@1eqhYGE1GP3Z7og8hYBwkBf2R~L424~syG3zfihQQLI,9Z8bVGIosG9A6y312-VgHrsp7BoLirTLGnEdLJVWQWg,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #04 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79617711
+Hash_SHA1:   0d20958b1a9ae8d28b2a6296276c816c3d9483d2
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #05 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@5CAL7hrjC4I3Ih5mCtx99MeOUZm2vs0gbnwLFZR70HY,RY58DnEUhrxlJdDCxTiDssH5pfZ~38lbbkTFBZ45EUo,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #05 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79765124
+Hash_SHA1:   e0bd42e919e981bf804dc22834293991fa02dfbd
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #06 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@ocrOw1QloOf5vpQOQbelqMSsxwbZTv-YbRRcBTtYQW8,sn50HpWDzh7Igz-h5gdI2xojtIiEuSDJXXQWYz2Aj3o,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #06 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79934776
+Hash_SHA1:   70e0f6cb3a1e83c4bb32b83fd4088f43c97dc724
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #07 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@qIAc4IrTVIr1VyltQc8bPVoWVsD57DIsP8ihoN1lVTw,eRp~1TnekWjwk6VHAajX0QDstHL~veC~0pveRnUofZY,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #07 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79569364
+Hash_SHA1:   69d07c74a1cdd2ad27ae62cf18e9503c14829dad
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #08 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@tSkP3AWM14OJnRIe8LRPg1FD05mrHS4jrPzvWMDogiE,lS4ZHI3Emu3jD6mNSQPI5OI6oqZ~JR0~wBaUSqhSqYk,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #08 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79563376
+Hash_SHA1:   4c05bfa68c6febee2203ecbe7761849af10566fe
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #09 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@kxApINF2zd-~D3pSCvjK6GchsWTlksFjHYaYXIxl2Dg,eT8aeajONV0oraVEAs2VnAi~0yPkciPx4nJaSSEl2Bw,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #09 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79632288
+Hash_SHA1:   faa55674100fc676d71712eb96fa8b94d6df6dce
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #10 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@j1ZDE8Voo7nzk8Ec60iCCbSPBz9GdM0sEUdrxs3vOdA,oZENsfK9nyDgTbeFuibcPO5vpCboHao5b8WTHQYLUV4,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #10 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79328422
+Hash_SHA1:   1d982946af77acd84b86418060eb8e285569af60
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #11 オープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@LQjUjzrvkoqoITTSvbVN0ZkN9ZOfcP-rElwH4QhkMjM,dH2keX8bbWgeYjPZFe1hthoQLIRO705xbUSHL~dnpWw,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #11 オープニング (1920x1080 x264 AAC).mp4
+Bytes: 79010863
+Hash_SHA1:   129704487135dafffa435e9748a226c143cb85ba
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.06 - 16:24:54GMT -----
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@gCAvjOF7M8Uc8KXg7larRQOirEQGTr955M9~eNqo7M8,u6g7oECFVtvRnX-qsnH31L1gMnUt-JtNB6j-6lsb44U,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ エンディング (1920x1080 x264 AAC).mp4
+Bytes: 68403128
+Hash_SHA1:   e9708d488e9e79624f74a05fbfd81553fc1db119
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #07 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@P4vpIGJwvI~zdoKYMJpRhcv67M6GYzaoOJsLYw0CdOw,qLeFiglz4~6HAkDl8uyjVUruTNts2ERK905i5hTlyW0,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #07 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 69047644
+Hash_SHA1:   6aeb6410fde1bc1470eb00575c3c044edfa56056
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #08 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@1rjIHPSNjj3iOWv-9-magi-1C7B~ptAbx1hv1GaEGmg,5oNoBqbf7xzljP3uviqCELZVoRQEnNqFTQMtSRQfKgY,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #08 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 69914729
+Hash_SHA1:   3e9c16c7bddfaef6c67d0274ad7134f45ffff712
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #09 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@1vGWkZHia1OjAtQJZGRszbWohat5TaWraYzkvekB58Q,swp~lEDnVHpv7rs8NaMsT86uaGiKI-xoW6n-QQoShL4,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #09 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 70155944
+Hash_SHA1:   8564145949e9afe13b9d45169aa6ca9cfbb1230b
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #10 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@3e6aAHPFL9XCtD9nQGW4N11oWHF-33ZMmUVYE~yhWpk,Lxp9EJWr4d3lSOkNvLcpoSbhgX667Crxic9Y8z3o2K8,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #10 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 70433101
+Hash_SHA1:   61d7363c4caaf7edc3fdc807b97193b7b2702ce8
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #11 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@FxgWCHyHtKiLZuJk0iK-6jNOLwiC3BCnvu9EYyOcCh0,sKIkvcDCAc0~Qz-XAnLTzQLnG1djdACsKNJ81Emq7vI,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #11 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 70518088
+Hash_SHA1:   6913941fb65fb715c33b74ec0a69486c8944cf8d
+
+File:  おまもりひまり BD-BOX 映像特典 ノンテロップ #12 エンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@Sgeqvru-qZr9TULBwhgI5KmQsF12a2XAplwkHBUYJcM,-rmQok~Q1j1YcRAvhcmdMt9giPJLYGpg4SKaGtTXh0I,AAIC--8/おまもりひまり BD-BOX 映像特典 ノンテロップ #12 エンディング (1920x1080 x264 AAC).mp4
+Bytes: 37669657
+Hash_SHA1:   d6876ebacce0938d55d141f6a6e610c278b37166
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.02.07 - 01:36:06GMT -----
+
+File:  おまもりひまり BD-BOX 特典DVD（実写） 声優座談会 (720x480i x264 AAC).mp4
+Key:   CHK@BhV2MKxWjb7LEh2g2--OMiAKRWO~pfoomkzihKVx8gs,pauz9bXorKR9fn8wNRXCigpgp2hc1RCtZfhNb0jlPqg,AAIC--8/おまもりひまり BD-BOX 特典DVD（実写） 声優座談会 (720x480i x264 AAC).mp4
+Bytes: 757255631
+Hash_SHA1:   06f78f5486f4be942b458662cc5a6cb28423fec6
+
+
+これで終わりです

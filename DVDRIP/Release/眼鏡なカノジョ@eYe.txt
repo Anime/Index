@@ -1,0 +1,31 @@
+----- eYe@pLCsPlUHYRYwZvakz9b1pR4WQ+k ----- 2010.11.29 - 15:12:59GMT -----
+
+File:  [アニメ DVD] 眼鏡なカノジョ MENU画面 (1280x720).png
+Key:   CHK@nQS2yG9BroxTexJdAzmzKkKyAv5Z3Ms0k6fHUuB9AFM,o7~5SOAAdu-pHy1vYwspS-ikQbbW-PKQVwxa0BIaId8,AAIC--8/[アニメ DVD] 眼鏡なカノジョ MENU画面 (1280x720).png
+Bytes: 847998
+SHA-1: ae2b82897886ffb009f45e98219cfe4a518ab7a6
+
+File:  [アニメ DVD] 眼鏡なカノジョ 第1話 「かけず嫌い」 (1280x720 H.264 AC3).mp4
+Key:   CHK@JSVZlXCH4i28BbqJBllDCU8GD3pWJ6RDLhBOKAZfzqE,RnPXTGXl0pQrDkAxlRHzP4pVRbjYeDpIRMWNqPnNi9g,AAIC--8/[アニメ DVD] 眼鏡なカノジョ 第1話 「かけず嫌い」 (1280x720 H.264 AC3).mp4
+Bytes: 132595183
+SHA-1: 4b61ed898d09e0a413adbb9c1bae5b7d00d0204e
+
+File:  [アニメ DVD] 眼鏡なカノジョ 第2話 「外して二人」 (1280x720 H.264 AC3).mp4
+Key:   CHK@QbCBaBWSY9f5q~k1UqzLjQL-q7Y0eZeiRAD1RyiO7JU,AvBbxTEjolsEVUOMKP7WG0dJ7MN3ZD3zy8MHsBaynX0,AAIC--8/[アニメ DVD] 眼鏡なカノジョ 第2話 「外して二人」 (1280x720 H.264 AC3).mp4
+Bytes: 135603056
+SHA-1: 486e0fa55e4aadec540d7d390c86816815f80306
+
+File:  [アニメ DVD] 眼鏡なカノジョ 第3話 「透き通る心」 (1280x720 H.264 AC3).mp4
+Key:   CHK@oTbaMbBxhGRVn8yVYwB~J3kBJb2GiID0EkLXJGC0rpI,7-WMww~nw~9u04rFw2DrRp8NOiSUHESkcC7DXuVqHRM,AAIC--8/[アニメ DVD] 眼鏡なカノジョ 第3話 「透き通る心」 (1280x720 H.264 AC3).mp4
+Bytes: 129038793
+SHA-1: a72757cffcad970bdb4411f9017ce6f85ffa07fb
+
+File:  [アニメ DVD] 眼鏡なカノジョ 第4話 「曇ぬくもり」 (1280x720 H.264 AC3).mp4
+Key:   CHK@TJSO7WC47bu-8ns6dk5Mz3Sof3xz6T3hHrdOPyc356E,VULORFycF9KnPRuax17546e7HpOBy~tuHFBkwkrs8EQ,AAIC--8/[アニメ DVD] 眼鏡なカノジョ 第4話 「曇ぬくもり」 (1280x720 H.264 AC3).mp4
+Bytes: 123071242
+SHA-1: 51b85658b41a8c939d0e47d561a21346fbfae652
+
+File:  [アニメ DVD] 眼鏡なカノジョ 特典映像 ノンテロップオープニング (1280x720 H.264 AC3).mp4
+Key:   CHK@cfWjZH9a0-jjwnaP8irgUZuo2U8cF29trTy5xvIF8iI,4NOK-8r0qAwMLtdQ4Rx1X5E1f7uWjsPGpv5htyBt~AU,AAIC--8/[アニメ DVD] 眼鏡なカノジョ 特典映像 ノンテロップオープニング (1280x720 H.264 AC3).mp4
+Bytes: 17194814
+SHA-1: aa43ef4c2b5945109c60cf9ada26c15d1bf70599

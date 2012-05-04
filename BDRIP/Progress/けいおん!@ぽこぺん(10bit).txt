@@ -1,0 +1,21 @@
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.04.20 - 11:32:38GMT -----
+
+・・・。
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.04.23 - 13:30:23GMT -----
+
+Source:Blu-ray(1920x1080)
+
+10bitエンコード
+
+YUVを個別に補間飽和して再合体という荒技処理をシーン単位で施す場合有り。
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.04.23 - 13:42:35GMT -----
+
+File:  けいおん! 第01話 「廃部!」(BD 1920x1080 x264 AAC2.0chx3 10bit).part1.rar
+Key:   CHK@xAqza9ECj5asro~l5E9tbxBPa1ZkI9sBpXh8DxyL-Rs,6Q3Y8VOU6J~cAVcU--TpIRZhBhY1r6p-BFV~Fi6AInA,AAIC--8/けいおん! 第01話 「廃部!」(BD 1920x1080 x264 AAC2.0chx3 10bit).part1.rar
+Bytes: 430964736
+
+File:  けいおん! 第01話 「廃部!」(BD 1920x1080 x264 AAC2.0chx3 10bit).part2.rar
+Key:   CHK@viwl2B6~yxyRPtNs4SjQxhw3mGXGOR3vaKwVJ6qY~4A,yBcSgXyz6F9HV4U1Y33YmDPn1HNewXIfR4GeBXzPaAw,AAIC--8/けいおん! 第01話 「廃部!」(BD 1920x1080 x264 AAC2.0chx3 10bit).part2.rar
+Bytes: 429136632

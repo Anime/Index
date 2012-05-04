@@ -1,0 +1,108 @@
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.03.27 - 19:50:13GMT -----
+
+File:  BRAVE10 BD Vol.1 スペシャルドラマCD 学園BRAVE10(壱) (EAC cue+wav+log).rar
+Key:   CHK@8Pl5m4ajkUAfM0j5zlJp0d8aLxjfoY2Ex4CejtBBgJM,F0lmgOpOIWOBDcDChW36XzxqzR3cpvEJ1XaeFEWZdo0,AAIC--8/BRAVE10 BD Vol.1 スペシャルドラマCD 学園BRAVE10(壱) (EAC cue+wav+log).rar
+Bytes: 273980901
+Hash_SHA1:   5af6caf98d5dc282566669c153712f9c5462d8ab
+
+File:  BRAVE10 BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@2vs2IejSRMSONv~6oob8KqL2foY7iI86KEEatCW5K2U,XN5v4bHnpJzFwO5b997F9DWTgSmqoFiChgjsf6uOT~Y,AAIC--8/BRAVE10 BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 106270257
+Hash_SHA1:   97552b7a4e4a4092eaeb65422b674d27a9ee5a8d
+
+File:  BRAVE10 BD Vol.1 映像特典 PV第1弾（イクぜっ勇士☆ビジュアルボイスムービー） (1920x1080i x264 AAC).mp4
+Key:   CHK@INLdkLZ~9cBeVtnFWPj2dURg384fI2mq6Muk~ODqgyU,~8VVdxVlRggT8haUJJiPBDi9GarBb4mOvONVc4PtZBE,AAIC--8/BRAVE10 BD Vol.1 映像特典 PV第1弾（イクぜっ勇士☆ビジュアルボイスムービー） (1920x1080i x264 AAC).mp4
+Bytes: 34129378
+Hash_SHA1:   d4b16f90df0a21ae793a0b09e00b0d1991addacb
+
+File:  BRAVE10 BD Vol.1 映像特典 PV第2弾 (1920x1080 x264 AAC).mp4
+Key:   CHK@W~oQg4DGFcXhM~LvwZIzoi4v7xfv4YMPMyW5IEP20ys,aGSC6JqQjJqlZ-TswAZx8WJCXuftoBEACcfQ4yaFHIM,AAIC--8/BRAVE10 BD Vol.1 映像特典 PV第2弾 (1920x1080 x264 AAC).mp4
+Bytes: 55380834
+Hash_SHA1:   7f05028b85d7800059800df0516248917ee3d2c0
+
+File:  BRAVE10 BD Vol.1 映像特典 PV第3弾 (1920x1080 x264 AAC).mp4
+Key:   CHK@6aShc-87wcBoZPDP8ZcNuAiUkFso09xfpwyii8hicrA,782n71qxD4if~1Ej2DbDQFJtAC2wsFOXeV3eIW2Aco4,AAIC--8/BRAVE10 BD Vol.1 映像特典 PV第3弾 (1920x1080 x264 AAC).mp4
+Bytes: 50437305
+Hash_SHA1:   736d5caeb67eeea6537c33d38a5266bfce1e18e2
+
+File:  BRAVE10 BD Vol.1 映像特典 番組宣伝CM（放送開始前15秒） (1920x1080i x264 AAC).mp4
+Key:   CHK@ekeYDv3gd9Q8MUFa38eacsWQsEWna1alclECqd6FCH0,UNje17XnGyHoWi~2TR-62VXvxV~9Hgv3NkhIPHsWZjQ,AAIC--8/BRAVE10 BD Vol.1 映像特典 番組宣伝CM（放送開始前15秒） (1920x1080i x264 AAC).mp4
+Bytes: 15588983
+Hash_SHA1:   3617a5f15d091766f1455bd4d73b801459ee241b
+
+File:  BRAVE10 BD Vol.1 映像特典 番組宣伝CM（放送開始前30秒） (1920x1080i x264 AAC).mp4
+Key:   CHK@5Cp9vbrrQQDfjUADP9oAQduGmz4-8xUk4R-6XfjFQlg,yyRMOS6h3P1R6zksDoqRthqrsoazrpojy2kWHurFb7c,AAIC--8/BRAVE10 BD Vol.1 映像特典 番組宣伝CM（放送開始前30秒） (1920x1080i x264 AAC).mp4
+Bytes: 27425405
+Hash_SHA1:   48f63389edadd95563ede5dece751cc7426a78ce
+
+File:  BRAVE10 BD Vol.1 映像特典 Blu-ray&DVD発売告知CM（発売前） (1920x1080i x264 AAC).mp4
+Key:   CHK@Gheuixp2yJ1zo9SIcdUKGcRGZIw4vCvlVkSltwQHzr0,Zp3CHWP0sg86zqvKATNpxWKZT~et5KqR4PKhq87G9TM,AAIC--8/BRAVE10 BD Vol.1 映像特典 Blu-ray&DVD発売告知CM（発売前） (1920x1080i x264 AAC).mp4
+Bytes: 14967431
+Hash_SHA1:   881d1a3dd67d153a709be2c0be173d4778014029
+
+File:  BRAVE10 第01話 「運命のふたり」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@t9ptnLScADzgp0UpYleY9RNy8ceGE-Trjmj08cheVhI,yS~6ySsDK246KvwTMLKNi20KXwkOuZ-3H6hxPHuOUkQ,AAIC--8/BRAVE10 第01話 「運命のふたり」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 618026260
+Hash_SHA1:   f656708967fab9bd9ef463b7c57b831a141514ca
+
+File:  BRAVE10 第02話 「闇と光」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@CeI6HLUNGbENo2IE-~oMbpuqLs6TBo4dCS1dqA5mKG0,sX~PQyHmZ6KFx98hvlmsW6Z8iba42ZcwP6oOGxytUnM,AAIC--8/BRAVE10 第02話 「闇と光」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 617812944
+Hash_SHA1:   037076db75c26690ef18164256028e11ec7d415e
+
+
+クロスコンバートの問題なのか、所々ぼけ縞が目立ちます
+クロスコンバート補正プラグインを試すと見た目かなりましになるのですが（シーンにもよりますが）
+副作用もある、解決と言えるかは微妙、シーン毎にやってたら手間かかり過ぎ、エンコは楽に、簡単にやりたい、
+ということで結局BD素のままエンコしてます
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.03.29 - 05:19:04GMT -----
+
+File:  BRAVE10 第01話 「運命のふたり」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付 クロスコンバート補正版).mp4
+Key:   CHK@vYf2SNVLC6A0zJHTcxtsq7vk3KvAvqwXw1rVs6IiLtc,qTA8nolsTxsEC09NvgstAxuaG1ysANshGEzOY1tk~44,AAIC--8/BRAVE10 第01話 「運命のふたり」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付 クロスコンバート補正版).mp4
+Bytes: 653270750
+Hash_SHA1:   508a5c9df429496e60d6a0339d8fd0b9466b06c3
+
+File:  BRAVE10 第02話 「闇と光」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
+Key:   CHK@v6jW1pM~2iS4oU-p59EWZHze-7QDFlYJEWGA7mH~eF0,L2rUKeCRZ9sDVfKH-IJ7tyu4JDB1Sjw6UxujOGddl6o,AAIC--8/BRAVE10 第02話 「闇と光」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
+Bytes: 654096777
+Hash_SHA1:   f6f6aab48458af0075d8b4e716255daf8fbc67a0
+
+
+あまりにソースが酷いと思ったのでクロスコンバート補正プラグイン適用版も作りました
+興味ある方がいればどうぞ
+今後はソースの状態も見ながらですが素のままとクロスコンバート補正版、両方やるかもしれません
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.04.26 - 23:30:51GMT -----
+
+File:  BRAVE10 BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@DvKLmEG8~OcIi84PsSaWLna9hdqKrgjCDKOgdmNpSNQ,ydtrU6zucuDMdgVlsRoKjIddZmg6DlHy7H0EIH9DZNo,AAIC--8/BRAVE10 BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 106607942
+Hash_SHA1:   60036e44b2dd69f17a649ff44c1c9fd6ad0023ad
+
+File:  BRAVE10 BD Vol.2 映像特典 イベント「柿原徹也・森川智之のBRAVE10 on the radio公開録音＆第1話上映会」トークパートダイジェスト映像 (1920x1080i x264 AAC).mp4
+Key:   CHK@gBHNZIbA5mywidjNCxk1I~bKLNfXfyZLwQmpe4Ng9gY,qyR6Z3s9w1iOTQhHN4uNRqC~08u1wfywbbRjYFaWiYg,AAIC--8/BRAVE10 BD Vol.2 映像特典 イベント「柿原徹也・森川智之のBRAVE10 on the radio公開録音＆第1話上映会」トークパートダイジェスト映像 (1920x1080i x264 AAC).mp4
+Bytes: 919588379
+Hash_SHA1:   45180fff9e5ba935b3a8507d0f55e546a51e08a1
+
+File:  BRAVE10 第03話 「旋風の谷」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@Rn-Mvky2su3YnYPOVvP26Atkc5lMsooKrMiQLlSfA3Q,JUOf24p6qkIseLjV4~NxqhT~CXdT7ESsLBeNtQgovxI,AAIC--8/BRAVE10 第03話 「旋風の谷」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 667472195
+Hash_SHA1:   a478447932b38c453e4079482556c42b5ab16410
+
+File:  BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@AoaMOihgoD0P2377RQvN7Ua9LKeKKO8upK75AYGp3iE,aFNVST84e-7~lRyH7Ef4DEwdtiGc7N3vTqLMARp-4N8,AAIC--8/BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 528716359
+Hash_SHA1:   0e40d46291692ac37b39e2ed9ba1f0d4b93a96d4
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.04.27 - 03:19:26GMT -----
+
+File:  BRAVE10 第03話 「旋風の谷」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付 クロスコンバート補正版).mp4
+Key:   CHK@7ZeQCcfLTegn6eVfeIIw0jtZKmtEOzM1vKS8UX8SHaA,gkzOByQ-5vgfa91HAYgPWN3viy6xP6~PdgM4hWoHo~I,AAIC--8/BRAVE10 第03話 「旋風の谷」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付 クロスコンバート補正版).mp4
+Bytes: 721724589
+Hash_SHA1:   6eb70c1e1e19a44726580f02dd19d208a36b6042
+
+File:  BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
+Key:   CHK@c7lYR7TlPvw6Bw2Nk2Uls0-7u8Zu4aq7gwDM8g345DU,elazTNjb2ykd6cR2WSeRvKOAWrILhBOy60g19BjAl~c,AAIC--8/BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
+Bytes: 580985298
+Hash_SHA1:   2eab49411dc9ba30a2a3c10bc6c5be086b8fd7bb

@@ -1,0 +1,115 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.21 - 04:10:05GMT -----
+
+おわりです
+
+Name                                                                                             SHA1                                      Bytes
+-----------------------------------------------------------------------------------------------  ----------------------------------------  -------------
+マルドゥック・スクランブル 圧縮 MENU (BD 1920x1080 x264 AAC).mp4                                 d1f4836049fd24efe1e071a2ecc250cdb656ea04      9,582,049
+マルドゥック・スクランブル 圧縮 映像特典 ｢CM｣ (BD 1920x1080 x264 AAC).mp4                        e5a85bf2adcc4abc13fa3f6165842a07dd51d009    170,890,598
+マルドゥック・スクランブル 圧縮 映像特典 ｢劇場予告｣ (BD 1920x1080 x264 AAC).mp4                  77e06d787a2981837ec8119f0e1dc1f9f479a675    198,844,568
+マルドゥック・スクランブル 圧縮 映像特典 ｢特報①｣ (BD 1920x1080 x264 AAC).mp4                    a9a50acc2449655d628c036afe5670670800d8f7    264,805,497
+マルドゥック・スクランブル 圧縮 映像特典 ｢特報②｣ (BD 1920x1080 x264 AAC).mp4                    32bd0eadd99549e31902e4bfe46bb14d1a5c96d2    232,203,973
+マルドゥック・スクランブル 圧縮 映像特典 ｢冲方丁ロングインタビュー｣ (BD 1920x1080 x264 AAC).mp4  2668ed906879061e3495d14375bf3a824c629405  1,144,937,684
+マルドゥック・スクランブル 圧縮 完全版 (BD 1920x1080 x264 AAC[2.0+5.1] JpnSub+EngSub).mp4        2030b1c0d893086981bb6406d1eb35dd40db9152  4,573,590,680
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Total  7 Files  6,594,855,049 Bytes
+
+File : マルドゥック・スクランブル 圧縮.part01.rar
+Key  : CHK@HqqdR7CZLs~9LuT28i~QVujUOFsb6wRxefcc4aqrmPM,o2iy4un0IcWZMQ6eWTW3RQ~Ml0hG0o79CPLvU4AEtpA,AAIC--8/マルドゥック・スクランブル 圧縮.part01.rar
+Bytes: 330000000
+SHA-1: 533c0f41fcf368406c1b483a87ffee044a79660a
+
+File : マルドゥック・スクランブル 圧縮.part02.rar
+Key  : CHK@PYaIOwfjdDJRvmIJ8YC5F~XIEgj2NDNgJ3wPzgniaJQ,36xL3AMydSPBltsQ9ECDz01hryAJcf5Wf7q5FY81rk8,AAIC--8/マルドゥック・スクランブル 圧縮.part02.rar
+Bytes: 330000000
+SHA-1: 1c4b3e58381175dc4e3dc44aff1a25889c12ce57
+
+File : マルドゥック・スクランブル 圧縮.part03.rar
+Key  : CHK@RXAfwhv4y~0TYFV1jaXTir1jwTkx9eiDx325OZTVD54,nKV4~0kfpJie6ONuwdLm7DaqaPd9xBA7cOo6EsTmguc,AAIC--8/マルドゥック・スクランブル 圧縮.part03.rar
+Bytes: 330000000
+SHA-1: b0d470f77005e49b52727e5456e03b0a3517e7a4
+
+File : マルドゥック・スクランブル 圧縮.part04.rar
+Key  : CHK@kBqj6P37bdgJZbZXEDStI8w~myVaJKQDW7YWqC-4as8,5Lxy7NCZ3mpoHslj8TXAyYuCwJAMcxg-0lCY93KaNhY,AAIC--8/マルドゥック・スクランブル 圧縮.part04.rar
+Bytes: 330000000
+SHA-1: edc93cd162dfbe1f01724778363171b8fd8f59ae
+
+File : マルドゥック・スクランブル 圧縮.part05.rar
+Key  : CHK@VsKY7raxbXCBFiYMPW0ZB~TPbbGe~QZgSI4uH~9rX-U,l2RSNoe0XkWhAnp1XTonEc-Ajc8M1bE44gbDOh5tZwY,AAIC--8/マルドゥック・スクランブル 圧縮.part05.rar
+Bytes: 330000000
+SHA-1: da7abcabef7f95c27f6ed018d466b604970a1939
+
+File : マルドゥック・スクランブル 圧縮.part06.rar
+Key  : CHK@kdLDQQRjVDnSFoRFcJJS-0PKLBSMiaaIelHYGvSJYDI,BiaaD515udR6G8PaXDMkO4ZjGpY7YUJqZg2QFT6sLRI,AAIC--8/マルドゥック・スクランブル 圧縮.part06.rar
+Bytes: 330000000
+SHA-1: 00e558d47ccbd4d2eb159b292baeeff9d089f71b
+
+File : マルドゥック・スクランブル 圧縮.part07.rar
+Key  : CHK@C6XH5Dbsv1OhTCf5zZabZCeSu2tGJNxDDo~~YKiCleU,jtB-Ctkypu2pPJwL8Kn14EExJ3iJJSGxS~jZbBwnvYk,AAIC--8/マルドゥック・スクランブル 圧縮.part07.rar
+Bytes: 330000000
+SHA-1: 649e7994ea00afbd0ed809003b5e276126d98bf5
+
+File : マルドゥック・スクランブル 圧縮.part08.rar
+Key  : CHK@Nvs6tIkShv6Vy699DYy4yg5kyOXrf6KpMb4NEZIaFiQ,htGqKBUXcvNdBJp8Xv8PPjhg4HR9o7X7F~x~9hiW0MM,AAIC--8/マルドゥック・スクランブル 圧縮.part08.rar
+Bytes: 330000000
+SHA-1: 8d191d7391323fdb1d10b7ef386025f714ef54b4
+
+File : マルドゥック・スクランブル 圧縮.part09.rar
+Key  : CHK@JxFYMLSVOYnWP4vgUrow3f4wxoNhMynanWxp~BQGSIA,8G0iGe79a5p2CUPOxQS6pB3xyx5VSaw9zqISEctjUSI,AAIC--8/マルドゥック・スクランブル 圧縮.part09.rar
+Bytes: 330000000
+SHA-1: b1b231da48fbc676b4ca985413132ec2e8e1bcf5
+
+File : マルドゥック・スクランブル 圧縮.part10.rar
+Key  : CHK@3lwRLmaKGZzfEkhF68XOz5pP-SLuR~enQ18YfB2o1IE,HOL-Qdl4ZDe0b81pHdd2Gp3WyV~mAeh0GmHacEaZ86M,AAIC--8/マルドゥック・スクランブル 圧縮.part10.rar
+Bytes: 330000000
+SHA-1: aca694842712c82bc540adbe7d2e85c93673d87d
+
+File : マルドゥック・スクランブル 圧縮.part11.rar
+Key  : CHK@toDYOra94LWQlohBaWylwxp4dpnkNi5LbE4CyV8x-h8,fdhrosWKVFsfzq~aouPXmsbUCXIaw3fZSye8SabPD5o,AAIC--8/マルドゥック・スクランブル 圧縮.part11.rar
+Bytes: 330000000
+SHA-1: 5962bfeb4ed211207f0d8e636f589c081d92bdcd
+
+File : マルドゥック・スクランブル 圧縮.part12.rar
+Key  : CHK@XKydHpYb7HQ1zU8D2q4RIZ6sAEfSTp4tFX7hks2YvWE,GI4QbSOUZGByV8bovc7T7cRwYoCnzXUDVgATjUaBnxs,AAIC--8/マルドゥック・スクランブル 圧縮.part12.rar
+Bytes: 330000000
+SHA-1: 56edcfc78c17aa2968ffcf4d6bd497845535d730
+
+File : マルドゥック・スクランブル 圧縮.part13.rar
+Key  : CHK@3LqPac5ZnvwLBs6x01AiJKHLUH6v99~dIW2dMEPYJ7A,f0oCFY~yA~NVmYRX21RqXjx2HXMy7DspyjfyGJYfNpE,AAIC--8/マルドゥック・スクランブル 圧縮.part13.rar
+Bytes: 330000000
+SHA-1: f0be595e9e90fb4dc692cb6d1dd15c57e8196540
+
+File : マルドゥック・スクランブル 圧縮.part14.rar
+Key  : CHK@5ILCRCsd8TUXKxMqJ6GNY1g1k-6DVHJmm6xAMzLLnh0,UGUiMk6bVIqmRWXCCM~iBUkXj7MR1H3nKbHaz1EAogY,AAIC--8/マルドゥック・スクランブル 圧縮.part14.rar
+Bytes: 330000000
+SHA-1: 8013e6bfa8e70c610c80c53c35c001309f8bd3b1
+
+File : マルドゥック・スクランブル 圧縮.part15.rar
+Key  : CHK@rco69sx7e2Vgg0vro4i6r-oORvx24jUe4fK8rT6~Xls,3VipPTOdtX92JqkLCXbelL0jM6tUEmNkTINisZoDfyQ,AAIC--8/マルドゥック・スクランブル 圧縮.part15.rar
+Bytes: 330000000
+SHA-1: 83ffb7cf727c634ec0cb1252e1c0250e575d2f0e
+
+File : マルドゥック・スクランブル 圧縮.part16.rar
+Key  : CHK@RhICou5173auGJBKXQTSFhieNyA92yYdynMJjJMm4VQ,wBUNGrwPbGE2dMwAIChtDp9GXzpH5q8Ck8LEEvyhlZQ,AAIC--8/マルドゥック・スクランブル 圧縮.part16.rar
+Bytes: 330000000
+SHA-1: ecdf449e24488a1533de744376123c7c6e0cd28d
+
+File : マルドゥック・スクランブル 圧縮.part17.rar
+Key  : CHK@t1LacKDSaLPT3W8nRuW5zUtRTL0H3QBjYAZ3UWXEEOQ,~eTBigB6xC23xIIcy~Oj90pmiu24v4omxwFBFm2Utzw,AAIC--8/マルドゥック・スクランブル 圧縮.part17.rar
+Bytes: 330000000
+SHA-1: 436590ab766e1028c0c22e8ab8012229104624f6
+
+File : マルドゥック・スクランブル 圧縮.part18.rar
+Key  : CHK@DFn49pIMU6aHDHIQrnQTTaLbItFve0MnE9FccIquw-E,ANbwKB14SJiflFH9tBGZHnBzMW3AajAcz5i8e6MflVA,AAIC--8/マルドゥック・スクランブル 圧縮.part18.rar
+Bytes: 330000000
+SHA-1: 12367f833c8bc770d4351bf08271c06575dff3f3
+
+File : マルドゥック・スクランブル 圧縮.part19.rar
+Key  : CHK@nXM9jA8sOKVAZQHkHYwRuXmChyeHc18b-Es0Ot2Es7s,K9RkP8NBeGLH0XOoth9hey4mAGNscJL07QbdtD~h~b0,AAIC--8/マルドゥック・スクランブル 圧縮.part19.rar
+Bytes: 330000000
+SHA-1: d4baf08bdb223530aaea75270561d320c9bca582
+
+File : マルドゥック・スクランブル 圧縮.part20.rar
+Key  : CHK@C66AEOHoyh~mmhbFhMGvl2FlLWBm~ViLGeremDaGZyo,LghbMpu8HeUvD-0L0fPkcxZqR6DV5RqrQs89v0dpyN4,AAIC--8/マルドゥック・スクランブル 圧縮.part20.rar
+Bytes: 329247805
+SHA-1: 902ccfb24c1b7060ea6d3ea5370326ed654800fa

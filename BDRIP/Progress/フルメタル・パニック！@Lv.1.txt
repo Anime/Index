@@ -1,0 +1,26 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.01.31 - 23:35:45GMT -----
+
+超スローペースで進行する予定です。
+
+File : フルメタル・パニック！ 第01話 ｢気になるあいつは軍曹｣ （BD 1440x1080 x264 AAC[2.0jpn+5.1eng] JpnSub）.mp4
+Key  : CHK@QRCebMaZNgzOSlRNTHVTGh~b4LUyCV1dKsMrFwWuEOY,h4~yTz42JU~02qA00fbmbueC51x2mlUF-gQy6Tx5Bss,AAIC--8/フルメタル・パニック！ 第01話 ｢気になるあいつは軍曹｣ （BD 1440x1080 x264 AAC[2.0jpn+5.1eng] JpnSub）.mp4
+Bytes: 701677399
+SHA-1: bf52a366e9275828d584dd810e2256b53d02c268
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.02.23 - 00:20:09GMT -----
+
+１話も含めて視聴確認はしてますが見落としがあるかもしれないので不具合等（間引きミスによるガタつきとか）を見つけたら報告をお願いします。
+
+File : フルメタル・パニック！ 第02話 ｢守ってあげたい｣ （BD 1440x1080 x264 AAC[2.0jpn+5.1eng] JpnSub）.mp4
+Key  : CHK@VrzwakzxUqbRvyJtzveq6XCjHAeBg2k18qe1Zxf2Dhg,uTZegTsVDZeY5NENvBUORByaxm-Ei20VzmISKWTa04U,AAIC--8/フルメタル・パニック！ 第02話 ｢守ってあげたい｣ （BD 1440x1080 x264 AAC[2.0jpn+5.1eng] JpnSub）.mp4
+Bytes: 678136817
+SHA-1: 7704e9535ec3a87666fcd93aa7b20fd996ddfb9b
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.02.26 - 04:05:47GMT -----
+
+4:24のカニ缶のシーンで重複フレームを削除。
+
+File : フルメタル・パニック！ 第02話 ｢守ってあげたい｣ （BD 1440x1080 x264 AAC[2.0jpn+5.1eng] JpnSub rev）.mp4
+Key  : CHK@4POsaL6M5ZxhFCMl7jfHtLMn5~lgb1kU3Sa5Jou3kwQ,YHJuJmxb1g1hEB~mf5VUwFK~ydfWa0dKJdL9yQhTq8k,AAIC--8/フルメタル・パニック！ 第02話 ｢守ってあげたい｣ （BD 1440x1080 x264 AAC[2.0jpn+5.1eng] JpnSub rev）.mp4
+Bytes: 676826945
+SHA-1: 32147f6f9760fcce256d4a36df8e1d9383ba0645

@@ -1,0 +1,69 @@
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2011.11.30 - 13:35:34GMT -----
+
+ソース：BD1080i→720p 見れればいい人向け
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part1.rar
+Key:   CHK@t~iMG2hvD7~4CCcB6Sj45vwJl52wPrBc~Ar-7DCuXHE,oqqfFHMNtlVFCgQ9qDJMrSzx~i0JakV00EubJ7g2Lr8,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part1.rar
+Bytes: 500000000
+Hash_SHA1:   6ab18b62caa9f8869aab5704708206c0e5434c97
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2011.12.01 - 16:05:53GMT -----
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part2.rar
+Key:   CHK@XwrgWuU~6dTcqpZfXCfAvifpbd5epI1D7n6UVA1f0Ao,gixloqrj4KjCNbaVRKNo3ZkSw~h2F8LPpNVOdZx6bI4,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part2.rar
+Bytes: 500000000
+Hash_SHA1:   1ec94014a18417c843477039958c1032d85feb23
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part3.rar
+Key:   CHK@O42BqQaa5wGtWTjjXetrkF9Gogtt1qh0XFsNaYJ1Kos,tPJb0EfAfNJUS-12zXL6azFLOnfdhj-eiHpD1DO0n68,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part3.rar
+Bytes: 500000000
+Hash_SHA1:   13afac6d657273761735e7df4b826db14161c8a9
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2011.12.03 - 05:32:19GMT -----
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part4.rar
+Key:   CHK@2Wwqwfxe4kRnn3M7LiPcg5NgAcTwgeIeIIy0TeN9lbs,jyMBhBk5ND3fiGxi2TDRbsoOqub-bqLrNZlRhOYx0DE,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part4.rar
+Bytes: 500000000
+Hash_SHA1:   3313b105236b2f906105b4245131f2f1c181fc4c
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part5.rar
+Key:   CHK@~7oL~-7jS6S42AvVwdGxCwwwCozx6b8zAFTS7RxKWww,LPB5JQfpeWfMLA1DFoOceuto6bQzHeF64XMqS3Pdez8,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part5.rar
+Bytes: 500000000
+Hash_SHA1:   3e0360b38ce36f46c9d5f93fd58500563fd19778
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part6.rar
+Key:   CHK@wRDR3LMXJhJrsTBG2pBFJiWK~H1Kai7vKfVdN964KhY,hIlLoipcYYuVN7Zb~9~gJQX7yIpgD2PSTDwUiaQNkI0,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part6.rar
+Bytes: 500000000
+Hash_SHA1:   b1ee724697216f15f80d433ddb3357e2e46cd6f2
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN TOKYO.part7.rar
+Key:   CHK@taVRxiTu7qOnjZr-5Q1wzQQ~7lKCK1bwszZmbv4DhFk,Dy-Nn1Ge2HF1nhZbApAQJWOSao-pegroFIik69XiLPc,AAIC--8/初音ミクライブパーティー2011%2039’s%20LIVE%20IN%20TOKYO.part7.rar
+Bytes: 281802780
+Hash_SHA1:   977d8c099e79ab47e92edc54765c8eff5c81556a
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2011.12.11 - 04:15:59GMT -----
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part1.rar
+Key:   CHK@swSuN6oxO-6bTV2y2oJqFFJLAxp1MP8~ME3LqETDgTA,h14Q~goJaKHja-NGcaMuoeTazquVYjxjI1WCvEulpic,AAIC--8/初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part1.rar
+Bytes: 500000000
+Hash_SHA1:   b6e19b3a3dd24edc897938e24fdd7608908d1c85
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part2.rar
+Key:   CHK@jujvLQCK5~7s8Zzw0--xBefvyqHrhTz9qJgDWP4A6QA,tYgr0STwCxgrZWhNUNKCccJI3eoY2PkTWIwCaWeIrIQ,AAIC--8/初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part2.rar
+Bytes: 500000000
+Hash_SHA1:   6c15b9d4bd4b8b2e190a627f1eccf13611e6f2c7
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part3.rar
+Key:   CHK@I3BefeEpZvRM5-qnJy8~EfDPR7jsSvoq76lpCnJQb4Q,RttENSjOSMo6AE1Sb-HAv-SDFYtCdmsFl5PubfmP84w,AAIC--8/初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part3.rar
+Bytes: 500000000
+Hash_SHA1:   53d83efa71c7fb6cef83ad8417618c0e4b722dea
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part4.rar
+Key:   CHK@ME-a~wvkNmjuOdlSu1I7-xh3cQAIKnMD0C9iSVTViY0,lmM0BFws6aEqRB7tayyMSK0qwNiR9q97ddDclynlAQM,AAIC--8/初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part4.rar
+Bytes: 500000000
+Hash_SHA1:   8f3d0f13f1550a77ad8cb218ff1c81f2d047c874
+
+File:  初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part5.rar
+Key:   CHK@HHA2rOAKxIy~zWwX4t9QZWaxvnBGVwIcE3nZBHjY2fQ,5JIbcpEN9BxUDsmLKyimkBn5xiFcVoBnuO7qw0aTlIQ,AAIC--8/初音ミクライブパーティー2011 39’s LIVE IN SAPPORO.part5.rar
+Bytes: 363833205
+Hash_SHA1:   f71b7b670b7a2517b77c48ae712e3e5d9486cc01

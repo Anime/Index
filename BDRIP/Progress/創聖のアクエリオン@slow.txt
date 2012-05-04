@@ -1,0 +1,123 @@
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.01.31 - 03:15:16GMT -----
+
+ソース：1080p
+
+File:  [アニメ BD] 創聖のアクエリオン 第01話 「天翅の記憶」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@YgoYwjetx5nUGlTrGsQyGkiHenuv3pKxX3C3QRtQPoA,rrQOw1bTZjYVqqH2Z5~dfc~wj-N5XNKNPj0~RO5jC74,AAIC--8/[アニメ BD] 創聖のアクエリオン 第01話 「天翅の記憶」 [1920x1080 H.264 AAC].mp4
+Bytes: 947624732
+Hash_SHA1:   b2713b0d8815a5e064122e37529e67e643a59da1
+
+File:  [アニメ BD] 創聖のアクエリオン 第02話 「闇の獣」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@k7XZhu815lXZLX3601tLZ5kigCGj1eVBfzo-JLO7EtY,8~Epjeum6OjZ3HFch-hufEnMAnJynLn5Te-oUHNoZmE,AAIC--8/[アニメ BD] 創聖のアクエリオン 第02話 「闇の獣」 [1920x1080 H.264 AAC].mp4
+Bytes: 852830885
+Hash_SHA1:   7c65652af0c1453e55aaea25f6fe7f2f064e8e9f
+
+File:  [アニメ BD] 創聖のアクエリオン 第03話 「エレメントスクール」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@UwIXxb3oUqP2VELcuco0bcvtuTUY-frhzh4GdRP1pls,RG16t1FIDqz0d7NdujzHFIcqiY0ROLC3uz3Nt1d33co,AAIC--8/[アニメ BD] 創聖のアクエリオン 第03話 「エレメントスクール」 [1920x1080 H.264 AAC].mp4
+Bytes: 825689081
+Hash_SHA1:   82d17ceafe1470d70f319cfe0e9d8225971a80fd
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.02.08 - 13:50:48GMT -----
+
+File:  [アニメ BD] 創聖のアクエリオン 第04話 「はだしの戦士」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@gqXiN7vGvmNcPDhtwn~QiblXAM38WRMhfLHnQgb7zhs,h7mKZncNNxJtpV3bq~3cj47bdn8kOxiPtDdhFH6hZIo,AAIC--8/[アニメ BD] 創聖のアクエリオン 第04話 「はだしの戦士」 [1920x1080 H.264 AAC].mp4
+Bytes: 828731350
+Hash_SHA1:   12d2ece129bdbf456ac4bacbc908e776c852f814
+
+File:  [アニメ BD] 創聖のアクエリオン 第05話 「地下迷宮の王」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@ldAkZV7SyriwKmasuR-1R1jAnv19q2MYYQsnSR0l6Yc,DQlCcWSH5bsfu-WCeLBNSk6t8QEZH3gLqZV9dTfdpzM,AAIC--8/[アニメ BD] 創聖のアクエリオン 第05話 「地下迷宮の王」 [1920x1080 H.264 AAC].mp4
+Bytes: 861214058
+Hash_SHA1:   87da54df80cfb61d9b61f9f5e8911b32dd9cd65d
+
+File:  [アニメ BD] 創聖のアクエリオン 第06話 「想い彼方へ」 [1920x1080 H.264 AAC]r.mp4
+Key:   CHK@zAtPW7092ahxhP00AHTeTmGMw5V-iRu9yjOQAoa1KFE,ibeWek7ScB1nNHPX5vLFzB~YZsWcWOzUPhLgm7TyyW8,AAIC--8/[アニメ BD] 創聖のアクエリオン 第06話 「想い彼方へ」 [1920x1080 H.264 AAC]r.mp4
+Bytes: 849126517
+Hash_SHA1:   b55c2179ef40d2bd3fed64e61590f68d9fe17736
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.02.12 - 09:44:32GMT -----
+
+File:  [アニメ BD] 創聖のアクエリオン 第07話 「深紅の薔薇の騎士」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@LaItfpafmd8NtMWneoqkmwgqzW45W7JXpd2nKe0LJnw,xtOJiojVr1Dv58J8jQ-wOa0DNYrHRy8w~V7JfotAubQ,AAIC--8/[アニメ BD] 創聖のアクエリオン 第07話 「深紅の薔薇の騎士」 [1920x1080 H.264 AAC].mp4
+Bytes: 852343812
+Hash_SHA1:   01ab5e3ebc4c1992bdeb34aa1a071c6d57fb6e17
+
+File:  [アニメ BD] 創聖のアクエリオン 第08話 「はじめてのがったい」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@JpsAgD7La~kkfufOMW3GsCYPX5uellMzCTDf1Zbj890,tkitAo2KkVHAIJj0OKrUfVOmROslZyxXcs0Dwa4xKTo,AAIC--8/[アニメ BD] 創聖のアクエリオン 第08話 「はじめてのがったい」 [1920x1080 H.264 AAC].mp4
+Bytes: 818327816
+Hash_SHA1:   78bb8b46f4bbd52baa12e5e3be1cd06fc4a997fe
+
+File:  [アニメ BD] 創聖のアクエリオン 第09話 「夢のかよひじ」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@8-D4t~XL1b-2ojYVm0cOofGhVZglZrzQ1gaGrZzkPAU,46R23Z17zsjAjsZ3eeAja9w9qsqaZXAFM8Za1cI2ZvM,AAIC--8/[アニメ BD] 創聖のアクエリオン 第09話 「夢のかよひじ」 [1920x1080 H.264 AAC].mp4
+Bytes: 790447183
+Hash_SHA1:   75f0a1040c48edb53a874ba7862900fb25339f11
+
+File:  [アニメ BD] 創聖のアクエリオン 第10話 「空に星、地に花」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@FGNUwDtYjkQuZ7vsFj3YVEW--f6JJR0lC1meZujQ~kY,3J05~JoAsVtNr-at12DsHHzlZ4wQthxCW5TCa75nwC8,AAIC--8/[アニメ BD] 創聖のアクエリオン 第10話 「空に星、地に花」 [1920x1080 H.264 AAC].mp4
+Bytes: 833595388
+Hash_SHA1:   5dc48fa60083f2c038dc814e00f3133958189f1f
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.02.15 - 12:55:05GMT -----
+
+File:  [アニメ BD] 創聖のアクエリオン 第11話 「水底のしあわせ」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@dNk15eAI8rSC55XpChym5ipUF~Hdz~cY0MnaubFlPNo,gOPJeTu7Kuv~5TuZVQ5WyuPUY1-ybCEcDRO6OejZz2c,AAIC--8/[アニメ BD] 創聖のアクエリオン 第11話 「水底のしあわせ」 [1920x1080 H.264 AAC].mp4
+Bytes: 786773671
+Hash_SHA1:   fea06a5ab2813f31d3b2f328355a1d593547833f
+
+File:  [アニメ BD] 創聖のアクエリオン 第12話 「琥珀の時」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@bT~-Aqs95CROW1OR7uiYUhXuWuxvO4s3U3bUsLnhjKI,~OIzmDR4DIad153jUt8a2BqFTUuXZsYYsDGIEcnXPr8,AAIC--8/[アニメ BD] 創聖のアクエリオン 第12話 「琥珀の時」 [1920x1080 H.264 AAC].mp4
+Bytes: 688364985
+Hash_SHA1:   81261bf296516ee1f785eb41f0d021ef7ea46cfc
+
+File:  [アニメ BD] 創聖のアクエリオン 第13話 「一万二千年前のラブレター」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@5dETg7mZe~wWHgbaP7NSxkAhAMGg19ObQkBcr8Lfd7I,-nnsxqNiE-pX46S5SMzQoksmtdzpSwu4EAEgfoy90z8,AAIC--8/[アニメ BD] 創聖のアクエリオン 第13話 「一万二千年前のラブレター」 [1920x1080 H.264 AAC].mp4
+Bytes: 890231402
+Hash_SHA1:   071e3752d2d488b08387cb4f2bd492dab32a7653
+
+File:  [アニメ BD] 創聖のアクエリオン 第14話 「光る影」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@vSlom8Bf2X9wZwjOzn~HjraAFDI1OU7TkozhF4FmmBQ,dhegAZRM~gp8SyB7YZlIgtfakW3o1t5KqqguyJeMgws,AAIC--8/[アニメ BD] 創聖のアクエリオン 第14話 「光る影」 [1920x1080 H.264 AAC].mp4
+Bytes: 850081727
+Hash_SHA1:   78d65ee76855b88c2551d0f854ed916640250873
+
+File:  [アニメ BD] 創聖のアクエリオン 第15話 「初恋のアクエリオン」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@cO~NKnzvBJaKMm-c6VCSYtRPHJyC4lPho5wy6ZyZi2c,f2lO4JI7oDwCcapzSGMk1ZGLe1KkbPuVb0N6NoEm1fw,AAIC--8/[アニメ BD] 創聖のアクエリオン 第15話 「初恋のアクエリオン」 [1920x1080 H.264 AAC].mp4
+Bytes: 842634751
+Hash_SHA1:   dcf9a24a8ae063afeabeb9d825079a23f98ff497
+
+File:  [アニメ BD] 創聖のアクエリオン 第16話 「黒い鏡」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@5CaL3qCCMDr9PJDgquGfjW~~Sn6C0Z4MzWGtsBqk2Sc,0uMNh7M-Z7OG7MowurYidOzqf219QbjbXPlIWYnN7rI,AAIC--8/[アニメ BD] 創聖のアクエリオン 第16話 「黒い鏡」 [1920x1080 H.264 AAC].mp4
+Bytes: 803711224
+Hash_SHA1:   7bc863a0d3d669e017d4960c6cdf979c4ecf8921
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.02.23 - 03:36:20GMT -----
+
+File:  [アニメ BD] 創聖のアクエリオン 第17話 「食べたくて合体」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@AQ1~Ad9aQ4YjyRIp6DTEpjCTbOpPzE0dXR3ynJluxGQ,JiJZXWoHvPTpMP-eBq2M2NRc0hRDW0MPn0dilCUnclU,AAIC--8/[アニメ BD] 創聖のアクエリオン 第17話 「食べたくて合体」 [1920x1080 H.264 AAC].mp4
+Bytes: 843739659
+Hash_SHA1:   e0e497a157b7332ac14032ca9d52db1b86c19c74
+
+File:  [アニメ BD] 創聖のアクエリオン 第18話 「魂のコスプレイヤー」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@~UV5Agen1FRKA0hkEOtz6PVXW477hYitQjQKZ7x1bmI,up29NTXaPMF3L~TcJTqZXyF9Fejuv4NCfqEENSLr~FY,AAIC--8/[アニメ BD] 創聖のアクエリオン 第18話 「魂のコスプレイヤー」 [1920x1080 H.264 AAC].mp4
+Bytes: 753886270
+Hash_SHA1:   40a0d7c2b3bc03ab4ebb3c063a595741ccfca783
+
+File:  [アニメ BD] 創聖のアクエリオン 第19話 「けがれなき悪戯」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@GGYdZhGnwZwcXgwMtkPwtRG9i4MXrWlv6qHUTL87rqQ,lfT63fuTfUoxky63k3XgJnlroQeS2l4CwMNo--JymGU,AAIC--8/[アニメ BD] 創聖のアクエリオン 第19話 「けがれなき悪戯」 [1920x1080 H.264 AAC].mp4
+Bytes: 740415068
+Hash_SHA1:   2a40375094e40e0d6e1a5fe214bd34557d3a4898
+
+----- slow@baEEynwoq5vCpbFLcb9RYxvGvv4 ----- 2012.03.02 - 10:23:11GMT -----
+
+File:  [アニメ BD] 創聖のアクエリオン 第20話 「天翅の翅音」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@rM8Qls5Qt67rcNI2aPkQ6ntHwW-wJNpMMN699Wl9ZqE,4rSQx6qhfu4HG2pmbeN2aXe5~QkMpIrcoih3zs2lp10,AAIC--8/[アニメ BD] 創聖のアクエリオン 第20話 「天翅の翅音」 [1920x1080 H.264 AAC].mp4
+Bytes: 793534700
+Hash_SHA1:   478e8bb0410d3c6372ef98370f35305308936115
+
+File:  [アニメ BD] 創聖のアクエリオン 第21話 「紅い道」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@n34hJOjayeoWu~s3pwTILUBvZxG536FIqfcFSfTWWAY,WLbGDAY5wTs7vn4SIPBg5P1yDYt85EA~3YiKN61TBEg,AAIC--8/[アニメ BD] 創聖のアクエリオン 第21話 「紅い道」 [1920x1080 H.264 AAC].mp4
+Bytes: 796157955
+Hash_SHA1:   e780c3b2352cfd17c78b5e781d482372a72d6c41
+
+File:  [アニメ BD] 創聖のアクエリオン 第22話 「見えない翼」 [1920x1080 H.264 AAC].mp4
+Key:   CHK@jsPSK8vfJogoq5bKnZf4vSKNtk4aSYZIfevMY4jtHYs,spCTIzRS5xZ70QMFLAJm~NgLFTm0oFwvWrBJhHdk8xA,AAIC--8/[アニメ BD] 創聖のアクエリオン 第22話 「見えない翼」 [1920x1080 H.264 AAC].mp4
+Bytes: 760266064
+Hash_SHA1:   484f21047df6af8b6a537c9558403994ee5d3bbe

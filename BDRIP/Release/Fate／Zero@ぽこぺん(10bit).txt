@@ -1,0 +1,494 @@
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.03.22 - 14:53:47GMT -----
+
+Source:Blu-ray(1920x1080)
+
+10bitエンコード
+
+字幕は無保証。
+但しテキスト変換自体が不可能な「アインツベルン相談室」のみ、抜き出したままの字幕を入れたMKVファイルをmp4ファイルとは別に用意。
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.03.22 - 15:02:03GMT -----
+
+File:  Fate／Zero Box I Disc.1 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@EmqkqAXAmi9-xrAKdxW9utM8Q1t2TggpDnYPHxVg2xY,EV9Mfcqgjdl7wzJnrgDUYaizaqoZq9oy36orcXNihyk,AAIC--8/Fate／Zero Box I Disc.1 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 59863921
+
+File:  Fate／Zero Box I Disc.1 SPECIAL Textless ENDING (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@pg1tQT3lRZzJhNGnpyxQ~pZ~oGe8ArE0ySqVGX8~9Nc,wHJD4ZxekLyj6Fq9zeYr9FDTUSaj5duo8e7dgbzgc1o,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL Textless ENDING (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 187295875
+
+File:  Fate／Zero Box I Disc.1 SPECIAL Textless OPENING  (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@LKwCvEHDcgn5O1ojABPoKH2Th6abydrLAItJoyh8cC8,67Se7IfCy-aLcNGWc4qOGF6~FNdJ9TmH2Kigmn2EzDk,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL Textless OPENING  (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 247006178
+
+File:  Fate／Zero Box I Disc.1 SPECIAL PV1 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@zQZD3iAyZ7tfBoi-FAITKk-TCMz8cPI1SFAQhAdpQTc,6JczQsPl4uPMCQIWSNpyY3gg3xJnhgtUyDlKhq5G~WA,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL PV1 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 260660560
+
+File:  Fate／Zero Box I Disc.1 SPECIAL PV2 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@75bnnP0k13BLE2pKz7B~zmt7i1LLz-CL2OcgBrYv8QA,n~jWqyVeBALJ81Bs6gdt3oV83CgKNErfRLQtYQMZJMI,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL PV2 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 309014036
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Rider ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@DkhM2UdJgHT7-PYPydnPi~zEAepIXLie1zTpJGtrazg,mBw7P9QrPL7Re8J8~J9tBJqpqID8gvsQqatdT5H5hMY,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Rider ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 25791236
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Lancer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@bN84J-aTLx9w7HIQmgfnsIWMc5d1tfKWKZgW7nUomG0,plU4YJtOkYvvhA42en2vusbDFIxzYPnUPXuVTOoUaqo,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Lancer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 31072601
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Caster ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@4ayLIg0WmM4mrqrwKJYl3oWGhloYjE6LVXbgbYrW2oQ,aWSb8Ie2JkfssxkNd9xKG~9rYtp5Ag9zNtzS-5X6ETU,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Caster ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 17609701
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Berserker ver.  (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@KJ97W3WDtrjmTzjHmvJ8lfYsloaoBx2YWUqNz009gUo,XoMDn9ckaLTCyFjCXjeyQ~YgvHCuMf-DPPc0~6Fk7V8,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Berserker ver.  (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 32690848
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Assassin ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@FIopsRIQ9KKP2f~encAo1AYNQP6049NzWS-a6pyOV0I,yFFA0m~zSciIQaY1Kf1wjD8vOSjKXJ-RPSXDxfryDxI,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Assassin ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 17251299
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Archer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@Fk9Z~QFrUzOD8wJP395E3XxVS1z4BJxN8WHkg86b7Bg,NEWeAVOdLai42P-zJmvZnQTaqxgwroiCHhZG1DsbuUY,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Archer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 25876348
+
+File:  Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Saber ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@d-BN5JWwqZvhEsmv3feCk8Cp8GxNR0F~rhHDbkfJPuA,vZsvxTrtTWnj6hAZaIw1oX1AiTPULb1zaH~O8N~KTbM,AAIC--8/Fate／Zero Box I Disc.1 SPECIAL O.A. PR CM Saber ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 25426724
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part01.rar
+Key:   CHK@x7GPdxatoZSMN5aeOmEdBhj6MYW-dWrP5XbMgV2aEaU,7frr-pfS5L~pAAxmnAEVWQ83AXX3Hb4q4St~t-DXRrY,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part01.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part02.rar
+Key:   CHK@qqaz-NeWHPfku4YWdr76zlfuAWbURoZp2lH6uWPC3sw,4GCjQ2wepdQilFN5g6fhgk1vFlVQP4CMgNrkGJaCOvU,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part02.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part03.rar
+Key:   CHK@eNSTWzvqvt0f9VbY~VdtiHF-I7Bvd80puDEfnZ3Gxn0,RTA3~W9T~T6kWqArHczr47P8vrg2UdwmiMn7VqERXU0,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part03.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part04.rar
+Key:   CHK@cNhUw-hK73IHYR~Edb0a6oVHpOXVg0DxoTBrr6mv34o,1GlbFpB1MR8Mg3OJ4lvWDMGpBo2NnC-jRVZGiQtKZeE,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part04.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part05.rar
+Key:   CHK@u4pNctqifnSxieHLyKi6ep3wBJAPfSdU3zpRjl9xUvk,f15Nm9Tq0qquRQDlOKs89Yg0myjXlSv0vMNa845w19Q,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part05.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part06.rar
+Key:   CHK@KLzpteW3FdkO02s~csEpVVoVd9~mdSQnIO-ib1TEbBE,ulqdtdrOs3K7CzCzwjIGv70F0qL9du0t-~jzcfuPLUs,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part06.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part07.rar
+Key:   CHK@SIydfOhH1vJ~k00mF3tiXhhW9KVJOhYlvuvxynXgcmw,3P4F05fH35bHFwqT~ciEFVrFSjQww5oVLhCR1NQtiXk,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part07.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part08.rar
+Key:   CHK@ub-vo~HL1keEwvXALTG9pkLteHFQp5xDSnaNw09xhHM,-Vuq3J8t88tUic7Fn-o67jSKIYV3KA~HFS1hj7QaFVk,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part08.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part09.rar
+Key:   CHK@2d4rKUwtwD2w7SE2WG7J5wAszVbvqc5hKpwvIzC7~uk,fOiG9Lj-cfFDKdh1OOhr4DhZyioq-KKxqlzuP2SG0KQ,AAIC--8/Fate／Zero 第01話 「英霊召喚」(BD 1920x1080 x264 AAC2.0ch 10bit).part09.rar
+Bytes: 481807326
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.03.22 - 15:02:48GMT -----
+
+File:  Fate／Zero Box I Disc.2 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@AWWa7dFQE21KdFjEJa6MKLXCDJoy73u~IuK~LJZmcDw,O14h89AxSdDHFq9fdcul7Lgr10aPpx523pK2qHoX1GA,AAIC--8/Fate／Zero Box I Disc.2 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 73631786
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM 30sec.ver (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@CydsTeXzC0dW8f9CO1hgwtZTFwYxQFX-paOP5tHAr2g,6e0iOhOJEoJMNC93aMO8MFmgou5Ht~TopbwW1cWF8Do,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM 30sec.ver (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 42786345
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Archer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@xb~aKOd4i-P-k23c503yD740S8agY4Ng~rs7-JAjXgM,DeffAEoa7Lt0FLdfAvKm8PNhIxlYRFay9hSlOKFkrTU,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Archer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 17729299
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Assassin ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@6JJZT6vBb7Hka1eZuwfpq-VEL3Zdxj1mDu-iK1ocj5o,gaV99XdVMQP6qNuLrA5hAm7mVFNc0Ck58v~Q5oO03AM,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Assassin ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 19382573
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Berserker ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@svBWasFOjIMFBe0rQO8W09beNn8kyD8PV4ZKBtuErqA,NWoJpT2HpzoiXXee0xC-TwPxyaPpmeFg-AyowUuskPk,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Berserker ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 25229558
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Caster ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@fRAGv6Z3khtTsu6u3ImbSECLhDHg4T75WCBIr9F7TzI,0WEVrVjQovQGEjYU5lxGnf9HeqsKSb9KnUdvR~X0KDE,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Caster ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 17850533
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Lancer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@Nl9T4hMahxk3RkVJokCGc~vl85raJo2~l~MOLm9Bl7U,g9AwvDektE~uWoONc1b-nvyRChH5cyQXz2X-19ivZIs,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Lancer ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 26197168
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Rider ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@bep2EVzxC11RGqK8z3pqo~P96xD-zN~8DuA29ntjQeQ,4LSnYV46oPyZe4tHK3COQZ6fPy5W0jckDrDOHp8XunQ,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Rider ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 23378607
+
+File:  Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Saber ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@s~ap8VZ2XqA0QvA9zdXbvrFpEcz7nfM6PGBBFNUnjY8,98n3cO-1usBnmzA~EjzX01ERTwQQ~~t7uus5PxiAJPw,AAIC--8/Fate／Zero Box I Disc.2 SPECIAL BD BOX CM Saber ver. (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 24704211
+
+File:  Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@MfDQN~PSZj6emQ4BiBXmKvbRFvgHryk2T8f5eOLWw6c,V-YeVVFy3-kfnYXfSUBHudNRCf~YNwHvZJIlqq0FgDc,AAIC--8/Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 483393536
+
+File:  Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@e4DO5-rGmKVZVxmeo~x~ohBSUmoAfCx4G~fTm-cnyBI,IvGeIVxyYShhK9bSvpXll7w59G~vHsHzbHV2C~WwT6Q,AAIC--8/Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 483393536
+
+File:  Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@AM1GjC3QvSIkGacUJ961-6eefT1sn~uQMZ~KN60JZog,-gGmW~ZCMuMlv2CauV1RiyIjTQSE6siE7Cnq5ORzRpg,AAIC--8/Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 483393536
+
+File:  Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@JPaOuAImEzESsN5OPJSRYrbpCdkHpc2EUJI-KdvMXL4,yt2Ye4Qf1ltcwfNNyDoFQWE198Q5rvCD6e5~A~~HaYk,AAIC--8/Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 483393536
+
+File:  Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@6fQYXVmo98bsTzWzWVoyRiv0gx1u4MghFAFXu0gL-p8,rwkVUiQLOnVCGS-hjqx33VG9SS~Wv30i9~vKnQBPgZg,AAIC--8/Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 483393536
+
+File:  Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@MLXSPNJXvFOhobYGff~V8r46IM3tdDcCmLNDfCl8kDE,ncgh3Rhj4qt2qBfklP9c8AeMM9hhDcrwTA52AnzaNRo,AAIC--8/Fate／Zero 第02話 「偽りの戦端」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 476815725
+
+File:  Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@OApXXz-Bdk7JhITjqu35AwPb69IZEq-nGTFDeqYf-CI,TBNdZZoMkMiYoOmENkNXbTgOSP-UZbnhzatXw6yS4-k,AAIC--8/Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 461373440
+
+File:  Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@rwuV0HCiRFPkwW8jX1nxxWWN8Ed2QGHhYzZQudw46R4,RI5LjwebQo82Tb192y6Rokj-XoF0cT0L1pjxufacnyo,AAIC--8/Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 461373440
+
+File:  Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@2mQwlJaVtDNFpo4V8~lvdm1TpS3ksLDjZwuEnWcABxo,Rb8JtWQVg4-3rCHeNCo3GvNYPYNsfynMbAT6fAahYHg,AAIC--8/Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 461373440
+
+File:  Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@niGyRnogJkZvEwzXLuboUTqu46Rh8-zpkOUaHj3zTrM,2JgoJjq-neAScqbnqYFfr8lLF3rfqZWAjQXPSZWB91A,AAIC--8/Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 461373440
+
+File:  Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@HJJHb0xllsP0bsTVtq8JPKv6MaR5ygnt2deVQymNsBY,-14n8kJuLqhMKyllkepog6ssIBPkr9yUrwAasOYpEAs,AAIC--8/Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 461373440
+
+File:  Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@IJ1hsDrcSoA1fy3A~VomJYl~vH8l2bnpj0cKvICoXDM,9tkA76M0LIOD4K8id7gnBwuJgzM~74yKoWAkMaLl-CQ,AAIC--8/Fate／Zero 第03話 「冬木の地」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 456303728
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@di6~5zDsiQDO4krhdmYE6c1QK5o9RrhTRWwMJoR3HQY,OKbHcX4NeTL47387~eeCCzcnBUQ08DghU-z17JRRT2o,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@sYMNlipRcRjR7Sb1ovIWX0FELP7POXWyUOlVmSIwDuI,pC4~203Ps1IJ4JKqI7GJpoYz1bI7B5GPQVyJ-aPcioc,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@1Ng29pWET0pcIEQYtfWKsT9CJc6iXA-ueAkwBPQpok4,Om6ArT6VQXwDSZXBJHpa-9r~BqrPX7CToyVWdVX46hQ,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@n7zL3nT7Q6MBsN-M9JI9AlHNcQzlR42OXm7FB4KP5AE,WuUkZykZrT8Z02P3VVspcdhhyPvxD7UWdAKhM4VE8Eo,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@JkOzjh~pnHGFEJryTSTAlwtU4Z2UBMt37KDhrVPQjI4,iuo8Xwo4OF-e5n5m5jRliMGzOMTJn9Aj81zfcc0DH5o,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@KvW4FVYZZBAutS546hntlx1ZrgrdHZNEoBUZUmavzek,8d8FdeOnMMZfP6-HuJ80GvRt~9El7jHquNN2oechw5Q,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part7.rar
+Key:   CHK@fcpI18J0wg-CkBWZNIcXaP5b2r6oExMkQlau2tegDIs,Uqr-IGkoYcTFLzeIOLxIEwGTwLZ2UGrJy~QW-Rgz-AE,AAIC--8/Fate／Zero 第04話 「魔槍の刃」(BD 1920x1080 x264 AAC2.0ch 10bit).part7.rar
+Bytes: 455485853
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.03.22 - 15:04:00GMT -----
+
+File:  Fate／Zero Box I Disc.3 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@Rc6VFhmt5MedraSHutbj2J3~G6U9gFlBAMEUJtMlm3s,pzyvc3jfA48UbDKf~hbIvx42AOjKvs9yr7KtqcVHkn8,AAIC--8/Fate／Zero Box I Disc.3 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 63917096
+
+File:  Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@ZRCLpXpdVo5vjAB0bQ2BiSIsdxbpICCKHpFZ6BIdBKg,UesKcmcANmV62KIuYr3xtGXqhoKc5z4vrYB-SRJ6NCU,AAIC--8/Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 476053504
+
+File:  Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@7A16aaFFORQGSBlxjWvFlaQkvLIIiPAsV3dUVvuDDM4,UXRH8rrDm2J4FzGWaZxLLf8tNq0Cuf~7sWjQx7op8cM,AAIC--8/Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 475538872
+
+File:  Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part1.rar
+Key:   CHK@od3CrWX7hY9~orxSWr5bCPxi59u-9YJQ3cofA-6qG9k,gyo8JvcFMZFJc2apXWqheQSgBD6sW8QEmPTKfD0rBrw,AAIC--8/Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part1.rar
+Bytes: 498073600
+
+File:  Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part2.rar
+Key:   CHK@PFer-9xD9s4OKcyfoF1eel4qLKf7Lwroe92g0RzXd-4,K5ISj7eP-PlwyMk-2ViBYvweMfClzlcdWPk9oheY0Uw,AAIC--8/Fate／Zero Box I Disc.3 SPECIAL CONTENTS 1 お願い! アインツベルン相談室 その1 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part2.rar
+Bytes: 495975229
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@vc-q2Hfg9N7l797VbrJtvcAqPI7UrmCL0Et9NXUlzZU,SdHppLkKSW3sHBK92kYDDAQF3edy20P2e~AjVTQtZXs,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@wQB7wPMT-hGITtb1bnuN9-VpzpbnU17j5eYZh7kiyQU,IX8jV6P~MSZMEYoAazLJL9rVXFbeopyX8MdftyXuZ2o,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@41UgHKdyIXZE1MNWMAxoAAq5UHU9nGsUON5UFiF6aEI,bztZBHAyNJqclAeppW5xqMaWcdkC6oGtVEYeThMaHsY,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@tFg~Asyf4Wu2555elaOfk~Hje1TcPBaJwzLywUloVuI,Om5u5llTB-fu19kpv29forSIe6hzcmuBtpCo2CqMaiA,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@lf9UclxvI~uzm7Ux5njtzi6F9PAfh6kcdZx8xJBGT~4,KL5I8ULdBjffYdW1J4hicj05IXHcPsIVvVOcQWSvcos,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@w2mSQVE0PMmbi0n0bbdd6tqgY47x--gW8PK~6fhYbjw,2NkuiKfoHdnJ0cZ8YMjq0-RJPzEqQQQBWaRaEFgNv4o,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 456130560
+
+File:  Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part7.rar
+Key:   CHK@V4zS2U~zEhXWCWkHWBUlfHdvWRcFx8YkYRq~Tsm5EXA,ASErICIPwn-jtfVhGxvmaxJATEljz0fJ~RLNVV6bCEY,AAIC--8/Fate／Zero 第05話 「凶獣咆吼」(BD 1920x1080 x264 AAC2.0ch 10bit).part7.rar
+Bytes: 450260281
+
+File:  Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@Q56Pbc-0fzogUWlER5L9EOiDo735uowirZqCmcYP~QE,fIdzYzgy8w8Y0nVUm6QXWJd4O8cZwqfWvC7W5oHZSX8,AAIC--8/Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@dlly6x4U-118piX41B9UT6QbjsguLA04ljrOMS24dLw,EMcFKzasOc8cuNpDgJAWNfUOehfFR4b5GaeXQLxbxMA,AAIC--8/Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@hEolEFI8qqCQLZz-23NX9N3ji7qrjl4c3q-4lYC3efY,Yk9aIXzv5MX0P872wsq~v8ZwH8ZTNPtuttrJdVOKFuM,AAIC--8/Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@p3eYdxwn25C9yRic0nACv-1nl5la7bGjfpiRvqKeGOQ,NrsWlYGoQRM6ALO5eBxUh7XrGcKi-QlceyjdEJ8FZXs,AAIC--8/Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 484442112
+
+File:  Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@OsF1k9CI~o5Tg9SZRIScDdRfv5vZvNi8q-yy7UiFBNA,~aqpaDzP-43IwlIuv~TEWzrVam~Ng~kYCl-Bp6J4DBU,AAIC--8/Fate／Zero 第06話 「謀略の夜」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 482851863
+
+File:  Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@7-KlSSU7aGB9S-vE~ewTvy5hC00e4K~Sqkh4Bi3z38g,wBy7LdFh0U5gUZLONMEf9wCHh145OV-XhYISPOBFlVQ,AAIC--8/Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 495976448
+
+File:  Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@JUikSeEkZS03jr-uJt5OjcSs1DM0x7ic6gBio-g19G4,hz3aMRsmd~SmGG7hKDK2EwxVCd5qkJHXtB5pozfO3lA,AAIC--8/Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 495976448
+
+File:  Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@06Rf9po~5a4A2I5x~DSzFbnnttWXjqnbYafyWDnDm6Y,ed45L~~ebSbzx65CLJDVJpX~2jJkxrJc-T3XuE4gu2g,AAIC--8/Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 495976448
+
+File:  Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@tfrYSzVKor6bdNObOpU4QKPN-xFoo8fVTWLK~ify~z4,q5i8Y80-~ydxoFs~H6osoljBRvdDuonTL6qwJixTBOI,AAIC--8/Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 495976448
+
+File:  Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@LskIThltvr-Ye0r290Xv3yUY-NoGbsAX1tO0HQtwy94,FTuz398IHz3rof6OqjAUoze22aDrDpJZfsQ0H~CvJLs,AAIC--8/Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 495976448
+
+File:  Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@Uf8bIGYL2Mj5rxK3N5WpGxEjkNjIs8pZgmKYLzbRn-k,FQT3zDGbih5tpjchvSbAb5v3wUXciJR6Q4jC9lexz5o,AAIC--8/Fate／Zero 第07話 「魔境の森」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 494009402
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.03.22 - 15:05:12GMT -----
+
+File:  Fate／Zero Box I Disc.4 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@ln4Oh7FRfaauPx9xHXeupPCSAcTy3R6ABqPvixow6MQ,~FWJvgiy0mZC8BI64So6bd7tLT1EaBTZhi8yPy4eHcw,AAIC--8/Fate／Zero Box I Disc.4 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 71038397
+
+File:  Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part1.rar
+Key:   CHK@Gg3GgaLd-pWgvB4iplYqFz3gUS5OoHU7yzNT-cnv1ts,KTELYy4RpPLF4pvKr1ShVOK8HLz~K5vWmetfcmh17FQ,AAIC--8/Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part1.rar
+Bytes: 514850816
+
+File:  Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part2.rar
+Key:   CHK@hQFwJ6XgM1E8hnAOF9g7HCqsXWuQRvOF27ZPNyrjW7A,EYfrT3TLkxK6OOgneo2Migf52cHFrRbeVFEBoE0yVPk,AAIC--8/Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part2.rar
+Bytes: 512393992
+
+File:  Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@RVs7g7SLcQOcXGZGSN0a1wLUMrYZRWed8g7aplK9GSM,sgA3G2Pom1rhGpvRtVEBQzKWmCUcOJuAfgHTNavNGwA,AAIC--8/Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 493879296
+
+File:  Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@r9iVXsVMBNuVPFwCxhURwHXfc3bA~mwoXzJLTAeZj2Q,VYkz-xirEP1ckZB6umoeMo~3GKJPXztB51JRJlZ5eCM,AAIC--8/Fate／Zero Box I Disc.4 SPECIAL CONTENTS 2 お願い! アインツベルン相談室 その2 (BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 492118031
+
+File:  Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@c5EsTGzQkA7H44QYpnCwQ75LyZ~mQv1oQfJNtwMeakM,zW~X7dk1iCSkq7Q1HVBxW8CF89YWY4uEJ7YE--QGmLA,AAIC--8/Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 472907776
+
+File:  Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@Yl1xfGMK1jrZ6QyKgQ70vzg2gz3i0-3mfNYY07H4rDE,~GfqwbkpgTaEfzCFccOJl4zaAJJ1er4R6QmqqCPaIaY,AAIC--8/Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 472907776
+
+File:  Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@LgvcKqHFfNnlOexA1rDhdLyURiJKF43qI7qrwS1sPwY,TCbmTyXwSJIJBFaOu-dyhPwBoWyeynXrO0jNlBeVlZs,AAIC--8/Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 472907776
+
+File:  Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@2nfgThmm7RFl3ulqrCWh4JbdfmXXG2FZOCKw4bnAgRQ,J1cvGz~Y2trtF03qB6~~NI852WzonBaLBCgLowFkBck,AAIC--8/Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 472907776
+
+File:  Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@pXfbItymdC28-MC7n-WQTZYR-JN6pUW-cdqhLLXCo3s,leso7bxm5-5NK3rhnVXuqzO5ECjquJ7ut6ZWOUvvQME,AAIC--8/Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 472907776
+
+File:  Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@e4UCzO4XFU9vDsiuAwvsyqLj28nsYHfH3reotabeOoQ,-7zie5Irm5qOpDs~mWx6bwcQSCEXlilJHjPt3Oz8csY,AAIC--8/Fate／Zero 第08話 「魔術師殺し」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 467012403
+
+File:  Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@YttBWRT3CdWOl1iMlTSD3OQdPjRSa1GNPGVNsdqxgRg,toqF35YrbaG0sbmt1USHUpo0gk-E~MWmWJfWeMoFxbE,AAIC--8/Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 520093696
+
+File:  Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@YLGElJgTqYyhysewbJHU03bbBaJCvdkp6G5iQi2UCPk,-Q5cbhRExO3DUYww2QgJR9rkx5fZMqoycqxW3lfBJdc,AAIC--8/Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 520093696
+
+File:  Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@lRRxoTFpAjvF24P92pXGjiIUGuyJaKAzmk0IAZ116K4,lfsXNJ9YmP9l1TubJrE9xJ2Tele~j2uY4E3huFDOgdM,AAIC--8/Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 520093696
+
+File:  Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@BRDkobo3FzGEic1q3zbtOzPBxDDxGzaOJosfRnIoydQ,WRe68Sp4m6R84M5f5Gjn9RZ3ZkWMGeX3XQXKFjM4Z-0,AAIC--8/Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 520093696
+
+File:  Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@OKoUnd8Y53Qh3PC5WzwgflnDY0vsLFRHnO9COHHuVDA,~QmDjRYH1Ju4i0XHT0x3gL8eWwJOr9xW~eZdOmghTGo,AAIC--8/Fate／Zero 第09話 「主と従者」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 515342352
+
+File:  Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@gU5s8KUndHDFTh2f9iyUl7GNWcG-TXouYgQyEDZVmiY,oNNrjKZ~6qXVgYswhkqi7csgCAbDNtwQdzanJRAEqAw,AAIC--8/Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 467664896
+
+File:  Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@FVsfsQ8Rx2JKNmll9Rdo~u5f2nkLmMm9Ghv1zMnbG2E,TbexWdk7zR4UgwgL8Fro4aCPa2FO3K-Em50Gmvzu58I,AAIC--8/Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 467664896
+
+File:  Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@8f1XfJdK8VIZ3Tp6v3dIelrCfxypkEDerPWw4rJfiGY,IVkrjrl0Tcb94U-GfpuD7xqhIlLy7UHOFVpkkoKUUhc,AAIC--8/Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 467664896
+
+File:  Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@FTRyyxd21-NjnjMMsmNSezjr~M6K6b6u5IOnKLbFGPs,~0W4vATik7zbMnJMmVcfUbyQct6bBMkKwFYbsJwlLak,AAIC--8/Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 467664896
+
+File:  Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@TQbbobkM1I1r0RPLekKmBokD3h0QDoi6iqviLOzjpcc,1ARYls7pj20Or-uUqGvbDhd~GTRBs0xUSW3P74M36AQ,AAIC--8/Fate／Zero 第10話 「凛の冒険」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 467223633
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.03.22 - 15:48:49GMT -----
+
+File:  Fate／Zero Box I Disc.5 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@JnNCecf6vpxhZiga2JZ0Q7cpzSIwJ45y9ZVoYM-7QZA,H6VxuEJFo844iVR5M2aT6RvyLKL8B2wgL9gXofijFL4,AAIC--8/Fate／Zero Box I Disc.5 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 63217711
+
+File:  Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part1.rar
+Key:   CHK@IHOU61cQ4Aac9Oi5TtL8CFcbLrbszT6AlidRcGJY-k0,SpgxzLeSnoU52MBPw-4Qaydu9Ub2rhhB-OtYCugeSww,AAIC--8/Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part1.rar
+Bytes: 473956352
+
+File:  Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part2.rar
+Key:   CHK@wTH-ouQ1N1CPV4iCt7b7Z90AubHa~RQ8R0rYPsYNso4,St41cfUHLtRfJMxn3QbBiZSp6qsyISw9kJ4lLG0cg8k,AAIC--8/Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part2.rar
+Bytes: 473956352
+
+File:  Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part3.rar
+Key:   CHK@801-sOg7uhfAjGuqsnSLOahZtWOV1j-hoOIA3lQDKmo,WmIepncHavgYsyK~~dBvzdJZ4dRd0XIShWL0V1P~eRA,AAIC--8/Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit MKV).part3.rar
+Bytes: 469814821
+
+File:  Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@sAUkJeTKFDN1ZqF0EOu7scREjDxiZEAemLvk8ECwtnE,JSjG4gav4wOdx0h3raCnhavdQTUFVHYoxhg2KockFNQ,AAIC--8/Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 459276288
+
+File:  Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@tA0-cKRo02xQbrPmDw6YtYjFlKzrDCEABcSqCcEE1as,3G2bvyAk0syuUoB4WvmeGgl4S-rdByV9-2-x1uEwCOw,AAIC--8/Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 459276288
+
+File:  Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@JAXfz29B2tuyHjH2mHA0J~I5Qyq~3oDGv22ZAtUybXc,QdPdTD2W-jQtGBFfL6sg0esFuUf9gYkTKsiolg6h5wI,AAIC--8/Fate／Zero Box I Disc.5 SPECIAL CONTENTS 3 お願い! アインツベルン相談室 その3 (BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 457532440
+
+File:  Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@RSmyHReYOv6snyfje3FamvcuItLWvmfnvc72ukrkET4,Z03GegphUknBIVT4uYtgdkC2jYdwkj-lDN9o8uGH-4Q,AAIC--8/Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 510656512
+
+File:  Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@Jn8JBbHwy~BKuQUVQdLlzHBc35TG1n0P~il6v4-tIi4,argqltunASM~QSmx8KoI0TQsupskSMZSJ6vBdOfpS3M,AAIC--8/Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 510656512
+
+File:  Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@4m2RQRSHZevft0dYUQ7hlVVYYz9FKaGbjaOLpmVoxSE,8cWFyWgs0Njkh~WUkKYjwAQ-fr5Vo08sK1ND372xchs,AAIC--8/Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 510656512
+
+File:  Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@ndvd0ZS5SEZ9K3jKAP09c0Y2DzC4tm0yRagPELDyALU,XBBJPsQSMw~WVRasqNaAqzxraLbcxh3skvV7wRJSlEk,AAIC--8/Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 510656512
+
+File:  Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@uqjJXOvHX1LsNXCrSJymQCFDlyc5iXx7shcE1n90Y0Q,HssOOLq2TsgNTa8AEW4rwQhDq8K6EbeUpDoRbOFemzg,AAIC--8/Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 510656512
+
+File:  Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@TjrcA4ynGH3-SGA7lVwnuBfuEER3rRVVY7v~SHwYub0,8A-ep8RCkXUuzCzvSuBENbfwOhAIxUS9v-8UB9Y2V2Y,AAIC--8/Fate／Zero 第11話 「聖杯問答」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 504484864
+
+File:  Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@Zc-PJR6m~UUhHN9NlnY3G73SK~AOsCO~jCkkywD0tU4,7-VGmwmpkZlasKDOt729E~VE2S24cKd3O6JweIgHOlU,AAIC--8/Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 478150656
+
+File:  Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@N89hMSX2PLB3lPSOLRX3CRkkqQvuWst6Zg7Dea4FYB4,9OTl8wx91m3yo-RVMmO8IUFxNWWqRUTDPM4lybGlnCk,AAIC--8/Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 478150656
+
+File:  Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@oBnzaJj0Yz2AtYwBfpWeuQWNOy51UmA3pgFDmPOSup8,fxx5NIFpeaJbadb~pX~7-~dXkxF0gFRwk3d-Caaq510,AAIC--8/Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 478150656
+
+File:  Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@JIZnE7~MTZ-7X1w5A~W0uhb0qWEm6Aa2dkw8dsskDPA,mYw0DJbAp5k4ZXOwjf8RfgRoW0tOPcQgBrxONqmGAi0,AAIC--8/Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 478150656
+
+File:  Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@j9aYBhh~1TRrbe6w1yHdIWUISlclSNzYBJss8XQ4Rrs,OFnhPLQ~-wFfuBdYFMiUZA5yGy3H1rJvOpX6K1BnjFE,AAIC--8/Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 478150656
+
+File:  Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@q7AgdJ~HtljqlXnXjs7DoUUcB0fbWj12-bIN1hOInQI,fCAuvUnozTQSDfQgiiVsAvUUDyMj3e2J9Of5WtX9vbg,AAIC--8/Fate／Zero 第12話 「聖杯の招き」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 472477367
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Key:   CHK@iSoc1NVS2JiWPZenUZMNoRJJcbn-r9KwlY1C8eC3Akg,MnVRBh6knwwrL9TMHSmYVyoGJVJD39IrTNB~i3PnTWI,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part1.rar
+Bytes: 468713472
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Key:   CHK@vorIxXweLiFrerrKdIJUVD6cs5mWOgISazdAX~jJTTQ,keW~Un8GB94FsOon4H9XVUHc7RmcEBcEdchluQb6Nws,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part2.rar
+Bytes: 468713472
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Key:   CHK@a7nwZ~IKrGlfmNp3JA~LFDQG-Tgpyq8svy8cTi4V3m4,fNJqzMPM3Xy-lNEaK3LBTP18hmS3BpTkCFnFTwdWAJk,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part3.rar
+Bytes: 468713472
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Key:   CHK@wzeDa8AfLqzTKFVqEEaIXiV6EiMCAIC0PjTTdpYPBJw,XQcdDk5oWtBdYsuBtmCR6NWiQ5h8GutnPZUSwSVTiPY,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part4.rar
+Bytes: 468713472
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Key:   CHK@Lc7kzPYQO4ogTAVyHC~YG49zI7IzYyhEwG7JE4MCuBw,TE2Kl7Y8xcHyrZXPrMcuOJTvERNXzR5ewUbX~fRMM5E,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part5.rar
+Bytes: 468713472
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Key:   CHK@CwtWtMDUTomw6CO7dHaz4CTJD38WljBspLPAFEkHzpU,VkrSohHTiy-~ZEgpSP1k77n6XeZq-XqQ0udaHzsVHHM,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part6.rar
+Bytes: 468713472
+
+File:  Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part7.rar
+Key:   CHK@iBAa7lWHOfecpUmHLzatZD63VC2BJGsbhOkKBuLlVR4,XUJB-Bej6uOREJSThrUURYTa2QvosLCDhr~b-~Uc-fU,AAIC--8/Fate／Zero 第13話 「禁断の狂宴」(BD 1920x1080 x264 AAC2.0ch 10bit).part7.rar
+Bytes: 464490639

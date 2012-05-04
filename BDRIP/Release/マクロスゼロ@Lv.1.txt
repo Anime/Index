@@ -1,0 +1,189 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.24 - 19:09:05GMT -----
+
+File : マクロスゼロ BD-BOX Disc.1 MENU (BD 1920x1080).png
+Key  : CHK@KXbRGxb~quKDJtLLarxRW7XKSlrhK~2wCDV240~FC4k,tTOblWjQUSlFFDz-~qt~ukOCKsJPnML87e2rzsE5rMU,AAIC--8/マクロスゼロ BD-BOX Disc.1 MENU (BD 1920x1080).png
+Bytes: 1006031
+SHA-1: 4184ab645454b480afac03048876b878c2c5809f
+
+File : マクロスゼロ BD-BOX Disc.2 MENU (BD 1920x1080).png
+Key  : CHK@UUU~fTT8VkD9raP7zGISnP9UiNolbgaw95LYCO-fTGU,dRn0TDyWeUp63aUZyI1d20dl~mm0mGinqPxUBnwXxNE,AAIC--8/マクロスゼロ BD-BOX Disc.2 MENU (BD 1920x1080).png
+Bytes: 1097708
+SHA-1: 7f40c8d52490af9460eebce2bb4121b50892ce55
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.25 - 04:55:06GMT -----
+
+輪郭線がジャギっていたのでAnti-Alias処理してますがガタつきが取りきれていないシーンもあります。
+副作用として気にならない程度ですがボケます。
+
+File : マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Key  : CHK@rValQo7xf-UqrkeUaCtGEVYWJcwHqve~Q6sHO5EGEPI,xNQiGkKqWAbUd6P3GZMQH-JcW2hiZy5S7~oxGl~ax3w,AAIC--8/マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Bytes: 283000000
+SHA-1: 97200aaf2b62e627132f723da125f7a36947c360
+
+File : マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Key  : CHK@24xA18jSkttoYRk3sECHpvsMKI4Gc9ezN9XT-e4GhMI,B6RfY7fBBvr-F4AHMoIU7FwcZlG459zzycoQAf-S59M,AAIC--8/マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Bytes: 283000000
+SHA-1: b0da1f007d431ca96186bf567db8f4490f4fa16a
+
+File : マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Key  : CHK@6TA6M2iC4DOWlIa0SVZylKc0ItZGanTZ7DiRBJYggsI,GYyOwM7GYOAUEhl4foYoro8JO3pj7k3nLG3EBHKCcbo,AAIC--8/マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Bytes: 283000000
+SHA-1: 69b7b2711ee1136a0c9bde759da1353484d60dd6
+
+File : マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Key  : CHK@MogakSzoOyUleABUZ0abVaEEhEb3CjhHkNir0JB1ocA,W3cd3bjTNMAEyZLUBIiaXGecND1qw2BrbfopFPLtqrE,AAIC--8/マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Bytes: 283000000
+SHA-1: a18547eaf7ad862b2939eb4e3ca881024405bf75
+
+File : マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Key  : CHK@Z~CtIsdsYwZJSs-NyQpzkbnrm4FjtdcLLcpdXLL9awc,2f4wNcWz7ZdcChF7wph8zYfSZTIVNbZAihuMkVo1kpw,AAIC--8/マクロスゼロ 第１章 ｢海と風と｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Bytes: 279226267
+SHA-1: c52cc497dea9408ccc6218f0452cddf668cf0a83
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.25 - 18:41:43GMT -----
+
+File : マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Key  : CHK@naAKaOa7j1WURdWKX2AuyuL8M0e0-291moOGMl3Z968,tpC-xuCRGhoMZE1cgdHNQ3BElovu9ytiK-x0VR4Ce6M,AAIC--8/マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Bytes: 275000000
+SHA-1: 4040e409c287c1625f529dd9ccb9b71cc97c3217
+
+File : マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Key  : CHK@LgmKbtuLeq0ukrpCLX4VKRVSIIRa9Qlea0yloxrXohA,4HahbfagJo9FNfAUxE8oW8i2nYTjtFVoFAxuiw5g9fs,AAIC--8/マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Bytes: 275000000
+SHA-1: 98eeb05598bca816804db55eb54d38ac03b6563a
+
+File : マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Key  : CHK@JAc6nrxnbbfrYbhTB8oLOjOURvfqsv~vl3zjbW3sqPs,dDDGsAM2MLNBr9S1i9AO7V4IrtkRaByZR3Kui9YKAKs,AAIC--8/マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Bytes: 275000000
+SHA-1: 780b5debff1be06e70727721787838b2862b2bd6
+
+File : マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Key  : CHK@WPFt8D6UUuja48qeFkb23qBl1kfElYtxZMfSqD1dW5Q,8vs51PcSficiE7fXtWtFkAENTe4VkUFclqVmOsXrc3Y,AAIC--8/マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Bytes: 275000000
+SHA-1: 3270358a32f27ff17db6242daefdcbb37c4faf3f
+
+File : マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Key  : CHK@i15XRt35kgWpqeIcJNKi5StgUSxhn~KKmQRdWW9vgOA,PluAQYDB3Zqcj4Ae44FwfIzb5Z3l976QsnaJwqUKSVs,AAIC--8/マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Bytes: 272037329
+SHA-1: d8f0f391dbfd9050653651fdb43858b5cdb1f4a6
+
+Name                                                                 SHA1                                      Bytes
+-------------------------------------------------------------------  ----------------------------------------  -------------
+マクロスゼロ 第２章 ｢地上の星｣ (BD 1920x1080 x264 AAC[2.0+5.1]).mp4  a0c0df75639e1e44ffb101b4527d6bb37c8cf22b  1,373,461,023
+----------------------------------------------------------------------------------------------------------------------------
+Total  1 Files  1,373,461,023 Bytes
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.25 - 23:41:56GMT -----
+
+File : マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Key  : CHK@myFrNBouey13NxUD4h36J2tTzCbE74kBq5TlLYgGkV0,335EP63MnRB1gLx~6iYW9pO3Q1nAa9TmOMsyRd8Ubqg,AAIC--8/マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Bytes: 330000000
+SHA-1: a52da2a85f9306452e2c4a7c563f54bb5ac3b908
+
+File : マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Key  : CHK@rqdLEy5IzhlKMUluFCaQPfHLZLGN-DXV~p4gvt7zj6A,A323-RQo4kuOxPEROaQwD2vtnQh-rw87Ilef3N51an0,AAIC--8/マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Bytes: 330000000
+SHA-1: c4dfd764dbaec06e097b35658e1abfa5ac8e963c
+
+File : マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Key  : CHK@Hr-obn7FJD33VrDdszoaQlLEXRpatru33xa4tkaDEkg,YR-JLKH8AaE2ED67OsTY3MZnIWpXdWTveW1uY6ZzD3c,AAIC--8/マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Bytes: 330000000
+SHA-1: a247dd37d21acb2d1adef7f0e2c3a4f5a7780618
+
+File : マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Key  : CHK@sT-xfr7wzfmppHcHpu8CH3hQX1FarbI74EA6ZdSo8I0,ia8Ipa7Ztv5VpNDbAOqMssWEA8qa3EP10mt3-0xopos,AAIC--8/マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Bytes: 330000000
+SHA-1: 7cc937c60a5fb7d7c0c44cefece7c0d69e732d99
+
+File : マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Key  : CHK@cdvxgWVTeX1VqT66i9hFFhfPcnmE8CiaUqG1CkeqsG0,rB1IoY81nMmxH7DzlVieB~MUDxZXCtuHG4Is7zTTjmc,AAIC--8/マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Bytes: 328924722
+SHA-1: e40b9fed71551cc316b2f90faacda75a74c34110
+
+Name                                                                 SHA1                                      Bytes
+-------------------------------------------------------------------  ----------------------------------------  -------------
+マクロスゼロ 第３章 ｢蒼き死闘｣ (BD 1920x1080 x264 AAC[2.0+5.1]).mp4  f85c93055665777d023c9c42bf4c5958fa582ef6  1,647,523,548
+----------------------------------------------------------------------------------------------------------------------------
+Total  1 Files  1,647,523,548 Bytes
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.26 - 05:51:09GMT -----
+
+File : マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Key  : CHK@xcCaBQc8tAslp-ig5yCMuvjlEX7HviN7kSq2xylKVFo,qobG7BT~0rmtCHskkTVAQiZkNiOZxx9wTHeYQygiz0I,AAIC--8/マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part1.rar
+Bytes: 295000000
+SHA-1: c582cc6b6d6a38324fa045a5e923fff9c2f3254b
+
+File : マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Key  : CHK@b5P399Ijk47uCXFOvIl8jJt9-Ye3MCxJJEuK7ALa6QQ,nSNcu4e1ISPSgI8VULXcE52ur9Q0zBL-v4QSAJMa5sw,AAIC--8/マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part2.rar
+Bytes: 295000000
+SHA-1: 6d070a20dbd44005e096144baabfa70953ed2246
+
+File : マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Key  : CHK@2TpDo84wbL4rLpPJBgf1PXx6BeitEeyrZWk3EWnr5VE,0vpjIxX9aAc5J9TjnNvF6r-kCiTNIKD8dOiER92QH1g,AAIC--8/マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part3.rar
+Bytes: 295000000
+SHA-1: e972d69edfd62d13dd4b82bf6c229f325b7f102d
+
+File : マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Key  : CHK@tRLqF0XfLSXIkwYG30RURc07w5CZjQSK6Fk-eyfmZEU,KR4jFenDq8~NFVGtFKyBSrr6ufowTWwTD7IYU0FAtPw,AAIC--8/マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part4.rar
+Bytes: 295000000
+SHA-1: ae17e868966418fba002f492e31b517d3352f208
+
+File : マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Key  : CHK@RyvNqka~y-ySDNKMTRqKKcRQGqwfha8zVzY5bBACsMM,nq9kQJkKKBC70sGaHm5xWcmTT1V6RaWrO3VrBA7zuZw,AAIC--8/マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).part5.rar
+Bytes: 293920410
+SHA-1: e0e80ccd244c9d48c46664710bfa5ce404b07c7d
+
+Name                                                             SHA1                                      Bytes
+---------------------------------------------------------------  ----------------------------------------  -------------
+マクロスゼロ 第４章 ｢密林｣ (BD 1920x1080 x264 AAC[2.0+5.1]).mp4  29e801ca648ebb3b45e26fe0572694f436af6612  1,472,842,919
+------------------------------------------------------------------------------------------------------------------------
+Total  1 Files  1,472,842,919 Bytes
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.26 - 13:20:35GMT -----
+
+最終章です。このあと映像特典が続きます。
+
+File : マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part1.rar
+Key  : CHK@1A1uiQJam9y0dZV7zq3L-Zmpjcy5aQda4U6-M0jkq80,o1b2Y6Gs08oM1zzy-Z9WRMSWuSaP9GjWr1TEXTlUKoU,AAIC--8/マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part1.rar
+Bytes: 365000000
+SHA-1: 638b8d89270a78ef77c70f1a76b7a6edf0cd61f8
+
+File : マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part2.rar
+Key  : CHK@m7e1QBPkEpjC8W2rVAZv5SScHjSYZE4PEs75YcqtzjQ,GHHWhahHYaDhjhWNe3~3bIdvN-aHrvJj6rX0Jr2pVVs,AAIC--8/マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part2.rar
+Bytes: 365000000
+SHA-1: be9e836ca17211670d4c412443fc28e52eb9ef43
+
+File : マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part3.rar
+Key  : CHK@gcIr4jAbMUvOy1QAJm0VoUk6OLrDSxVznyVmuoemS68,LnoyQpGMwbyzFflCYNthPRUaNfTAHk-Jq0gWd9I8~l8,AAIC--8/マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part3.rar
+Bytes: 365000000
+SHA-1: 5fd3e77ee0d7f8de09b4299628adfb52ddad8139
+
+File : マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part4.rar
+Key  : CHK@dz6RKNeDPd~IMl6u9bCkwiMFjH0QlYeVm8ebW5JwC80,U6JQXbuBP9L1XoBNhn2xQgQQWqhrt6Y43xKG17JdRBU,AAIC--8/マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part4.rar
+Bytes: 365000000
+SHA-1: 1d758d92933f67fe92b0739514b7e4c76422fdd5
+
+File : マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part5.rar
+Key  : CHK@tTNYLXaeyNIAFyjaFElS18gfPNFzgovSBea7Dsvc~Us,yJIKbFxRO3KmFkMw0gq~PyRGj3HLyr0hNIAWfh57T80,AAIC--8/マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).part5.rar
+Bytes: 364050196
+SHA-1: 9dfbf73caf16d0d1d1711c61d7cb9833789bfd91
+
+Name                                                                          SHA1                                      Bytes
+----------------------------------------------------------------------------  ----------------------------------------  -------------
+マクロスゼロ 第５章 ｢鳥の人｣ (BD 1920x1080 x264 AAC[2.0+5.1+commentary]).mp4  a44054920124f61bbe8ed420bf00f72dc95db020  1,822,137,008
+-------------------------------------------------------------------------------------------------------------------------------------
+Total  1 Files  1,822,137,008 Bytes
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.26 - 17:28:58GMT -----
+
+終了
+
+File : マクロスゼロ BD-BOX 映像特典 ｢マクロスゼロゼロ｣ (BD 1440x1080 x264 AAC).mp4
+Key  : CHK@f40fKThD1I7LgyJ92nM~p-Y2FKrfSaDQHL1M7uU~mdo,Oql-TZiBlc6cr0exL7NES24ORc3Ht8Olp72tuMStHDs,AAIC--8/マクロスゼロ BD-BOX 映像特典 ｢マクロスゼロゼロ｣ (BD 1440x1080 x264 AAC).mp4
+Bytes: 222323924
+SHA-1: 3c02c697b1440a3f287ed0cb13824b7fae16d820
+
+File : マクロスゼロ BD-BOX 映像特典 ｢最終章アフレコ終了後声優コメント｣ (BD 1440x1080 x264 AAC).mp4
+Key  : CHK@NdRlfIgnX~ph8aR5m6kxjsb8epjUZ6pC~GCEhv5DlXw,-TotM2AnsjGubrjAPHd8VjBl4zAXaJ6wAS-eLmR7Gn4,AAIC--8/マクロスゼロ BD-BOX 映像特典 ｢最終章アフレコ終了後声優コメント｣ (BD 1440x1080 x264 AAC).mp4
+Bytes: 366600749
+SHA-1: 008c50bd164a161580220e9956403509c75b1cbc

@@ -1,0 +1,575 @@
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.07.19 - 12:34:04GMT -----
+
+File : 花咲くいろは クレジットオープニング 「ハナノイロ」 (BD 2話 1920x1080 x264).mp4
+Key  : CHK@dWyibJgMCAH5gPbD~GQe475jaX86HY49M7mFGEdtSiw,no-yFj7kRnnB0fvjbU4sa7y54Q2gkMMj09zSyCVQg6E,AAIC--8/花咲くいろは クレジットオープニング 「ハナノイロ」 (BD 2話 1920x1080 x264).mp4
+Bytes: 67132388
+SHA-1: 7a45a142a63ee965aee66acbdd37ed5b02421e94
+
+File : 花咲くいろは クレジットエンディング 「Hazy」 (BD 2話 1920x1080 x264).mp4
+Key  : CHK@ryEKLT5VFVSqsFbobQezJ3XXayVVW2alDFYBMNC2Z7Y,5snZMrFxOHw3W3f2CsIQlZyFdzJGEXWHW2V~l8Qmaxw,AAIC--8/花咲くいろは クレジットエンディング 「Hazy」 (BD 2話 1920x1080 x264).mp4
+Bytes: 45917146
+SHA-1: d8d36711e6b02099ee70d33e0280a619733d0483
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.07.19 - 17:33:48GMT -----
+
+File : 花咲くいろは 第一巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Ixc2ra-eHwuwjOFf0wRbwz9hSFfMgW91x7jB1NcNukQ,giAzTx~qZSHWEd94u3T2FRi-qmjqB4zLeHOkvMkm7C8,AAIC--8/花咲くいろは 第一巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 21014391
+SHA-1: e4389770b0dee53fd66a21effe0b4c4da86cb5b6
+
+File : 花咲くいろは 第一巻 映像特典 「第一話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Je6pKub7E~06PdV-N5yyNbGAgCwYbonvwW0Gsmd6BDo,kVkPjDK3ivNb26nGh7~DB89zZOqPew3Ndn3~DEolnOQ,AAIC--8/花咲くいろは 第一巻 映像特典 「第一話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 20025280
+SHA-1: f8115a41939b5118d239db6369c514a70ce4a11c
+
+File : 花咲くいろは 第一巻 映像特典 「第二話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@YoJcxCJa88qhudWR1CiiEPbigRkVPHprzLhY4AJCCyI,5x9CMtzo~105H1NCyx3NlkRbgrAdUdypq56aLXKgtEg,AAIC--8/花咲くいろは 第一巻 映像特典 「第二話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 20047728
+SHA-1: 2923e9a81b82b5ac69b910cd857b74e9da2f7e64
+
+File : 花咲くいろは 第一巻 映像特典 「第三話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@hK6Tqi0~F5Q~cyJm-pxZvOdRc7bD09NiRciIMb3IqAw,s0ogDRZrztj3uVty-3jukC-EO4WwTAaD9FAiGZgyfcg,AAIC--8/花咲くいろは 第一巻 映像特典 「第三話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 20130384
+SHA-1: c4822a88e2f59bc9f019cf9418b502c1fe36a55d
+
+File : 花咲くいろは クレジットエンディング 「ハナノイロ」 (BD 1話 1920x1080 x264).mp4
+Key  : CHK@bFQhaRX00GhIoBQ3R5hKuyJ3gjbrb2gOxDf27N2r8Ik,orDN-WzZ2DBOmcGz91XmbLCoDUnzlYux~nFkteDPBa0,AAIC--8/花咲くいろは クレジットエンディング 「ハナノイロ」 (BD 1話 1920x1080 x264).mp4
+Bytes: 90373163
+SHA-1: 2d7d55b1b1763c37a745f1a2b7ef676a9a974996
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.07.20 - 17:30:12GMT -----
+
+File : 花咲くいろは 第01話 「第一話 十六歳、春、まだつぼみ」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Key  : CHK@HZei0b9-I4UYioysr-PQymjXY~edFJD2Fe2OLF8bPv4,-rMQ2p11RzZ7opzvFGAfFM155~LkogPBKjtPQxaUNq8,AAIC--8/花咲くいろは 第01話 「第一話 十六歳、春、まだつぼみ」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Bytes: 1024610944
+SHA-1: 5337d9ee61d02d75e105bf6f6ad91021b57e2b17
+
+悩ましいソースな気がします。いつもの設定で作ったらかなり縮んだのですが
+会話シーンの輪郭や口内の劣化が気になったのでcrfを下げましたが
+まだノイズや劣化が気になるようなならないような。ソースがシャープすぎなんでしょうかね…。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.07.21 - 14:54:59GMT -----
+
+File : 花咲くいろは 第一巻 映像特典 「ノンクレジット･オープニング①」 (BD 1920x1080 x264).mp4
+Key  : CHK@JWAsZZzZxb-TAFCNfcb1iX585295s~V~JmQXoC5QR2M,bm2C-wCK3B47Lf1TgJB~~AZe-Nd-HaM1ahJpjcxoGfk,AAIC--8/花咲くいろは 第一巻 映像特典 「ノンクレジット･オープニング①」 (BD 1920x1080 x264).mp4
+Bytes: 83786116
+SHA-1: 7d233d64034d6aed8fa4bb4253e11adaa73412fc
+
+File : 花咲くいろは 第02話 「第二話 復讐するは、まかないにあり」 (BD 1920x1080 x264).mp4
+Key  : CHK@uQWswNaUVaVuLeJ1oyHxP~Izu9ymHKbRnzu4YMPBDWs,CEdLwaPsua476q-XXFH0w~f3eT25x4EPNkPJQTy9~8w,AAIC--8/花咲くいろは 第02話 「第二話 復讐するは、まかないにあり」 (BD 1920x1080 x264).mp4
+Bytes: 891045501
+SHA-1: f62f263c8c72c83c3e0cfccbf7185935272d283b
+
+File : 花咲くいろは 第03話 「第三話 ホビロン」 (BD 1920x1080 x264).mp4
+Key  : CHK@bCR2PK0JwWYIfSEGcEbcxknuvDb4tMMWUipXp4jm7~g,QElutfgPYnGn5fmjoCFUpsXscYl4ABymDni6HNXzfRE,AAIC--8/花咲くいろは 第03話 「第三話 ホビロン」 (BD 1920x1080 x264).mp4
+Bytes: 982429454
+SHA-1: ee6c9874ce4f2567752df6ae616e762d4eeb4f09
+
+一巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.08.16 - 12:22:02GMT -----
+
+File : 花咲くいろは 第二巻 映像特典 「ノンクレジット･エンディング①」 (BD 1920x1080 x264).mp4
+Key  : CHK@QuISSbnm8iUYULnGEAqxIMll7jMWp1e1XB4v8Il3Q~c,WulFctJyvZwgG1Zar6XmK7kg~hISTXsQd-l9qTCMppE,AAIC--8/花咲くいろは 第二巻 映像特典 「ノンクレジット･エンディング①」 (BD 1920x1080 x264).mp4
+Bytes: 49124960
+SHA-1: 309f120ad8302eb02d3d695e79b155fbca57235c
+
+File : 花咲くいろは 第二巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@6OBUj-obIq-D5BuXx6cLZgPn~kgHJExtdI2~u-1svXI,CeZXStVce5OSMr9XhHiSQ2bupqttk7IXwCR3-UVYXUU,AAIC--8/花咲くいろは 第二巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 24146472
+SHA-1: a4cfb9f5d59fdcb227d99e66fcb2c0ddecf6fc1c
+
+File : 花咲くいろは 第二巻 映像特典 「第四話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@C~6QPwp7x3JIE8o1aEvKH1SRuQYHsLzw1~NOigaVl68,qmRHA46ydrmCHbEtL2Y8LEgnqY6fCgqJOtGK5GND4gc,AAIC--8/花咲くいろは 第二巻 映像特典 「第四話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22027168
+SHA-1: 91de64e0da6fd44e4dc9bcf72e09bd9896683813
+
+File : 花咲くいろは 第二巻 映像特典 「第五話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@-JJGT2Qj2fXcYC5lNnQAVzqDitQiL64PqJ0wo7FGV6M,by81sHQ-7mXIvDCm3BAALtz9QxFeq4ZOvx8PHE4W4s8,AAIC--8/花咲くいろは 第二巻 映像特典 「第五話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22127669
+SHA-1: 17b97142d35c240eb9f14997f604413529eccfe9
+
+File : 花咲くいろは 第二巻 映像特典 「第六話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@FLgsn3sVV7U1Hm2d31a~i-J2sGR54Z4BbYHmLYm3pSc,tRhyK7UAtRrJW7LHTX8HSgxuvwtMTjS2fkIKF2LuU8Y,AAIC--8/花咲くいろは 第二巻 映像特典 「第六話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22219754
+SHA-1: 4135df6c4433bfa63bc36d1707144a641678f2b1
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.08.17 - 18:15:57GMT -----
+
+File : 花咲くいろは 第04話 「第四話 青鷺ラプソディー」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Key  : CHK@OGzaHaYWo79TtIlFHZVIyN3kW7019fQXcol2njswCPg,vOsMY5CFjQo~S9avf6fjy857oj3uonMzcHa-wf-9CQA,AAIC--8/花咲くいろは 第04話 「第四話 青鷺ラプソディー」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Bytes: 1010040036
+SHA-1: e8ebe4f4370082fd9168c39d66e4edb2e6e10789
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.08.18 - 05:32:25GMT -----
+
+File : 花咲くいろは 第05話 「第五話 涙の板前慕情」 (BD 1920x1080 x264).mp4
+Key  : CHK@5mqpWbTN~OaQyFyylxOCe0CPG7ud~SIbktcUdHMpLfI,2QZYKcmSF46-NnqHFffe26KfEZETo1VWUt9n-irbl6Y,AAIC--8/花咲くいろは 第05話 「第五話 涙の板前慕情」 (BD 1920x1080 x264).mp4
+Bytes: 869147967
+SHA-1: b8710efd8363b52fc9f58eb045202dc24994b0f0
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.08.18 - 15:23:58GMT -----
+
+File : 花咲くいろは 第06話 「第六話 Nothing Venture Nothing Win」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Key  : CHK@HM9slHqOM6MZgGUEpIA-Z-P3xy7DkZtisVcKr~Spuv0,8PrVS-kYREhObsJxJQN1Bmb0iQKvbXKVejaaSGaDDbQ,AAIC--8/花咲くいろは 第06話 「第六話 Nothing Venture Nothing Win」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Bytes: 970316883
+SHA-1: 4ad5e9168dc943315e7125f27fb1bcc3ad5a6540
+
+File : 花咲くいろは クレジットエンディング 「月影とブランコ」 (BD 6話 1920x1080 x264).mp4
+Key  : CHK@sbHJeQM8XaH5~ylie~JDzlwqxxubPGxOzMkZKVYqV2k,tFRQPlZa7~g7rn5B8r5zM3wHNHUsECs5eOZDW6IxUDk,AAIC--8/花咲くいろは クレジットエンディング 「月影とブランコ」 (BD 6話 1920x1080 x264).mp4
+Bytes: 104495772
+SHA-1: faf436440ae872e6592d97728f8a65b69e71c271
+
+二巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.09.21 - 14:02:17GMT -----
+
+File : 花咲くいろは クレジットエンディング 「夢路」 (BD 8話 1920x1080 x264).mp4
+Key  : CHK@xiaR5GVRkXYw3JefN-JGBbkcue~fl7289MDZE40ZSD4,93qEdqkavP7MCACimskfgV5kKeEaXqPh~SZXc5f044s,AAIC--8/花咲くいろは クレジットエンディング 「夢路」 (BD 8話 1920x1080 x264).mp4
+Bytes: 119115930
+SHA-1: 91ac2fe4dfdb45d8e18ba14e437c1bcc431fd7fe
+
+File : 花咲くいろは 第三巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@M9NSQ94JI0ah7uUH8z3AaW-x79SysysvXsaqKnN7fMU,Iymcp~fRJq35Yp-LjYPW~jclsviRu3na0t3JIcmP2Mk,AAIC--8/花咲くいろは 第三巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 23967778
+SHA-1: 0a135606377af64a27112a168d79b00eb31e46b1
+
+File : 花咲くいろは 第三巻 映像特典 「第九話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@7IqUNGhb4ukUC1jBkL5g~1F6dURnB4ILYclv6B5CqXs,4pP~joD~-rWEaAOATi4LHjT7d~DVK4giAJr6zed9aR4,AAIC--8/花咲くいろは 第三巻 映像特典 「第九話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22274678
+SHA-1: b34a72bcc84312fa01180b47affc83e5a8bab7f0
+
+File : 花咲くいろは 第三巻 映像特典 「第七話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@i3I4pQLLRiBbqjdwB9OsU67w37pEo96JlVFCe5T9kcM,2EoIyWJSWg7uTkgxg2wfdfW8T7PH98J9gIVX26CKJdQ,AAIC--8/花咲くいろは 第三巻 映像特典 「第七話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22376582
+SHA-1: 683d341f12ae91ad4df2e8791ca4ae5ef8d7aae3
+
+File : 花咲くいろは 第三巻 映像特典 「第八話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@kL87QCvX3yCJFQUtFm9O1XwL8n1hjcOnd~b5MmLA05s,kVtaT6g9IaWzWyVZvKmUfZCoB~4XzJ6gXdcHGH~J~Lw,AAIC--8/花咲くいろは 第三巻 映像特典 「第八話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22381728
+SHA-1: 29069d3c2751d2249ef621f2e9948d72fa476dc3
+
+File : 花咲くいろは 第三巻 映像特典 「ノンクレジット･オープニング② (第四話～)」 (BD 1920x1080 x264).mp4
+Key  : CHK@iM3Dh8T5nbXvb6gtowYtphH64LHpXge-rnU-LYT1aZw,8DI7SRTazOJ5iEnXqVgrCZl0~uymr1wwUuz8u00X4-c,AAIC--8/花咲くいろは 第三巻 映像特典 「ノンクレジット･オープニング② (第四話～)」 (BD 1920x1080 x264).mp4
+Bytes: 82811161
+SHA-1: c16fbf2f7a024ff49de970ef4b23b29457c04778
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.09.23 - 16:41:39GMT -----
+
+File : 花咲くいろは 第07話 「第七話 喜翆戦線異状なし」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Key  : CHK@tW19cxHf3e4OAVn9qwWVU6K~4nXHp-HrtBtRg3gD2x0,XVB8odF8dLAGqRu8yct96k2HoWfmWFOQ2t1iOodpwBU,AAIC--8/花咲くいろは 第07話 「第七話 喜翆戦線異状なし」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Bytes: 868525490
+SHA-1: 4f2fbf54d50943fca6c9a958780f6988059e9d3a
+
+File : 花咲くいろは 第08話 「第八話 走り出す」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Key  : CHK@b3IYieHOGFFweW~RbjR867QANexAIoUHquOFCI~DtT0,jcHYf9kpqKO3~C3OCoKm42w3ETyfmJDw9Ln38N~rSuI,AAIC--8/花咲くいろは 第08話 「第八話 走り出す」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Bytes: 838470631
+SHA-1: 6dc96daf510692fd8b64f84eaa32a71c625941c4
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.09.24 - 09:47:13GMT -----
+
+File : 花咲くいろは 第09話 「第九話 喜翆荘の一番長い日」 (BD 1920x1080 x264).mp4
+Key  : CHK@RKSi0Kh0bwhQjepGIrxBp312m2E56Z8Jwy7HqnxWQw0,GmJ7X-UMjaovonPm~vMwsp46RRJQ6jDJX9MS6l--6RA,AAIC--8/花咲くいろは 第09話 「第九話 喜翆荘の一番長い日」 (BD 1920x1080 x264).mp4
+Bytes: 798031721
+SHA-1: b3bad34632591b75097ed7ae8f739c18503b2bd1
+
+三巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.10.18 - 18:42:43GMT -----
+
+File : 花咲くいろは 第四巻 映像特典 「PV･CM集① PV第1弾」 (BD 1920x1080 x264).mp4
+Key  : CHK@7Trl2cVcbbQyu3DeQXJI0s82MblHkGea9dieIhq0~UE,nPTzKvRr7rhz~R1yiyEWqpdHDkB0dXAJxKh0GW8yg8A,AAIC--8/花咲くいろは 第四巻 映像特典 「PV･CM集① PV第1弾」 (BD 1920x1080 x264).mp4
+Bytes: 37175013
+SHA-1: 99acb14da7001f7458ad2bbc0978cc8f4171de21
+
+File : 花咲くいろは 第四巻 映像特典 「PV･CM集① PV第2弾」 (BD 1920x1080 x264).mp4
+Key  : CHK@nVaZhcZeBncXxkApUSFdenMlVR3gnplyX2HsDMCey7I,v-Y5baPcchf3~oXO4L4t2vN7p76trmVBKFUVn8eMSPU,AAIC--8/花咲くいろは 第四巻 映像特典 「PV･CM集① PV第2弾」 (BD 1920x1080 x264).mp4
+Bytes: 66668936
+SHA-1: 2bb81d0ba6431fb44401bc539cb54a499ab63ed9
+
+File : 花咲くいろは 第四巻 映像特典 「PV･CM集① PV第3弾」 (BD 1920x1080 x264).mp4
+Key  : CHK@oyR3aL4Anzn4sHnHnDDKUDrwyS5083fZorZy1dRr0S4,IvXQ6rQgh1MlcjDR3RYXBP7KAPxRKP6CX07eThbTKgI,AAIC--8/花咲くいろは 第四巻 映像特典 「PV･CM集① PV第3弾」 (BD 1920x1080 x264).mp4
+Bytes: 96321524
+SHA-1: 315314ba7b405f84443f0244f12feb32c2f7a694
+
+File : 花咲くいろは 第四巻 映像特典 「PV･CM集① PV第4弾(ロングVer.)」 (BD 1920x1080 x264).mp4
+Key  : CHK@dYSJz25mZBZiDkxzSp4eNk79BWjb0Xww8FtGV-vw5ns,zOs1BHR3M6dj5dWrvrgbWuCEwVa7e6aXKCZT0txfJgk,AAIC--8/花咲くいろは 第四巻 映像特典 「PV･CM集① PV第4弾(ロングVer.)」 (BD 1920x1080 x264).mp4
+Bytes: 196110024
+SHA-1: 897f6f37b34c14da52da7605220cc7e6a4158283
+
+File : 花咲くいろは 第四巻 映像特典 「PV･CM集① PV第4弾(ショートVer.)」 (BD 1920x1080 x264).mp4
+Key  : CHK@E36bTK1jrExLPR-uZQXCINbfKkE963M9-TzR11ROGzE,sWsYXKNZAAi3kIcgEFOsYigk~CRS3dPh5Amor5TAvSI,AAIC--8/花咲くいろは 第四巻 映像特典 「PV･CM集① PV第4弾(ショートVer.)」 (BD 1920x1080 x264).mp4
+Bytes: 94532383
+SHA-1: 1949ba5a6a102c06c5e7a29ca71ce18b7f38ba72
+
+File : 花咲くいろは 第四巻 映像特典 「PV･CM集① PV第5弾」 (BD 1920x1080 x264).mp4
+Key  : CHK@MSpJTDTV8v-zSLSjji~kxCQA3XlMEnz2jzjCQ8Di5KU,tG71kwDoUvAcKXtZVPaO-IfYFIr28tNe2K5wszTytQE,AAIC--8/花咲くいろは 第四巻 映像特典 「PV･CM集① PV第5弾」 (BD 1920x1080 x264).mp4
+Bytes: 72043072
+SHA-1: d72381592963f82299ec8a5f097cc4ac889c434a
+
+File : 花咲くいろは 第四巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@52-hDDt5JxSbSe6-1jRvnHYm-eNYKDFZgi0hzvBN6og,VC2E4fRAVbGbzztSyJ4D~ZuS2yVkQ7u9VVtlFNgMJ9g,AAIC--8/花咲くいろは 第四巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 20827431
+SHA-1: 6a3f62b03945b8260ec975b660e5d9dde5ed3e1f
+
+File : 花咲くいろは 第四巻 映像特典 「第十話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@UzDdODhm7E6kOnVBGgdFfQxGZ0SVOoAjVJeITUX8dO4,CPKU-QMqt~WI0moGRZgNBnk01YhF4HO~qEghILj4Wi8,AAIC--8/花咲くいろは 第四巻 映像特典 「第十話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 19687129
+SHA-1: f89207c289abf0b694eb20c483189e97f35c0bc4
+
+File : 花咲くいろは 第四巻 映像特典 「第十一話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@3jFYIFrXOBmWSxij2CsH2Wf7Asg0bwNZ9wF6Ewf0s~k,zIagDJ9ppbY30wcc0U-AWTvL3etJd8qBEOpZfqJAMes,AAIC--8/花咲くいろは 第四巻 映像特典 「第十一話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 19651067
+SHA-1: 9a736b0d1d685b68d30a45b74aca37f1eb94d891
+
+File : 花咲くいろは 第四巻 映像特典 「第十二話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@GzQ66v2DdQpF-Yfn-VNJKonSxjtNgu-ASLXOr1HE2dM,pHosZosotUEZ7oAGAh6HVLM1auo6yvvoK8RTKR4vF-g,AAIC--8/花咲くいろは 第四巻 映像特典 「第十二話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 19795041
+SHA-1: 6491695f5e25fea03b4b7122829dd0755ad6d499
+
+File : 花咲くいろは クレジットエンディング 「細胞キオク」 (BD 11話 1920x1080 x264).mp4
+Key  : CHK@JyN2ESXS6ZUBKJXAyfORA02iG6LigrjhkXuL21RMZjM,bOrs~ZtNnRf~s9goszpue7sJ0Vpz1P8ZkvB8-McSEMs,AAIC--8/花咲くいろは クレジットエンディング 「細胞キオク」 (BD 11話 1920x1080 x264).mp4
+Bytes: 53576972
+SHA-1: ab6fa25ee89352152225ee843aa200ac61454e20
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.10.19 - 11:17:59GMT -----
+
+File : 花咲くいろは 第10話 「第十話 微熱」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Key  : CHK@cE42jXVqpCz0Tgb7h46VATu3KQn0Ceajz565NZzQHcY,0AzooyjCX0l8EWKZDM9QvhCoial-Hyw70ieG~zRaK~0,AAIC--8/花咲くいろは 第10話 「第十話 微熱」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Bytes: 879334557
+SHA-1: de0ea1b4c3f52921345e011297b62702ce33b003
+
+File : 花咲くいろは 第11話 「第十一話 夜に吼える」 (BD 1920x1080 x264).mp4
+Key  : CHK@BxG1Kkh~0-4PMg5eQT-R--2BgIdPbEd1j7CKMEdEDzE,i2lrNIfgmUzzTITDs2h1ZP17ajqr~bJOXcb0aMM6A1M,AAIC--8/花咲くいろは 第11話 「第十一話 夜に吼える」 (BD 1920x1080 x264).mp4
+Bytes: 820798777
+SHA-1: c95e6dcd24953d5ee6643222da68191f4669085f
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.10.19 - 13:48:30GMT -----
+
+File : 花咲くいろは 第12話 「第十二話 『じゃあな。』」 (BD 1920x1080 x264).mp4
+Key  : CHK@CbOCEnKz6kHxy~~gxDoijNiUP6FA3imWbM1ybIUpTTw,6Hm5B0sImNlwMQeYKTwIhFfHVvjxR-0cGz5zHSuMarg,AAIC--8/花咲くいろは 第12話 「第十二話 『じゃあな。』」 (BD 1920x1080 x264).mp4
+Bytes: 815543970
+SHA-1: 27e06d88025fca8d901a062f20b9dd0ed92c216c
+
+四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.11.15 - 14:01:55GMT -----
+
+File : 花咲くいろは クレジットオープニング 「面影ワープ」 (BD 14話 1920x1080 x264).mp4
+Key  : CHK@tVlYEU33XbjnXUORa0t9OhqieLYFNk8s8X7sB1MJlug,mPkJbeSh2WtG3EIqQHYvVmfwuzP0va1Fs59qGCr0JGQ,AAIC--8/花咲くいろは クレジットオープニング 「面影ワープ」 (BD 14話 1920x1080 x264).mp4
+Bytes: 92777163
+SHA-1: aa6b9b8117b1104948af41eb6a03a2fd7bb6f6e5
+
+File : 花咲くいろは クレジットエンディング 「はなさくいろは」 (BD 14話 1920x1080 x264).mp4
+Key  : CHK@xCI9L1vyNIA7vCDOkRZif-FbgYTiK-NGkDaW85h9Nac,vYq~byjhanEI0XWmMMHIhOk0xM0mBJXTAfSB-nz5kro,AAIC--8/花咲くいろは クレジットエンディング 「はなさくいろは」 (BD 14話 1920x1080 x264).mp4
+Bytes: 91467892
+SHA-1: b31d1a29ddaffaaba5143572d18649b0492cd05f
+
+File : 花咲くいろは 第五巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@pdQBK-Z5xSzGJ6xWmZo0H5bR3fPYWx8k4HeZvl1b-jM,zo3O3ZirAWEhiMXt2xjE8IeWOQRHkzBZfQjeWezNZec,AAIC--8/花咲くいろは 第五巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 15338949
+SHA-1: ae80a0c7d63a02cc7a73723ea2aee9aa1a1a65b8
+
+File : 花咲くいろは 第五巻 映像特典 「第十三話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@MPpxVSYiPFQnhTygZKCepozFFvONzEgYAO5kJ-l5AnY,FfB59IXvM99hhral6K71H8Aigy2rjQuWNOfFjRF0tD0,AAIC--8/花咲くいろは 第五巻 映像特典 「第十三話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 14574525
+SHA-1: 28759412dbccc6d7f0e9f00d492558818308a0ce
+
+File : 花咲くいろは 第五巻 映像特典 「第十四話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@-z9MKh90anFhRNcM9wQmT6Svc4GtLXOpQ9Hju~0TkTg,DKA-UD4M6IvSZqooI-5a6Ndsn3Dw4CPjIBlqOIr~mKw,AAIC--8/花咲くいろは 第五巻 映像特典 「第十四話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 14606452
+SHA-1: 6b209acb309167b874bf24dd5d0aaf4cbe7becab
+
+File : 花咲くいろは 第五巻 映像特典 「第十五話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Pd9SNiMFR3L7tyVdJUE5UWlKDRVlCrekun9PebwuCeg,eW73aISColTcFnaLxPBvjS8RL0Z679Qu2em6WuAYqyk,AAIC--8/花咲くいろは 第五巻 映像特典 「第十五話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 14594960
+SHA-1: d392111ad4c26eb786a75e640c17a2803add0571
+
+File : 花咲くいろは 第五巻 映像特典 「番外編 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@BLrgQv99m1V1h-UODuJ7bfhKEDQapj3Md~B0l9qkWwM,8gS3ATGgmTRGXJ7Dd3BcetDDk1zFxd4O1fCdJ3ND7rY,AAIC--8/花咲くいろは 第五巻 映像特典 「番外編 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 15748420
+SHA-1: 584624e6f8147e32c4ce2bf201a10dda89811a9d
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.11.16 - 12:03:05GMT -----
+
+File : 花咲くいろは 第13話 「第十三話 四十万の女 ～傷心MIX～」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Key  : CHK@-J5DS2m~AFXMGnpqhdkgm8OJuXMN~FN9Jp0akdPITH4,nOX2AZ-~q91b4nmC7E8by1RqTXGeb0F7amCpkKnwUXw,AAIC--8/花咲くいろは 第13話 「第十三話 四十万の女 ～傷心MIX～」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Bytes: 820014192
+SHA-1: 7f4b1c4f8b0beea90accf54aa851fa0f64c1057f
+
+File : 花咲くいろは 第14話 「第十四話 これが私の生きる道」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Key  : CHK@ulPO3c1INHRg54KXvwsrPfRchK1jgvTrbS5A0d6iE84,CkSpEYslPU-hsEw95-u7QRs9x8ABFLMQK3U53uQP~l0,AAIC--8/花咲くいろは 第14話 「第十四話 これが私の生きる道」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Bytes: 958325597
+SHA-1: bcb1a43e087781fa2115a5e8073fa1ceaeb200b7
+
+File : 花咲くいろは 第15話 「第十五話 マメ、のち、晴れ」 (BD 1920x1080 x264).mp4
+Key  : CHK@DGV-XWsVG0vAmOy7AdiAbCiNN~zNku~dqFUn9U5ir~4,ZyErH7iiAf-KVaEii~g9Mh9tkpnFbhrDtrzO3MwAyt8,AAIC--8/花咲くいろは 第15話 「第十五話 マメ、のち、晴れ」 (BD 1920x1080 x264).mp4
+Bytes: 883158941
+SHA-1: 8467830b12bd0bd5b5ef68d726794d17c9e4bcc4
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.11.17 - 00:36:57GMT -----
+
+File : 花咲くいろは 第五巻 映像特典 「番外編「九〇〇秒の戯れ」」 (BD 1920x1080 x264).mp4
+Key  : CHK@whwzZPBx6uGSiI-7rVIFvIHNpOxlRM2D1zo5SXcHgac,10p3ysrRZ908GlrbCaepfAhQ0z1ivZL6Suyqan0ZC9s,AAIC--8/花咲くいろは 第五巻 映像特典 「番外編「九〇〇秒の戯れ」」 (BD 1920x1080 x264).mp4
+Bytes: 1215028888
+SHA-1: bf2994e96628ee5b9af51cfcc05dde7e38c250ad
+
+五巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.12.21 - 17:53:32GMT -----
+
+File : 花咲くいろは 第六巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Pw2qbCw3RE1PBbWdtVsC9v-MJngGgC5MxYSQ4m8pOUM,5IKdOgyOl1aYJZ0mhYOoNvNPs2EATRF0~e5SeL9iidU,AAIC--8/花咲くいろは 第六巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 25969956
+SHA-1: 8d51cbd2c65d9e9d15c1a0d4b55abd355bce78b2
+
+File : 花咲くいろは 第六巻 映像特典 「第十六話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Ssma0FFrEj3n8j4IXwXuxmWhkvmSeUFWs18w6lOoF3I,DfVqMY-b7dkjE8zJsSw8L7VHBctbaLjLJeb1XkacAXY,AAIC--8/花咲くいろは 第六巻 映像特典 「第十六話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 23935845
+SHA-1: 17c3a05e03a07dc9052ab96f3985ac925d90b546
+
+File : 花咲くいろは 第六巻 映像特典 「第十七話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@IjBbvp7a70zR0eUF5pMfIIMYFngq0wD4t7GdNdk8Jx8,hy3ZGRi6NQ5BHT8O5gBegK7IJ6lifW1om8MjpDjxzYE,AAIC--8/花咲くいろは 第六巻 映像特典 「第十七話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 24072659
+SHA-1: 0cb3834c879b2136e5a18e7a4deba534f8b77f8a
+
+File : 花咲くいろは 第六巻 映像特典 「第十八話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@2NZ2SFWSpouWdqf9FJkCCJFBxzHXhckOdhrdygfEsqU,uDceW-TGNOj7XauRIFzhDJX1G9LFV06tFN0mGSvkGBA,AAIC--8/花咲くいろは 第六巻 映像特典 「第十八話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 24093111
+SHA-1: d3c71661fe403b15bb4d0658f318d3438853b7f8
+
+File : 花咲くいろは 第六巻 映像特典 「ノンクレジット･オープニング③ (第十四話～)」 (BD 1920x1080 x264).mp4
+Key  : CHK@eFgOKSHJ1T0npOnHb5WUG182P1b3QeKNDvSwZMCKATE,Q6iNK4OA5Y~5co9Kxo0bcMMTPsV3HNFXgcecPHRRg-A,AAIC--8/花咲くいろは 第六巻 映像特典 「ノンクレジット･オープニング③ (第十四話～)」 (BD 1920x1080 x264).mp4
+Bytes: 94351817
+SHA-1: 286164ec3b0935b472a9e578aa2cfddf644c13b5
+
+File : 花咲くいろは 第六巻 映像特典 「ノンクレジット･オープニング④ (第十八話)」 (BD 1920x1080 x264).mp4
+Key  : CHK@K0~mit~2cJeChuUB2BMQ0PTSYOPFI1Bk-J3BHMF0Lhc,44XC3McveTitJVGKgm6h1G-n72ANU2JSYt~cxXH-o78,AAIC--8/花咲くいろは 第六巻 映像特典 「ノンクレジット･オープニング④ (第十八話)」 (BD 1920x1080 x264).mp4
+Bytes: 94851374
+SHA-1: d6e70472625f8ae195449d579acdc5e5b9715a4a
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.12.22 - 14:20:26GMT -----
+
+File : 花咲くいろは 第16話 「第十六話 あの空、この空」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Key  : CHK@vkNX6pARMQ~RknsNzFn8isxbUAAqI5Tt88ilZv5WfZc,xxH~qa5G7DsxkPxA-bUVjHI-VMPHnHxCicDqPzuClA8,AAIC--8/花咲くいろは 第16話 「第十六話 あの空、この空」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Bytes: 1126134276
+SHA-1: 4608180a8c4e42e6d5804dcf30e27c961d241dca
+
+File : 花咲くいろは 第17話 「第十七話 プール･オン･ザ･ヒル」 (BD 1920x1080 x264).mp4
+Key  : CHK@xvmg2H1CzqMOj-TnKjkEswYriyaR8xQlsTJa0Tj~~9A,~MPhzgAyzX~xpBGfKys24GEVahe25PzdyJdDj0wWhN4,AAIC--8/花咲くいろは 第17話 「第十七話 プール･オン･ザ･ヒル」 (BD 1920x1080 x264).mp4
+Bytes: 1091248216
+SHA-1: 641e0f1a1b39551f8474ede72483008df810c8b2
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2011.12.22 - 21:21:37GMT -----
+
+File : 花咲くいろは 第18話 「第十八話 人魚姫と貝殻ブラ」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Key  : CHK@grfIqBb1wbwnJOlHs6PZzV8-P3huu0wcp9B5H3OvUZw,UJFxfgkT~TPCAK6~gDDSEyBkyT9qDtPbdp7BbsL-a1k,AAIC--8/花咲くいろは 第18話 「第十八話 人魚姫と貝殻ブラ」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Bytes: 923839070
+SHA-1: 86d3417ccf81b635270bd84d0d4f720881d1a833
+
+六巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.01.18 - 17:09:06GMT -----
+
+File : 花咲くいろは 第七巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@02skHXQ3zs7bKcckPkbEEF4xLVreEwMTbW92p2Wv0n0,pCOArpMQgu1IFD3IlAEFFXiTd6O942G~bETMZjhHIOU,AAIC--8/花咲くいろは 第七巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 19633124
+SHA-1: 1511d52d4e8696d6ed969d68ff4fb2a63b6ce39c
+
+File : 花咲くいろは 第七巻 映像特典 「第十九話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@9gQ2XfUV6-5ljhME27de8tM9GH-YjWGIJ4Nt0eMr-U8,LYVsod4feDt1r17q7W26zQW3GxFU2E405JtwQ1gy5LY,AAIC--8/花咲くいろは 第七巻 映像特典 「第十九話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 18269035
+SHA-1: 3a6a2b1b7f0e0d0e040dd746f401237bc1f41866
+
+File : 花咲くいろは 第七巻 映像特典 「第二十話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Zj5BHjhc7YAb95YiC2qAA3uEpWCbiLsNupC0CNCQjtg,xu9Smx-QslkeNnO72YjheKGmS09EPDLCcSg5uEyDqxI,AAIC--8/花咲くいろは 第七巻 映像特典 「第二十話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 18338880
+SHA-1: 3ddaf3fd55164265adae13e9eda8e4601bfc03d7
+
+File : 花咲くいろは 第七巻 映像特典 「第二十一話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@fBlcWGkq7KuGn1pkb-NQ6i1uH4hNRJ8qA18LNCYJz3Q,VM5DhUSnUvrKaZzHDlTTQidaql9JkUHcG27EeaY3lYM,AAIC--8/花咲くいろは 第七巻 映像特典 「第二十一話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 18512663
+SHA-1: d53b40b26c9f39ee45926884461580416b9892b2
+
+File : 花咲くいろは 第七巻 映像特典 「ノンクレジット･エンディング② (第十四話～)」 (BD 1920x1080 x264).mp4
+Key  : CHK@Sos9pNJ~keSnHJf2AMkegC~C2oDmr4UGBTSduYqjYAk,NVyu2z~tPoIxKp6ZNjVxYojG6pAELDPwbz5fFkhmjUE,AAIC--8/花咲くいろは 第七巻 映像特典 「ノンクレジット･エンディング② (第十四話～)」 (BD 1920x1080 x264).mp4
+Bytes: 90597414
+SHA-1: d83d46b6a780c28d2c2b2c60af358efc3f6dfa1a
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.01.19 - 17:24:11GMT -----
+
+File : 花咲くいろは 第19話 「第十九話 どろどろオムライス」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Key  : CHK@XelUUd55aLeF1yXmOf6B0qtqM1DH1jprMXOYrEJbw80,fv4v5SqwHIIE4IlE-dBl5YjZkkc-gup1oU1z9gBMo6g,AAIC--8/花咲くいろは 第19話 「第十九話 どろどろオムライス」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Bytes: 926330468
+SHA-1: 1162d770c12aa39a668246d1a162f2a5035464c1
+
+File : 花咲くいろは 第20話 「第二十話 愛・香林祭」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Key  : CHK@ACStKKRczOib6XeyUUVuAd9xhy-r6JSk1FtXKPwNqzU,0NB5ebFWTz4hSY4EN9tUP69XQWXEcJX2Sqhc~ElbDdY,AAIC--8/花咲くいろは 第20話 「第二十話 愛・香林祭」 (BD 1920x1080 x264 キャラクターコメンタリー切替可).mp4
+Bytes: 894611761
+SHA-1: ae9798f0c486af2abbfb190d01e1602f5938ceb6
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.01.20 - 08:40:04GMT -----
+
+File : 花咲くいろは 第21話 「第二十一話 蘇る、死ね」 (BD 1920x1080 x264).mp4
+Key  : CHK@14T5UHJUpwo9vS-6keB7gUPlkEobmDCISSxcVsBzfd8,wJTz7AdSeVh-OYJGFza8ZAFVc4AavQM5HHjpOOvHtG8,AAIC--8/花咲くいろは 第21話 「第二十一話 蘇る、死ね」 (BD 1920x1080 x264).mp4
+Bytes: 842667934
+SHA-1: e7e43da9216161e201a16a750afba16466a5ff04
+
+七巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.02.14 - 16:53:05GMT -----
+
+File : 花咲くいろは 第八巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@K9ACW-M7h6N5kRzOxb4E-oAWmzzyheJGHAgEUaGuF4M,RIKb8C0U69QgD8R9I7aj6lycI~mLN7Qs106eLEMl2Qc,AAIC--8/花咲くいろは 第八巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22746898
+SHA-1: f73884e0b6d2f0096e203d2fdf45587909abbe1c
+
+File : 花咲くいろは 第八巻 映像特典 「第二十二話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@sJvjm15jkaeob1jSPb-B0qkPI~zkdB51X2LKmfM8Kd0,XTjAhBwpKf1YstjvGf5rWdL6Li9S93j09LRVD4Lf7PQ,AAIC--8/花咲くいろは 第八巻 映像特典 「第二十二話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22127285
+SHA-1: 929d9f50ab665d012d768de735e4a19a53bfeee6
+
+File : 花咲くいろは 第八巻 映像特典 「第二十三話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@X9MtlQPe9dFmBVCJGXjkcmPdZtQVhaLY3x7erUXzJIE,Pss~Udllntw5vieWgMHGBRxZaRqmB5W9YgTf6-z-JT8,AAIC--8/花咲くいろは 第八巻 映像特典 「第二十三話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 21874838
+SHA-1: e044f7625fbbe55657a9ca330bda149b36c41dea
+
+File : 花咲くいろは 第八巻 映像特典 「第二十四話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@Hb8Yc0nR818DG4PavpEzSzzRwu5p2EweJcCW4gr8H00,VDu0I3CDqcQFIijUOwmcRJE42v~HHki~cB6ZF0hjup0,AAIC--8/花咲くいろは 第八巻 映像特典 「第二十四話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22070417
+SHA-1: d72f4594c2e7e6c4933a5aa4a93ddd9b52e6fc9b
+
+File : 花咲くいろは 第八巻 映像特典 「映像特典 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@CMERsXT~N4C71DsYwBmFyw1H2812doN7MwPdSWuuWVo,OVZK8nlDKLwUqjcoOzNlNHw9FQivQO1R3M8n3gnln30,AAIC--8/花咲くいろは 第八巻 映像特典 「映像特典 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22218640
+SHA-1: cef0ef42683b0e4965f4c468a446eabb47e0bbdc
+
+File : 花咲くいろは 第八巻 映像特典 「番組宣伝CM 15秒(放送前)」 (BD 1920x1080 x264).mp4
+Key  : CHK@RBpiCGr1ShHXzp77BNBWIKJ6YXT90yLE70X9kqhWMGI,F8msqJeMiaY1Sk61RHBQVub-vpsAUFzS5aUFRkBW5rA,AAIC--8/花咲くいろは 第八巻 映像特典 「番組宣伝CM 15秒(放送前)」 (BD 1920x1080 x264).mp4
+Bytes: 14926526
+SHA-1: 2d9f9f292c4de8c501a43db6cc5674f8cf6aac66
+
+File : 花咲くいろは 第八巻 映像特典 「番組宣伝CM 15秒(放送中)」 (BD 1920x1080 x264).mp4
+Key  : CHK@tlhd9q2s1-70wh8W28n9mjG5oUOXvaOGpmlk7B~JWzQ,UCIZzliZmsTMAxe8LUlgmnWW7RAJWRwL6gb5lbqFp1w,AAIC--8/花咲くいろは 第八巻 映像特典 「番組宣伝CM 15秒(放送中)」 (BD 1920x1080 x264).mp4
+Bytes: 14927341
+SHA-1: 626467abbcd1495141a9f5147d8ce35ef06ca694
+
+File : 花咲くいろは 第八巻 映像特典 「BD CM 15秒(発売前)」 (BD 1920x1080 x264).mp4
+Key  : CHK@UsmgYP7oZ67QgEBjOHCoFxYixVw5Y11CblOaGov-jlU,ft93W-lqMfVeSqiB3FP4~nlKP1dicQykslJjdUJAvAU,AAIC--8/花咲くいろは 第八巻 映像特典 「BD CM 15秒(発売前)」 (BD 1920x1080 x264).mp4
+Bytes: 16114999
+SHA-1: 8dad4a135b3978bdce21435e79e30d3730077e5d
+
+File : 花咲くいろは 第八巻 映像特典 「BD CM 30秒(発売前)」 (BD 1920x1080 x264).mp4
+Key  : CHK@pAJBFYcYBJyfAne1iWT6rg2I4NFwOnTWwqBpgl-sL5Q,C1bPOMI9C2qtTgS7~gJ0O9DEh5R2s4BxQAfrOZT8L3Y,AAIC--8/花咲くいろは 第八巻 映像特典 「BD CM 30秒(発売前)」 (BD 1920x1080 x264).mp4
+Bytes: 37013150
+SHA-1: 206cec700d447e08c0e88021a8b4186b208a196c
+
+File : 花咲くいろは 第八巻 映像特典 「BD CM 30秒(発売中)」 (BD 1920x1080 x264).mp4
+Key  : CHK@hY-0BZ6JSAqw3~oH3rmHwZUEyMbvnfqydqj6OmMrZlQ,LvGLRanni9uWT3SAQtU6kxGbJzsL1e1RE8wGO3A3jvk,AAIC--8/花咲くいろは 第八巻 映像特典 「BD CM 30秒(発売中)」 (BD 1920x1080 x264).mp4
+Bytes: 35789373
+SHA-1: 2d44b776351ffb4fc67407a2599c149f740eb9be
+
+File : 花咲くいろは 第八巻 映像特典 「｢ガンガンONLINE｣特別編集PV」 (BD 1920x1080 x264).mp4
+Key  : CHK@uoYTcDM3PVAVPd34X3Uc0jFS6-LGPPrWW0xhDDWzxJc,5qfqFdh7Rdf64NGjdOkufju7DXadRkSxbVKxYvfXiLQ,AAIC--8/花咲くいろは 第八巻 映像特典 「｢ガンガンONLINE｣特別編集PV」 (BD 1920x1080 x264).mp4
+Bytes: 152284709
+SHA-1: 7ee037c80f532867ef2c22d75ef0274cd724ba7f
+
+File : 花咲くいろは 第22話 「第二十二話 決意の片思い」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Key  : CHK@3wXVnYMn4bXk7U6Ym8GeNFZQTolXqVmLp4tS~7bbXG0,qTX8h4C1X9~19QYLgLWapm~nbjrgcfCVy~LEuc--uQ0,AAIC--8/花咲くいろは 第22話 「第二十二話 決意の片思い」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Bytes: 958274358
+SHA-1: 68fc1e2670e8c681a76bfd9d633053a1696f2e5d
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.02.15 - 09:01:24GMT -----
+
+File : 花咲くいろは 第23話 「第二十三話 夢のおとしまえ」 (BD 1920x1080 x264).mp4
+Key  : CHK@Jamv0uO6VX5kuUdpGgbGO63mxHJ7COE8ZxDHeteOFdM,rbrrwW8FVPTbbRrXaeBqUHsIBJ~Bqa30DvEfqNrht7s,AAIC--8/花咲くいろは 第23話 「第二十三話 夢のおとしまえ」 (BD 1920x1080 x264).mp4
+Bytes: 899415768
+SHA-1: 1de7cbcab719519ffb0e97b822ae1786efe2d003
+
+File : 花咲くいろは 第24話 「第二十四話 ラスボスは四十万スイ」 (BD 1920x1080 x264).mp4
+Key  : CHK@14em-npHYQwusTBj89-hamj0hPoCnoyaMFGYXZxeKnA,fNJo67S-3pe64t~KFFkD7NV-clztJt5LT1X40Ib3aC8,AAIC--8/花咲くいろは 第24話 「第二十四話 ラスボスは四十万スイ」 (BD 1920x1080 x264).mp4
+Bytes: 824160557
+SHA-1: 1ce58ac33fdf33fdf81777e8809344d6b178637e
+
+八巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.02.16 - 18:00:20GMT -----
+
+File : 花咲くいろは クレジットエンディング 「ハイリープ」 (BD 22話 1920x1080 x264).mp4
+Key  : CHK@E3uP7oMgHG8~2rFbFAS4vcXU2Og-s6onSBZCaOFXkCA,76E9CWTWHgzlARGcNiJ3zz3lGNJ0xfvlF6Xng-0c3Ho,AAIC--8/花咲くいろは クレジットエンディング 「ハイリープ」 (BD 22話 1920x1080 x264).mp4
+Bytes: 169631788
+SHA-1: 9d679f30470fe8637b7ca0a0a68e95dd8f003e8f
+
+追加。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.03.20 - 15:47:34GMT -----
+
+File : 花咲くいろは 第九巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@jcNGAKIY8Sz0p90-JSKv6oxjHDS2h7p-nb6pnGxEAOE,973jK7epi1pDLkNzokK7UTr4BO8793RwkurBikqfy2Y,AAIC--8/花咲くいろは 第九巻 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 22224675
+SHA-1: f18a24776dd9f6999185a94abf2f931a28367f50
+
+File : 花咲くいろは 第九巻 映像特典 「第二十五話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@frVR6ZjqmE2bCTO~R6ImTuZXimH3vyj9fzQSAGBx6tU,o4jWJFVTPYhYeD7kYexqcB0qXDqiOFHxpiVqJvXd2Gs,AAIC--8/花咲くいろは 第九巻 映像特典 「第二十五話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 20625987
+SHA-1: f2a0074bfe0714b119d23a7cd97aed25996cb3fc
+
+File : 花咲くいろは 第九巻 映像特典 「最終話 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@9hCXruf3YZsSywUVUHfal0GbnhDyHkqyk55YCZSsOUc,SxHrCwNjw9aZsQmEKB7aNz1~nulPc3ELzc7GmXuDYxg,AAIC--8/花咲くいろは 第九巻 映像特典 「最終話 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 19860538
+SHA-1: 332c6b760ef794741ec65d745d9c05e71a2f66ce
+
+File : 花咲くいろは 第九巻 映像特典 「映像特典 Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@vygpPELVyTMOz-sZUrga3jscxXs0U3zqARJiQpv9z2U,~YECdlOFEqR-0uluLCM6iSlwyqzXJuBEKdoMTIgaKr4,AAIC--8/花咲くいろは 第九巻 映像特典 「映像特典 Menu」 (BD 1920x1080 x264).mp4
+Bytes: 20728624
+SHA-1: 44c55fd9102bc459f25464e6e11d8297613d9c0b
+
+File : 花咲くいろは 第九巻 映像特典 「PV･CM集③ 「コミックマーケット81」告知PV」 (BD 1920x1080 x264).mp4
+Key  : CHK@t~RLzW37TK8hYsafiQ1Ph5c5s2q8cLNVR6vg4e52zy4,Od23hx-vQpN36II2oh2RyycILYzQ2h16vIREiw4i99Q,AAIC--8/花咲くいろは 第九巻 映像特典 「PV･CM集③ 「コミックマーケット81」告知PV」 (BD 1920x1080 x264).mp4
+Bytes: 66226078
+SHA-1: ef5864ad574827e595930be7fe5a163b4a9caa59
+
+File : 花咲くいろは 第九巻 映像特典 「PV･CM集③ 喜翆荘 留守電音声集」 (BD 1920x1080 x264).mp4
+Key  : CHK@reEnPEr-fLa7yiCC9~At3UuNn0IcaIOZAVYvKeVlIVU,JWzJ-8F019HI2dLAvNpo1TTf5xIAyiQoCA-VBPZsfSY,AAIC--8/花咲くいろは 第九巻 映像特典 「PV･CM集③ 喜翆荘 留守電音声集」 (BD 1920x1080 x264).mp4
+Bytes: 186925134
+SHA-1: 3c1af8dd8a48125148c3fbe46c28fe0da2cc8728
+
+File : 花咲くいろは クレジットエンディング 「夢路」 (BD 26話 1920x1080 x264).mp4
+Key  : CHK@u2e1AFSWWZpVwGo63FwEQ02P7aHf3ALz4Q5~vw5BZdY,4C0z0YbUcs997igZtkbqSeXW5OB97~lTgLGM~tJnHZk,AAIC--8/花咲くいろは クレジットエンディング 「夢路」 (BD 26話 1920x1080 x264).mp4
+Bytes: 137216978
+SHA-1: 57fbe5e1c92e7bf340c71837016caa4f44123055
+
+File : 花咲くいろは 第25話 「第二十五話 私の好きな喜翆荘」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Key  : CHK@uBh4yUEvrvurQ-rXsKlc9O04~quIgrt2qI2ium3hWCw,f92cW6WzYImR7rTg6iB3P5NPHm0yynsLcNpxaoB65cU,AAIC--8/花咲くいろは 第25話 「第二十五話 私の好きな喜翆荘」 (BD 1920x1080 x264 オーディオコメンタリー切替可).mp4
+Bytes: 880017652
+SHA-1: f05b52caaec2e33afd0e04f338f73cd90abac54c
+
+File : 花咲くいろは 第26話 「最終話 花咲くいつか」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Key  : CHK@KMFrgPqlrJsqE3rzHXZeuhI65BOQYDZXR59GuBOz9d8,HGq-~Z5nN~ylHO3HXtIX721rDF8K1wuqq5ZAg6vaz8c,AAIC--8/花咲くいろは 第26話 「最終話 花咲くいつか」 (BD 1920x1080 x264 キャラクター／オーディオコメンタリー切替可).mp4
+Bytes: 878779933
+SHA-1: fdb4eb170db47e0d1d37b9cf975cff7cc10e736d
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.03.21 - 05:35:44GMT -----
+
+File : 花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part1.rar
+Key  : CHK@W7qjvf0Y3q53ixh2RpKV6U-gBstZ8mL~j3fF7xJlAdk,PxwJSxFR4Kc7cP5myXBHkgJttABMvHD1fRlFlDKaJCk,AAIC--8/花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part1.rar
+Bytes: 700000000
+SHA-1: c31fb598e8f7cbef2b38d1db87ac69a3396107ff
+
+File : 花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part2.rar
+Key  : CHK@GRfcr1xDZ3zUn9dMBhTGvwJzeLCuvxVOgpKtQkA211Q,Q2oh6NH0lc3TZnXC1eyX0biCZKRQZCxbQPOiVqkJ1aE,AAIC--8/花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part2.rar
+Bytes: 700000000
+SHA-1: 3ca2a6fea1217747129fe36bfb5b8550328593ba
+
+File : 花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part3.rar
+Key  : CHK@uSXlXGsQBfOvv1PFzUireMSha2t7eXkp-dlcDlYi4ss,JQmoLw~g-dQcreFyW7RQeCA8-JfU5l-X85X8WiHF9UI,AAIC--8/花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part3.rar
+Bytes: 700000000
+SHA-1: 89ef6aa198fd7fccdcd9d24304f70ff14fe5ba62
+
+File : 花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part4.rar
+Key  : CHK@KL0X5FtqhzGZOiFE9Y9AAB96UmrBLZNBrYtRUxPqzwU,Rpmt-zOiv4EX26UIj0pfLsUtEvX86yyeiS0TQiK8Pgw,AAIC--8/花咲くいろは 第九巻 映像特典 「「湯涌ぼんぼり祭り」の思い出 (2011年10月9日に行われた「湯涌ぼんぼり祭り」のダイジェスト映像)」 (BD 1920x1080i x264).part4.rar
+Bytes: 650734054
+SHA-1: 481053f29c306e51beeaacfd71f444999115a83d
+
+終。
+新規映像も作られるようなのでそのうち10bitでやり直します。

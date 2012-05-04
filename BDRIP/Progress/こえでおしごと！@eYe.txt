@@ -1,0 +1,26 @@
+----- eYe@pLCsPlUHYRYwZvakz9b1pR4WQ+k ----- 2011.05.15 - 03:24:37GMT -----
+
+File:  [アニメ BD] こえでおしごと！ #2「ナイショで声優！」 (1920x1080 H.264 AAC).mp4
+Key:   CHK@lGqpve7KXeB0reoR9-FFNITsoZb2AUq0zgbDYH3sP1o,zEuC5nDjCofZX8LGhyrurWeFpIEoSUtMbVReY5kl7dw,AAIC--8/[アニメ BD] こえでおしごと！ #2「ナイショで声優！」 (1920x1080 H.264 AAC).mp4
+Bytes: 445424438
+SHA-1: 17a39a8abc4f333d5ff24bf113b64757f55cc786
+
+File:  [アニメ BD] こえでおしごと！ take：2 ワーニングメッセージ (1920x1080 H.264).mp4
+Key:   CHK@Bw56jKlaxwOmZdlF1~KXVG3p7H5n7~KQWDb-skRs9Pk,HDJGnmZ17LDy~sQ~dqTikagdG2SN7NSe~PtOBr5FQgg,AAIC--8/[アニメ BD] こえでおしごと！ take：2 ワーニングメッセージ (1920x1080 H.264).mp4
+Bytes: 2627022
+SHA-1: 24ff7773d42e34f8baac878771ee4af5212dab9d
+
+File:  [アニメ BD] こえでおしごと！ take：2 特典映像 PV (1920x1080 H.264 AAC).mp4
+Key:   CHK@yVEGng-ePkDix2V6KJ02yJs4KAaB2Tmm3CwF8TXqH7A,xpn1Dx6j5S5pcz~P4OudNPRMu6xqQvoBrersuwNv3wE,AAIC--8/[アニメ BD] こえでおしごと！ take：2 特典映像 PV (1920x1080 H.264 AAC).mp4
+Bytes: 36587942
+SHA-1: 46406963282b4c371bf84747057d27afb51f1232
+
+File:  [アニメ BD] こえでおしごと！ take：2 特典映像 ノンテロップ エンディング (1920x1080 H.264 AAC).mp4
+Key:   CHK@w0TmS-xII8m96yQgGaNne1O-dFxOo6I7SsA8Jm4qr9I,EV-nhMzPXDFn4ByzPw3i6GTuwHWKF1vuFsmkrkmBydQ,AAIC--8/[アニメ BD] こえでおしごと！ take：2 特典映像 ノンテロップ エンディング (1920x1080 H.264 AAC).mp4
+Bytes: 26160851
+SHA-1: c4d403dd90e2da7402ee1285c826ad6d5c32e9fb
+
+File:  [アニメ BD] こえでおしごと！ take：2 特典映像 ノンテロップ オープニング (1920x1080 H.264 AAC).mp4
+Key:   CHK@MKz4ePoqAYMoLUooSE~1mhr1e95EfcMes0thT2Ihvt4,M-2YyTEj4IFp9mvfFlY18iRuZQCSMAyrSF8WkEWf~Fg,AAIC--8/[アニメ BD] こえでおしごと！ take：2 特典映像 ノンテロップ オープニング (1920x1080 H.264 AAC).mp4
+Bytes: 46948982
+SHA-1: 15265ec7e77a5aeff498da37b0fa33f3ef485b8d

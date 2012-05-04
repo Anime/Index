@@ -1,0 +1,244 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.08.18 - 17:24:33GMT -----
+
+http://www.typemoon.com/products/cp/
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 1st Season MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@1hymG48bTVZnKAJy3ahXjs5MKM~b246P6wCv90sNaKA,OEE4IkTUscXd3S8aw4wbrbyp6exCEDHoC7G1~dtPq-E,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 1st Season MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 14458912
+SHA-1: 28be775f9228439845132ae31d2181165aba3e9a
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第01話 ｢第５次 魔術師大激突 チキチキ聖杯戦争｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@lvlKTiRNV-RMf27qc-YfPtQYoHnQOEZO1qUIZeHFDdE,lvi~yA3ZmYYl8tB76pzzYE3G7HfTkplpLA7zPe9KGqQ,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第01話 ｢第５次 魔術師大激突 チキチキ聖杯戦争｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 572466016
+SHA-1: 3e6914ec73f1a235882c0a78daa1d66da980f7b7
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第02話 ｢ドキッ☆メルティブラッド｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@Q-6Mb7Kvu3ybQw-ZqCCFzj5GXP4TUcVcga66Qi3ZL2Q,AuUThiEcCp8XlhKGUalA6xeonqm7O66lZuEXT4VkrWY,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第02話 ｢ドキッ☆メルティブラッド｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 658652318
+SHA-1: 5017f500695ccc403ae45c2e509e0b75ed62a230
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第03話 ｢どこでもヒナタノユメ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@GpP5FUBXQdtOHpEoft6Io1sTtNbOxgV-f2bod4haaHU,LUwtX~yWdXNXqIBrAy9R8IEI2nQr5U-cAGkSVjfvKdc,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第03話 ｢どこでもヒナタノユメ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 567579918
+SHA-1: 7980c5950f6463081c47e31b6c69a9a3790bf6f2
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第04話 ｢ドキドキデート大作戦｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@xUDQ2F4bgunJU4fKLqmgEddC5orp5aCXDb8ZPTB9nBg,at4jFGGYQKslkwFGyjwdzu1p3HqllDiH7ryviqMhts4,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第04話 ｢ドキドキデート大作戦｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 582988911
+SHA-1: 3900d29f3d40ce5bda0002b2a0f2ea0f6173ae73
+
+----- Anonymous ----- 2011.08.21 - 14:51:47GMT -----
+
+Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第02話 ｢ドキッ☆メルティブラッド｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+8分24秒辺り
+古めのデコーダー死亡ですか?
+CoreAVC2.0 ダメ
+ffdshow_rev3765 初め再生できてたのに何回も確認してたらおかしくなった(PC環境壊れたかな?)
+MPC-HC.1.4.2604 H264(ffmpeg)問題なし　（ffdshow_rev3765より古かったはずだけど）
+ffdshow_rev3914 libavcodec 問題なし
+CoreAVC2.5以降はどうなんだろう?
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.08.21 - 16:26:35GMT -----
+
+なんか崩れますね。直します。
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.08.22 - 04:41:49GMT -----
+
+修正版です
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第02話 ｢ドキッ☆メルティブラッド｣ (BD 1920x1080 x264 AAC コメンタリー切替可 rev).mp4
+Key  : CHK@u21t7FSvWbNot1LC3C7ckqoV4ILS~2Of3p~RvXGPGug,eeBN9az5yTlAwYPyGX2DX5ROdh7a-hKsiGREd3aQMQo,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 1st Season 第02話 ｢ドキッ☆メルティブラッド｣ (BD 1920x1080 x264 AAC コメンタリー切替可 rev).mp4
+Bytes: 658654304
+SHA-1: ec461798f638d0625e071747a6f8bd06bcb2a1e4
+
+----- Anonymous ----- 2011.08.22 - 12:02:13GMT -----
+
+おぉ、ありがたや～
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.03 - 03:33:27GMT -----
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第05話 ｢バーサーカーはじめてのおつかい｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@z88oDtwqvEGWQfHZ~kOsUfxVCq~GeM2XmdIIG4fFmpI,Raj11qwUnnx5tKOyfRv46jmxbKPm1ePiZ8LuVFYwKAk,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第05話 ｢バーサーカーはじめてのおつかい｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 610770199
+SHA-1: dc257dafa2e4bbfe80e3d95620d136ae33ccc3c1
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第06話 ｢型月連続テレビ小説さくら｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@MWefbzhWBr6fyjnWDiF3nt384HriASnhNv4-~vpxM0U,JiJ3PuaaYfKRS6ZWJDxiL799x3TOlHnlwkypsRU4kFc,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第06話 ｢型月連続テレビ小説さくら｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 563183407
+SHA-1: 633f6e7b5f8e856693afb2ea82d1ed3de21753f7
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第07話 ｢通な贈り物｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@JqpCWnG2IWKLNX9P2OXsBuKN23BMFBNbdQccJ9Y-emU,vsU7ZZhel1uRRbBLkA5dWrasisf-1tnBSUFCpbOb-So,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第07話 ｢通な贈り物｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 647186188
+SHA-1: 82dcbf94ce46bd722eff4d00dad87669e87aefdc
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第08話 ｢はたらくセイバー｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@LGPon08~AwCGJMBrdfVr8I3T4DRc0ykIEqcVszJWadQ,GxAqAppHf8G5QxGKs-VYQ0InkSNs0-DWoBn8sRXoe~4,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 第08話 ｢はたらくセイバー｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 546278573
+SHA-1: f31c24be1190b57dcb374e5047791d7688ef1b2a
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@E8uj8eEcAeMlAyRSHtaZv9p5ffrFruO1CTSAo3tVW1Y,65YiDMxr08LmzrlhPl5Ow2J84nGg6Y1UbF4HyS2mums,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 19457433
+SHA-1: 5d45c98b75b32a517473ddd49899b23c30f33756
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢音声付 風雲イリヤ城 第1話 『柳洞池』｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@4CyPdukpLiP2-2-d-jlrlC~v~RTiy1w~S8k9XGNU4cM,xZJ-oJTisKa3m6YF-06Ud8zkpY711Mx3KtOCpxM13tg,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢音声付 風雲イリヤ城 第1話 『柳洞池』｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 66208593
+SHA-1: 6465672075461f3dccb82298f3aae1b2e690d158
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢音声付 風雲イリヤ城 第2話 『きのこでボーン』｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ycvXVUR-MbfpWwI7qLGmUlnjRXBk429BWeaNhEeh-90,Hmb2pMmc2HvOeWcgzGLG-S2AP~y6HTlsLKAA0eCjMSA,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢音声付 風雲イリヤ城 第2話 『きのこでボーン』｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 68899363
+SHA-1: ef54836b8e04c03474c143feb692dfc2f090056f
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢音声付 風雲イリヤ城 第3話 『ダイ・ローレライ』｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@VzH3KcXn5AZpze~EsdxtprI6edhdHuCiXcI9KQnuW8k,nky~HevJFBgVx5OIRbuJYMS5qQuH8IgwB34ZIB7aLMM,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢音声付 風雲イリヤ城 第3話 『ダイ・ローレライ』｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 185067019
+SHA-1: 5966f4740ef6258dcb46154b5f37938fdbad97b0
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢第5話コメンタリー『バーサーカーのせいたい』｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@2wqlGmpdP1JDYFXZgoHWf08D0zlpMmzmDfI1HFZH5b4,VIcsRXjxWD~SaZd7f2AXW-BriySRraVAb3YxqAo0l3s,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 2nd Season 映像特典 ｢第5話コメンタリー『バーサーカーのせいたい』｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 258864809
+SHA-1: 5fe14442b199b34996df493a0b7b1fe70504d92b
+
+----- Anonymous ----- 2011.11.11 - 02:33:31GMT -----
+
+5～8話のチャプター名がデフォルトです
+ついでに言うと日常の8話もデフォルトです
+
+----- Anonymous ----- 2011.11.11 - 03:01:56GMT -----
+
+それくらい自分で追記すればいいと思う
+仮に流すとしてもテキストファイルだけで充分
+チャプター弄っても動画本体に影響は無い
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.11 - 03:21:27GMT -----
+
+MP4BOXを別なのに変えたら直りました。
+なんか全角を使うとおかしくなるときがあるようでした。
+
+chapter.txtとmp4の両方を流します。
+
+----- Anonymous ----- 2011.11.11 - 05:04:01GMT -----
+
+txtだけでいいと思います
+わざわざ大きいサイズの本編を落とすより
+txtとチャプター名の直し方を教えてくれればそれでいい
+本編mp4は流す方も落とす方も手間がかかるだけです無駄です
+昔@Negi氏も同じミスをしてtxtと方法を書き記した物だけ流してました
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.11 - 12:08:15GMT -----
+
+とりあえずtxtをup。
+
+File : Carnival_ep5_chapter.txt
+Key  : CHK@iduHoC~Ki7isWiEgN1lW4PhDav5d5IkJc2xBTcUd9yA,DeWOZt-i3WhscQr3QXKPKr-Kl0ieETbQv9oeAadOopo,AAIC--8/Carnival_ep5_chapter.txt
+Bytes: 557
+SHA-1: 
+
+File : Carnival_ep6_chapter.txt
+Key  : CHK@Udvs-ckoW~LisMYSE6MxUaCgsViGDE86p6hNSgAgyRo,Di3el7YAWisurJQTpfEP-NsOVAdsMmq5AIbnVRnKY8w,AAIC--8/Carnival_ep6_chapter.txt
+Bytes: 558
+SHA-1: 
+
+File : Carnival_ep7_chapter.txt
+Key  : CHK@VCeOay~Ww-i-K7h6m~1tZrOa8UL~VH~4zxxCIxiikfw,pyR7e~LnZQVMHTqv6oUMPhSvKkGftawO80sYCCUbv70,AAIC--8/Carnival_ep7_chapter.txt
+Bytes: 394
+SHA-1: 
+
+File : Carnival_ep8_chapter.txt
+Key  : CHK@kbDA-UNi9siz6-xT7e1Ffl6NQL5g5vaNNNStqVrPdmQ,MAM2Nh3GKQGXAhqg9CsOCxBbVizPFmFW93H7BRUXN-Y,AAIC--8/Carnival_ep8_chapter.txt
+Bytes: 393
+SHA-1: 
+
+File : 日常ep8_chapter.txt
+Key  : CHK@1pei6Jf-FHkCmFVm5sWs2FpwA54lAYW5xec4kZObGpA,GKqsv5zS1~YO2Ly6la5c5AXAlPqhKWfqPSiwubzm7NE,AAIC--8/日常ep8_chapter.txt
+Bytes: 948
+SHA-1:
+
+----- Anonymous ----- 2011.11.11 - 13:46:44GMT -----
+
+これにMP4Boxと各ファイル用バッチ？と説明txtだけでおｋじゃないですか？
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.11 - 14:05:19GMT -----
+
+あーそういうことか。
+chapter適応バッチファイルのセットを作ればいいんだ =D>
+
+ありがとう
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.11 - 14:59:07GMT -----
+
+色々とお騒がせしました。
+
+File : チャプター適応バッチファイル.rar
+Key  : CHK@JB3Y7MV3NWUU~3Tbu-YCNg17jZVrqzs4qRE9mnHkIns,aVRSDvDMZjo12fUSoab2U4wf7TzzJwfncTSd~U85DNM,AAIC--8/チャプター適応バッチファイル.rar
+Bytes: 1224448
+SHA-1: 71be16bfcd5609b97d44bb13a35aa7b6dbda10ed
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.30 - 10:05:55GMT -----
+
+File : Carnival Phantasm -カーニバル・ファンタズム- EX Season MENU (DVD 1280x720).png
+Key  : CHK@E8CluBTvzeEBqubN2Ke8OtdFQQQeqlnxxCMT-s9x0rE,~HLXm7EcWXiQhEPTtJ0g~1L6N4YepyDT-HNY5SpSA6E,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- EX Season MENU (DVD 1280x720).png
+Bytes: 1398126
+SHA-1: ac399c6706001c380ff2add43863044883a9ea78
+
+File : Carnival Phantasm -カーニバル・ファンタズム- EX Season Chapter1 (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@Rychk2rQK61z~Dm4areRCikmn-C9CQWL6Hvd3uVBtD4,sxa67Pm0bMUK2gGafO~bEnXWVTC7eM2kwJg4ySI0iUs,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- EX Season Chapter1 (DVD 1280x720 x264 AAC).mp4
+Bytes: 332991943
+SHA-1: 6c7497b00a6084e3c331d309fa6d0efba8e9a3e9
+
+File : Carnival Phantasm -カーニバル・ファンタズム- EX Season Chapter2 (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@BGuA1NgzRnYFV3EPV0JFeKJ3so7L1zo0kYB0NYz3zoE,YpKd0V-Fl6WImo9gh04Z8~QSBhQU9oGhU4Lqz33P1OA,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- EX Season Chapter2 (DVD 1280x720 x264 AAC).mp4
+Bytes: 255230571
+SHA-1: 776cca0245dd53e86c75c8c6e45bf7a980254e2a
+
+File : Carnival Phantasm -カーニバル・ファンタズム- EX Season Extra (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@TYwDeGa1qIskI5qQ~3E6oKusgzoaLvfvmgYDhQWGESM,KA99lK5Gne9YuGwh6LaVsbsyD9CMbAzUxA2qSCIfQ1Q,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- EX Season Extra (DVD 1280x720 x264 AAC).mp4
+Bytes: 104035592
+SHA-1: 1dcd873c9c2744e46a3ec45464a34a5064004288
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.01.03 - 08:04:19GMT -----
+
+おわり
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第09話 ｢SEIHAI GRANDPRIX｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@q7qiL-o1hKlHRGqNeve5B3aToFAQhR12XsI83Br0E4E,2gWpWfaI0-fCj1P95wiFQO9IJBPxxpbGRjgkr3erdoY,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第09話 ｢SEIHAI GRANDPRIX｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 834643661
+SHA-1: abf4ea4cdd8adbe2b6e59a530d8cef16074cd502
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第10話 ｢洗脳探偵ロリ返り｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@6y~00GvBMW9jDQ4F0c4MhJThxDRzyoyM~06~IXCgGEA,J56cwqXkU2X0APxphw04jQgQrw0ddxXacC-SnDBxNUU,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第10話 ｢洗脳探偵ロリ返り｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 562893191
+SHA-1: d650c3dfd190e0e6ef6eff6f3694eb1dc834c8a2
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第11話 ｢FINAL DEAD LANCER｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@corJLueRlXcget9BqvIapOYzpeOngc7xazBjgLO4Q6M,DVBPbsTeeTh6voF9nWDlHo-zLvDJRepUWkWBFoR135g,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第11話 ｢FINAL DEAD LANCER｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 489148011
+SHA-1: 809c0d1fc052f22d60a88ae6656d0db822370417
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第12話 ｢ドキドキデート大作戦 解答編｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@5SZfemFKVXFSbDEzn37HZ5kZitMc-jQHfn8yN4uKQY0,C8R3~dFSxNTHH27Y3-~tjVhs11cnyyqvmPT1MH7MrJw,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 第12話 ｢ドキドキデート大作戦 解答編｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 698749354
+SHA-1: a7613de2f85e78ab497e982a7e616ad8935ddd37
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@TptA3JfD4gWGG~WsqnCj58LP0L5xwrX9ce2QBW8NnMc,PAMT1zCbqLE8NcOEXqzaqPSWEb72p1c53byvljG9nz4,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 16837302
+SHA-1: 34a2985bb6d9889455c2719aa011c92b0e27c6cd
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 映像特典 ｢オープニング（ノンテロップver.）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@A~MV74DcmYMp1yRdc-FScUHEHxjCf5qzUuOX~tP6Zo4,KmYT2ZyjpODsAWTVZmvl58UwVc6P7v7GwXkYWq3v6ew,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 映像特典 ｢オープニング（ノンテロップver.）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 117004239
+SHA-1: 36c4ee6f99967249d6067214c6ad04727b1d449e
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 映像特典 ｢エンディング（ノンテロップver.）｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@WGaDLXPFnNFeTqsUvRF4qCV4oO-TzjZqB6osTdijoKA,MAF2QNKeX1CLu-hsGF4oZDlYmJpFDLypi~6OLipi75Y,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 映像特典 ｢エンディング（ノンテロップver.）｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 55250002
+SHA-1: 087e0e004a77faae5e6ddb6d1dbfd8c53ab56f31
+
+File : Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 特典DISC ｢Fate／Prototype｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@HUlRWNG6X5bcymt8x-vc7C4D8B7a9vPEspbcXRP9B0Q,4bry1yOhS7eyIOJASA1R4Ddyc33SrK2-0kudc94ho7c,AAIC--8/Carnival Phantasm -カーニバル・ファンタズム- 3rd Season 特典DISC ｢Fate／Prototype｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 355143648
+SHA-1: 72d2f3c7fe37971c3e1abfafacd64e49e1b1782a

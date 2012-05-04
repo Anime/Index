@@ -1,0 +1,146 @@
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.09 - 17:07:45GMT -----
+
+10bitエンコード。
+再生環境が整っていないのにファイルを見たい間違い勇者さんは以下の所でも揃えれます。
+
+MediaPlayerClassic HomeCinemaの内蔵スプリッターとフィルタは必要が無い限り全部OFFの方が良いかと。
+mp4スプリッターは色々問題が有りますし(チャプター指定で飛んだ時に前のシーンの映像が映るとか、まぁdelayがどうとかいう話に繋がって・・・)
+TS系のスプリッターもLAVの方が数段上とかetc。
+
+MediaPlayerClassicHomeCinema&ffdshow
+http://www.xvidvideo.ru/
+
+LAV Filters
+http://forum.doom9.org/showthread.php?t=156191
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.09 - 17:29:45GMT -----
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part01.rar
+Key:   CHK@AXBH~Bb2Ils92qhPrpERHSJmhZJOltdE0mVhByzPU7M,G6ct~mW5OYjDJnVwA~wsLxIBUMQikcQYcML7bQEAUTQ,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part01.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part02.rar
+Key:   CHK@HWzHGLEzKfsaH4dzbahMRj~lJyf3vuX2kNNglFF1F2U,Nx5TXtptzQdpMpyaMbWy1rZbf1rGGy55me3SMczIUkM,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part02.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part03.rar
+Key:   CHK@OmTXEc0CKjLCHyII4hFciigka0IVSYUF3JxGjP22awQ,pyUgbctOfDCOiFzjb9lqp9U9UYD8KVt8NoZR~u~BwaM,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part03.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part04.rar
+Key:   CHK@Fun7kvAxAka6MnX3mE-1Xp8PHWF7xeZmJDtlgwd5Fs8,4lH1A4k-JLRsAaeQyJREBa0MvSaDk0x2U6Ztlxrjyg8,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part04.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part05.rar
+Key:   CHK@AO2lncL7ckP3OZUgzynmQjZnodkdDQJLVRnoPGNTtak,g0cEJtOJQ0nkA35XZR9Yt7Eg-vAynIyoHa8q3d2AAVg,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part05.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part06.rar
+Key:   CHK@SjpNfGFdqjA-MRLsQSlPoNy~huc8pQ8LFC6an--ZF7A,X9FwJsmpGi8dbr9ioxzTl8FnfR-u36E9zVgUp0t8Fac,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part06.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part07.rar
+Key:   CHK@NLEjeSb4pp8PUjGKdf-hRROyiNdVDs9oJ2gNgjNWfAo,orkn2YeTharQ9Hi8r23tmM47XyJ5LvDdYS2VPzv0pZY,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part07.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part08.rar
+Key:   CHK@DcEZrwD~vaFi-aGAZ~OWs08w88znygBBiJLmPrGfi08,17rcr5gjOcsinMIoU~JCbFHDRHVJI1jACHm58UxkcHo,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part08.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part09.rar
+Key:   CHK@i~qRtXL~1ftILHY3KVVfvjimbl11QaiFfU0P~cNIyRI,p8roeARcpznJNClRSztszt3w86LFIwcytJ4yx5KA44U,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part09.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part10.rar
+Key:   CHK@Eb-7UMDJVgkdgqVCtXLBX8AozNsUxYryVYK2TooQhh0,kkslnMmpiDLxp~lu9XTZIa7WYM-fn-9m4TvSaIWIFwY,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part10.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part11.rar
+Key:   CHK@SVvkhNGV07KzOjoDXtOtsGiMB8-5V5OagvY4kNY-CiE,bOCBwGLYyap1KIwJ1ol5X8JQLB-CpFpoOwf~mM8gAo4,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part11.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part12.rar
+Key:   CHK@dVTLV3hOosiRO22LjpF8FiBtxwR2xfr4rr74DQ0ZM7A,8a1QhVN2TWDbmP-A0~O-gVJWKijiag9MOgA08dbGl3c,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part12.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part13.rar
+Key:   CHK@2fJRUvN3OuHoY8PlpQJpIYSplDU1yIFJvpcNWXOIKS0,9HrHg~pUBX4VoGFSWH9IqNqFygbHz3tvLZMGzBen62o,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part13.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part14.rar
+Key:   CHK@k1KeuDSGxUbpKA-fcs-srHd4MlyU7ehHYYPPuII~FBE,aTAKyMaI4kA8540hpqAlEI4jOvopct7SbrTMbxLccqs,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part14.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part15.rar
+Key:   CHK@p8cpT9~OnbB3B2LrLvGmsf2s5LbjVo7TONRlm4ZbRto,gM~ai3KTeq8IA8782gWMkYumQDYP893FvIabpZZVcCA,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part15.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part16.rar
+Key:   CHK@gBs8tO61NwGi1tpBq6B4d57JH8r4eDPIbkgVhsiHQIQ,KmoicWCibvAY99UROfHdgphVxKedisoIRulaGs7P8-M,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part16.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part17.rar
+Key:   CHK@VKDVGlR94ko2P0uRPOINFxJCPoXrdDrkVY0~Z6SMOFk,59Fl4t9sJSxgo5ELP9M1AUCgS2FKRt9fmatjtkwwnSg,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part17.rar
+Bytes: 519045120
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part18.rar
+Key:   CHK@hyRGjmsnLCTDzWG0Haxr0Bo-AKeDtcdP8JtXhSXxDJc,0oKYNKHS3nvlIi~kKUXFRId7AuDnwfIeTYM44mI2s7E,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS(BD 1920x1080 x264 AAC5.1ch 10bit).part18.rar
+Bytes: 511188509
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.09 - 17:30:49GMT -----
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS Menu (BD 1920x1080 x264 10bit).mp4
+Key:   CHK@rK9eupsIrkg6pBBdJ-MyW1iAIXFQexWsM-us7hrUr7k,XkZDAQkQTPX59BVMsRMACdYN4-6GgsobIUgwoqvXCCA,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS Menu (BD 1920x1080 x264 10bit).mp4
+Bytes: 53008183
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 Blu-ray&DVD発売告知PV (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@XUDVAm7RUVPPWiVnOnhpL6DygfP8O-9aIjGu0lxELbY,4X8mMH2wOrll8OhXWLf-NQTHG3puXKxYaBoBpBrH26A,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 Blu-ray&DVD発売告知PV (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 297373873
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 Blu-ray&DVD発売告知PV(ショートバージョン) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@mF1YSRbLYpKMEYXU--3Ja9tnXNZonfJIV-JYR6LqJEM,Mp4-rFg0fO0vzXy0T0aumNvSqmqACiE87MP~Nws-ZyQ,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 Blu-ray&DVD発売告知PV(ショートバージョン) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 136090305
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(Blu-ray&DVD／発売前) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@N~LB1dmbHAYQjjBPzgJUf~M46d6Fky3pZf4Ece-mFQ8,iGT2017GT~P~fpCx6Zn~J6sQAGWMyk1oNuMoAUkGE6s,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(Blu-ray&DVD／発売前) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 22118867
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(Blu-ray&DVD／発売中) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@qKh8yOy07iyTCAL068P17YOlSbiiHgkKZImuqPNZF6k,7ehkUFadnZDT~AR6UF9JDHmWZUNK6ScReijHZlzBSNw,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(Blu-ray&DVD／発売中) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 22231310
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン1／公開前) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@LHMtq0jsPgo3Gua80eOGpjSBVcB1XeVi1u0VnFgHcJQ,Wi9rCHdnqPE0TaEBepIOreMvMTEPB9-7Wvw6Nax9fEE,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン1／公開前) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 25876867
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン1／公開中) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@F0hRICm0n8-VYOHCar9gh46XiC2LXur1jcyeji79Ufk,mJvMn0PyEsWEzillnezOWpNxAhaKHmH2k0MqSBtwdr4,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン1／公開中) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 26493870
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン2／公開前) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@8sYpLXqnP4Gn-D8c3OnofCEACgzPQ1oa4GF1HUyvGHY,2UyUkJnid5Fp97-a-Fm8HAL~g2bayFYYTC4QEbp6FFk,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン2／公開前) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 26656222
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン2／公開中) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@XjjLm4fhgXYCKgTB8qBITo12c2AVIbSQoYfyAwjrnNk,drpil~nBrSBpLkv~HZRa7LrExgwLVu3fmjGfeKGsmZw,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TV SPOT(バージョン2／公開中) (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 27276505
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TVシリーズ総集編PV (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@JmAtxZ1KLWGgXzybr5sNuhuTU3H6eaAvtE2fRp9ExTU,V7s5gTPuncQ2bOcxfkHthMoKlSgqMA1uUBFa43ub-3Y,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 TVシリーズ総集編PV (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 58741524
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 海外プロモーション用PV (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@moVh-4E1KR86~n6BJG90CJAMgNcZ1ZVOrjyY8f1FI~8,yji4kK6iPtuevFNTHkjW9L4Tp2sDE9j4J1m3YJ08P6o,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 海外プロモーション用PV (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 61857156
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 劇場公開告知SPOT (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@JOaq~xm46Z5mIeRL0ERw-xVOIkT5UZz9nYaMkE27deU,E0eGjKA36XNqxK9HOjhFxKKg3g99hyF8xw~LugfPGrY,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 劇場公開告知SPOT (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 25755065
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 劇場用特報 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@bcxgRyCv5ftEzykoQb8FSJlwbUgIa~Heg3iOxeStu90,8CW1QM0-mRlWnMAbPd8sUmvJkG78atK6CypLpfXXApM,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 劇場用特報 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 93712724
+
+File:  劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 劇場用予告 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@ce2sszMNMFKHf-QrQQVmKJf9texL9WbGVOn99ytyivo,NfjAW3ecovlnhIiQ~3N~yJei7VFcjp9iIcuf9g5HCyc,AAIC--8/劇場版 Fate／stay night UNLIMITED BLADE WORKS 映像特典 劇場用予告 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 289333839

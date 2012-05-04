@@ -1,0 +1,144 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.04.03 - 21:43:44GMT -----
+
+25分割です。
+
+Name                                                                                                           SHA1                                      Bytes
+-------------------------------------------------------------------------------------------------------------  ----------------------------------------  -------------
+宇宙戦艦ヤマト 復活篇 ディレクターズカット (BD 1920x1080 x264 AAC[2.0+5.1]).mp4                                05d466517b6defc2037659d99813587f5065859b  5,733,563,185
+宇宙戦艦ヤマト 復活篇 ディレクターズカット MENU1 (BD 1920x1080 x264 AAC).mp4                                   b1eb17d04835f410815a0d1e41430322050c6577     43,499,288
+宇宙戦艦ヤマト 復活篇 ディレクターズカット MENU2 (BD 1920x1080 x264 AAC).mp4                                   50d5a1b68d1852f071f2979964c8568a31e88349     16,490,869
+宇宙戦艦ヤマト 復活篇 ディレクターズカット 映像特典 ｢『宇宙戦艦ヤマト2199』PV｣ (BD 1920x1080 x264 AAC).mp4     eb616e4bcd905847bdacdc63163067ef981de55a    216,811,680
+宇宙戦艦ヤマト 復活篇 ディレクターズカット 映像特典 ｢トレーラー｣ (BD 1920x1080 x264 AAC).mp4                   369247e09ebb3c7117a761a0a7e5b01ea9430ed3    166,001,166
+宇宙戦艦ヤマト 復活篇 ディレクターズカット 映像特典 ｢羽原信義編集予告編｣ (BD 1920x1080 x264 AAC).mp4           97f56166cb0500464934d4e7fdcc20c2f975c6a4    415,958,724
+宇宙戦艦ヤマト 復活篇 ディレクターズカット 映像特典 ｢小林誠×羽原信義SPECIAL対談｣ (BD 1920x1080 x264 AAC).mp4  4655ff0261cd2e91b0208a06f1aef6e138724912    683,548,411
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total  7 Files  7,275,873,323 Bytes
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part01.rar
+Key  : CHK@RW8wSb3V66piFu1MfA6yNAT4hd-ae4MwlzcybBKOZhU,yRmUHUKTqGxsKNQQ4DxrxcKTQSJstFdEbv3hwzrHtiI,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part01.rar
+Bytes: 292000000
+SHA-1: 0554f6992f3a47c0b1f52ea553d6943176f18de6
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part02.rar
+Key  : CHK@v~ptMmlTPAA3hmArtgBO7f31Gw45kH1ilrXfHn0Mt-4,L79SLmXY2yUkXPycOnTJkNV8IVxj9phV1NIA1TEJMFo,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part02.rar
+Bytes: 292000000
+SHA-1: 4b93cebc75c59f6f80cb576742e24145611f2743
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part03.rar
+Key  : CHK@5uBKpl7N6ngzW7g0upTUPJe59dMaK9fGzUM3DM-gCcM,7NNnASTtHTABUiS54U7uPYg-9BBRLc1DOttmvwnoUyY,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part03.rar
+Bytes: 292000000
+SHA-1: 714a29f33f9b48257696f460a4994fc1ccc08635
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part04.rar
+Key  : CHK@mbkXhXtd4ZMgeh9vMqXE~1TkWB-3jsM8PfRjDATyzjE,lqTa~hSOoy3l6ITmefPSBSsbDOt5owOM9dkd8CdxqKU,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part04.rar
+Bytes: 292000000
+SHA-1: d1d87285bef1da4e6cee38729d2e9b9d822e922a
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part05.rar
+Key  : CHK@NwEPI9DlSYXDmxTfSGyI6Q286lS87EMvZJPiuAeY5u8,I5MHQb-9mC1bADHxC57wCZbqRhglIQI7BUlERyTQ6LU,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part05.rar
+Bytes: 292000000
+SHA-1: b697acb29d101ff95e71643751e4d8093904608c
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part06.rar
+Key  : CHK@DFfOz5Ds9phlXV9qe2h0ASyvtSd4XXTvLZXM8tNOs0U,4bhObF5cYpY~AJD9bhkmuX8uJ6wrDPB0KPPOCmUZX98,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part06.rar
+Bytes: 292000000
+SHA-1: 8f31f76e8be22311708accc23682d85fb7f05f87
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part07.rar
+Key  : CHK@uKte6~AK3GFHOZW7ha9Pgis8TJYEl-LVLFXB1I5WPS0,O9PXehLNqcUjSubcB-g4rHd704uCcNhCdDx3VXasWH4,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part07.rar
+Bytes: 292000000
+SHA-1: 8883c76af0e2e0288b9c293d29680c63d48b4e44
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part08.rar
+Key  : CHK@rvd1CNRr~3JIAeheqEC4AuAXG3rRhoZi-ROSAUqBIfk,6GodmlxBKHta1TKeoftaxDp6Vd6eRUm~6dJ6EA1th7I,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part08.rar
+Bytes: 292000000
+SHA-1: 1d68c6aedca8e32da7737e2d8d72f8f8b3a28cb5
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part09.rar
+Key  : CHK@B0nS4w9NZhnt75uEF32dFlcQP11Oj-WBlqtzg6LcMJs,QD-92n7kxvMLfVW1mEmSmmprs~JNrjyHB-3BBaGagUA,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part09.rar
+Bytes: 292000000
+SHA-1: 55c66a581a1cee5d3a7d1f3d9019796a23a153ad
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part10.rar
+Key  : CHK@KGa2rIKHAutrNbXWWUJufyURFnMFN1MBCDpNCWC4w2I,8DTqBIlUxp6yMfizHlSP-xGbrvPI4RZ-FmXxuE~OIcc,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part10.rar
+Bytes: 292000000
+SHA-1: 603b976dea2e5e68e7249011318ec454d23d4fe5
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.04.04 - 21:32:41GMT -----
+
+おわり
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part14.rar
+Key  : CHK@o-PXo2NB8yG6~00auIWL5xY0~s6To1t3dSXqaWdx4h0,R5pBOcCN2dPf0l2Ds0f5VaPr-YXFjvgdU0eeDziX3tM,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part14.rar
+Bytes: 292000000
+SHA-1: 569afd12358a5931f51e494fdc9f36aa9fec6092
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part19.rar
+Key  : CHK@iAT-r32fzVM~wwYW6RQAkTzuHve63h44QJpd9do6P1o,02B3InOMU~G5iKaJsrZHsqH8TrzzEHni6LCYIofw65k,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part19.rar
+Bytes: 292000000
+SHA-1: 94ad2ac58e50775582b692123c3e32cf364e6114
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part24.rar
+Key  : CHK@T7VvRK8qKCXQ7kKUnb27sidcS7SRLbkT42NRabJo2ZI,ehG3~vp9bwCr6F59GACbIxJypL2GgHN8UWAZLkZ4SBc,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part24.rar
+Bytes: 292000000
+SHA-1: 53e6984529cca3181505cb2f83c561862039e51e
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part11.rar
+Key  : CHK@u1EGoF-zDmxoxpsp-9szfUwJmHDPgv1whcKSo2eHXho,KSGVBXB9EId~yomV2vIkdCHpyjj2Dz3ZcnbIvUeLIL8,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part11.rar
+Bytes: 292000000
+SHA-1: e3fab2478f6a15dfd1b9c3a92d2fd01925f32adf
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part16.rar
+Key  : CHK@ul-ftmSALC4mNaFEiFb0nwtzjvUh4J97S5Tn6Q3m9lg,w21-grTwLJL5szEejPnNYx5s8zCvu6MReq5S5uA7wP4,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part16.rar
+Bytes: 292000000
+SHA-1: 415d99a858b50e58a5a9a1a341a0648c388d3b1a
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part21.rar
+Key  : CHK@as-AXpjxaBxe3guDZBa4DKXihYIKvezHSfjCpLjixa4,Re3OeaGklqnAJ8n9pWhky2xJcP7~5N3UYnuxWoPgZr4,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part21.rar
+Bytes: 292000000
+SHA-1: 9a5aa7bf8442b5efa25ed2f87894fea003f503b9
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part13.rar
+Key  : CHK@5cZq7JYam-L9ZIpYDdpBqyLNGsb-8Xn~1o45DhbYWCw,G-v9wC8mX~ALqby8ziQcTa3UChpOd5uhz3FJNhzOdaM,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part13.rar
+Bytes: 292000000
+SHA-1: eca3927d81347cc56e5640f0f7530864245dd738
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part18.rar
+Key  : CHK@TaJ8OSJTQm~DBAYuPaYNEZWwK2o~zW3pQmrW6oafVMs,63upLYL~A-w4Jcz1lje0rQ9U1WXPTj5skloGs1SXmgY,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part18.rar
+Bytes: 292000000
+SHA-1: 41f64069b6fd798e87a48466be461794d4bfe090
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part23.rar
+Key  : CHK@bpoDANUJjzuCLDHGmWSDke~Yn5EvA~vuW53LRJ98RrQ,zwfJyInufEQ0xwxTu29mQA85-9HwAz5R2X6oGhQ~Elg,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part23.rar
+Bytes: 292000000
+SHA-1: eb3fd53742dda5498557497a7187638d3e0f0d33
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part12.rar
+Key  : CHK@EFOSl2tmvJN3IXChaz15eKxeuuSxYlHUrfBZPnrKUUs,8OOtTCesImTHdJo4WYiaByrE4FJQ5Xdodfx5BGxPpPk,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part12.rar
+Bytes: 292000000
+SHA-1: 6c3123b168aea974b421d35a3f7bf2659b73932f
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part17.rar
+Key  : CHK@SLFNr~eErXgXGCvA72~pn-F4M6c9BZ8Huui8mUPE9bw,RxVmRWUQs8FTByOePuqBxubAFDaYSWD-r-B8wYxw23I,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part17.rar
+Bytes: 292000000
+SHA-1: e65c610b2960cc7321b94211e1894a119a1b5333
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part22.rar
+Key  : CHK@-sUzUpHMeJT03M2gciIcyf8RVhtduCcQ4Yj0qWhJsWs,dgnbYoeZuPjF1HoJVuzBQ760B5d2B4Hyhba0FQ5nuHE,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part22.rar
+Bytes: 292000000
+SHA-1: 1713aa86910ce8c1b6245d9f5cdc7671ce981b2e
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part15.rar
+Key  : CHK@2HtJ5UWJqhpPVucCV3c2mWNhQrdvrZC09M1GJPGalXw,aXrvhjx4I4AKNrezxxYUdiVpvU9fJHPecH6vD-NDG4c,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part15.rar
+Bytes: 292000000
+SHA-1: 7e21f56d42a9e277a708a39f71fcf18dc411d6e6
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part20.rar
+Key  : CHK@pHPduzSjtwxilIRSyYEP0v8xT8XEBm5OThic6WcyCVc,H2pWlxOJB~zNQPZ0~TI6pamn1f2hpgBmKgOReLnA0EY,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part20.rar
+Bytes: 292000000
+SHA-1: 60247221bdb9e2cd22b4d42b3824423db7a51aa1
+
+File : 宇宙戦艦ヤマト 復活篇 ディレクターズカット.part25.rar
+Key  : CHK@FU~MJjW5r5PhPB2UjDNRcOV3yRHTOcnLk2JpCqiEESM,TVZKRNy~ipajscYHYUFVhg5QMQACc3Cx9caAZhGy4lE,AAIC--8/宇宙戦艦ヤマト 復活篇 ディレクターズカット.part25.rar
+Bytes: 272913086
+SHA-1: e57441eaf4c7d405f032007d457113798d23a78b

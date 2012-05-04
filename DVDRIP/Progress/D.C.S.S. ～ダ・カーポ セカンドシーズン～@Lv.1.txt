@@ -1,0 +1,78 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.02.25 - 01:04:01GMT -----
+
+まず映像特典から。持っているISOがレンタル版みたいで映像特典はこれだけ。
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢エンディングノンクレジットフル画像バージョン｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@zJlEu~dISwzsRwA8x8xAmOHlubMxVYbTvb3bAiWn~ko,vZOVgkKdNS6Xe-PbcSbU6eJrIHJ34ke8LGP6IQetypc,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢エンディングノンクレジットフル画像バージョン｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 18344990
+SHA-1: 502faf9c2cd0949883895a8b8995c14f68368f10
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢オープニングノンクレジットバージョン｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@UX46SWpXayCAldHptJJ-DjzbkbcLenSdzlCPPRxUyGU,B-yrn6rKzH~ObCvFwtf0cVxRRzjPegtNQszwmz4w9P8,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢オープニングノンクレジットバージョン｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 27995064
+SHA-1: 1bf77d3f2bcfa4404452a74c000f2e6660fb8cf5
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢スペシャルエンディングノンクレジットバージョン（24話･25話）｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@GBw7NPZK60SipQP5jSI7qnP1hgr00TVIVUDRlCVvhjY,GfhfjkHTxX9tn5cdKXF1BbG07pnrO2kStBbF8ItjdUk,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢スペシャルエンディングノンクレジットバージョン（24話･25話）｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 17162703
+SHA-1: 0cdb562e826f315a35a1ba842bbeac600d1a516e
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢最終回エンディングノンクレジットバージョン｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@EsL64m8Ugql7SBQFzC6YOpwnYAUzXk4X8YDAumPfGK4,VDVaHT4TSdYNSAsaVSMOISEfRZgiO6VIz42qsI6Atgs,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 映像特典 ｢最終回エンディングノンクレジットバージョン｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 15515511
+SHA-1: 0e02637fed71f014753deeb0a46b3432abdf1f0f
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.12 - 11:18:04GMT -----
+
+周期不定24fps，ED60iかな。ちょっと時間が掛かります。
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 第01話 ｢あれから２年…｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@awF9FGY002YQwMCyZlwH16DtRFw5p8N7EG53F6B4WcI,LOC~rqqOsyc~d6Dw2zztYEG9S2pxDWPP6UJd4FzpC28,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 第01話 ｢あれから２年…｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 398619717
+SHA-1: ef6aadbf488ebe4044fe17492336eca83a2036a8
+
+こんな感じ。分かる人向け
+0-1912      $24
+1913-2210   $24
+2211-2461   $24
+2462-2845   $24
+2846-6757   $24
+6758-7465   $24A
+7466-12168  $24
+12169-12924 $24
+12925-18220 $24
+18221-20102 $24
+20103-23100 $24
+23101-23547 $24
+23548-23635 $24
+23636-24407 $24
+24408-25094 $24
+25095-25182 $24
+25183-25439 $24
+25440-26682 $24
+26683-27764 $24
+27765-27987 $24
+27988-28105 $24
+28106-28468 $24
+28469-28541 $24
+28542-28559 $24
+28560-28672 $24
+28673-28745 $24
+28746-28818 $24
+28819-38961 $24
+38962-41529 $60
+41530-42587 $24
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.13 - 08:08:41GMT -----
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 第02話 ｢読めない地図｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@vv8-fIG8X-nZFY5~NtMl0XiNKD4~tGyWTjzv3v6gYPs,rBrHD7g2fir90ORcNSgpV3xIRfMCv5AWJDLeM8wk2SY,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 第02話 ｢読めない地図｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 324086672
+SHA-1: 1d13a08daa66176394de3eb9be9e4d4a81015647
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.14 - 07:17:38GMT -----
+
+File : D.C.S.S. ～ダ・カーポ セカンドシーズン～ 第03話 ｢ひとつ屋根の下｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@Xf6nH2KTZaSWJjLUUzOacVXnDcZqNFm7Wim5czw9N5U,kTdZW~170xTZEtpgfSDrK5f8TN2cY3V3W8gjiT09OZA,AAIC--8/D.C.S.S. ～ダ・カーポ セカンドシーズン～ 第03話 ｢ひとつ屋根の下｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 322527602
+SHA-1: 507d015d1c1a1caf0d6fa87f613edea538b8c21d

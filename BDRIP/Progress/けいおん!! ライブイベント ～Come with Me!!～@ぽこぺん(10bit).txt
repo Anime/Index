@@ -1,0 +1,106 @@
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.04.20 - 11:32:38GMT -----
+
+・・・。
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.04.20 - 11:37:47GMT -----
+
+Source:Blu-ray(1920x1080i)
+
+10bitエンコード
+
+基本は60i→60P→30Pの流れ。
+問題が出ている箇所は60i→120P→30Pの流れでラスト30P時に手動間引き。
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.04.20 - 11:43:44GMT -----
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 Menu.png
+Key:   CHK@YEw-uPTehw8JT3380C3TTD2WVWru76L9qTbman19jOI,3x1~wzQbI0iR4V~oBOQdVRicWqw4-CGmjd6y81XU3Ec,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 Menu.png
+Bytes: 1946851
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 おまけ映像特典 「開演前の会場の雰囲気」(BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).mp4
+Key:   CHK@jXTMrAJ3G9sp406AXRO0p03D~wbuMal1qOXwc1WE~jM,mamvbHXxtVE8VXePZ3Z1x92rHg2gho-z8jIYNS-O350,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 おまけ映像特典 「開演前の会場の雰囲気」(BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).mp4
+Bytes: 272191152
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part01.rar
+Key:   CHK@Bs9xBBLdZMLlWWVwwgGLeET~QnUbI5GIaL8NALkq9CQ,f0CCZ5CJaiKW3HC~mcFM49vZ70erAHiSw35~njUU8xQ,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part01.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part02.rar
+Key:   CHK@nipo3LW2TIkzaHX3t0N-qDRroPFjAm7~Do3wHPYsG~k,gv4gUOS8INL33OO~xX8apH2vf4~lJBYLE1E4ZgYnUQE,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part02.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part03.rar
+Key:   CHK@GLdue6SWKVa7BvMrvchiM0V2dqxEV1G12ILxcaIim8I,esLyfwnU4FqQosJkK9hAto4KGApGCBhayySVcNNOzpQ,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part03.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part04.rar
+Key:   CHK@lITranKMwtA-3AdT2iPPnmTaAe3DdLz4rtdS1jUoSIk,CmrNsMtUzut75a3-ATptnZs6iSpCv7qD22rTHkGELIs,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part04.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part05.rar
+Key:   CHK@YJqrs13ULDJgPkjBP-h2zLaTtErawDTzjPx~tkdX33M,Mz-B2ohFtNz7ppRLf1lE7HwsE08q2rg1zUYfkyRN1jU,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part05.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part06.rar
+Key:   CHK@nDvksuf5sxOgB23MEuo~QzCZLsd9OErlr7fP6Gh~ncE,sDUoS02zpvQz1qBT2zyGIa~fHrBH~gBtyhTOnbbhymU,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part06.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part07.rar
+Key:   CHK@X75r7180Yn0aiM2NIucSPDKuvUa1oqjurV-u83x9Sz4,-18rTyQ6QpCcy7qBWbrTolm9ARrnNHGqwJ~0Jap53qo,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part07.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part08.rar
+Key:   CHK@VqlCl08OlTiWNwF0XIfr3UB4c8SVD4tShZ1KE4pQKco,Rr~25Hd64rA7ir73f0ozAF0cXvv4ls119NXYTRWBqPI,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part08.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part09.rar
+Key:   CHK@CrLBC-T0rnkZBhrzuEQnOvKKKdWld6M2rAsjb0CReBs,rzv4Bt6W-F2K5llARQrIh8sBgnLDZB6Lub5zokxa4bk,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part09.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part10.rar
+Key:   CHK@Qw4AnDS9Jxg1F18XeJoEFMaIh7IRJ2GQq7eu6rm0bQs,wnTMdk4e~IDETglkBnab9xNxjyTAhtl6DLkxAW8d-js,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part10.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part11.rar
+Key:   CHK@c0Z~DRF50NznEF4Q9XMvjIPzpgOO9RuOApp4qvNcdnU,KygZDDZaxPFxmAThDMb1kgY~Bu~ed4lEdV5YG2eAmfM,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part11.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part12.rar
+Key:   CHK@S2d9tYqHINQGRF4NnHNJjiSA6xgy2-ovmYrlNh9-vnE,1WKtdIPU850G0GEdiexrxXg5fkAa17F0l5Sg5sQm26c,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part12.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part13.rar
+Key:   CHK@w8yRSpCc3j1kYolcfejg8~1Xfob5mJPhWWHJcCD-NmM,rBpTEMrcXsVLM7SNUQeOVRsdFLKER8GxWKWDCJabeUY,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part13.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part14.rar
+Key:   CHK@lYYgPjW3Tt-HdWbo7BhGpNszKJo9Ttm6I5oOxFDYrvk,Q9n94Z5yuo9JLMdFlTF00L7GC36ry0NKnq15dmnF6-E,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part14.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part15.rar
+Key:   CHK@NE~vRunpXnWfPhD5wPL0ux4B0gKfgfnqvkYnJDQhlIo,ueI0bfLXsxo44070f7zGDSojhL9EWqlwoohTtmREX9I,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part15.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part16.rar
+Key:   CHK@nOyJcOabtpYs3D1l6~a4X8kxAL3wdNonqcMD24-bvBo,09pb16108XBxFgubS3qJGLcNv0XOOdnTSU67L4Av5dE,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part16.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part17.rar
+Key:   CHK@UyghNBddNcpN91vovJfWdCE2RslY3ez4mMTRHKMKuPI,XORsiHC2uqNCZobSVFr-dUdz75B4MXkQco4-M99M4gg,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part17.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part18.rar
+Key:   CHK@y8LXWSVxBTyYJObFyRa59aVLGsO8es0pBIjyJxzAmDk,6oaTOCDt3QDxgL436BMpp-65IInQQXGoTOqKsXBbTL8,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part18.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part19.rar
+Key:   CHK@V58zDtQ3SwzbTpqoyeb~48A8hJJDsGcnQXxeQCiC0wY,AGPlDq7i5Q-hJ0WxYOoARpdzEcXB0EuvkvBiMuhOsIc,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part19.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part20.rar
+Key:   CHK@29w6QJBjxXKkSMs0tmZDp4P~gRX~D3F6iURZ6UOWvoQ,OIreAF68LcGf~ZH8eT0UNlQrc3LzqQ742tgPGXuclfs,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part20.rar
+Bytes: 502267904
+
+File:  けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part21.rar
+Key:   CHK@eOjjd~GNukn7WMmu51QhlWQYzghFGNEdX91OlEVte5Y,66LPkhK2K4iWDarO0HYF32Z-wY-JM2C7Si4rNZeviUw,AAIC--8/けいおん!! ライブイベント ～Come with Me!!～ Disc 1 (BD 1920x1080 x264 AAC5.1ch+AAC2.0ch 10bit).part21.rar
+Bytes: 480891107

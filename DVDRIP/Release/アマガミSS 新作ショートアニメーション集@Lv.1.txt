@@ -1,0 +1,64 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.06.21 - 03:38:36GMT -----
+
+全巻購入特典DVDです
+
+File:  アマガミSS 新作ショートアニメーション集 ｢森島はるか 編｣ (DVD 1280x720 x264 AAC).mp4
+Key:   CHK@rtv8ELaI8jxn5ZNl2GAqOh01Xz87zSK-miOvdhGnuQc,g0HrO5Wv~idI~n6RtIiqvpumB0wdL6wcAxPR8Pb3Hz4,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢森島はるか 編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 58827652
+SHA-1: 0735f2965fee0662ab887f595a13da9ef56b50ac
+
+File:  アマガミSS 新作ショートアニメーション集 ｢棚町薫 編｣ (DVD 1280x720 x264 AAC).mp4
+Key:   CHK@tUuu2XxuPgtYmErNkonvwUy-UrcBxKUbMBtjY7UwM2k,rq2S7K3pNXv~njGktRRfc20uJQla~gkAlgMkgDyWXIs,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢棚町薫 編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 56501029
+SHA-1: 903e49d62dd6e1263663e6055a1360914737d3e6
+
+File:  アマガミSS 新作ショートアニメーション集 ｢中多紗江 編｣ (DVD 1280x720 x264 AAC).mp4
+Key:   CHK@YuiwJ9idQPj7Vev2HMu3QvFdDNLTjQwZ0o8pym0oC~A,9HDPg9IQFZbnk5vwCHVgYlZwazcPGNJRGjT~fHj6jpk,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢中多紗江 編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 79587546
+SHA-1: 5b74bfa58b234a7fcac98406767a657522378a7f
+
+File:  アマガミSS 新作ショートアニメーション集 ｢キャストコメント｣ (DVD 1280x720 x264 AAC).mp4
+Key:   CHK@xY3apzLHMCthqJVEIE8IuXJ6MlTZUgBB9mzNVNGYXlI,4OhGXb0FdgC0RWE~7hAYYuX8qpfKW7PNwO0tN4jFyiw,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢キャストコメント｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 84315957
+SHA-1: 2e4023ad59aa087cf3ca165162b8f7028fd403ce
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.08.05 - 22:22:24GMT -----
+
+修正版が３個と続きです。
+①不要なchapterが付いていた
+②ついでにフィルタの調整（輪郭線付近のクリーニング）
+
+File : アマガミSS 新作ショートアニメーション集 ｢森島はるか 編｣ (DVD 1280x720 x264 AAC rev).mp4
+Key  : CHK@Y7WWlkzErYna3Dl0FJxbpjBHWb~o9p25cm2zrh79YJA,1fs0KEuUS~YOwXwp3PT5zogDoEKUBJhRMnedd9ZQiAE,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢森島はるか 編｣ (DVD 1280x720 x264 AAC rev).mp4
+Bytes: 61756142
+SHA-1: ad81a8fa15b9a15ab6d9b45dc9eb1ab66de9db5e
+
+File : アマガミSS 新作ショートアニメーション集 ｢棚町薫 編｣ (DVD 1280x720 x264 AAC rev).mp4
+Key  : CHK@XsRCleo-4GCbBJCpqDU2uM90ZbdUUhvj2ObD-ToiAjM,pAwocEHUgvdby-vP1~QiP8ghj~1OulpN7FPUpO9QeLQ,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢棚町薫 編｣ (DVD 1280x720 x264 AAC rev).mp4
+Bytes: 59285718
+SHA-1: dde74d1a2605b2d7a0b9c50e9763fa380ff8dcc9
+
+File : アマガミSS 新作ショートアニメーション集 ｢中多紗江 編｣ (DVD 1280x720 x264 AAC rev).mp4
+Key  : CHK@AlCr-wgEdRMJ99lXtYVEcn1leCCxS0n2dpnuxXkWESE,2YGUp7UW0CsdBAWRfzmHQKqyzbuUWqgUm7hEgP8h~yQ,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢中多紗江 編｣ (DVD 1280x720 x264 AAC rev).mp4
+Bytes: 82966087
+SHA-1: 110e6f48b01e763a8482c2bbc8d8dcbed1343117
+
+File : アマガミSS 新作ショートアニメーション集 ｢桜井梨穂子 編｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@sajK8S0of6VgDQQuZFttZ5KWTfu6h7TC9HkrgUN9o94,6oHWcg8lvG7867HU9qj8oz~p6GTCGXcMh8S3PWOJfIY,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢桜井梨穂子 編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 69095279
+SHA-1: bd9f8a18d061e7b245b2b1a87c8655f149982472
+
+File : アマガミSS 新作ショートアニメーション集 ｢七咲逢 編｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@Ub8tnanKGnLhtsDk1X592pUeJKf-ARzJ-BNHINmBafk,d3sW5acSUY3M4qn6RUGjTp~c6nFq-S~SY111A8eNiP0,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢七咲逢 編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 69733989
+SHA-1: 8e408cbcd7b96a8e836b6bbe63e43211fa8fb3c1
+
+File : アマガミSS 新作ショートアニメーション集 ｢絢辻詞 編｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@dXo36KSxj1ite19U4iutXNb8TIRrKGlW5jfSGFLKn1w,UcwlWvN192~G9uFFkjJ6j5yYS~8WJRRU3vi3wrJX-b0,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢絢辻詞 編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 58817235
+SHA-1: ab8adef004fd3d77983f25feb71816350b70d995
+
+File : アマガミSS 新作ショートアニメーション集 ｢キャストコメント②｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@1zTVteXWtulJu3Mu~KsYuEOqK5eegZ60UNGk1eo9vKo,OAoxLaGPZ70I6A3RO0RVT2nASF4fwB4qPdt09DTlBTs,AAIC--8/アマガミSS 新作ショートアニメーション集 ｢キャストコメント②｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 56420759
+SHA-1: 582c3bda70615cd2728b4c9a8abb4874627a745b

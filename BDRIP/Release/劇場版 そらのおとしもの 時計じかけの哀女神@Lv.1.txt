@@ -1,0 +1,136 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.06 - 05:31:33GMT -----
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 MENU.1 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@MqD4QGvyY~JtKIri8xk5P4SWirUq1U7Ch08gO~fHfVo,3SlKwk4DFMhS7txs9DgHHm5UfFAFH9-Ub9PoRqArybs,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 MENU.1 (BD 1920x1080 x264 AAC).mp4
+Bytes: 18243833
+SHA-1: 487f05a1ac0b4fc5042796d3c442178d6c539d39
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 MENU.2 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@G2NEYpdZ1bpdjzSmnfQDxS5gVA5Cc~XeV3Po9AC-YH8,-iGHuk0j0eWtARijtrO5vgdX0pzwVBpAaCzJvJTHlk0,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 MENU.2 (BD 1920x1080 x264 AAC).mp4
+Bytes: 17197733
+SHA-1: 94b2fc81c382de0b31842bf2df019a22a6dcb2c4
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.06 - 15:20:22GMT -----
+
+５分割です。
+音声のうち3.1chは入れてません。というか3.1chAACは無理そう。
+やるのであれば、3.1ch→5.1chのupmixして実装するのかな。
+
+ソースは、L C R, LFE なので Front: L C R, Back: L R, LFE となり Back: L R に無音channelを入れればよさそうだけど
+ミスをする可能性が大きいのでやめました。 
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part1.rar
+Key  : CHK@KUboUjuBiPJCWPqDxk4ZuCAxa5j5kRJ3YAmj6YmIrFo,SCngZZQzA82xX-bsBIiDqfZPRRQh~ChU0XixmBb~yIc,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part1.rar
+Bytes: 680000000
+SHA-1: 33a9ac4c9b32c2d6bd4b7ac2526ab1d84e8ae55a
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part2.rar
+Key  : CHK@FS9JokdzB8R9Ao0H5FmrQx5iwZLxxDoVySWDgYc4O5M,q4Z3KmfnffmXrFscnyw6~HK69-1D9YjDGc8rd6zPjz0,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part2.rar
+Bytes: 680000000
+SHA-1: 1c5f0076e52b265c830f0c27a4cf5cdc73bc7b4a
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part3.rar
+Key  : CHK@yZk570yRQDNz~I5nkT09Bwr-UEFS-tpNL35FCL3AayA,xh0~I9sONm2Kt~kqqnEAt0cRwtfkdgvG~F6n447IjYQ,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part3.rar
+Bytes: 680000000
+SHA-1: 7650adf4e617d82901d84426719943ec2f67b299
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part4.rar
+Key  : CHK@FBVKyabCpd-JpUlhtNfgoJbnfyDnkGxQpXzfHLqGQd4,J6y0OQhNAFzZLBH6PGKn5vSf0PvqS87YvPHDgXv0w4E,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part4.rar
+Bytes: 680000000
+SHA-1: c2ac4e5e557580725c88cd49d2606245bf066ad7
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part5.rar
+Key  : CHK@OYv5AjOzN0AZVPJuzz0Y4qxCNEZ44~QFY-Oaqv6eHnM,EdhdnqiQffxAimXFIKIjvaWGH3knNl9PZZA6bm3UYTE,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 (BD 1920x1080 x264 AAC コメンタリー切替可 JpnSub).part5.rar
+Bytes: 641522301
+SHA-1: b309bc0cc7a98041d4b041727df894a4de4a76de
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.07 - 06:35:34GMT -----
+
+おわり。
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢配信用PV｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@qu9EVCTmM~5-DGT5836lGA9GAgPCoJmtY2lPU8Yyd6E,bpccwmzq86porUbDQS3KuSuga8OkksrRkgdZ5~ZufPQ,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢配信用PV｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 105432408
+SHA-1: 3175e930077ebf8455a1b0ed794297f4da317f53
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢予告編｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@SZM8SND1HCTy66NUb9ZONIYauSzLc8rZiB5CvNXG14c,VynViEgmLrLrdLK8n47U3Pq3VMNwYVphTZBaGlIJXbk,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢予告編｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 103693057
+SHA-1: 7c83dff0cd3b4e91e292b2e57cda71bff410ca0f
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢特報｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@2~dX0GpGxWxnFulgOmqSDdNehP74tVKWKhiu2pnDmdY,EYfrSafPSrk-Gb2Yl2BBUmXaCaILfGfNMXMfZV9EVUY,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢特報｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 79861124
+SHA-1: 0a2b5795376307a97a0053fa31e0dd62fc07e87d
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢テレビCM｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@MYr9dwGbR2m8oM69iuBGLgFfIVVB-P3Ct-vr8YtGB2A,oEI4hOR~d-PDlEQOr1oJOgZPSyRcQi9OBJNfOye1alo,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢テレビCM｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 11617459
+SHA-1: b39a58078a95b4262894f27b9e7da51c56780994
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポットweb版｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@i7VBqSYDfEDIKa4b5JHZOcgo2n8dqxIIyNDddw9KnFM,nF~Ct~~jTY0iIwCU-mdWqTGMW8MidPC7K8f190I8AzI,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポットweb版｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 23797490
+SHA-1: 8961cd59f6042831220100dbd04c7458c5cbce44
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢大ヒット上映中編｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@VlS6VjSSEnB3P2Rwik9ntvlUZdzRiQa7SNTAPlYTIj8,8w1iYdOZChmYTOS3tvwXraByxNE4~uGVHMuovNrVMTw,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢大ヒット上映中編｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 15522693
+SHA-1: 553d94113e457638c6520d5cde7765f36830b9b6
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢6月25日公開編｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@xDTnitEZ0toAHroZQsRnhwBprpu9nDliPDVNB~FejWs,-81bARluJqJ40W4mX244JsauBsbyg-0ErXi-Ca15veM,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢6月25日公開編｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 15783498
+SHA-1: 24f5971d43f88285da31663f4d768bfdf6f79aae
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポット①｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@f8waKhYaXoclwAMnWxCS~KkxpaXhM60LqtcELU4JaxM,FCtNvJSG2NubfagSbbu7V37TSNmKESTTYjQIUx58lGU,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポット①｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 23701355
+SHA-1: e52242797cdc5876315215712e08db7eda12e314
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポット②｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ts5aArbQAig8TBEU0cp-VEL4-ib3kLZAaWxsm-nFzVM,bB20fxuQGlspOgTz~pYgyYu-zFIF-IJwCMJtv2ilcaM,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポット②｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 24571976
+SHA-1: 04ba7580dcc4f481c62748b2296bb727e1bebebf
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポット③｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@lBioSGsCf8apxZw5ttvl1a6H75Oxk0nKSDFU0eFdiMY,~53AHxfdxWQe-S5obLoVSKso1g5xo7jau7OE4PhfOhc,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 映像特典 ｢先行テレビスポット③｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 18810181
+SHA-1: 659925a759ed12f819557eeca474d9a1ca7e016f
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.07 - 06:53:23GMT -----
+
+あぁ、BonusDiscがありました。DVDだけど
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.09 - 03:22:21GMT -----
+
+残り１こ。エンコ漏れ。
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢六本木アニメナイト告知｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@KjzoxnJ-vn99mAU0a~4hlwtt1dB1fmW8V-QDb9WmLmA,R-XA5CSPaPpn-OyNM4ScPzDzT1ts~a22vg0AUji~W0Q,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢六本木アニメナイト告知｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 62265142
+SHA-1: 27554996b63ea3ddc3c8c9ebbc843391d34704cc
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢舞台挨拶の旅 東京・名古屋・関西出張編｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@9RvFFsvD4H5NylrnFoRp40qwM9L2Tq9vjdmGain-Q5Y,6-lJJnNCtVMrgoNRDsIBZ7MHVbKALQtUR66nQinTUhM,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢舞台挨拶の旅 東京・名古屋・関西出張編｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 1012464765
+SHA-1: 87635725698038bc814920352894b478f7cce80d
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢大ヒット御礼イベント『裏話聞けます？？？』in角川シネマ新宿ダイジェスト｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@tU16vuJ3Rw-PO~rxkT9fJ73epBq7Dlb~sikfKwhrZCQ,Ayf8HcwFLI9C3pVfT7kNqWaOBZ4NzbJ9KOz-bXbBE3g,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢大ヒット御礼イベント『裏話聞けます？？？』in角川シネマ新宿ダイジェスト｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 375402845
+SHA-1: 9ac9c465b715e054e0c8d9eeeb8ff485e5401bf5
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢６／１８“乳の日”上映ロングトレーラー｣ (DVD 1280x720 x264 AAC).mp4
+Key  : CHK@LaB8EvI4BAIl56k9qOjANtZuKTII94IOS1cWcER6CJs,HTMG8QZVcV58jVLk3kLaa3JCxs~swivD~6WYvKEpv48,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢６／１８“乳の日”上映ロングトレーラー｣ (DVD 1280x720 x264 AAC).mp4
+Bytes: 98548689
+SHA-1: 1679ade6c515e93bdcaaa4428fddc45682bfe18e
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.03.09 - 08:18:07GMT -----
+
+おわり。
+
+File : 劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢６／１８“乳の日”イベント告知動画｣ (DVD 960x720 x264 AAC).mp4
+Key  : CHK@Nw-W~mSoO7~fErRFI84woQcOMnE5Sd9WzLKaHPZVBTQ,rApN90SX5GZ0s5yxsKhhBMRmg3GcRLU3lfTyhDsBVm4,AAIC--8/劇場版 そらのおとしもの 時計じかけの哀女神 BonusDisc ｢６／１８“乳の日”イベント告知動画｣ (DVD 960x720 x264 AAC).mp4
+Bytes: 80377353
+SHA-1: 531dec6c6f03dd7d81923f2d4b9ce3a24efdbd82

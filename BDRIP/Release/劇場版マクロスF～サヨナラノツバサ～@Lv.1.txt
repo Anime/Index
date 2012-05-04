@@ -1,0 +1,110 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.21 - 13:28:38GMT -----
+
+File : 劇場版マクロスF～サヨナラノツバサ～ ｢ワーニング：シェリル編｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@NiKBEkv3Mqjaxq3lX~MePdNlLJh3pmFOlh63T7mR7So,kQ5vZsj2oLV1mSPNR2Ixwg-XSWAnEjLx2BUNDIStD6U,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ ｢ワーニング：シェリル編｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 2734992
+SHA-1: 69edc0e2dc237eecaeb62965102cdc7cc8b1c0ff
+
+File : 劇場版マクロスF～サヨナラノツバサ～ ｢ワーニング：ランカ編｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@F6czHfgt8SEbaponwIgW-fPQo-zW0C3AkM67vBNtR1w,vWn2X5HnvWoDFLjpJzR2uP6FzePk0xelsIPMNxxoP4U,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ ｢ワーニング：ランカ編｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 2800671
+SHA-1: 6279570e3374f279e3e26417f312cbe4fe650985
+
+File : 劇場版マクロスF～サヨナラノツバサ～ ｢ワーニング：アルト編｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@GiTyTjX38FbYqt9Uze-As5vntiQZ5-BmTQdYqaijjIY,K86qfuPcCYGPdac1g-Iw3YNQG71gfjaonJvFyQJhLVw,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ ｢ワーニング：アルト編｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 2403088
+SHA-1: 9e92c6144bb71f621581e92be850236e06bf3f7a
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.24 - 09:43:40GMT -----
+
+本編は10分割です。
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part01.rar
+Key  : CHK@iC~1oQGIQVnRIGWVMnsqLNQh93HYCGjuKUqxFOupIOw,M~mG9QN3XN5UHqlDFw1k-q9LwF4Ss7kFECnDic~q56c,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part01.rar
+Bytes: 640000000
+SHA-1: 7da60075cc1ad47deb15fdd248917c1eab929336
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part02.rar
+Key  : CHK@eVKbceENHWSbHgt2mOZ~tZ8smlZT4Jr~jasUCNPfCEg,Hz7J3U0r53a-iWqxAgpwsOhfSqC7zoeSilmxZ6OQTCY,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part02.rar
+Bytes: 640000000
+SHA-1: 5df6697dd68c78b05cc42350b18af591eb830c9b
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part03.rar
+Key  : CHK@dWvh9opFNqO8momTbpSYGahGcx~Dlpj5viMk8~3N5K4,e7dQsKcCivLDoT3AyuJxVL-i7uhqd9HXQsV5skxk6wM,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part03.rar
+Bytes: 640000000
+SHA-1: e01b9d2e359a161d7423093973ba85dc841c612e
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part04.rar
+Key  : CHK@mA~ApEWf6HZqbwcnYAJR90JyZaKnsUoNeEMtESCJ0YE,vz~CWMpcdrihoR8r2jWzAUSfGkZ91ll0cgNc1TQo3cw,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part04.rar
+Bytes: 640000000
+SHA-1: fd4cb44aba00314a87004c156f6de5df4bad91d5
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part05.rar
+Key  : CHK@vp6YLijWrqu8bnOQ5B-UOxIn-lngrG5RYGcAOsVqL7o,lu9Xdl9LC4JhMxlxLxxg8ud27Dna7I0feDm-UiX3wPI,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part05.rar
+Bytes: 640000000
+SHA-1: ddbda7309fd4437a264293e840de2e055bc56227
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.24 - 15:42:21GMT -----
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part06.rar
+Key  : CHK@hQGVZIMriWN31Khf3VnD4ZIzi2Lz8T-XkVtMZc8bd8g,JebB2jDPUBs20pxYy-mmN8gGbmDb~1ms0g3VU27Z~Og,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part06.rar
+Bytes: 640000000
+SHA-1: 622e278a88f1dde9aed5b48b92a5ce0fa8f3d5b4
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part07.rar
+Key  : CHK@F117ShWtpXKZ3V~hbjFDwpDzRveW7Esx0z08amnGby8,e7nvUXmGxvSOZx2gbWf6xakQQ9i07SUIwqMFh8OhkaU,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part07.rar
+Bytes: 640000000
+SHA-1: 7fcb57b7e1eb6e2affdfc541033a38fbd2e569fc
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part08.rar
+Key  : CHK@cBzU4JZugdiuUJ2gXR5wQIkoaAP1xC2zDq-yAIkrGPo,Zzlp~5svP-j-PkshA7FROGn7dwgNMUky5bVExTQaftY,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part08.rar
+Bytes: 640000000
+SHA-1: 233a016e4052a9abd4ef7960619ba978dae6d8d7
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part09.rar
+Key  : CHK@TPXEwhukACOaDkSsAUtzAKGEqImCt1EHsf5e3dawjc0,yn34ejhxdbaA8zvcFJXcHjj1QRssbnEkMlrcWm3C9g4,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part09.rar
+Bytes: 640000000
+SHA-1: c80ace745d9be2be6345a37b7ced38d4d4e3cc09
+
+File : 劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part10.rar
+Key  : CHK@34hIoHmDWPDJxf4VqXuJiQNsFFzeeuM-4HDhnNLJbiE,gOAC0J-ytp2MBBXkTXZap3jmY9kkI98fbBntQCasPPs,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ (BD 1920x1080 x264 AAC[2.0+5.1]).part10.rar
+Bytes: 614014107
+SHA-1: 908fbcb72d91f3ba3e968fcf2a5004c13af86fe4
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.26 - 06:42:08GMT -----
+
+File : 劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢中村悠一、遠藤綾、中島愛、河森正治スペシャル座談会｣ (BD 1920x1080 x264 AAC).part1.rar
+Key  : CHK@oYGma~0NfuT2FFeW1OuyIX9K6lwoTJyXNj0hZxhCB3E,jp~e3~26NHhtU3Vh5BqeQM4aYBs1xYX3IfdaaCS0nRk,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢中村悠一、遠藤綾、中島愛、河森正治スペシャル座談会｣ (BD 1920x1080 x264 AAC).part1.rar
+Bytes: 640000000
+SHA-1: cc509d2cf443593514b589fdf50fb977337aa89d
+
+File : 劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢中村悠一、遠藤綾、中島愛、河森正治スペシャル座談会｣ (BD 1920x1080 x264 AAC).part2.rar
+Key  : CHK@itM~MXv75U8mAqurBeh1~b5vzGQhbGKzYnvTiki5mZU,NsCrK~GxWN6xi6qvHj4ZcnF3Sgtwhe8eqUKDxtoRmN4,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢中村悠一、遠藤綾、中島愛、河森正治スペシャル座談会｣ (BD 1920x1080 x264 AAC).part2.rar
+Bytes: 618640305
+SHA-1: ad9e067ddd1fe9dc3d852448f5f52ed26d4e0663
+
+File : 劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢予告｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@O4qg5jCoIrJuNt1I78bG9IyLBo24fw8hpOCKXYNo~60,ppRK3fiG7~6F8tLCcMjn3Rz1gVuvoIAyLENFxK~wN0w,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢予告｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 139186488
+SHA-1: ae9da469d4db7f09e49b83b4f2cae4087fd81f93
+
+File : 劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢特報｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@lTrDLfQdBBggvgLtFqrptWh0GByfGnVHubkSwIHVfiQ,65w29vOOARVxnd0s-PdoRfO2kaSdTVA4zYISS2SWmIk,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢特報｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 90806548
+SHA-1: f446d64d5480cc6e82c1576e380613973dd1434b
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.26 - 12:35:11GMT -----
+
+File : 劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢マクロスF情報局inナンジャタウン完結編スペシャルロングver.｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@lyN7HWbxSsyYUgOQh87HW5GtsnTPe3onnv-jjo-KW74,03spRdS1TNGF4EeDp1CmYeulzaM3DsfpXa1HkAlaFCQ,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢マクロスF情報局inナンジャタウン完結編スペシャルロングver.｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 351430751
+SHA-1: 17e5d508d5bdeaedad7123e0ae9a9fe6e549cb7a
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.26 - 15:19:03GMT -----
+
+終了です
+
+File : 劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢超時空☆魂込式サンシャイン60展望台｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@La5MEztpIxGbSpNmVYkcnBqERYeXfk83gM7XiRQUWc8,C-zZx9zFJ1OILeBILHGzE5t5BSPkuodOWMOV~-E-bD8,AAIC--8/劇場版マクロスF～サヨナラノツバサ～ 映像特典 ｢超時空☆魂込式サンシャイン60展望台｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 665024466
+SHA-1: bb144890da6443d8cfcec9289b2306d23226ba14

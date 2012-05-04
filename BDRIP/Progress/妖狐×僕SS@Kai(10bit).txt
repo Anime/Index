@@ -1,0 +1,57 @@
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.03.21 - 21:56:46GMT -----
+
+File:  妖狐×僕SS BD Vol.1 特典CD 妖狐×僕SS ENDING SONG Vol.1 (EAC cue+wav+log).rar
+Key:   CHK@HGRvXOECGnCy9~Ek6Oqz-jt6vEC8mv3~4jiCvflGLOs,yORtpPglrpLhqQqEsruGRfRbEhYW2-IhjmPI-xbSCm4,AAIC--8/妖狐×僕SS BD Vol.1 特典CD 妖狐×僕SS ENDING SONG Vol.1 (EAC cue+wav+log).rar
+Bytes: 140044710
+Hash_SHA1:   ad335002ff3dea8723059183485bcffbb0f3a703
+
+File:  妖狐×僕SS BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@lgbaMpj2zFWcmyk7fm6R5BVkFC3FNAAoEmx3E8jjvi0,qLZpt0DUp~YtZfhyMvt9kafjRUS1x44cpJKKMAABkt8,AAIC--8/妖狐×僕SS BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 8678400
+Hash_SHA1:   bd6a52352ee9bff3909ad55b2f7e461c60550bb9
+
+File:  妖狐×僕SS BD Vol.1 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@pD5olspEFb745yDDNjqYsb~LuGhJRyy9CowR78ae7YM,CbU~CiybElETn9MAupaVyJt4m4FgGwE-nUrBaiKt6Bc,AAIC--8/妖狐×僕SS BD Vol.1 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Bytes: 89387678
+Hash_SHA1:   322da2bf42ac88671ee1177394523bb903feb3ec
+
+File:  妖狐×僕SS 第01話 「いぬとぼく」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@j2kW83e4xL6~qfjVlDQzHqWMBh2BC8g2ZSrixM8uVzw,iqaDxsw1LPxSHYPZCCNoIopU29-Mux~k7S5ZIiryp3Q,AAIC--8/妖狐×僕SS 第01話 「いぬとぼく」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 881660779
+Hash_SHA1:   4d70f44c88cdc4204df66d33ed5cd7433cf7f597
+
+
+BD素のままエンコしていますがグレインノイズ嫌いな人には厳しいソースだと思います
+個人的にグレインは好きになれないんですが、齢を重ねればまた趣向も変わってくるんでしょうかね
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.04.26 - 06:56:23GMT -----
+
+File:  妖狐×僕SS BD Vol.2 特典CD 妖狐×僕SS Soundtrack Vol.1 (EAC cue+wav+log).rar
+Key:   CHK@1wlmCuWeJ93wvbJi0S4BNvSxflymQ0GcJ~XnRVpY5~A,V3GzjWcPmEX8c4kTklMBmI0FKvWOf27MeaCqJksE8K8,AAIC--8/妖狐×僕SS BD Vol.2 特典CD 妖狐×僕SS Soundtrack Vol.1 (EAC cue+wav+log).rar
+Bytes: 223606943
+Hash_SHA1:   8232ce10304b29489a5cd0cc3c2d22b8f328972e
+
+File:  妖狐×僕SS BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@C3-j9RpV5kSswfBmMqSP9~nTu9HbEfqLpWpMKhKmk6w,vpa2OTbpqmTZokf4lwfSRBSvVhQexs3IBSMmMlAEnIA,AAIC--8/妖狐×僕SS BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 9861692
+Hash_SHA1:   4ceabd2ffacd853511a89dc8a531858e67614a5d
+
+File:  妖狐×僕SS BD Vol.2 映像特典 第2話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@Qnpq87LlsifcG6CGQQ6EnpN1QvA~WU4GITstf-j~HjY,iyFvsdGw~5iJ7R4sAHkmqv6JtMMYIekislB3tcap7Wk,AAIC--8/妖狐×僕SS BD Vol.2 映像特典 第2話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 45120774
+Hash_SHA1:   7a86930456a2b7304046df3f0fb7ccd39a19dcad
+
+File:  妖狐×僕SS BD Vol.2 映像特典 第3話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@L1U0BiKjxvHyyjQYpM2c68BQpzJF~F60q9AyphAeHgg,vuOS5xTJowRi8yV0W3Ye4mVuVOfgMdvof4-kbgvx~nc,AAIC--8/妖狐×僕SS BD Vol.2 映像特典 第3話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 43066623
+Hash_SHA1:   8085a732ae413aaba8ff45e033d17bdee7a7c7f7
+
+File:  妖狐×僕SS 第02話 「淋しがり屋の犬」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@IElJcrsb-BpbTbdvPJLaJZxz6UcgBIajA-Uq3raU3p8,k3O0MfdDjQHwl~ovcTH45NCWrR9D6ZTttXutpU6uB~k,AAIC--8/妖狐×僕SS 第02話 「淋しがり屋の犬」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 829827677
+Hash_SHA1:   2a959523ab4fb85788e316507f879162c06213a1
+
+File:  妖狐×僕SS 第03話 「ほんとうの契約」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@ghqWE0KqqtfE-G~zZXk3hHqJKXUx-3JZE7nPKSR0lgA,IThD5R8D6DpZ4NQcyChhcyCUmGdlrcjWNVs~UuEzZBI,AAIC--8/妖狐×僕SS 第03話 「ほんとうの契約」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 823798025
+Hash_SHA1:   441a66ca37678396e662f07bfc8933d06b3081a6

@@ -1,0 +1,55 @@
+----- flkun@v4T0ij3FmJCaTtOlbbHKhQ0t23g ----- 2011.08.27 - 22:03:18GMT -----
+2011/4 頃 Insert したものと全く同じファイルです。
+ただし、以前とはキーが変わっています。(Frost -> Fuqidへ変えたせいか)
+
+File:  (DVD) W～ウィッシュ～ 第01話 (1280x960 x264).mkv
+Key:   CHK@M36DfXibuqHYbGmDtb7LYdgrN5O40gYcZRhsCwby4EY,qYStx6ZlpD1SZxzjgeJvSrGFgBVcVSNZAIUQW9k5s48,AAIC--8/(DVD) W～ウィッシュ～ 第01話 (1280x960 x264).mkv
+Bytes: 369497249
+
+File:  (DVD) W～ウィッシュ～ 第02話 (1280x960 x264).mkv
+Key:   CHK@p5-4g6ZUAv~jH6rZYqi8owaM5ERb9Shc5C7HWl6FZ3Q,ydzO5yIi3cxnBx0ahumOHLnB8rgsZArj9r4Q-JztsSU,AAIC--8/(DVD) W～ウィッシュ～ 第02話 (1280x960 x264).mkv
+Bytes: 338856585
+
+File:  (DVD) W～ウィッシュ～ 第03話 (1280x960 x264).mkv
+Key:   CHK@xSJs11lW5WuczKJHqZnQdOgImdvwFCfEav-Cax81j-g,lZ-hSVAPAh63t6vq-Ce70AGDe2JHQF9-aD2JM~Oz4nk,AAIC--8/(DVD) W～ウィッシュ～ 第03話 (1280x960 x264).mkv
+Bytes: 343366146
+
+File:  (DVD) W～ウィッシュ～ 第04話 (1280x960 x264).mkv
+Key:   CHK@JdCgrxR6~CGiV5yvqMaTnYtldpr6c8X~mEghee9IkX8,D8WFFa~k8cRxrp4qQUmhFAaiqQJeoJOhg962UJ8Fjtk,AAIC--8/(DVD) W～ウィッシュ～ 第04話 (1280x960 x264).mkv
+Bytes: 357492618
+
+File:  (DVD) W～ウィッシュ～ 第05話 (1280x960 x264).mkv
+Key:   CHK@jU6xSlIdvpUiDnyYapLghz8y1YxTaJYm9vsQgInWs~Y,2~ugIyD83rdI~1Qc0a~~AmuyQUOQaKP-PGdF8G6cKG0,AAIC--8/(DVD) W～ウィッシュ～ 第05話 (1280x960 x264).mkv
+Bytes: 379375355
+
+File:  (DVD) W～ウィッシュ～ 第06話 (1280x960 x264).mkv
+Key:   CHK@CRFEuLoFd4U4oewVRoo9n-hm7ULw90U0s1y3IYpF9OQ,VwtxrARphix0~QkPUoofzWUAVuFLtHxNxptVjXSJdTg,AAIC--8/(DVD) W～ウィッシュ～ 第06話 (1280x960 x264).mkv
+Bytes: 360659047
+
+File:  (DVD) W～ウィッシュ～ 第07話 (1280x960 x264).mkv
+Key:   CHK@86K2QRHTw-spd5kHCjqvzH5v4szpkSv~U3uti8fa62k,6xyhwGx~amJTg00QGa3sG24K7UoD-e9XZrK6iaNMFnc,AAIC--8/(DVD) W～ウィッシュ～ 第07話 (1280x960 x264).mkv
+Bytes: 306169391
+
+File:  (DVD) W～ウィッシュ～ 第08話 (1280x960 x264).mkv
+Key:   CHK@gNTt~D1nqeR--~T8IihmohVNZ93wmOnHZ9FJM0pKyVE,pOz5zHuNOG4pdcgjQvqHZPemq46ft8SiEJHAXuScDjY,AAIC--8/(DVD) W～ウィッシュ～ 第08話 (1280x960 x264).mkv
+Bytes: 341591349
+
+File:  (DVD) W～ウィッシュ～ 第09話 (1280x960 x264).mkv
+Key:   CHK@Giqs-XQmXg~1UbuRYBy-cb306FIYRQDsubjEMXplyQM,RwjPhCFDXq8r80Ay6Iir-3TTMA7ca7h33-gp1KD4moY,AAIC--8/(DVD) W～ウィッシュ～ 第09話 (1280x960 x264).mkv
+Bytes: 316015477
+
+File:  (DVD) W～ウィッシュ～ 第10話 (1280x960 x264).mkv
+Key:   CHK@K8PqNJLM7rFebqX4nmnnZZND1GQsAjOqajjy1kXTvE8,c6mEvpr~XrR9k4bJg~K98WBrTLV6n6EElXJ1oYLpR3o,AAIC--8/(DVD) W～ウィッシュ～ 第10話 (1280x960 x264).mkv
+Bytes: 338610193
+
+File:  (DVD) W～ウィッシュ～ 第11話 (1280x960 x264).mkv
+Key:   CHK@Gv2tH5ZPG5EhFhoZYGFN12hwSz0vBlQgTWGpQAngpCc,J-PwHoUVVamHswVLqatYHJtXXYAoR3fDidmPMSOyG-0,AAIC--8/(DVD) W～ウィッシュ～ 第11話 (1280x960 x264).mkv
+Bytes: 365883303
+
+File:  (DVD) W～ウィッシュ～ 第12話 (1280x960 x264).mkv
+Key:   CHK@cg2LagkNRndxE83qt5pqUyvLpdVhHHMub2B3MdioDh8,bZZ~yh4TLrM2Nhl8OlP2u5zS3JkOXlCaU~qM1c7m6dU,AAIC--8/(DVD) W～ウィッシュ～ 第12話 (1280x960 x264).mkv
+Bytes: 302191898
+
+File:  (DVD) W～ウィッシュ～ 第13話 (1280x960 x264).mkv
+Key:   CHK@XwqKK9mbp7hK4zXSPrlWisezDDX9XKGNvRgxUJ80BGM,4wBeWaTem0RIvBhsw8XXNHS8GQDQdPQLcEXqaYWj9Pk,AAIC--8/(DVD) W～ウィッシュ～ 第13話 (1280x960 x264).mkv
+Bytes: 376203618

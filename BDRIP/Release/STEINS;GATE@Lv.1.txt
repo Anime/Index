@@ -1,0 +1,219 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.07.25 - 07:06:27GMT -----
+
+ビットレートが高いためPC以外での再生は無理かもしれません。
+一応、LEVEL4.1にしてあります。
+
+File : STEINS;GATE 第01話 「始まりと終わりのプロローグ -Turning Point-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@RPxOCIvR-LWDa~XJ6uZzPxU9ZMFqudHW0YhuaVRtYsk,SeJ5Gma96zxUNbBEgbcL1ZpcJcsgmF8lQY3fyPlEiYM,AAIC--8/STEINS%3BGATE 第01話 「始まりと終わりのプロローグ -Turning Point-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 885712208
+SHA-1: b468dd81beb02ce9d71931d7e7ac7236a352a390
+
+File : STEINS;GATE 第02話 「時間跳躍のパラノイア -Time Travel Paranoia-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@gyaLmlSbtwTN6DEAS7O2rQmCFZAyzhUK8ybO4taVJRY,Qgh5AOntc0h0pKBwatbdK4iSz9gfRHdMcdL1CjjmEoA,AAIC--8/STEINS%3BGATE 第02話 「時間跳躍のパラノイア -Time Travel Paranoia-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 734717747
+SHA-1: 1df34e1c36ef7632291b87b467128ae86717ee7f
+
+File : STEINS;GATE 第１巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@7lHbJMWEvCy2up6ClxxeLL4h0ZJXL3b8JsJIsDFe-BQ,El0JajVWZ3FP9NsPsPCfC0s8ckn2FqYvPGDaG98d7uQ,AAIC--8/STEINS%3BGATE 第１巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 249838426
+SHA-1: 3ae6239c5f235b77262612be650ade2a19336451
+
+File : STEINS;GATE 第１巻 映像特典 「ノンテロップエンディング」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ddZZSapj-T35k4kdKJ3wHrtnDC2y2OB-HhNeL5wyacY,RSsqplEfnEciAvfpyh6Qb2aeTRu7bfmu4fwSgR8ICRo,AAIC--8/STEINS%3BGATE 第１巻 映像特典 「ノンテロップエンディング」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 44511735
+SHA-1: 8525cdf00a2c11a0592ac7cb0b2fe0ade0e869b3
+
+File : STEINS;GATE 第１巻 映像特典 「ノンテロップオープニング」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@TMuHdy3XT7IvvFpHAHf5dyLyKdaQRRV~giuWGU-vUgc,ar6c6fFMu0vTUD~RYhHoM76hnvcSzU4iExO~lA77r0g,AAIC--8/STEINS%3BGATE 第１巻 映像特典 「ノンテロップオープニング」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 238222297
+SHA-1: 61d277803bc257e3db2a899fb28bb5ba47c29268
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.07.29 - 08:56:26GMT -----
+
+File : STEINS;GATE 第03話 「並列過程のパラノイア -Parallel World Paranoia-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ugCz~OSnHIlHiT9Nh3tBd6-vzHZjvNWTPwSm7asD2fA,JF4lbr5FibuFM9TjdxHUWiUVGgDgueBzXlYZQXCu7sw,AAIC--8/STEINS%3BGATE 第03話 「並列過程のパラノイア -Parallel World Paranoia-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 745264909
+SHA-1: 1dc6419c5405228e91f680af75de3cf05dac586e
+
+File : STEINS;GATE 第04話 「空理彷徨のランデヴー -Interpreter Rendezvous-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ethmWtJ~mL1Y-TsMcV5~8RHc6wVsJW~DKQM7dBzDT80,eOU3qA9skRuHvjq2pTu9maI7ck~o0d0LuR5YyVQY030,AAIC--8/STEINS%3BGATE 第04話 「空理彷徨のランデヴー -Interpreter Rendezvous-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 680854633
+SHA-1: 59f7d7aa8be24002efe2b35c4f457a84b17d900d
+
+File : STEINS;GATE 第２巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@A01cCPV~lMdbc4ujnLaQUey5lIn4Tks42GsLSCVXxhI,aiGn-P3pfLuLY7J8XXQIElvNqZV0kAYpVZ4DZTDH61Y,AAIC--8/STEINS%3BGATE 第２巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 255182356
+SHA-1: 9c3ebcbb50d54434ea2b65af9fd3b532523b3afb
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.08.26 - 22:51:38GMT -----
+
+File : STEINS;GATE 第３巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@2NCPRuQwxtGewpz7zCTQXydpJBdqlKXwlF0DOyzuKr4,IgadawxBTrLZrmaTgHw-nk452k3E2lMjtSg9W2Cidhk,AAIC--8/STEINS%3BGATE 第３巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 215593011
+SHA-1: c1581340873cbd5b0aa4c482093594a09af99293
+
+File : STEINS;GATE 第05話 「電荷衝突のランデヴー -Starmine Rendezvous-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@wR9zE68po2BjGFgO~ARyx1CIXZJUAMTkN5E~SM4F2P8,1U0tA-9dZSPD-I3rbyI2quOYLw3y~cMZkUUU8uoISYA,AAIC--8/STEINS%3BGATE 第05話 「電荷衝突のランデヴー -Starmine Rendezvous-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 727885497
+SHA-1: 60ab45c9ad7d6eb1bcaff7080d7e5fec5eda5eff
+
+File : STEINS;GATE 第06話 「蝶翼のダイバージェンス -Butterfly Effect's Divergence-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@LsQ4pTT3jeQwso91AkuRBEvUsCCXcp2w8rR~cDavJiQ,DgbK5KQKuGI5-WiW7YZbZ7A-qF1mDwSYJohSXggTvG0,AAIC--8/STEINS%3BGATE 第06話 「蝶翼のダイバージェンス -Butterfly Effect's Divergence-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 807838701
+SHA-1: fb171ec7716c087a0a1df151018d345a61b921af
+
+File : STEINS;GATE 第07話 「断層のダイバージェンス -Divergence Singularity-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@QWW5kJrL1UGp4JWtpJ1rPnM74NgITLM9Oqs8VoeFP7U,SwPObbqpbJpONNdSmXHW2ghBXmhLnhhdcS4GjUYCFDI,AAIC--8/STEINS%3BGATE 第07話 「断層のダイバージェンス -Divergence Singularity-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 832760163
+SHA-1: 578efeeb504d90ecc63f51d4b4830d3f3c67e93d
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.09.27 - 09:53:30GMT -----
+
+File : STEINS;GATE 第08話 「夢幻のホメオスタシス -Chaos Theory Homeostasis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ByMqEpSzhVOvS2NFKjzhK~uSyA1lRvScKfvZk~X~34U,mQAnkCcfJ2Mi2~9ecepJ3F20E0ytIaxH4C1B3Wn1tEA,AAIC--8/STEINS%3BGATE 第08話 「夢幻のホメオスタシス -Chaos Theory Homeostasis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 794762938
+SHA-1: 6a0c11250e624b50786e2b6c18e425e541200e5d
+
+File : STEINS;GATE 第09話 「幻相のホメオスタシス -Chaos Theory Homeostasis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@eYvgj58BKViH~N0LqOuS1t72u1z0dsddoqUce6z-QVg,9BRbAwucFNEPB4bmjB4KUZ17CTa0LQ2Luiwnt8c-RxI,AAIC--8/STEINS%3BGATE 第09話 「幻相のホメオスタシス -Chaos Theory Homeostasis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 765480596
+SHA-1: 391a36cc17bf5c8d601b4591cbe116767bfef8f9
+
+File : STEINS;GATE 第10話 「相生のホメオスタシス -Chaos Theory Homeostasis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@R1DmGED7qWlDOdESjlf-drFRCuc6613W5ZMyY5Dipiw,DAKfh8ESFyydoo1RiOMKQVsJkkDeIeqlEOL93Ue-Kks,AAIC--8/STEINS%3BGATE 第10話 「相生のホメオスタシス -Chaos Theory Homeostasis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 771456527
+SHA-1: b3fe13c8f5609d68539d45db8524544c540b4150
+
+File : STEINS;GATE 第４巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@gcSMRwFgdUam~cUjWRK0Sn9g6tciVLnTyzKXQ4uF5OE,jy~ze~Us226207ldp8xWLBw7lM2Sx9r8RJ~bTQEXKZ0,AAIC--8/STEINS%3BGATE 第４巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 211374138
+SHA-1: 5fc4df711e9c57ddb014d316ea1cf66975f1dd65
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.10.30 - 15:25:52GMT -----
+
+File : STEINS;GATE 第５巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@J6gwzO3CZGWJ~X3WVsrxu05szCD6oQnB5o4QbuDMf~k,hHQUE076H2s8UKgD7~l3NhZkZig5bh4DJ1D5THVxyYU,AAIC--8/STEINS%3BGATE 第５巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 214939523
+SHA-1: e598c8fe842d11cf8d6b03a38e7ec0d9cdbde8ec
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.10 - 03:39:27GMT -----
+
+ぜんぜん別な設定のバッチファイルで作成してしまいました。
+
+File : STEINS;GATE 第11話 「時空境界のドグマ -Dogma in Event Horizon-」 (BD 1920x1080 x264 AAC rev).mp4
+Key  : CHK@eS2OF883HWys-3GiR1Wa7-uwv6OtO0~u5Fg2SgYnwdE,sJ340tUPV6Baw9OtYYRrpotnuFBn59PjOwrFlWv50G0,AAIC--8/STEINS%3BGATE 第11話 「時空境界のドグマ -Dogma in Event Horizon-」 (BD 1920x1080 x264 AAC rev).mp4
+Bytes: 776821925
+SHA-1: ffc7fbcbbb5b985756b6ea9b9b4591c15c14ec63
+
+File : STEINS;GATE 第12話 「静止限界のドグマ -Dogma in Ergosphere-」 (BD 1920x1080 x264 AAC rev).mp4
+Key  : CHK@-mWOELVMYjJx7UbKmAfzan0BMAKXF8PCuzgtT~oUcIA,CfkBFClnv6sczzoG6mvULSQyl4OqDQdE6yCQ62g2YO0,AAIC--8/STEINS%3BGATE 第12話 「静止限界のドグマ -Dogma in Ergosphere-」 (BD 1920x1080 x264 AAC rev).mp4
+Bytes: 722012913
+SHA-1: 238df23e9a79e2e8642b4a5213d98b884cf63db3
+
+File : STEINS;GATE 第13話 「形而上のネクローシス -Metaphysics Necrosis-」 (BD 1920x1080 x264 AAC rev).mp4
+Key  : CHK@BM8yQuCv0meQ09HLX6zRZuIEzyea73gnrbC8IjItjyQ,QJmYCU469tIx7dOh-LNYma1cnx42C4UypsHXK9T4-VY,AAIC--8/STEINS%3BGATE 第13話 「形而上のネクローシス -Metaphysics Necrosis-」 (BD 1920x1080 x264 AAC rev).mp4
+Bytes: 835252485
+SHA-1: 22dab255287585d53dca59a6afc1921a05b89e58
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.11.29 - 09:52:56GMT -----
+
+File : STEINS;GATE 第14話 「形而上のネクローシス -Physically Necrosis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@1E0y-bIL~Nu-VKiyQeeoCSJLiqpEY4KrtbvXxXudJeU,mSFfmo7i57DsARf1VS4suz4LwYv92B5oQ-r9YJyK6JY,AAIC--8/STEINS%3BGATE 第14話 「形而上のネクローシス -Physically Necrosis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 805700223
+SHA-1: 6290cb7d10df21638c9aa1586f7f9fa96f111b49
+
+File : STEINS;GATE 第15話 「亡環上のネクローシス -Missing Link Necrosis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@rwHAHTLzp79598LfBrGgTL2UQ4HXiuMbqCXht2iZRzo,Kr1ScWCbvRj8~3BMrKMBgkazHl4ljKVpAOoFzQ1wuxY,AAIC--8/STEINS%3BGATE 第15話 「亡環上のネクローシス -Missing Link Necrosis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 916996828
+SHA-1: 6ae1dc5c6fd37f1d10b358cdcf57d298b53f490d
+
+File : STEINS;GATE 第16話 「不可逆のネクローシス -Sacrificial Necrosis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@KIE9rK~OUc6~2nEss0TFcYoID8SmqdJbiV40jdaI4HA,ktmepUR1yMMziBEereOf5LinQZfUrjr5f3tdkZ49BQs,AAIC--8/STEINS%3BGATE 第16話 「不可逆のネクローシス -Sacrificial Necrosis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 881102793
+SHA-1: 971d5ccef3924a675cdc3d748fc87f81f6baa6d6
+
+File : STEINS;GATE 第６巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@JpCe1UiD~TuxiBFOAawkMAzdUJYBRPqRvlQD7Ea4Lok,rZXxv5MfXKcbgbKrwIRa81ANEnNzQ5KOLuPyCP~J5Bc,AAIC--8/STEINS%3BGATE 第６巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 203736451
+SHA-1: fa831a67828aad682fb9909f2e83e54c89dcf172
+
+----- Anonymous ----- 2011.12.03 - 03:58:32GMT -----
+
+14話は「形而下」ですね
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.12.03 - 07:07:03GMT -----
+
+はい、各自修正をお願いします ^:)^
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2011.12.24 - 07:31:23GMT -----
+
+File : STEINS;GATE 第17話 「虚像歪曲のコンプレックス -Made in Complex-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@FlS5lQMRACF1qKAzqhZTui2EX2FnOlBiuNJLMcIHpHc,ujnVIjmxyno0diEMEwRCMrIgkidBeuzOWI6K507kdq8,AAIC--8/STEINS%3BGATE 第17話 「虚像歪曲のコンプレックス -Made in Complex-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 835082059
+SHA-1: bd71f3eff101073be835966e78d71cb1bb035b32
+
+File : STEINS;GATE 第18話 「自己相似のアンドロギュノス -Fractal Androgynous-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@igmHPLI319CPfbMd2Oa7IB4lc-aMiHyxLdC9-tR36Go,jqU87U1BDXVG8tcx2UOzogNK680-lFkg3YiqitLzYf8,AAIC--8/STEINS%3BGATE 第18話 「自己相似のアンドロギュノス -Fractal Androgynous-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 732016362
+SHA-1: 562e2a471b6e7bad95dd0fa273c27cd5ed42533a
+
+File : STEINS;GATE 第19話 「無限連鎖のアポトーシス -Endless Apoptosis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@gu4IfHMKwd3vwaRJpvof7bj9Gu5dXFHw-ahHQC1vBO8,k9yfGrfQ20KJGA36g6HJQGyvNei1NERX63K09Ghsl3A,AAIC--8/STEINS%3BGATE 第19話 「無限連鎖のアポトーシス -Endless Apoptosis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 862336204
+SHA-1: be61e3a62f80c36a3bb1ff6a2b1a0d5c1b14c887
+
+File : STEINS;GATE 第７巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@N68FXEqDYwV0wlgxU640lFqp6-n8LLbUE9LUiQ-G3Lk,slv~joDfwhBF~g7tLqLUnsuCYxYMm6gNStsSP7L4gVU,AAIC--8/STEINS%3BGATE 第７巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 215020088
+SHA-1: 37bd1d4e3787a4d78f1516ed4bdd25fa1e1fab0f
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.01.29 - 15:24:26GMT -----
+
+File : STEINS;GATE 第20話 「怨嗟断絶のアポトーシス -Finalize Apoptosis-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@xPIl-OXPTV0BR6NNQZ~ck5oSuw9CfXqBN54~8uGMlLo,BSeo6O6YXuaSi2t7NbxAe2uL0fVcpZPVmKReWZqXLCY,AAIC--8/STEINS%3BGATE 第20話 「怨嗟断絶のアポトーシス -Finalize Apoptosis-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 766072316
+SHA-1: 657fa8577ddc873a368ac7916705fbb7e53e0d85
+
+File : STEINS;GATE 第21話 「因果律のメルト -Paradox Meltdown-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@QXIgE0s2cRDlrOIEPqZkrYJryRgO-BgDpq8RcHgKVBs,pBSResaPk7bzLMrc-nZm31TmVGQftF9tG2Vsi4pZlKM,AAIC--8/STEINS%3BGATE 第21話 「因果律のメルト -Paradox Meltdown-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 787901849
+SHA-1: b15bc0c5bacb3e1e1d66c50934608ee94c88eeaf
+
+File : STEINS;GATE 第22話 「存在了解のメルト -Being Meltdown-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@rlBV8Vk8NQh3trrQn8XQXAcYLxCwLhyYxeXQeG8UKI4,M31QRo7oLeHz21X1yy~YURuaclQmPR~0IhuhgujTASM,AAIC--8/STEINS%3BGATE 第22話 「存在了解のメルト -Being Meltdown-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 896876727
+SHA-1: 8669cbf63009d4a223700ebc37ee2fe9a76c812c
+
+File : STEINS;GATE 第８巻 映像特典 「イベント映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@rWIfgOFV~OURRbykyhog7NBbHo3knjv-Cxgns9oioFQ,SS80Ks5JX0gaemQwzf29jq1re-ohhQi13I8QzqEBMUg,AAIC--8/STEINS%3BGATE 第８巻 映像特典 「イベント映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 1069204898
+SHA-1: e42e273bdd88fa58f9874ce81d51e023f6d1cd42
+
+File : STEINS;GATE 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@C~6PdIaFNCciiOrxaxKNvCJ-4JwVBagEIJp2M85Qs6k,~zHu~trML3BcCyJq8qbIdLsohlNGBsneLUoOJAsiCvM,AAIC--8/STEINS%3BGATE 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 270917722
+SHA-1: cd69642de28b2762195c76953fe77a32d087c798
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.02.25 - 02:24:49GMT -----
+
+おわり
+
+File : STEINS;GATE 第23話 「境界面上のシュタインズゲート -Open The Steins Gate-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@ke9IlQ4LtLq-RDj8DK4bBWs2ZHpliLrp3NYGcvEC3Zg,m~X4oxLYXNGF7U1A09Xtga7Ovgl9rb9NEMcGMUgTxHg,AAIC--8/STEINS%3BGATE 第23話 「境界面上のシュタインズゲート -Open The Steins Gate-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 1068622769
+SHA-1: cbacd8e3902cfe2a45aae45cbf68e96eb6bbb8a0
+
+File : STEINS;GATE 第24話 「終わりと始まりのプロローグ -Achievement Point-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@DGWprgeAG~~pdM0nyBL2djkqQCTcox~5YHGFfVPh8Wc,0EVDM9tiiqys6~1ydxfe4b7Qjc4hn22XO7NbzeeNL3s,AAIC--8/STEINS%3BGATE 第24話 「終わりと始まりのプロローグ -Achievement Point-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 844297413
+SHA-1: bdc5f5930164a62c36a7ffc25330b483112e317f
+
+File : STEINS;GATE 第SP話 「横行跋扈のポリオマニア-Egoistic Poriomania-」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@BVM4XYJO~e1gOzvlI5mwSt8pCJ~ivjfp76hMKxSmiqY,KZP2y1KS1oldZqQURQfpfYRLxJK2qAVEULu3iga6qME,AAIC--8/STEINS%3BGATE 第SP話 「横行跋扈のポリオマニア-Egoistic Poriomania-」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 575465164
+SHA-1: 75cc32d55374d16f3b564adbae7992fd03adb7de
+
+File : STEINS;GATE 第９巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@FGIvsDyR3HZIsUtyvSXDQpGdTXk-j3XMZ~msNZXyUpg,BoUGhSeyEF1t3oKWGRZnZv9F33CpDgrqAO62EVXkkDg,AAIC--8/STEINS%3BGATE 第９巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 205147685
+SHA-1: eec3b7ef8afb8b2776cf23f4ea4f6ee0c1f1807a

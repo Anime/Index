@@ -1,0 +1,495 @@
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.08.03 - 14:21:16GMT -----
+
+基本的な処理は禁書と同じ。
+フェード及びシーンの変わり目の数フレームでシャギル時の処理に若干の変更があります。
+
+Source:Blu-ray(1920x1080)
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.08.03 - 15:08:40GMT -----
+
+BD発売当時話題になったオープニング開始直前のゴミは消去。
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@SmIXDUpLTDRTU605Whgcz1gRcJwEu4ZLZe3yfw4WJ5k,gO2MURClVmUAKokMYQrA9zytX7xtAiLmjAKuKGnw40Y,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 373293056
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@OsLu2DrlNnDlpElKFTvYINBdZNMWG94IvW6J92C9O60,nWH57aiF2j0MnTkFEujwx32hS~aalUCP~-4R~Yfe~YE,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 373293056
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Key:   CHK@klfI143hnzyoHklVcB7I7oxs8Z~oSzVB8Fl0emKXMdQ,MnjomKUnBoogOLAxDUScEhbC5ncaOpOp~k95DBzgOSw,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Bytes: 373293056
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part4.rar
+Key:   CHK@nToV~NbgNuzyxR43OGU3Ng51U8oJuNL0J8-BoUpEUmk,qHVkaVjCK0eMEXdaOQTYgAGVTlt-eOXPwaf9WI7bc~M,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2).part4.rar
+Bytes: 370629516
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:21:48GMT -----
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2 ver.2).part1.rar
+Key:   CHK@vjSSF9OlwLoU~4SiHZCEpOXM84NpKjBtcuyYQ28R4Pk,VcmcQKcSP0KIoEd7dxZMDKqiu6XA6no7QNMRaymhhg4,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2 ver.2).part1.rar
+Bytes: 438304768
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2 ver.2).part2.rar
+Key:   CHK@gItyoXVYhYnf0KBu071OVCEo693tOMYd8vBkUfO9BUk,6AjS23X8XGbUTZB9pEv~7r96er4yvKVUPAiZ6Pw4D3U,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2 ver.2).part2.rar
+Bytes: 438304768
+
+File:  とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2 ver.2).part3.rar
+Key:   CHK@lwKFzkz04Ozl9FC0Kgvha7toBeu2dyGaq1mnEUQeQeM,7DYO~Grnfacc0KcMviB7~Z32uid622MpuCsxj8n~b3M,AAIC--8/とある科学の超電磁砲 第01話 「電撃使い(エレクトロマスター)」(BD 1920x1080 x264 AAC2.0chx2 ver.2).part3.rar
+Bytes: 437660570
+
+File:  とある科学の超電磁砲 Vol.1 映像特典 ノンクレジット OP (BD 1920x1080 x264 AAC2.0ch ver.2).mp4
+Key:   CHK@DEyhC0Q-BWbFnugcA9QLl-oh3zbPm7VDAEJcaJNb7Qo,SAFBhRS51sOqscUkDY3tOIeaqOWo~VjQLEVql4XrzhU,AAIC--8/とある科学の超電磁砲 Vol.1 映像特典 ノンクレジット OP (BD 1920x1080 x264 AAC2.0ch ver.2).mp4
+Bytes: 120289047
+
+File:  とある科学の超電磁砲 Vol.1 映像特典 ノンクレジット ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@JbAuB6Ra1TBfpGbJosayV6qL70q7ulntYtCdiv2ISXE,F14Sz2cZUvBbPxT9B7UVlrmlFVZ1bB6JCAu53ccAhq8,AAIC--8/とある科学の超電磁砲 Vol.1 映像特典 ノンクレジット ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 202650947
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.08.27 - 13:20:09GMT -----
+
+File:  とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@Hq99C1y1B~GgP9jXfSYxiO0n8gDLXJjt2HEc6R-tzfY,tiZxQLBZRxtpWaKsJ-5H5xwBAwDS34egjKBQg-4~JxE,AAIC--8/とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 423624704
+
+File:  とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@7WgrsSsLl7Wmnz03kEsyPEBGAjgKM-E~aR4YDgr4B1w,3BjwICtEbC9t3G2E7gnitEBeycgx27vOOljslNHpCqY,AAIC--8/とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 423624704
+
+File:  とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@4cGYhyP5gbZWSJ9bMJXUDX0VoFwUXaYTxjrUeumyIKA,cJs-WETaTtkIAulpj3XAYbWnwx5RzpTre3S1ZFgcTX0,AAIC--8/とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 423076949
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:22:30GMT -----
+
+File:  とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch ver.2).part1.rar
+Key:   CHK@WotrlN8RiXtva69DlFRg1LL2M1QUjDZ6zHg1WM5zIP0,ojnd29-vzZQZmP57kKkPMAAFCVCCUP78Rm9u1BPUy3c,AAIC--8/とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch ver.2).part1.rar
+Bytes: 497025024
+
+File:  とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch ver.2).part2.rar
+Key:   CHK@21YYWM7vF3OVv~Gj6fEJLNwLcTAm6UfofzofvAs95t8,pyIMn5B9PDNo7jixI8FkjR9nJ2GiQPfXIik2OR1iALs,AAIC--8/とある科学の超電磁砲 第02話 「炎天下の作業には水分補給が必須ですのよ」(BD 1920x1080 x264 AAC2.0ch ver.2).part2.rar
+Bytes: 496456515
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.08.27 - 13:22:10GMT -----
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@~KWtf8wTfleIKhvKJzPmW~bFszmEeWTtQ161qC4Si0A,tNGTShZukCStc4BoWP~nOxXUyB-CGVr7GYC4J4Sep6A,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 379584512
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@3Bh2kC8QfU~XY2adN8o0ca-9Z9U4R7U78mkYa7-gtPM,D28fJNf4BhKHhxCmJAc16J4sbm2p8-QV8d5tsv1woGc,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 379584512
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@W7XnNbwLbWjnhjNjpIA2MnarwbcDwWEuFFyiR~53TCE,E28ky64-laK6cAeWGgfbdrkqQWfIUS9Ou2wFRaGaoAM,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 379584512
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part4.rar
+Key:   CHK@SP0~YgMY7f7r4lryNwo79jf0MtRMUpeL6kFv4OY8ZBE,dlA-rG3NF~AIsCKyQGI0EeBxXlyd2IeduXKbk~elwio,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch).part4.rar
+Bytes: 379215365
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:22:44GMT -----
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch ver.2).part1.rar
+Key:   CHK@mdcOuX0q7C0faQCWEhY90c7wlxm5rChX15jZQoBTnFQ,0G5cacGPdDws5Y1sSvrD1YDijNHa0XCfzZIRxfBbVyU,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch ver.2).part1.rar
+Bytes: 409993216
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch ver.2).part2.rar
+Key:   CHK@pF1WsZ6oyOU8k7xip9BX8UmMrA-nHN~w8GZBVMiXXD0,Yur7jQMWgYSaoiP9rp3RX9ILS-HUt745zJhAVb5N~XE,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch ver.2).part2.rar
+Bytes: 409993216
+
+File:  とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch ver.2).part3.rar
+Key:   CHK@XljDIT0Ml0W1mLAMC8Mp5FJALqntEmdFoOkxjQOJFkg,0r2Mnir-ZUt6sOOJDBxnu-Q1rn~ZsArpYAJ-utOk4nM,AAIC--8/とある科学の超電磁砲 第03話 「ねらわれた常盤台」(BD 1920x1080 x264 AAC2.0ch ver.2).part3.rar
+Bytes: 407464528
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.17 - 23:29:38GMT -----
+
+File:  とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@AMhJdy9UtBozYi1ATq46rXJDZLQAefGv2jtultE75Qo,A75u-HKo9hJJVLvv5kBKw5ugaGces2iGynK3vkDZaL8,AAIC--8/とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 434110464
+
+File:  とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@ZJ-tvn-HUuax4WL2ykHt70UCPUhrM6oLPteM-df9la8,GUL8j0eyKVLCIjhPGSzP1C6iu04Iw9jIq-IAIGINz0I,AAIC--8/とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 434110464
+
+File:  とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@lKXegVASKDiOXrzpqM6mNH~Jv5jkT0JM2qPIKY1wgPo,FWvBsfHMekpgMraAlk7oCkIyHa1ldEpjpH8SCcVX9B4,AAIC--8/とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 434110464
+
+File:  とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part4.rar
+Key:   CHK@JKAcFW2dUY4FgqAmQ8nJW3ZKRGCwuz0pgngQ9eYw3ns,uGMkqkBZEprDH9uyybwnz3RIGYIQ2MY80uzFRitd2sw,AAIC--8/とある科学の超電磁砲 第04話 「都市伝説」(BD 1920x1080 x264 AAC2.0ch).part4.rar
+Bytes: 431490530
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.28 - 14:37:52GMT -----
+
+File:  とある科学の超電磁砲 第05話 「とある二人の新人研修」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@eGz~pO-8bEO3eQFpHBRuoDQna0CcwZO8BKA9ZlTKmt4,VhqVNqkL9A3Dj88L4TipogUk~pEODftsda8Rk18iiWk,AAIC--8/とある科学の超電磁砲 第05話 「とある二人の新人研修」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 506462208
+
+File:  とある科学の超電磁砲 第05話 「とある二人の新人研修」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@y7-bHI4RJVn26PkVc887MEhfhxKwScFB1TFeWauFeRA,StuS4A5bhzkFKkfXCTF8432m8KNrn~gATCIwf~HkMaM,AAIC--8/とある科学の超電磁砲 第05話 「とある二人の新人研修」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 504311766
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.29 - 20:55:35GMT -----
+
+× AAC2.0ch
+○ AAC2.0chx2
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2011.12.29 - 20:54:42GMT -----
+
+File:  とある科学の超電磁砲 第06話 「こういうことにはみんな積極的なんですよ」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@Mv~EI4h0jhJTPkzqcM~JKCgP6BRZG-Zfksi-GrKxzfM,7LKG66Js8hP~LvmR1sHB53resYuA7en8O4sHYggEw7c,AAIC--8/とある科学の超電磁砲 第06話 「こういうことにはみんな積極的なんですよ」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 511705088
+
+File:  とある科学の超電磁砲 第06話 「こういうことにはみんな積極的なんですよ」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@tjERXzh8OgJEsMOohXRaRc3KDIR-k4btNm~KGUsMFRA,1mymPFZb1Uj4pGcYeMwcK0iRyIgb8v-WLPHotiSMbp8,AAIC--8/とある科学の超電磁砲 第06話 「こういうことにはみんな積極的なんですよ」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 510090918
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:23:35GMT -----
+
+File:  とある科学の超電磁砲 第07話 「能力とちから」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@H575Ua-OCuBrboYL8TlImVYpvReeysNBCBP06hMjgU4,S2FRfeOTrfOGxzJfdcEPiCoSO8C5GQzMj8uvOQ3-Gyc,AAIC--8/とある科学の超電磁砲 第07話 「能力とちから」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 362807296
+
+File:  とある科学の超電磁砲 第07話 「能力とちから」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@~Cv20Im65KQlqfCne92-Wg3Uau4FixgeDsvp70h6kq8,Azd0K95YZpxNmc5PJry9MsKvTmKHikeT9UmkaVfYUSc,AAIC--8/とある科学の超電磁砲 第07話 「能力とちから」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 362807296
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.14 - 21:26:04GMT -----
+
+追加
+
+File:  とある科学の超電磁砲 第07話 「能力とちから」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@OeCTkROvyMce5Jp2c6fIlxyjy1Z0uVNnhlP4XVeVNqg,OJVMPdxp9TDfXw5f9pqyiaNfbshTZpgVDlE-WBBlX~Q,AAIC--8/とある科学の超電磁砲 第07話 「能力とちから」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 362298123
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:24:18GMT -----
+
+File:  とある科学の超電磁砲 第08話 「幻想御手(レベルアッパー)」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@z7PJaWaD5z377LVodo4ENslNkLMQxWZz2kZMRjJ8vuk,d5EneoSqsGqD5OoX46uu1wNTCd5~c-bHHOkyq1SBFv8,AAIC--8/とある科学の超電磁砲 第08話 「幻想御手(レベルアッパー)」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 475004928
+
+File:  とある科学の超電磁砲 第08話 「幻想御手(レベルアッパー)」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@cXYc7QXrVsFCeaG8qzkUHWx-kZ~-kQ5n~qonez3yqqs,Aqnn2Ap3OjPW0GpMYWk8LObkkbSc5MyLf3cdDOQ~AFI,AAIC--8/とある科学の超電磁砲 第08話 「幻想御手(レベルアッパー)」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 473680201
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:24:56GMT -----
+
+File:  とある科学の超電磁砲 第09話 「マジョリティ・リポート」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@icGcW6GWPESxC7SoEZqZGUWJkebbLcywXGY5qQq8y~c,yzbLpO3sALpfl0AEdczdBnFwRGNNdm~IxnM7RK-qDTo,AAIC--8/とある科学の超電磁砲 第09話 「マジョリティ・リポート」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 505413632
+
+File:  とある科学の超電磁砲 第09話 「マジョリティ・リポート」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@xoDX7DS5j3hyYDnQHO9ukHbM-kYJ8rfH8MOctlZCv-Q,e1WHXLvyjRH-XPQ8b0HsQd~-zzaN2q8c6tS4WIT0fFw,AAIC--8/とある科学の超電磁砲 第09話 「マジョリティ・リポート」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 504508781
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:25:43GMT -----
+
+File:  とある科学の超電磁砲 第10話 「サイレント・マジョリティ」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@zbKvmZUJP9aep8NOI-nduFnf0betAlSupyzOcfRvXyY,xslgjJzqrAlBlSxP~QzfvdeyhAvsTE1FcZfhbO1EdFY,AAIC--8/とある科学の超電磁砲 第10話 「サイレント・マジョリティ」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 356515840
+
+File:  とある科学の超電磁砲 第10話 「サイレント・マジョリティ」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@RLGTXfcCWSMBeki7iDell4aUOcvcS8EQc5xKi4oCHqs,swit4kRNXrO0ea45oWrIPHVNMegryAm8H-EqoVCqGr4,AAIC--8/とある科学の超電磁砲 第10話 「サイレント・マジョリティ」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 356515840
+
+File:  とある科学の超電磁砲 第10話 「サイレント・マジョリティ」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@B1bndMWJj1XD0K6isLMqTSN3-fExSZkAFzppVPg3L-A,Bqifn8jmVWbU0hhfrFNgQI8r2rnym5dq6gkvag~fYvA,AAIC--8/とある科学の超電磁砲 第10話 「サイレント・マジョリティ」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 355346448
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.04 - 21:26:19GMT -----
+
+File:  とある科学の超電磁砲 第11話 「木山せんせい」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@mLxW~zD9Qn95-kmOLt3SZq2wuqYDgJg~2O6NsyUDIfc,J9TC4Rnfpwn94L4jG5uYrq9zhCHc5TgDO4oajxrj3Qg,AAIC--8/とある科学の超電磁砲 第11話 「木山せんせい」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 412090368
+
+File:  とある科学の超電磁砲 第11話 「木山せんせい」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@JCNaRLuTF8IfSbxbYmKzLFGY1DHP0SEZAAVIgNxs-CM,4U6oQ9q-uXW5929n-OeGX15Oeawb9lsHLz4HZ9krL2A,AAIC--8/とある科学の超電磁砲 第11話 「木山せんせい」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 412090368
+
+File:  とある科学の超電磁砲 第11話 「木山せんせい」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@1ws9H7y4QQoNwXXDmNjQlaumR~ERx3qtlSwRzZAYHzw,CEdW-voNk-ZL-tBip4dZmhQT-1Gjv55Ao0FR-dkDcmM,AAIC--8/とある科学の超電磁砲 第11話 「木山せんせい」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 411633832
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.14 - 21:22:22GMT -----
+
+File:  とある科学の超電磁砲 第12話 「AIMバースト」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@Tej1woJ2chbuWAjDP4laiTaYa4Y4z7tsKVKpHsD3S0I,2pWD72rzZsPDVz3I4uEXKNqPLhBtI3N7-ovEeRTfBYE,AAIC--8/とある科学の超電磁砲 第12話 「AIMバースト」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 497025024
+
+File:  とある科学の超電磁砲 第12話 「AIMバースト」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@UsMCbiuXlDIZJJDKVvfCp7bmlI4oydGM7LYkhFAxdVY,QVQgU9HFpCtexgEeNWPHiOvK24-IQsg01ln~dTyrsTs,AAIC--8/とある科学の超電磁砲 第12話 「AIMバースト」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 497025024
+
+File:  とある科学の超電磁砲 第12話 「AIMバースト」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Key:   CHK@9qeFg8Ii3GjyVh55U6hfZdACLq5qjU2Jsnbq0D6GtpA,ewsgKU5IOE~MqVsBpTPX4kTKEi8tLCEJmOYRbgW-8PI,AAIC--8/とある科学の超電磁砲 第12話 「AIMバースト」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Bytes: 494587083
+
+File:  とある科学の超電磁砲 Vol.4 映像特典 第12話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@nqjgKjo2J9TkhCpXEOIZEhPjkCO0VvW8Lj3qSMV2Mjc,XV8ih-Ibc5EcOUIvZrcFf8FTNSKyDNGr7EeDpDeVyGM,AAIC--8/とある科学の超電磁砲 Vol.4 映像特典 第12話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 131259417
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.14 - 21:25:12GMT -----
+
+13'はOFFICIAL VISUAL BOOKに付属されていたDVD。
+今回も綺麗に？上3ライン下3ラインを切って無理やり720x480にされていたので上下に3ラインずつ追加した状態でアプコン。
+
+File:  とある科学の超電磁砲 第13話 「ビキニは目線が上下に分かれますけどワンピースは身体のラインが出ますから細い方しか似合わないんですよ」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@GQKjy8F~QTXtOb6oYoMNUS48S-QjglrlJXzHdWplF7U,y9Zzt5cgBFzhXFL2nIkrE47exHWfdKvrMMFDNwA0hck,AAIC--8/とある科学の超電磁砲 第13話 「ビキニは目線が上下に分かれますけどワンピースは身体のラインが出ますから細い方しか似合わないんですよ」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 371195904
+
+File:  とある科学の超電磁砲 第13話 「ビキニは目線が上下に分かれますけどワンピースは身体のラインが出ますから細い方しか似合わないんですよ」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@-HW~Wy6hhVMi1alp6G9owF8ZJb-ybtKrxt05a9ONUC8,Iftd2GLoRuX3zQLo97wR0reBgJh0n6SO-cAt8f4QZ-0,AAIC--8/とある科学の超電磁砲 第13話 「ビキニは目線が上下に分かれますけどワンピースは身体のラインが出ますから細い方しか似合わないんですよ」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 371195904
+
+File:  とある科学の超電磁砲 第13話 「ビキニは目線が上下に分かれますけどワンピースは身体のラインが出ますから細い方しか似合わないんですよ」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Key:   CHK@3wiCc1vNS1aahJeYlmJD5i7rySd7Sq~V1KT3y6vXFsI,TvNNXZGSCF6ycjH2Mbjz7Cr9tjI42rg7PBxP1DC4Tgo,AAIC--8/とある科学の超電磁砲 第13話 「ビキニは目線が上下に分かれますけどワンピースは身体のラインが出ますから細い方しか似合わないんですよ」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Bytes: 368061328
+
+File:  とある科学の超電磁砲 第13'話 「炎天下の撮影モデルも楽じゃありませんわね。」(DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@K1~DBrnen6aPmatMaJxAthz4FgS46tlxizZG01UEaUA,wjqU4O3TsyOHQE5QXZDolrDNZVO4WxqMEA0do-6tlA8,AAIC--8/とある科学の超電磁砲 第13'話 「炎天下の撮影モデルも楽じゃありませんわね。」(DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 158593808
+
+File:  とある科学の超電磁砲 Vol.5 映像特典 ノンクレジット 2nd OP (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@Mr24P3lOuLLO3Tb5jTfuLslMfGYvHlQOuYQjQq~Qy5k,Aj~yLGsRYy0XvsR2K9qmXUlqwFWC9CXBLPluFgc3RGQ,AAIC--8/とある科学の超電磁砲 Vol.5 映像特典 ノンクレジット 2nd OP (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 122948352
+
+File:  とある科学の超電磁砲 Vol.5 映像特典 ノンクレジット 2nd ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@E8tsoGq8rwHL0XANADEbY5-i-x2GPTkxO4FfS~TjDxg,wvDm9nl1zvaePnTZmb7BBgxr2k~0yqOhyWmvSpo9blQ,AAIC--8/とある科学の超電磁砲 Vol.5 映像特典 ノンクレジット 2nd ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 86703471
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.07 - 12:37:03GMT -----
+
+File:  とある科学の超電磁砲 第14話 「特別講習」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@f-UdtZC9IB57XT860p2idU1Pi3WYzulL1TTBYwgsWq8,INGtmAYUrJ1qnoEFQz14gnPNJ6XuOJAgNMqHPXTxQr0,AAIC--8/とある科学の超電磁砲 第14話 「特別講習」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 400556032
+
+File:  とある科学の超電磁砲 第14話 「特別講習」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@z54VGUfF-eDQhSpQqOW~UIukgXCXuSk0dxavfw~x9EY,mb6-16SwkhJNSEJ-lyXl96-HDEfQDxSoXBVU9LBr0So,AAIC--8/とある科学の超電磁砲 第14話 「特別講習」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 400556032
+
+File:  とある科学の超電磁砲 第14話 「特別講習」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Key:   CHK@~YBT6mYJQJ24yoTKAqSysUebPAOhqtHkrYkQWYdeVeA,D4TNeuEIaR8fv20G1RIDq5gLUmYoRn9BnEwHflbSDmI,AAIC--8/とある科学の超電磁砲 第14話 「特別講習」(BD 1920x1080 x264 AAC2.0ch).part3.rar
+Bytes: 398691747
+
+File:  とある科学の超電磁砲 Vol.5 映像特典 第14話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@RUqRaPe~oxFI3L2y2FF9fWIayaqkfwqz6jYQjj2JYTE,4uGGOJEwjzzRMRrkjTUWGIGceqkzC7trW9T0a5wte~o,AAIC--8/とある科学の超電磁砲 Vol.5 映像特典 第14話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 203673349
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.07 - 12:37:58GMT -----
+
+File:  とある科学の超電磁砲 第15話 「スキルアウト」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@p8ICWC7j9042kZ86wOcQHkETeB~8fEmccBXu4IuY6Tk,vzg7DexN-IbPA8V~c2C1jyLNDF8Nzfm0La3ikt4-lJc,AAIC--8/とある科学の超電磁砲 第15話 「スキルアウト」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 421527552
+
+File:  とある科学の超電磁砲 第15話 「スキルアウト」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@UXd6qb3vzF41SMg1bI-WzskQ1xaN~HcZHuoi3FrRvWw,mhpUV-7q967HO5KTzx4u8qCr5ioQjHpebRrzf2NcMtU,AAIC--8/とある科学の超電磁砲 第15話 「スキルアウト」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 420161210
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.07 - 12:38:34GMT -----
+
+File:  とある科学の超電磁砲 第16話 「学園都市」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@h1027ijSQJxJSxZPGboO4~n0IVueYW4~8ltOu4qhGOA,9k01XyzO4XiKYSMM-WHJDc6cAr4JNY0XnQ9baG0VZ6Q,AAIC--8/とある科学の超電磁砲 第16話 「学園都市」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 409993216
+
+File:  とある科学の超電磁砲 第16話 「学園都市」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@s0SHaViRXMptHcRqKwM2trB6ZHYo4H-gbYawh7LhsjU,lfWZ2nGwxofVI5FqiWzenbK2SqynlKn79c2VIubqmS8,AAIC--8/とある科学の超電磁砲 第16話 「学園都市」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 409993216
+
+File:  とある科学の超電磁砲 第16話 「学園都市」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Key:   CHK@8J8anYwyYKaqZiyNcjy-xzDjiPQIe5wZXog3gyov6AQ,eac~GheB8VV7tOcX0CpGbG4EtTwHRBJ6ya8w0Lgke9I,AAIC--8/とある科学の超電磁砲 第16話 「学園都市」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Bytes: 408155285
+
+File:  とある科学の超電磁砲 Vol.6 映像特典 第16話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@hyw3336AJswisBdOd7lJXi8AqOClN3i~KtJIEi9qv78,VSTXVOx7U~aIVVFQ3eFhxoRjY6vIVW8RyS7mVnjFBK4,AAIC--8/とある科学の超電磁砲 Vol.6 映像特典 第16話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 77655507
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.07 - 12:39:11GMT -----
+
+File:  とある科学の超電磁砲 第17話 「夏休みのつづり」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@SHdaOz1N88aH2sKW1J2bqHLQBUD5V9kbpGvbTfWSLC8,DW9Ybqe5bQ8M6a966iN9qhXBN42wMoi~MlPpNivXswk,AAIC--8/とある科学の超電磁砲 第17話 「夏休みのつづり」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 492830720
+
+File:  とある科学の超電磁砲 第17話 「夏休みのつづり」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@-Ltn1QNnTyf3vs15nza-R3canpV73DfEqoitZaFtFXc,ibiNaA4VLiBsLEp4hYsrMsimgUGS6IyPf14TL~t-pIY,AAIC--8/とある科学の超電磁砲 第17話 「夏休みのつづり」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 490916050
+
+File:  とある科学の超電磁砲 Vol.6 映像特典 第17話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@7Osc1Ewwcugu35d4X7SN4j3s~kvaRH0kMeXKl7AQkaY,5Fh6ILmJgbLj12Iq72RRILhCm1~phlFJlTdouh3BiGc,AAIC--8/とある科学の超電磁砲 Vol.6 映像特典 第17話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 78722143
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.07 - 12:39:52GMT -----
+
+File:  とある科学の超電磁砲 第18話 「あすなろ園」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@tMQSN63HVhA9dAaDcbGevsSsdWNMTCScrXze2AIeRCA,6SPMPJ~B5Z9DJfBG6NyCsQ50V4Ge9h8qMmKfY13dF1s,AAIC--8/とある科学の超電磁砲 第18話 「あすなろ園」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 466616320
+
+File:  とある科学の超電磁砲 第18話 「あすなろ園」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@3aRkifE1MSHdS~H0aSz9xPTwxRStncvoHvXJj79TKMg,FBEm9SmJcteXGEuKRgvrcL79A~Z2kCibVCOQ2alJBPo,AAIC--8/とある科学の超電磁砲 第18話 「あすなろ園」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 465802648
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.09 - 10:08:41GMT -----
+
+File : とある科学の超電磁砲 第19話 「盛夏祭」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key  : CHK@ubKCmUhNB8geapvcXzEZ0~rDlRRv7xpnSEGJc1Jsvb0,c-gGYVcaSAd7VY6Fumj0qUOwbEsMg5iO1huvPDynS9E,AAIC--8/とある科学の超電磁砲 第19話 「盛夏祭」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 427819008
+
+File : とある科学の超電磁砲 第19話 「盛夏祭」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key  : CHK@fdXFf1~kpntQVel3V-qwqnzR2NSWHkRU1PLGRdSeJM0,HOXyggXpKUaBm2mE3fxuyCmN8qP3yD50vuLnfbuYypU,AAIC--8/とある科学の超電磁砲 第19話 「盛夏祭」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 425396186
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.09 - 10:09:32GMT -----
+
+File : とある科学の超電磁砲 第20話 「乱雑開放(ポルターガイスト)」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key  : CHK@ZlJmDIjbII9ya6ClqaphPK0~RZ8YX4rbWY6VSoyDv8Y,t3ZOZRneEFi1L7Z58U6m-Oocmb7MVAUjVeIdVHzRNB8,AAIC--8/とある科学の超電磁砲 第20話 「乱雑開放(ポルターガイスト)」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 515899392
+
+File : とある科学の超電磁砲 第20話 「乱雑開放(ポルターガイスト)」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key  : CHK@C-x8pVjy2xKl2VjgNmVisWDUa3DfpTdJMdej9i4QCjQ,wH5g4uphoXn1TicOM5HQJBA2HUg-q0F8flmRI5oxE8w,AAIC--8/とある科学の超電磁砲 第20話 「乱雑開放(ポルターガイスト)」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 514671137
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.09 - 10:10:05GMT -----
+
+File : とある科学の超電磁砲 第21話 「声」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key  : CHK@t~Ack9nojO6NeOKhuvRvwirksCkMfhNg8kS0nVa0zMQ,-jk83xDLOGvBPi5fEOWVZT2Z9QAwHk13coYUl7tM2KQ,AAIC--8/とある科学の超電磁砲 第21話 「声」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 403701760
+
+File : とある科学の超電磁砲 第21話 「声」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key  : CHK@H9VhREwvX9duIJStssT01YFblizneeIUzOwDhvFomP0,13vwI~AkeuzLO5pp00VwMbxmBUjEPV5sy0M1R-qBX6s,AAIC--8/とある科学の超電磁砲 第21話 「声」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 402932571
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.09 - 10:11:01GMT -----
+
+File : とある科学の超電磁砲 第22話 「レベル6(神ならぬ身にて天上の意志に辿り着くもの)」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key  : CHK@eLqdEjFpHDAMbxhkO8tCIeSn~4lQsuhaeKCw4geqrJ4,V7PDFWpDeuaT0NP5Oz1FueU4nJiah9J73Ge-Za50aqI,AAIC--8/とある科学の超電磁砲 第22話 「レベル6(神ならぬ身にて天上の意志に辿り着くもの)」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 441450496
+
+File : とある科学の超電磁砲 第22話 「レベル6(神ならぬ身にて天上の意志に辿り着くもの)」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key  : CHK@tWzGfLWrMFodF6ZJYkrXvMbugWV6P14LxqHOnJvPj0o,hCa~0Jac4-0xf-ulaQM2uToJ5~DpjaqcEpecEcZpdJ4,AAIC--8/とある科学の超電磁砲 第22話 「レベル6(神ならぬ身にて天上の意志に辿り着くもの)」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 440354323
+
+File : とある科学の超電磁砲 Vol.8 映像特典 第22話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key  : CHK@c4Wi1XWFUPaOxyp8dIBv1TRlqanc2aka0YsOtPMGmV0,UCjBLoXNdBA2sFR6Mzv5uL6jS6ZL2A8S0UJXb1BGB90,AAIC--8/とある科学の超電磁砲 Vol.8 映像特典 第22話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 81253301
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.11 - 12:12:14GMT -----
+
+File:  とある科学の超電磁砲 第23話 「いま、あなたの目には何が見えてますか？」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Key:   CHK@T-qXrUxGednuvsm5wxOiZw1e1eZ0v9YhZWt~iASZxZg,73zsl-gcl8l31ihTiWrAZa5grYRrVE5d6Pm~OBFkja8,AAIC--8/とある科学の超電磁砲 第23話 「いま、あなたの目には何が見えてますか？」(BD 1920x1080 x264 AAC2.0ch).part1.rar
+Bytes: 491782144
+
+File:  とある科学の超電磁砲 第23話 「いま、あなたの目には何が見えてますか？」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Key:   CHK@pjpKus4thgIxqA0c2~HRixLTyYHeOkJgc29puiiYAoE,RuCbXddhjpYst6o8wRlb12sF8r0aGl~sQ5oxfDkjnY4,AAIC--8/とある科学の超電磁砲 第23話 「いま、あなたの目には何が見えてますか？」(BD 1920x1080 x264 AAC2.0ch).part2.rar
+Bytes: 491158163
+
+File:  とある科学の超電磁砲 Vol.8 映像特典 第23話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@iYJ~PiEuXmhn-abkXpktt2FEf-ORws39R8rNc1mqtsU,CzmVYe~g7GWsSNm75QAiMqokWkXd9CTVkGKRhA7xM0k,AAIC--8/とある科学の超電磁砲 Vol.8 映像特典 第23話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 78485636
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.11 - 12:13:15GMT -----
+
+File:  とある科学の超電磁砲 BD&DVD all menus.rar
+Key:   CHK@OspiCQRP1vfuYNOC9rd4OtnLaycrGOY5MOoYWKImLgg,9PhzTdnUOIXBglU9Q6ZK1Z-XP7RraDckXPOR-Gheehs,AAIC--8/とある科学の超電磁砲 BD&DVD all menus.rar
+Bytes: 19969297
+
+File:  とある科学の超電磁砲 第24話 「Dear My Friends」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@EPNmOZsAQp5HuTLRdgwCRhvUucLyYBfrLb-jFbnN6So,7LnDH0WEil95Bq9fGAVosjt8H8AakZQQhk6CQlC~yoo,AAIC--8/とある科学の超電磁砲 第24話 「Dear My Friends」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 501219328
+
+File:  とある科学の超電磁砲 第24話 「Dear My Friends」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@Cpo~tds83ro6VUlxx03~3ZuhPJHfGtlTHxvhaNogBIs,5l5xSnjfE4LWlQiPwOKn1MqHU-XtH5xiNBg-QgaHG0c,AAIC--8/とある科学の超電磁砲 第24話 「Dear My Friends」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 501219328
+
+File:  とある科学の超電磁砲 第24話 「Dear My Friends」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Key:   CHK@-Kmh69eSZRjo6OoQzR3NMS256SeluX44TA~sXywFi7M,PTc8Lc-dZIRwM4Gyhgna~4n1XCO5UoKZd4waInifLgo,AAIC--8/とある科学の超電磁砲 第24話 「Dear My Friends」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Bytes: 498782026
+
+File:  とある科学の超電磁砲 Vol.8 映像特典 第24話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@6PdKw8m8fFKhj2HJjKbcXLNbugTl9Xyjx-uujR9R-dM,f7mgHpGbpmJ23N5rWX~5cZ8NRFtFYV4dBe-EkXN7N~4,AAIC--8/とある科学の超電磁砲 Vol.8 映像特典 第24話 ノンテロップ ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 126494283
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.30 - 13:03:07GMT -----
+
+File:  とある科学の超電磁砲 超電磁Disc1 新作おまけアニメ MMR ～もっとまるっと超電磁砲～ (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@b509ipnch7LAZP-eRQyeHfh9uTMDmPpZmyJpGzx8UEQ,Sh9m1HPKrpYTYCVHEVwKTuUlC1R4vMryW690TH1wjx4,AAIC--8/とある科学の超電磁砲 超電磁Disc1 新作おまけアニメ MMR ～もっとまるっと超電磁砲～ (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 129746849
+
+File:  とある科学の超電磁砲 超電磁Disc1 店頭用ナビ番組 電撃直撃! ビリビリビリビリ 予約したくなっちゃうぞ!! スペシャル (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@8XV4IGso7pWP2xmvhKRI5XkpP1zhD43PASl95oVKmB0,G9CgZ~IIMa-AeZgj-KuD9PoBCCo78vEmhUJ02C48Fhs,AAIC--8/とある科学の超電磁砲 超電磁Disc1 店頭用ナビ番組 電撃直撃! ビリビリビリビリ 予約したくなっちゃうぞ!! スペシャル (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 461774112
+
+File:  とある科学の超電磁砲 超電磁Disc1 特別企画 学園都市最強女王決定戦 レベル5は私よ! (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part1.rar
+Key:   CHK@R-nBAc27GLj5ccciVHxUnGu4p6tO5u8mVsU88qq-eho,ir7K79Io-LI~9b5tYGdTH~QkTi7tIXwK24mQ-E5FoSc,AAIC--8/とある科学の超電磁砲 超電磁Disc1 特別企画 学園都市最強女王決定戦 レベル5は私よ! (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part1.rar
+Bytes: 403701760
+
+File:  とある科学の超電磁砲 超電磁Disc1 特別企画 学園都市最強女王決定戦 レベル5は私よ! (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part2.rar
+Key:   CHK@KvadFUxo~nKNrXFTuLRsOj2Tygwq9a1EEGDUmx9fjLg,XPDBzks-haYnI6YVVcYh~7bn~ClPL81Gc7LBg3s~r~Q,AAIC--8/とある科学の超電磁砲 超電磁Disc1 特別企画 学園都市最強女王決定戦 レベル5は私よ! (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part2.rar
+Bytes: 403701760
+
+File:  とある科学の超電磁砲 超電磁Disc1 特別企画 学園都市最強女王決定戦 レベル5は私よ! (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part3.rar
+Key:   CHK@WjejWGSrSyp49jASTQ4IKmZsYGWSTIA5UmdQ6yxOnzk,ZDDYTVJA5LL9RiYeMbh9HmjAEY6wVilUY-O8MRaLQbA,AAIC--8/とある科学の超電磁砲 超電磁Disc1 特別企画 学園都市最強女王決定戦 レベル5は私よ! (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part3.rar
+Bytes: 401787793
+
+File:  とある科学の超電磁砲 超電磁Disc1 先行プロモーション映像 コミックマーケット76 Ver. (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@5ClgfKeqjcxZAx4QPnmsXLjChJpnzWAIcycHFhrcZeA,SzamTDeVU38Wamwp-bRlvfrBq5D1~DSss81tmiF3r7U,AAIC--8/とある科学の超電磁砲 超電磁Disc1 先行プロモーション映像 コミックマーケット76 Ver. (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 44507964
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.02.01 - 15:12:16GMT -----
+
+File:  とある科学の超電磁砲 超電磁Disc2 新作おまけアニメ MMRⅡ ～もっとまるっと超電磁砲Ⅱ～ (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@mDL~k-iKVM6H16pStY70WCQN7BJACRI7ThFZahXOaoI,ZAvjLvjXDvw02pbzCu5HHlUeo4iamvQ8HkIK~v47qa8,AAIC--8/とある科学の超電磁砲 超電磁Disc2 新作おまけアニメ MMRⅡ ～もっとまるっと超電磁砲Ⅱ～ (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 147792791
+
+File:  とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part1.rar
+Key:   CHK@1TLaib-ggb4NFCCVj0cyoatqFWRNpp6F9vRT1w0pKwg,pu-RCZqs3ZRLZFimT16KAXh~F29xqR38wnFErXszYjY,AAIC--8/とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part1.rar
+Bytes: 420478976
+
+File:  とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part2.rar
+Key:   CHK@H5F7WWnFbW6AHsjC0Gs-OaIEpOgCaQRvJFPBEAt-hDs,ggUQkkPLrMIWg0mJ5BFyeE0OlBZT0DhbfDJuqkl9A5A,AAIC--8/とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part2.rar
+Bytes: 420478976
+
+File:  とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part3.rar
+Key:   CHK@htOHfjEYvA~-18LxMK~BO2oe5cbv6w4pFxQ-~MEdHGk,E83SYcyaq4ivJbJGyEqzlEwlr1zdrv~xXd~fEMjv388,AAIC--8/とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part3.rar
+Bytes: 420478976
+
+File:  とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part4.rar
+Key:   CHK@D11FRArGxegnw4e-3b~7HMlm4fqBcVBhTJgYfkwTIkM,o8AJ46FeqK9ew6VluT2PsdA6hUm1zS7NdYyvsh5UWFU,AAIC--8/とある科学の超電磁砲 超電磁Disc2 特別企画 とある調理の超電磁器 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).part4.rar
+Bytes: 416625277
+
+File:  とある科学の超電磁砲 超電磁Disc2 おまけ映像 とある収録後の座談会 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@HQCRckstDKFsa7Z8gM4-6Wguw3Dh~FIgSSHVZDbmkj8,b0OT~dMaj0fYfp~cV6bfmBvixFpAy7fy9drxk7JUA9A,AAIC--8/とある科学の超電磁砲 超電磁Disc2 おまけ映像 とある収録後の座談会 (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 265132201
+
+File:  とある科学の超電磁砲 超電磁Disc2 先行プロモーション映像 コミックマーケット77 Ver. (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Key:   CHK@J29q9y-qVg-4o0W4MtdE~VletJmkNlxClBqU288wnWM,s3ipoPz3KSWx~yDzbvHLN1A7Ss7GA-Pr2o1mHD0TSO8,AAIC--8/とある科学の超電磁砲 超電磁Disc2 先行プロモーション映像 コミックマーケット77 Ver. (DVD(nnedi3) 1280x720 x264 AAC2.0ch).mp4
+Bytes: 143800525
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.01.14 - 21:23:06GMT -----
+
+最初に貼りつけた時はpart.4が壊れていたので、再Insertしたものを今度は貼りつけておきます。
+(わざわざ2度もDLして検証してくださった方の報告により、何処で壊れたのか直ぐに分かり対応が楽でした。アリガトー。)
+
+File:  とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Key:   CHK@R8bmyvCi8LoMyqaoQgMFiqYLhBrEsJzo5vqJzVtnqwY,d-GiW3kwtgvQaZ6bW1Hc7wY~8-CfNt24jcTDRMk6QcE,AAIC--8/とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part1.rar
+Bytes: 491782144
+
+File:  とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Key:   CHK@k0D4ZSBZunr4fKoxjT9r2tLIoxE8BydRTwn-I2AfzIs,OD85uxF8UvLtWPEnsfCwMoi0fCLOvr8Yd6xIzCBn-YY,AAIC--8/とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part2.rar
+Bytes: 491782144
+
+File:  とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Key:   CHK@C75sqAdnnptYfuVp2IG93Sl9lUexVBwN4Xldns8Mn70,uEj2JwG0OERd5bWh9EQ7xgpbPzdM0Yb290-AzI7HBYs,AAIC--8/とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part3.rar
+Bytes: 491782144
+
+File:  とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part4.rar
+Key:   CHK@DJoRlDLWEgRoXwpYQ4Rs33IDw2BAjj3T9IL4Xl6C~vg,yxkZCNyVfEz48SiFVlFuP84cgPcWSxreelk2ZkyLXxU,AAIC--8/とある科学の超電磁砲 EX 「御坂さんはいま注目の的ですから」(BD 1920x1080 x264 AAC2.0chx2).part4.rar
+Bytes: 487241946
+
+File:  とある科学の超電磁砲 OVA 映像特典 ノンクレジット OP (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@VSEGVrj~1g~7x6bkT0kGiS5SbMSmKwHkn9bG4ptG15E,gCloEHBIkLvlTeZR1D8YjYyO2i9UzoDD-6uXE3oOMQU,AAIC--8/とある科学の超電磁砲 OVA 映像特典 ノンクレジット OP (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 168308472
+
+File:  とある科学の超電磁砲 OVA 映像特典 ノンクレジット ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Key:   CHK@xe4P3RTpbdlvBzLUJYbVUn7N0NYOXHl-yqzM5lJPrVs,i1rpBSvAGRhoZDyxjtj58tU7MsE4WR~70ETtKytFLP8,AAIC--8/とある科学の超電磁砲 OVA 映像特典 ノンクレジット ED (BD 1920x1080 x264 AAC2.0ch).mp4
+Bytes: 398318218
