@@ -33,3 +33,37 @@ Bytes: 724954732
 SHA-1: 9b909b8f980cc262f414ec3c8462dd5888f91eb4
 
 一巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.05 - 06:31:03GMT -----
+
+File : アマガミSS+ plus vol.02 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@QUtjRve50l~~Bw3Kn7pOa1FQO7RXQbzHmmXHDQBbuh0,Chf3KBO~54uQcTOrEDCrq1wKu4SrQVPX02huS8LuNW0,AAIC--8/アマガミSS+ plus vol.02 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 27442488
+SHA-1: 555c584d3b5e7a6aab0a042a08c4c843838a555e
+
+File : アマガミSS+ plus vol.02 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@UZGKDBFglq90T2WZ4Bs6DiOMNdaGMtp9OAmEkhXUgS4,u5jieDI4gyz5oMfIfo19IxQ21d-yQ093VHIbAeWTv54,AAIC--8/アマガミSS+ plus vol.02 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 26373465
+SHA-1: ecc2b6cd82d7104265aeb45d29f945e071f9a82b
+
+File : アマガミSS+ plus vol.02 映像特典 「特製イラストカード 「歌麿」「上乃龍也」」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@G9zbTdSDixe8iYdxQD3YLFf1TzJNWL~lLlTlFHDliaU,MbC4TG3x7kf55n3SIa7l-0rmH5YAaskF0S4Z9-RIPxc,AAIC--8/アマガミSS+ plus vol.02 映像特典 「特製イラストカード 「歌麿」「上乃龍也」」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 3204566
+SHA-1: 96da9a0d6cab411add5a3e7fa96be064050a45b4
+
+File : アマガミSS+ plus vol.02 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@5FQJlDC1nlaF9o~szw6JRp3dXf1jklTwIuBS5~XDap4,tpK9hopHVgE5sIoT64QTeMfpXOqfZDKVKD~xbIkjK2E,AAIC--8/アマガミSS+ plus vol.02 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 139466344
+SHA-1: 4589e626079bd3a8089a8593aa311696b9372485
+
+File : アマガミSS+ plus 第03話 「桜井梨穂子 前編 ユウグレ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@lEWOUzpsC4w8XA5U-PO0xB4i1-Be916QHjAmSoyFSUw,e5M~BoTOMthhK1M4gkWjV0hZAeIBnrJTqyKfYfjnxic,AAIC--8/アマガミSS+ plus 第03話 「桜井梨穂子 前編 ユウグレ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 726929141
+SHA-1: 5dfb4325ed060eb66f99500feb36a429822ba1ac
+
+File : アマガミSS+ plus 第04話 「桜井梨穂子 後編 フウリン」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@GkJHKUEKgorpudx6U-0QNd0TSnItkIjtIgMLzgkbQoA,PC3q3ou6aOkzHnXfZ7rdrofMhipGiG0SsQA4~q3B3H4,AAIC--8/アマガミSS+ plus 第04話 「桜井梨穂子 後編 フウリン」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 747790421
+SHA-1: 1d4b767a7698b3788d3d9487f7f9d670d6266b87
+
+二巻終。
