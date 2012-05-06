@@ -1,0 +1,98 @@
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.05.06 - 08:10:34GMT -----
+
+Source:Blu-ray(1920x1080i)
+
+10bitエンコード
+
+OP&EDが30fpsのため24/30fpsの混合。
+終端補正を回避するために1～2フレームの微調整有り。
+
+----- ぽこぺん@wF9_uGRJEe0h_gYOuTVuys17gus ----- 2012.05.06 - 09:24:50GMT -----
+
+File:  かんなぎ Disc.1 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@v~07EqGALlrp6HEFrmUUxSoAEv3BlNVYKCF9nBIMqjI,rjuOv77NrI5PnWCI-6hU4qnmifcPss0GLXPDHJbtIuI,AAIC--8/かんなぎ Disc.1 Menu (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 76564875
+
+File:  かんなぎ Disc.1 映像特典 ノンクレジットED 第一幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@JiSOk0brX73~TVerZT9RMirn6WRdSVfdFFHW3ZiiCbs,dlmWCF7bGpHgoDauRNzJEtAsxxqL7OE2TlTm8V89UxE,AAIC--8/かんなぎ Disc.1 映像特典 ノンクレジットED 第一幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 106040348
+
+File:  かんなぎ Disc.1 映像特典 ノンクレジットED 第二幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@-Q~Kk1kmuv-j7ll6bhIyVipl033z2WqoNnIPmnaqFOA,QcQ1B3WhmLvSYRD5OG74YOOd8AkHcDzsP24GPUNB91A,AAIC--8/かんなぎ Disc.1 映像特典 ノンクレジットED 第二幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 108329880
+
+File:  かんなぎ Disc.1 映像特典 ノンクレジットED 第三幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@rWqrZyPQIOPrAu9OVTct7vUPx71cY3GN8dT2yCZ0jYM,u~TadkTCjeemPP5QPYIG3Qrlt0plqM~WtsNfyajXfn4,AAIC--8/かんなぎ Disc.1 映像特典 ノンクレジットED 第三幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 109978787
+
+File:  かんなぎ Disc.1 映像特典 ノンクレジットED 第四幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@d0ZuezEXjb0wsW7ZonbmKktvKZahA8L8Asg5EbpxmMc,lMxagDvU0UmkY76F5sJq60xHMmHUrtdQUDomvnqCHa4,AAIC--8/かんなぎ Disc.1 映像特典 ノンクレジットED 第四幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 102416750
+
+File:  かんなぎ Disc.1 映像特典 ノンクレジットOP (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@HEoZ17mCeMZvTqwuR1NWfkvuoxv4x6EQaULHM5t56bA,sszq0ViZPu4AY8uh8aTtXjSC2oNG2WxcdHC0nXYgSyM,AAIC--8/かんなぎ Disc.1 映像特典 ノンクレジットOP (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 170269625
+
+File:  かんなぎ Disc.1 映像特典 特別版 次回予告 第二幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@Czf3tvbSdF-b0ahsk5Rog7HE6E5KVXPd4iZJApzjvgk,fV6ETnnFZS2ewnYjXb-Xribd9TuNVUNCsQXIqn3c1Qc,AAIC--8/かんなぎ Disc.1 映像特典 特別版 次回予告 第二幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 22238903
+
+File:  かんなぎ Disc.1 映像特典 特別版 次回予告 第三幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@pI0wjsSeeQ-JoSw8I1ctfeljySv8Wf8E6~g02K9hPL0,xrIF3G4zdUATOk-qQrmN6hAkWrm8Uf78Bpjk1LHf3Gg,AAIC--8/かんなぎ Disc.1 映像特典 特別版 次回予告 第三幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 33942793
+
+File:  かんなぎ Disc.1 映像特典 特別版 次回予告 第四幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@JuZtnYGrUgkLZftjCGpj4uYFrxwdgwAQqGdB9GKWzIg,prvWEnkoxFjLw1zGWwNV83x7UsDT6axFkXxmuitOCA4,AAIC--8/かんなぎ Disc.1 映像特典 特別版 次回予告 第四幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 20469487
+
+File:  かんなぎ Disc.1 映像特典 特別版 次回予告 第五幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Key:   CHK@TXjdrZxTuaEPzn86TYcgcK9WXxrTl0Al661JbrFfTxs,QCUHZ3DIsfpX15I2SJKwGrM1Se1Q1lVn1VtyE6e1uxs,AAIC--8/かんなぎ Disc.1 映像特典 特別版 次回予告 第五幕 (BD 1920x1080 x264 AAC2.0ch 10bit).mp4
+Bytes: 27523193
+
+File:  かんなぎ 第01話 「神籬(ひもろぎ)の娘」(BD 1920x1080 x264 AAC2.0chx3 10bit).part1.rar
+Key:   CHK@TUDftb7Dk-x2-g5e4xFCF6ZUD2wWYo1rag9ADz-Exck,iMxNfBESvD99YuyiMEA5P~N8ajmzgdr8CCtg8hzljY0,AAIC--8/かんなぎ 第01話 「神籬(ひもろぎ)の娘」(BD 1920x1080 x264 AAC2.0chx3 10bit).part1.rar
+Bytes: 412090368
+
+File:  かんなぎ 第01話 「神籬(ひもろぎ)の娘」(BD 1920x1080 x264 AAC2.0chx3 10bit).part2.rar
+Key:   CHK@XTudVqrnNB7MO8iky~xsHFPg6ZTUVyXdGYGUbEzEAZo,ppjYqgm6kEmzbpVx7V97KvzM1R~KzDREJisOUQ0Xh4M,AAIC--8/かんなぎ 第01話 「神籬(ひもろぎ)の娘」(BD 1920x1080 x264 AAC2.0chx3 10bit).part2.rar
+Bytes: 412090368
+
+File:  かんなぎ 第01話 「神籬(ひもろぎ)の娘」(BD 1920x1080 x264 AAC2.0chx3 10bit).part3.rar
+Key:   CHK@wxPdTD0eUk9iH2g5xSI~FEw-MN2ZpaVyS9H9BljoDrI,Z8exC6G6NhfhjB0Tsh~ca3nNzEAC7hSdK2sNn2sdesY,AAIC--8/かんなぎ 第01話 「神籬(ひもろぎ)の娘」(BD 1920x1080 x264 AAC2.0chx3 10bit).part3.rar
+Bytes: 408740048
+
+File:  かんなぎ 第02話 「玉音アタック!」(BD 1920x1080 x264 AAC2.0chx2 10bit).part1.rar
+Key:   CHK@6gOJ0dikG0XdBEDVqz2D5LHNhVzkpQA0ZtsDwd~bEVY,dECwX-4O5TMRlmWwfk8rHg5huzkShhMlqol3grE~eJQ,AAIC--8/かんなぎ 第02話 「玉音アタック!」(BD 1920x1080 x264 AAC2.0chx2 10bit).part1.rar
+Bytes: 422576128
+
+File:  かんなぎ 第02話 「玉音アタック!」(BD 1920x1080 x264 AAC2.0chx2 10bit).part2.rar
+Key:   CHK@~ZRW8a1J9W5d4pHLeUPJ6hwIOVbjA5Wmtv3STuMa3o0,INjD6caQ4NE0x1TdiYLSjPSEwuvHCzVJ6ggAvggfNt0,AAIC--8/かんなぎ 第02話 「玉音アタック!」(BD 1920x1080 x264 AAC2.0chx2 10bit).part2.rar
+Bytes: 422576128
+
+File:  かんなぎ 第02話 「玉音アタック!」(BD 1920x1080 x264 AAC2.0chx2 10bit).part3.rar
+Key:   CHK@WTWGQimYX7v1eALNnDacHGjlajzdappMe4SVY3ydW9s,GjHwDCyoXRSu4Cvbt1ZL2KwTGOEKY3Qf80U898lqpiU,AAIC--8/かんなぎ 第02話 「玉音アタック!」(BD 1920x1080 x264 AAC2.0chx2 10bit).part3.rar
+Bytes: 421954085
+
+File:  かんなぎ 第03話 「スクールの女神」(BD 1920x1080 x264 AAC2.0chx2 10bit).part1.rar
+Key:   CHK@5LgsPSp0KQ1KA7yO1Q-rsFbPL2vIg-8qG1bNGt1MuDo,Mn4yFklORb~6VqLomM90glmRrFBP4QyskjxN4Z9U8iA,AAIC--8/かんなぎ 第03話 「スクールの女神」(BD 1920x1080 x264 AAC2.0chx2 10bit).part1.rar
+Bytes: 426770432
+
+File:  かんなぎ 第03話 「スクールの女神」(BD 1920x1080 x264 AAC2.0chx2 10bit).part2.rar
+Key:   CHK@N4wSwgoIRqk~HAW2RWRuGIBNjmfILYqiwEST--zOP2o,ppGOfXFwlI8Q~GnswdtnNYGxkYDW6pE-BAS2972hvVg,AAIC--8/かんなぎ 第03話 「スクールの女神」(BD 1920x1080 x264 AAC2.0chx2 10bit).part2.rar
+Bytes: 426770432
+
+File:  かんなぎ 第03話 「スクールの女神」(BD 1920x1080 x264 AAC2.0chx2 10bit).part3.rar
+Key:   CHK@xaT02O0JjAhARe~Ca2zXq3MMcvS1k6xSISWKZ96Mu1k,1OU346kQwO76DoiX9j0PeBVIinusRpNp64-CQGjyG9M,AAIC--8/かんなぎ 第03話 「スクールの女神」(BD 1920x1080 x264 AAC2.0chx2 10bit).part3.rar
+Bytes: 425519599
+
+File:  かんなぎ 第04話 「シスターーズ」(BD 1920x1080 x264 AAC2.0chx2 10bit).part1.rar
+Key:   CHK@BLqwzFflMV2fzR44Fq1-Gk69JlEXCIEkjYrMou9adcM,TSC7-wlE58ycuumJoJJMwUTlbs34oHv9XChUy97waxE,AAIC--8/かんなぎ 第04話 「シスターーズ」(BD 1920x1080 x264 AAC2.0chx2 10bit).part1.rar
+Bytes: 372244480
+
+File:  かんなぎ 第04話 「シスターーズ」(BD 1920x1080 x264 AAC2.0chx2 10bit).part2.rar
+Key:   CHK@RrHhzIPuMH3VCy0vs7J7Q9mkMg8oqveE4Bx1tqky~MM,5ySTmO0u1XQGDHZMPNDRRX4q97MJrfo3mqx8LS4fWs8,AAIC--8/かんなぎ 第04話 「シスターーズ」(BD 1920x1080 x264 AAC2.0chx2 10bit).part2.rar
+Bytes: 372244480
+
+File:  かんなぎ 第04話 「シスターーズ」(BD 1920x1080 x264 AAC2.0chx2 10bit).part3.rar
+Key:   CHK@quWPx4TiY4nCu6gLMDuMWJTpsGAUW9zf9F2Tf7BsIZI,5M4WRJIYkKe8npyP~VagykYahaMc0uIrwLKCxl9fFig,AAIC--8/かんなぎ 第04話 「シスターーズ」(BD 1920x1080 x264 AAC2.0chx2 10bit).part3.rar
+Bytes: 369467910
