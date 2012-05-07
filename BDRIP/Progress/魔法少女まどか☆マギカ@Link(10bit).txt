@@ -230,3 +230,57 @@ SHA-1: e0e44c30a139c6d9c333cf4c1608de1fe60b77e8
 
 終。次はこばとかデュラと言いましたが
 BOXも出るみたいですし、さくっとひだまりを挟もうかと思います。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.07 - 08:18:47GMT -----
+
+File : 魔法少女まどか☆マギカ vol.02 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@8-hDFC-wfv88aDzqUiduNtAl6r~GinmLVp7znfOvssY,xZjqVgy-adZeNea44m-MvYXxl-hrQTLEVJLt7dwXuAk,AAIC--8/魔法少女まどか☆マギカ vol.02 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 224145261
+SHA-1: 7f99d0f98f664e171ebd90875dd788dec7cc94f7
+
+File : 魔法少女まどか☆マギカ vol.02 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@ZkeFPxVvJyEVlVfUKuB~CqC68cdvcswpHmuq1jq7qGk,EqJfABYN2he6iNzm6bRkw2SiP1hI40pIbGK~oMIQi00,AAIC--8/魔法少女まどか☆マギカ vol.02 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 217435470
+SHA-1: 61488160b9e90ceb24dd858631a4bdae98f7ab57
+
+File : 魔法少女まどか☆マギカ vol.03 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Q1XlSLfYrQ75ti~oRcmubqZfbgslZ0c0KspqVrItpUo,3oiSzlhRbmLcd~UAksejpPsy0WY1C8~1A1QdUk-BGAQ,AAIC--8/魔法少女まどか☆マギカ vol.03 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 241511682
+SHA-1: ddd5ec58cc2ff9cfc88abff958c994748181f200
+
+File : 魔法少女まどか☆マギカ vol.03 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@KBhDYeoXLbyV0umZ-cfm4pxaprhJRrxH8a~dHQZbHNQ,MpGX5xPVA2bqH3fFXwLpX152f~jXyBj0zq1zuaAnPpA,AAIC--8/魔法少女まどか☆マギカ vol.03 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 235979240
+SHA-1: 2dea8765cf12a114e2cee153ff4c750dc4e6a5d4
+
+File : 魔法少女まどか☆マギカ vol.04 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@PtduYlGTzpC3Xb7diO0~U-lAdB983fTEgOTch-0L0oo,DAVU-DsaEl3RC4PjZEEO8qcr1n5Vp0NLxV49lnvy884,AAIC--8/魔法少女まどか☆マギカ vol.04 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 222954373
+SHA-1: adefe6c8ffd07041bb8bee2031bed083c8b4c021
+
+File : 魔法少女まどか☆マギカ vol.04 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@G-8C3oz8LSTZrycOHgs7vLXXxHHm7KDvk7uu0Ny3h70,Pj1FM3CI0iPFJWcmZX6rzPeqeREP9cSLrhp7yNkmRyw,AAIC--8/魔法少女まどか☆マギカ vol.04 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 218443561
+SHA-1: 4ee66dd6bffdbf4cb4278b491297f7a8dfc0b7fa
+
+File : 魔法少女まどか☆マギカ vol.05 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Q0Np0AO0ZLPf3Pjji6HnTaJJS5xFAaGAoAcgjXLZ95c,CokIk0WtbMjyQeECMvm0GNW52Oy9yLj0G~YFXqN6bJU,AAIC--8/魔法少女まどか☆マギカ vol.05 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 217272724
+SHA-1: 9673eb6ddf82471003c4622c1a409bd8371c93e0
+
+File : 魔法少女まどか☆マギカ vol.05 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@S72Z1ez5TiKf9kN1xHeZzVKSj4XPQRzZ5vVTGlSDD6A,ejy8O9uU-ptVMLHbKOND6rC69zmN8VWDEMNwzjAxLnY,AAIC--8/魔法少女まどか☆マギカ vol.05 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 212932494
+SHA-1: 399031961cdf0228c2a0c7f5c18929f5bc432525
+
+File : 魔法少女まどか☆マギカ vol.06 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@NsJMNs-XlzoUKZ0aybLbsRv1JPxS-w11aDjfpYIQKm8,hZBYbE10G5ECWDsGLcITILGIxwkLi5LL~vT-SbzZl4k,AAIC--8/魔法少女まどか☆マギカ vol.06 映像特典 「Menu①」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 241616676
+SHA-1: 36e0b39af1e2bd1346b0b4a923e7dfa0b471dbdb
+
+File : 魔法少女まどか☆マギカ vol.06 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@jisRuI6EVNt-1S2jUTz7PVxyFwk9aUw~6zq~G7vU5po,sXgQw0Un8igsW-OflNaQ-i5RVfPeZaSCH1Ft5duhQzQ,AAIC--8/魔法少女まどか☆マギカ vol.06 映像特典 「Menu②」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 233065380
+SHA-1: 4aaf688f17fd912ced3264dd4d69ef74cde54711
+
+menu忘れ。
