@@ -101,3 +101,35 @@ File:  パパのいうことを聞きなさい！ 第04話 「ワンダフルラ
 Key:   CHK@1LTvzinoV2Cabw0waD6~AfzaS0thYStkDO1-59P4dNc,E02UbLGeFGL54f7vcZvfcrFDdbPGC-3EcmS1inXR79k,AAIC--8/パパのいうことを聞きなさい！ 第04話 「ワンダフルライフ」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
 Bytes: 780268717
 Hash_SHA1:   8b0513c5634e2b61947c24484797ac8c57f254b3
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.09 - 22:03:19GMT -----
+
+File:  パパのいうことを聞きなさい！ BD Vol.3 特典CD VocalTrackCD (EAC cue+wav+log).rar
+Key:   CHK@lVQ~8ylNtoTOhzXV-hl5Qz1AL0e171Ps1TqKXZT4s-k,Fu1vtTns1breXbAhvzOMnLZKTigP76SFZY2fWgEEycg,AAIC--8/パパのいうことを聞きなさい！ BD Vol.3 特典CD VocalTrackCD (EAC cue+wav+log).rar
+Bytes: 220781111
+Hash_SHA1:   5509b4e3d7e12ce61818858da5e7b5090931327e
+
+File:  パパのいうことを聞きなさい！ BD Vol.3 メニュー1 (1920x1080 x264 AAC).mp4
+Key:   CHK@-gC0FVBBYBZRwb16e55~Wouuv4chRTK2wgrZFWqS5Zo,dgQeCZu4ClpPp3Rwz6O81UjoCNiTEgR6Y-mmcb2i-U0,AAIC--8/パパのいうことを聞きなさい！ BD Vol.3 メニュー1 (1920x1080 x264 AAC).mp4
+Bytes: 20882855
+Hash_SHA1:   20d0f7103c914de1232cd55df6d8775da16fc441
+
+File:  パパのいうことを聞きなさい！ BD Vol.3 メニュー2 (1920x1080 x264 AAC).mp4
+Key:   CHK@oaQBqvC8BYiePIpRpqe5DFTQtWfDgNwjRQS3e88nJqA,ncrP0ypJ88KsgJ3WQX0QohJmhz9aUeMoachDb4ZnXMw,AAIC--8/パパのいうことを聞きなさい！ BD Vol.3 メニュー2 (1920x1080 x264 AAC).mp4
+Bytes: 19614583
+Hash_SHA1:   21aec6c0932fb7b1900655b1c6154a226425dc98
+
+File:  パパのいうことを聞きなさい！ 第05話 「少女に何が起こったか」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@dcVqlLuOqzccGcTvf2CxfNVYowxre66hoUc1tDMm2lo,U2ZCFgtUcA7nCPfYBBVHL4wRIY7iChZHceMCVMTYeWY,AAIC--8/パパのいうことを聞きなさい！ 第05話 「少女に何が起こったか」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 758141376
+Hash_SHA1:   b22897eb07bdc0a29d19418fec877337d30936af
+
+File:  パパのいうことを聞きなさい！ 第06話 「素晴らしき家族旅行」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@P1hfpxmmuPzfx0CMxiaSKSbTTMn-viwNqDq5HDbtwuQ,KPJqMmbvVqrcwVy13HvPBGYw-V~1v~5uRfcxzvvyb6g,AAIC--8/パパのいうことを聞きなさい！ 第06話 「素晴らしき家族旅行」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 739418294
+Hash_SHA1:   887dfd63776e6cb75fc94c1135ff08b2832afc97
+
+File:  パパのいうことを聞きなさい！ 第07話 「毎度おさわがせします」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@0kDjLQzcbGfsRn6BWs1ZpWGvFECJE9UitTes0ey~IBE,cDGauHshv86Hm51oe3fYTFugkqq4NrDPcurXX-TTN-o,AAIC--8/パパのいうことを聞きなさい！ 第07話 「毎度おさわがせします」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 720444318
+Hash_SHA1:   9cef5f2c023df9c9f29959c7def99062fc5081d6
