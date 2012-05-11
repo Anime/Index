@@ -84,3 +84,41 @@ Bytes: 696730925
 SHA-1: 9136656555a058ed3663d279e018e10a89251d56
 
 二巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.10 - 15:50:13GMT -----
+
+File : モーレツ宇宙海賊 vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@53uFmI2AUnd2E~jobrdtBmRVdJU0JioQEt5q7sPIvwg,s-08s7P8Tw-AnrL3mbsnJL5TQEDVEPLS3tO4qKoNkQ8,AAIC--8/モーレツ宇宙海賊 vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 10326652
+SHA-1: 227a77f929fdf167fabe73e9b01d951116f479ad
+
+File : モーレツ宇宙海賊 クレジットエンディング 「Black Holy」 (BD 9話 1920x1080 x264 10bit).mp4
+Key  : CHK@6w-h3uPF44AVDIH2DPQHEnv-Cd1VQ0SMpbewC0XSwAo,ABeJRb4twgRK90UvsEuCh9FV90bXPsytKFJxQQHIRBU,AAIC--8/モーレツ宇宙海賊 クレジットエンディング 「Black Holy」 (BD 9話 1920x1080 x264 10bit).mp4
+Bytes: 80663722
+SHA-1: 660481e05aeb94b92bcc9fb6cb660e70dc2cc3b9
+
+File : モーレツ宇宙海賊 第07話 「SAILING 7 平穏ままならず」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@KLdHSN2Rgaf5ViVr~I3sFKj1FR9aNUX-KHuxRmksF7c,ewLIt8APtqnzbNKjHP9T6NfBNjbmz7C1K6Orba-QmQQ,AAIC--8/モーレツ宇宙海賊 第07話 「SAILING 7 平穏ままならず」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 740941690
+SHA-1: 97ca6797693800f40368b9b5a25d5a54f7890fdb
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.11 - 01:22:58GMT -----
+
+File : モーレツ宇宙海賊 第08話 「SAILING 8 姫と海賊」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@1MyQYDJ-cR0vSZXaabm7d6DZ1J2Mn65hU4CXS1oHyvQ,oLA0tdNq2WBeFuCY2UDy3prvTZ~5O5JX-ngzugvbASw,AAIC--8/モーレツ宇宙海賊 第08話 「SAILING 8 姫と海賊」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 623545700
+SHA-1: 385ff4e6fcc3227f99e1dfabab178cc7c94163c5
+
+File : モーレツ宇宙海賊 第09話 「SAILING 9 華麗なる船出」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@jxPrvC0CxhWj1jQ~SMR0ZAdJo4tCa5-c7VKxRc0vJMg,9Hv7-7G3esldeWjOZrqy~lBP0WfUbbEVF781EQ~S0kc,AAIC--8/モーレツ宇宙海賊 第09話 「SAILING 9 華麗なる船出」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 599747150
+SHA-1: d42cc700bbcf7a9f2b008aa2fca42fa27657b7b1
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.11 - 09:48:57GMT -----
+
+File : モーレツ宇宙海賊 第10話 「SAILING 10 嵐の砲撃戦」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@GuLmm9Os7XV02nhg2gbBhYYzquJmiNxBTWl9uEuYkh8,K0vfEa5~9Nq5Joc2cHl9rL4jKEVSmyljGe-IXwcXwq4,AAIC--8/モーレツ宇宙海賊 第10話 「SAILING 10 嵐の砲撃戦」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 1012359098
+SHA-1: f3a227ae5cbde6ed81c19ac74e63f0995bc69b9d
+
+三巻終。
