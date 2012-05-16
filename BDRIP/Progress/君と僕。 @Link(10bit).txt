@@ -115,3 +115,27 @@ Bytes: 655837647
 SHA-1: 6fd354519458f35f9baa399f564dbea0d586a7ab
 
 三、四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.16 - 09:34:52GMT -----
+
+File : 君と僕。 vol.05 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@IG0ZvlkdFa12FRjBcEnFjDAHwoyog9SemIgp1oYbUek,hm3sLbhY7TQ7fu2yPORwtg8ngFgAre6rvCWV8jzav4Y,AAIC--8/君と僕。 vol.05 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 16284182
+SHA-1: ce125f76178b88cfa02dcf9569e3254bd7e2b28a
+
+File : 君と僕。 vol.05 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@JdDT16GPFhR5QAYUvplDxHLq8fqfFk~qL9lyE7JGkgI,OxVsWaRH5RywhBY4xRo5UMGAZU0VCvq1HBegSDLnb6k,AAIC--8/君と僕。 vol.05 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 14911102
+SHA-1: 81572a597da766710d09eb409ec65cd59f2f083c
+
+File : 君と僕。 第09話 「naked king」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@99JTC82fPLgYhwNVCI6seHTbw0TzMLelhFLYtmpZIlg,reeKPHt7jWL8bgzuHCXOA-3NPbbk1xF~auSeAHhaoh0,AAIC--8/君と僕。 第09話 「naked king」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 666658246
+SHA-1: ec6a750032adb213eeb605db1b5748c3ea65a2a9
+
+File : 君と僕。 第10話 「on your mark」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@2bzZR3bSHkEjesiCd8AjyVT6WJF2ph9~Lfhq02MVvPU,YPL1YiRIAPkN5YFO4HSsL5OBUtX0fLDutbyXtcHx8O8,AAIC--8/君と僕。 第10話 「on your mark」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 651347810
+SHA-1: 7df42f4337ea7c01c8edbef8d91224c0852e4e3f
+
+五巻終。
