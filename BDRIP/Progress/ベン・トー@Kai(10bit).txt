@@ -136,3 +136,38 @@ File:  (アニメ BD) ベン・トー 第10話 「それは昔祖母の家で食
 Key:   CHK@f9DvOBUkqkbT9CQAr-UksfX2GVEP1Inxb~twUHsk97U,W00SRNaqhfFlE5uyXVckT4evp44YlbynRq1lKTiYS7s,AAIC--8/(アニメ BD) ベン・トー 第10話 「それは昔祖母の家で食べた温かで優しい味わい。心にも体にも優しい和の料理。梅とちりめんじゃこご飯と季節の野菜たっぷりの煮物弁当 480kcal」 (1920x1080 x264 AAC).mp4
 Bytes: 1039176665
 Hash_SHA1:   e4259fba439439593610432f9f0b5db901eed71b
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.16 - 15:51:28GMT -----
+
+File:  (アニメ BD) ベン・トー Vol.06 メニュー (1920x1080 x264).mp4
+Key:   CHK@M7xFeToDyoFTbY4isB9UXT9js3MIr1xRrXIIYpfTUoI,tEVJ-YWoUyuT1R5n1-3QVG46e0CZOvSHxT-55kFADmc,AAIC--8/(アニメ BD) ベン・トー Vol.06 メニュー (1920x1080 x264).mp4
+Bytes: 334642
+Hash_SHA1:   189647de32bb42b4efc7c065eec017e017942c73
+
+File:  (アニメ BD) ベン・トー Vol.06 映像特典 ノンテロップオープニング(#12ver.) (1920x1080 x264 AAC).mp4
+Key:   CHK@zuizgpXbqgx8KXV~hA8q6VUlF9vFiXycss9wvVVrVa0,txPR0kFvMNLxejarpQO1ombkbzIr8xgWmfvGEQAeT8M,AAIC--8/(アニメ BD) ベン・トー Vol.06 映像特典 ノンテロップオープニング(#12ver.) (1920x1080 x264 AAC).mp4
+Bytes: 50109151
+Hash_SHA1:   bcd96ca772f54174fe5c34a51247663599019a35
+
+File:  (アニメ BD) ベン・トー Vol.06 映像特典 ノンテロップエンディング(#12ver.) (1920x1080 x264 AAC).mp4
+Key:   CHK@3~oY9VYMKTxUbpPVsWwbkK3PddRVrGbSPf2A9LqQN-g,57wHOh9JEF5pATUI92PyfOJbb3Bs5Zt31WH~iQHX070,AAIC--8/(アニメ BD) ベン・トー Vol.06 映像特典 ノンテロップエンディング(#12ver.) (1920x1080 x264 AAC).mp4
+Bytes: 62976371
+Hash_SHA1:   c3ecdd4e35187d027d14a91aae6e4a03bcf2a633
+
+File:  (アニメ BD) ベン・トー Vol.06 映像特典 アサウラ書き下ろし！ピクチャードラマ「槍水茉莉花の来訪」 (1920x1080 x264 AAC).mp4
+Key:   CHK@EagiHfIJimLKRNOMphutbtWyzPlTTQCQAJJ9LRfPv7Y,bYEGLfCPti1jSnsGc5hut8nhexNSfRqLtPaURBNaqsE,AAIC--8/(アニメ BD) ベン・トー Vol.06 映像特典 アサウラ書き下ろし！ピクチャードラマ「槍水茉莉花の来訪」 (1920x1080 x264 AAC).mp4
+Bytes: 187847788
+Hash_SHA1:   a009e9dc28edfad3fef5973abb57eb3da565224f
+
+File:  (アニメ BD) ベン・トー 第11話 「ポカリスエット 125kcal」 (1920x1080 x264 AAC).mp4
+Key:   CHK@0D4QCwDkDKW~W93dHw8p-GiUSAORtqSZAWTFI6kd6JI,NvjDSPnGKggo3TohpwwukV5lG6vBn3-oDfCPOc-G~Ss,AAIC--8/(アニメ BD) ベン・トー 第11話 「ポカリスエット 125kcal」 (1920x1080 x264 AAC).mp4
+Bytes: 720524686
+Hash_SHA1:   426eb48372a410131f7a3d5deca4f61ae23e7102
+
+File:  (アニメ BD) ベン・トー 第12話 「国産うなぎ弁当 790kcal」 (1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@Wi~tEhDbxGhVhBEWrDLNrHY8-UWsHWKcQaBTF~uqPnc,ZsmDYMHYC4vBBE9khA-HPYOC7M8tG~POdh0JzJhzxYw,AAIC--8/(アニメ BD) ベン・トー 第12話 「国産うなぎ弁当 790kcal」 (1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 1015160680
+Hash_SHA1:   436406bf53d4a8352572c52086d77b47f3092b2c
+
+
+知っている方がいたら教えてほしいのですが、TV放送だと12話で茶髪の素顔出ましたか？
