@@ -203,3 +203,15 @@ File : こばと。 Disc.4 映像特典 「はじめてのこばと。⑧」 (BD
 Key  : CHK@DeMJgiz71iVeLjcTARGfJw6VUmeWGuC1vwSCrCXOK4Y,ir~7ONOBvOxL55UWqNffOXyVYqjG0VkSBDu9-2UF~V8,AAIC--8/こばと。 Disc.4 映像特典 「はじめてのこばと。⑧」 (BD 1920x1080 x264 10bit).mp4
 Bytes: 19448274
 SHA-1: c34940e32b46ae93051f78d025348bd758c26839
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.17 - 10:05:47GMT -----
+
+File : こばと。 第01話 「…願う少女。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@cAhEGqzDjTYYZeOoCLeLHB0ZD4sLMJjsEt4p8Qbvfxs,ZWfBSQ3WOeL4sxPA8Cvu~jZQ29Vh2fkB~-mvfYtqA40,AAIC--8/こばと。 第01話 「…願う少女。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 1353741848
+SHA-1: 6bb1afa5bb362ebef735b5a3e9e3cc1a82b93ecd
+
+File : こばと。 第02話 「…コンペイトウの輝き。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@c4yqKVIhQybKIvJ9XU-G7WrZcUeer3KpVX72se6PzCo,96iuCul4ZjJRuETdR~233Rz~XVxgXo6KmvtAG31mDTk,AAIC--8/こばと。 第02話 「…コンペイトウの輝き。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 1204477476
+SHA-1: ac92967bd385e2df31bb2849562b36f3700809a2
