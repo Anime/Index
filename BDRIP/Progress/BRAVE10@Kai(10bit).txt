@@ -106,3 +106,38 @@ File:  BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC クロスコ�
 Key:   CHK@c7lYR7TlPvw6Bw2Nk2Uls0-7u8Zu4aq7gwDM8g345DU,elazTNjb2ykd6cR2WSeRvKOAWrILhBOy60g19BjAl~c,AAIC--8/BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
 Bytes: 580985298
 Hash_SHA1:   2eab49411dc9ba30a2a3c10bc6c5be086b8fd7bb
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.24 - 00:49:56GMT -----
+
+File:  BRAVE10 BD Vol.3 スペシャルドラマCD 学園BRAVE10(弐) (EAC cue+wav+log).rar
+Key:   CHK@OV1VVAhZCOCsGHIqbMK3R2qXNvW-grblCVNLSS~cnyM,sZUgYuCuk9pBQDZjXwSFlIgXFGiKNOM4oXZ6iYPvMPY,AAIC--8/BRAVE10 BD Vol.3 スペシャルドラマCD 学園BRAVE10(弐) (EAC cue+wav+log).rar
+Bytes: 204243324
+Hash_SHA1:   9a7bd12cf5def5639e2de7d0af43dd4f9a49c3ed
+
+File:  BRAVE10 BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@~QTknoetLNbR94VrUS36q~d2Tt4MPPxOi2ctEcdu2bE,LF5PwYjljaSC7dClrA3HoFCufHAcbkPsJaCesL8e7wY,AAIC--8/BRAVE10 BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 98981084
+Hash_SHA1:   1ada8ab68639cbb9c38d8d8807c79d18abe705f2
+
+File:  BRAVE10 第05話 「竜の懐」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@wAzGtI~W1zAAlcJyiuuXG3ZB42asFpeJf2LwLgGZ4-4,sJKaOgyPhb~tjM2pKNB1utTdJnrWVu5zQuiHf0lzCp8,AAIC--8/BRAVE10 第05話 「竜の懐」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 455294466
+Hash_SHA1:   9b9e57b0c3dfe53f976d1e1e2bf983c54ffbf67e
+
+File:  BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@iv4~NCp3AWTFrsbaRC6nAO9Quy8SxGKhtWtJAmyMmnc,1JNjRF7EvzW3TvJjeJM2dN4shUfExH3~VOHKNRu7lX4,AAIC--8/BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 558768539
+Hash_SHA1:   02c07bca887efc899bc431f8d376014db38bbe9a
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.24 - 00:49:27GMT -----
+
+File:  BRAVE10 第05話 「竜の懐」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
+Key:   CHK@PvqNI~4mOl6mucg0Vee7RCuTWHEmSZ~Mx5CTukVTQzk,dDwomu8dVvK7CV5Vh~Nxf1uTloCBuMmDjIphBKPgKHY,AAIC--8/BRAVE10 第05話 「竜の懐」 (BD 1920x1080 x264 AAC クロスコンバート補正版).mp4
+Bytes: 498352526
+Hash_SHA1:   33e73942d0ab63b4f96f94649217ac8e8a1bab81
+
+File:  BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付 クロスコンバート補正版).mp4
+Key:   CHK@OiloGZKa2zudEqR-jxA3At18NP7HNJ9tv4ANEKLvwyg,iHPmeKfbEKd6g7h~iBtn7VXjq1x73ocD-epcTs-Qdqk,AAIC--8/BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付 クロスコンバート補正版).mp4
+Bytes: 599591373
+Hash_SHA1:   9fc21f539d6da06845e40326189f5f04164ddaae
+
