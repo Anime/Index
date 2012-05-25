@@ -55,3 +55,35 @@ File:  妖狐×僕SS 第03話 「ほんとうの契約」 (BD 1920x1080 x264 AAC
 Key:   CHK@ghqWE0KqqtfE-G~zZXk3hHqJKXUx-3JZE7nPKSR0lgA,IThD5R8D6DpZ4NQcyChhcyCUmGdlrcjWNVs~UuEzZBI,AAIC--8/妖狐×僕SS 第03話 「ほんとうの契約」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 823798025
 Hash_SHA1:   441a66ca37678396e662f07bfc8933d06b3081a6
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.24 - 17:08:54GMT -----
+
+File:  妖狐×僕SS BD Vol.3 特典CD 妖狐×僕SS ENDING SONG Vol.2 (EAC cue+wav+log).rar
+Key:   CHK@lL4ZDetjNcsAQq1rVqbGanOTg7zi-EPWv3wkPSff~C0,ASJKxLqg3IK5sVhRAOm-Om4EYMW71IFfRmEEGF7ma8U,AAIC--8/妖狐×僕SS BD Vol.3 特典CD 妖狐×僕SS ENDING SONG Vol.2 (EAC cue+wav+log).rar
+Bytes: 143680181
+Hash_SHA1:   c82365d11593c04eb1b9d5f6339d48d684716c80
+
+File:  妖狐×僕SS BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@tycWzjt3R6TBf3~3PVH5iROeVDZV9FnSBAmNOsfuTiQ,F8cmVYUsVst27G1alam3VSAhacI4K1Jbl1Y5XOdG0fk,AAIC--8/妖狐×僕SS BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 8956280
+Hash_SHA1:   6ffcef4c3840730bff69d5f11c57b0b19facc80a
+
+File:  妖狐×僕SS BD Vol.3 映像特典 第4話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@gxgsD8-ExUOOC-xmBPKLtEFNI4OJsuf4JeQwm5QKMXs,McgSj1ztwIo~BpFU4UHq4p1az2rRpBjv~LWwYJRX75E,AAIC--8/妖狐×僕SS BD Vol.3 映像特典 第4話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 58858227
+Hash_SHA1:   779eecf3c1cae4939d1284e4ca6389bec736f563
+
+File:  妖狐×僕SS BD Vol.3 映像特典 第5話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@bGKY7brIKCW3vfvkfwjJ49xXWQkAUJR9xpIQdUrmYUA,s5bz5fFhPdkY8Mwdu4HcTzgP5Qg-Xl3Nlm1G1aC~-iE,AAIC--8/妖狐×僕SS BD Vol.3 映像特典 第5話ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 101003053
+Hash_SHA1:   c1e2b6f2aa30d40cdfc5cf884fe727daa09254f2
+
+File:  妖狐×僕SS 第04話 「妖館ウォークラリー」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@ZyLWyePGWKpuhhD2zd6aB6jMZW14gx~BFA0UL5iTUW8,bFFKiDTJROrq3AYxan-Js6HnfbMCNwYhplQyRGqLXJA,AAIC--8/妖狐×僕SS 第04話 「妖館ウォークラリー」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 924007797
+Hash_SHA1:   5b9e7d68b2f6f8d23c5075453e612ae5bf22c0fc
+
+File:  妖狐×僕SS 第05話 「春の蜻蛉」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@xgbcnvI8AHV10wx8NrPGZOV8HoVHtwsGv60ytbLUXYk,TzXQlv16lu1g89wLPeLvmvl7VwCYPQ0H7~vb5kYGLTQ,AAIC--8/妖狐×僕SS 第05話 「春の蜻蛉」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 1138944596
+Hash_SHA1:   9dffd81609cd1bbe9806c412b9b99fb39b8c3108
