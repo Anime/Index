@@ -72,3 +72,35 @@ File:  ハイスクールD×D 第04話 「友達、救います！」 (BD 1920x1
 Key:   CHK@9py6r9M9T2UChZ7L6Eo7uuHmK1i6A3bkAEHS5wbYNdo,Kh5d28UKdg7GvKu1gbuGZ9O8q7f-32d4iyaIx9cMTPE,AAIC--8/ハイスクールD×D 第04話 「友達、救います！」 (BD 1920x1080 x264 AAC).mp4
 Bytes: 857503828
 Hash_SHA1:   35b97b981d97e6d0d3f618ad3bd9a9fa9bf2d284
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.23 - 12:13:49GMT -----
+
+File:  ハイスクールD×D BD Vol.3 スペシャルドラマCD (EAC cue+wav+log).rar
+Key:   CHK@6UjjhZQzrBx2mEgqOLnQasovqz6GVE3C9DocJYVlzoo,MpVPtZb0LirKjj26ECshf~ghEPsH065aDaZZ2D~gj-A,AAIC--8/ハイスクールD×D BD Vol.3 スペシャルドラマCD (EAC cue+wav+log).rar
+Bytes: 104242303
+Hash_SHA1:   24557a724fce5c967d26adda8945c13b5f9874a9
+
+File:  ハイスクールD×D BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@98-u4TBt7YFNrFzV03waP3aovqIblEE-xb30mRghVpg,snF~h6R4kI3UQLGiBV-TFF87h-wjhrv9-FeZadDFwwc,AAIC--8/ハイスクールD×D BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 20407106
+Hash_SHA1:   cdb53d64e62ea0529d8d9cc8e04d6f1f7e35ea56
+
+File:  ハイスクールD×D BD Vol.3 映像特典 妄想爆揺解除オリジナルビデオVol.3～小猫、ちょっと大胆……にゃん～ (1920x1080 x264 AAC).mp4
+Key:   CHK@AwkjeFZasOglROn6y~Hpymk5NNUTe0G4byIjiYR1WIc,Cus0AXSVvO7mYFqaEI4EtI8od3VKvXM7WAVQU8I3JlE,AAIC--8/ハイスクールD×D BD Vol.3 映像特典 妄想爆揺解除オリジナルビデオVol.3～小猫、ちょっと大胆……にゃん～ (1920x1080 x264 AAC).mp4
+Bytes: 98729554
+Hash_SHA1:   01c30672927c7a04d8c76a8ec29c10793747f6b6
+
+File:  ハイスクールD×D BD Vol.3 映像特典 妄想全開紳士の円盤倶楽部PV～お姉さま編～ (1920x1080i x264 AAC).mp4
+Key:   CHK@rFc7B0GAhgNfJs80VNuMmjfl4Iuat9ieGA9UJ1B4HA4,JZAfqT1D3clKk8HvG34krfEA8ciirMl4hPorZgVW4xQ,AAIC--8/ハイスクールD×D BD Vol.3 映像特典 妄想全開紳士の円盤倶楽部PV～お姉さま編～ (1920x1080i x264 AAC).mp4
+Bytes: 90765100
+Hash_SHA1:   71cf228357e1e12b23d060e60c75b83a864cf951
+
+File:  ハイスクールD×D 第05話 「元カノ、倒します！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@K6IbIXB07o74NXB0IRISuTuydZl8Vm3kDO9p9-KOqjM,z0ML4fb~EQa3XSB5qfWhHAPm3YOhm82CvKy2q1OfKjo,AAIC--8/ハイスクールD×D 第05話 「元カノ、倒します！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 676902638
+Hash_SHA1:   506bdd4dd8595fe7d8cfd0b23dfac618b393b890
+
+File:  ハイスクールD×D 第06話 「アクマ、やってます！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@-G0tU342FwAPBFL~tPPL7pgzbxQWt~-7vtym80msUKk,nV35r7lgXaaAKcCVYJEBrEvBFrqu3yejwQojTcFQyeU,AAIC--8/ハイスクールD×D 第06話 「アクマ、やってます！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 674130346
+Hash_SHA1:   3c4a89aa2f1084fc07cfe31c5f77d79ab601e156
