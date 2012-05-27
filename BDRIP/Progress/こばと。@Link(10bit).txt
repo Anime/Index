@@ -364,3 +364,26 @@ File : こばと。 第21話 「…春の足音。」 (BD 1920x1080 x264 10bit).
 Key  : CHK@kSSnvr~dfGTxjcEmWh-HuKZOyraZKzsfKL0jAXrcNzU,mfd8TkQxWmWZuUu3dU17gXBVAFsoMRocpU-k-Qsz8Xc,AAIC--8/こばと。 第21話 「…春の足音。」 (BD 1920x1080 x264 10bit).mp4
 Bytes: 1262044490
 SHA-1: 3137c4e815cf0955d94c271d53e023a4693e4685
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.25 - 09:28:14GMT -----
+
+File : こばと。 第22話 「…さよならの日。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Gr4q~87BBiH864oZRHoXvQGYU~Ihsmf8uuIG4z2j22c,lVLEE9EVKlcBs-LXn10MZLv6dTdEMGQEsUshaDmP1e4,AAIC--8/こばと。 第22話 「…さよならの日。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 1280167988
+SHA-1: 699892d7e0c560c314bf743aa711057d2eb393e7
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.25 - 18:31:57GMT -----
+
+File : こばと。 第23話 「…こばとの願い。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@rGhZURIsIR5Wibn7LoxZVbu-KErppWI~OmmcPLGDixU,YB7i7uM7RyASV2NObQt8TP9b0yEAJajNHcI6gr3KtiM,AAIC--8/こばと。 第23話 「…こばとの願い。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 1405693363
+SHA-1: 85f8c517b6c9662ec498fe9a409e1aaa8b6ac92e
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.26 - 02:29:19GMT -----
+
+File : こばと。 第24話 「あした来る日…。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@rgfu9om7d3aYA1-1jVjjuHInZaRUiaykWnEJa-Rmuzg,fK0gtZ5v8dJRVfhXcy5xjlQzDRjU71FEd35RX3k3yJQ,AAIC--8/こばと。 第24話 「あした来る日…。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 1286358464
+SHA-1: 3bd97c2d024e9a1b554973544565f4aa44b9bdcc
+
+終。
