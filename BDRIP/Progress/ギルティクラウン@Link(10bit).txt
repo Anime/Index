@@ -262,3 +262,44 @@ Bytes: 460864241
 SHA-1: 3d8734751e82f970a57189ff36073fcea1184b24
 
 四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.26 - 16:43:03GMT -----
+
+File : ギルティクラウン vol.05 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@yriy0vkgyUJUMEbafETdOpjrCtoidHFZFd-GnqZ3C68,0t2l2nGfyoPgGhSjUEWiAdSAUrzW~ShkxVU1RjwCkyE,AAIC--8/ギルティクラウン vol.05 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 13259037
+SHA-1: 2dfc48e1501a5514b29b8766ac4220925b40f3fb
+
+File : ギルティクラウン vol.05 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@q9NH4WlghGj-gOCjb~3bWpojAarIketViIpJ-UBKR74,JQTs9aGPECHQwGC72lGbyAkrdbFuiPJqps5exoxLBXo,AAIC--8/ギルティクラウン vol.05 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 13685540
+SHA-1: 9b72514ebbe72188a0e7d680594bce6f669acc71
+
+File : ギルティクラウン vol.05 映像特典 「WEB予告ムービー 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@INYgQHuD~KPRuxGsQGugnZTq3YUPFzP2Yzr6Aqywrwc,Gz1xlv6VuwKrojJjiihCJEbiAsQvchVd2hajD-7iv6E,AAIC--8/ギルティクラウン vol.05 映像特典 「WEB予告ムービー 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 19652094
+SHA-1: c6661db1d739aed3cf372a9c480a2857bfbb50c8
+
+File : ギルティクラウン vol.05 映像特典 「WEB予告ムービー 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@ED4yBM74T4oEsOkWl3V~TTXiLBx-fHx2Ej9hJJuORMw,rR0kICmw6IWLpuQeGRW0Yes-g1pU-cZ-fSNhsa87roA,AAIC--8/ギルティクラウン vol.05 映像特典 「WEB予告ムービー 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 24162059
+SHA-1: c47db34815b94530ecb884f92df9f47c2a82d968
+
+File : ギルティクラウン vol.05 映像特典 「ゆーぽんによる4コマ フラッシュアニメーション」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@W3CTA566wkhf~lFTXy4WcALWp6r3~LogsVh~pdIXUpA,ucPbLw79~63XJPOnYZXmAy6-glfkfmnu-BjkkWlpACo,AAIC--8/ギルティクラウン vol.05 映像特典 「ゆーぽんによる4コマ フラッシュアニメーション」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 35288443
+SHA-1: 31194f419e3ba06227ed071d95332649ddf5a23d
+
+File : ギルティクラウン 第09話 「phase09 捕食：prey」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@y4xvkjZaNaQTrrZqw7mxgv5s-gZCaMqr0H064LvJL40,gNprqluF-QhbWqaiKFZRGu69M4CN-1JqQo1obq38Il0,AAIC--8/ギルティクラウン 第09話 「phase09 捕食：prey」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 1434968447
+SHA-1: 57f04abd05ceebf80d09aa3ab1f836df9c7b07f3
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.27 - 01:36:10GMT -----
+
+File : ギルティクラウン 第10話 「phase10 縮退：retraction」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@YiTmGQ5-Mw0y9aG3hvDl25CBnSubUw8PK95XVU3E8aU,w-zapjitM5ATa0o-Wqd5OeB1It1ApM1Vt~m8TXIUAx0,AAIC--8/ギルティクラウン 第10話 「phase10 縮退：retraction」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 1369231102
+SHA-1: 54f4823c10e97e3b0d92b9da0a87184b41c6a663
+
+五巻終。
