@@ -57,3 +57,24 @@ Bytes: 837312823
 SHA-1: 0f0cea42d6bcc85523d71abcb1cb01874fd134a9
 
 二巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.31 - 11:36:36GMT -----
+
+File : あの夏で待ってる vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@5LCLYdvby~-Hi5rFe99o7ZAyFIJT3PR-GGAsPJUPiFw,wFdE9rT6WAfjYTAGiaMmY-VjC1KfxcP5fskU12dQF9Y,AAIC--8/あの夏で待ってる vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 46085221
+SHA-1: 883d22ec18872edf3dcae88226f21412740ac981
+
+File : あの夏で待ってる 第05話 「第五話 先輩はヒロイン。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@3MeAkFNzxwqj82KVllH73Mh3QF4O3sjd~eA8oROzBJE,JflhFevpT-KATACU0~Gk51jUncsTcaqcjQEpQVtyx~E,AAIC--8/あの夏で待ってる 第05話 「第五話 先輩はヒロイン。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 776563046
+SHA-1: 2c86568f4010e4a383e988386cc023ffcd95f093
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.31 - 16:42:28GMT -----
+
+File : あの夏で待ってる 第06話 「第六話 先輩にライバル。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@B02Qn91g1p0eQX8smMl1nG9MiKr-jYgAcIeWJP1879g,uXJnkJWJjTCLXk8oU-Iknn6jvOknzYTqveOHva0ZYP4,AAIC--8/あの夏で待ってる 第06話 「第六話 先輩にライバル。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 859351642
+SHA-1: 9184933873e04fe84fe4fcc1d33bc96063191147
+
+三巻終。
