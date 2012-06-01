@@ -578,3 +578,131 @@ Bytes: 967824913
 SHA-1: 41b411a908f0da96263a0d59333aa997342333f1
 
 七巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.30 - 00:32:39GMT -----
+
+File : THE IDOLM@STER vol.04 映像特典 「ゲロゲロキッチン実写版！～中の人でやってみた～ Menu 1」 (DVD 1280x720).png
+Key  : CHK@eA92gYlWRltODi4tyAQt9~Ct8Ht0rYZJgkOuIjvWnWw,mTvAAa0k20tIHnkfXFsEIRFeOecsjonPxFyhAkmyrNM,AAIC--8/THE IDOLM@STER vol.04 映像特典 「ゲロゲロキッチン実写版！～中の人でやってみた～ Menu 1」 (DVD 1280x720).png
+Bytes: 1124450
+SHA-1: 02ff6dc6926069939c68d64dfd18ecf4156b1072
+
+File : THE IDOLM@STER vol.04 映像特典 「ゲロゲロキッチン実写版！～中の人でやってみた～ Menu 2」 (DVD 1280x720).png
+Key  : CHK@Mc8RTXQl970qOJRfg8zD7B8kMm3oAd6NKjfk3gD4208,JJ~e7kr8u5k-wX6CV-Z6L6Jy2LAPmgiwJ~KrPexejZs,AAIC--8/THE IDOLM@STER vol.04 映像特典 「ゲロゲロキッチン実写版！～中の人でやってみた～ Menu 2」 (DVD 1280x720).png
+Bytes: 1048027
+SHA-1: 
+
+File : THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL! Menu 1」 (DVD 1280x720).png
+Key  : CHK@CwhnmxWIM5ybAXWL9FF-c0uwgm2ih8taKQmeD9c6SVM,MKQAfbBLYXK8t~HvmhXTDTvDQpZ1DNJcC-YkKzMdZ58,AAIC--8/THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL! Menu 1」 (DVD 1280x720).png
+Bytes: 1518193
+SHA-1: 633e29e1ade67be08dde73a40b01984207aa311a
+
+File : THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL! Menu 2」 (DVD 1280x720).png
+Key  : CHK@lAMytvqI~Jh0F7aNrRBGgwSV6G5Qr5XlnuzO2Ou3c3g,XFM6yHHfAJCpAAgxtdSp-at4qEAMSCyU0moWqCQthzQ,AAIC--8/THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL! Menu 2」 (DVD 1280x720).png
+Bytes: 1313118
+SHA-1: 8dc23e129a861ed09583dcdef531673ca81975af
+
+File : THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL! Menu 3」 (DVD 1280x720).png
+Key  : CHK@1~TXpfeTjUSlPvjUBdgpEA~zG9zYcrSpqhnLUDTxMbY,COyxNu7KAQX8vfKeaVexvvK3nVlz6lGcVoQiXeJt5IU,AAIC--8/THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL! Menu 3」 (DVD 1280x720).png
+Bytes: 1165006
+SHA-1: 8af8a194ff8922fe9e83298ad785c98f2c528e6e
+
+File : THE IDOLM@STER vol.08 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Key  : CHK@sN84Jx8uqp4mOinasOCE7F5saTXjtNKrYDKZ2SZGX30,BXHXSRvYnTBEZxBnjjvef0PfPgc-t1VBZtjJxVh1kXg,AAIC--8/THE IDOLM@STER vol.08 映像特典 「Menu」 (BD 1920x1080 x264).mp4
+Bytes: 45590334
+SHA-1: 3575567d2e3ad346d2cfdcdb61d4b2519086faf1
+
+File : THE IDOLM@STER vol.08 映像特典 「ノンクレジットオープニング(第2クール・NEW Ver.)」 (BD 1920x1080 x264).mp4
+Key  : CHK@zowmq2ajQ~bHRqswqhDmhyaKowRl0TjKnyb2Gpf9Jtc,qSprHsGKeLegfvpns3iKGJNKOkHQFbujkCsjYYNzRzk,AAIC--8/THE IDOLM@STER vol.08 映像特典 「ノンクレジットオープニング(第2クール・NEW Ver.)」 (BD 1920x1080 x264).mp4
+Bytes: 100386443
+SHA-1: be723337cf2c3f34a338f3518008f5dd7f076c22
+
+File : THE IDOLM@STER vol.08 映像特典 「ノンクレジットエンディング（第21話）」 (BD 1920x1080 x264).mp4
+Key  : CHK@1DqQRcLwR3kOlZcujs0KcHlkTSpVR3~HlTLRWH3z1M8,40FDkrejkYIf~2x49JN8YGJYDAAZ3DNUXOqBUFPf~ro,AAIC--8/THE IDOLM@STER vol.08 映像特典 「ノンクレジットエンディング（第21話）」 (BD 1920x1080 x264).mp4
+Bytes: 164907313
+SHA-1: d717c1dadd9bbed8ad1fc91be6932b45db01e202
+
+File : THE IDOLM@STER vol.08 映像特典 「ノンクレジットエンディング（第22話）」 (BD 1920x1080 x264).mp4
+Key  : CHK@Jsk-lqrwTYyCKAaOl~Ni6QiY9-6kwPJUmzdqYLjhayo,QnuX4RwaNNqsCYlvYkmHavPuk0~0M4ZbKo0QJ9CTtoI,AAIC--8/THE IDOLM@STER vol.08 映像特典 「ノンクレジットエンディング（第22話）」 (BD 1920x1080 x264).mp4
+Bytes: 125179981
+SHA-1: 925178059769a9d630f3c1a1a63df870602a9862
+
+File : THE IDOLM@STER vol.08 映像特典 「ノンクレジットエンディング（第23話）」 (BD 1920x1080 x264).mp4
+Key  : CHK@Tg~xHDMwTzhE5VEBM56HKJ17gkvH5jZLW6q~evlx2xg,H8n329CzGP8nmTngAD9RUu6ax4WeCRLpCefpAWpkQPI,AAIC--8/THE IDOLM@STER vol.08 映像特典 「ノンクレジットエンディング（第23話）」 (BD 1920x1080 x264).mp4
+Bytes: 17533495
+SHA-1: d455fe58568806e4468bc9e15c90982426761b50
+
+File : THE IDOLM@STER vol.08 映像特典 「第22話WEB版次回予告」 (BD 1920x1080 x264).mp4
+Key  : CHK@lfMwu8ySmF9XVv7SOVdokvw4VwAVnZYTo8hFqfV7xzg,gS9cVOuJWlwsVILwMEaA9tjFfPxzKcCgNL7Zt9hCuok,AAIC--8/THE IDOLM@STER vol.08 映像特典 「第22話WEB版次回予告」 (BD 1920x1080 x264).mp4
+Bytes: 23672943
+SHA-1: 0ceb333d08cfd9f69ccb50e55e5cc24228ae3ee3
+
+File : THE IDOLM@STER vol.08 映像特典 「第23話WEB版次回予告」 (BD 1920x1080 x264).mp4
+Key  : CHK@tzwoIm45xjRlrKI1tZ9HpHpp2vTpCM8xqAJWDb3rByw,l7oQ~yxHdVBtOSoW4MVS0PtHIFP~xsktDLvDw~n8lJs,AAIC--8/THE IDOLM@STER vol.08 映像特典 「第23話WEB版次回予告」 (BD 1920x1080 x264).mp4
+Bytes: 15421662
+SHA-1: 7a7c708c5daaf608209c41809cc576569cc4cf8d
+
+File : THE IDOLM@STER vol.08 映像特典 「第24話WEB版次回予告」 (BD 1920x1080 x264).mp4
+Key  : CHK@j1RrrTISYElEk6SXsypIdVauPbxItzqQDPJh89fJB~k,mHv9Rjfz41Wr~1kVugKsmzGt8gxbsK7acd8suZiXG84,AAIC--8/THE IDOLM@STER vol.08 映像特典 「第24話WEB版次回予告」 (BD 1920x1080 x264).mp4
+Bytes: 17855418
+SHA-1: 48e4086eb084eafb2085f5af4bc0ae1e025d4e7f
+
+File : THE IDOLM@STER 第21話 「第二十一話 まるで花が咲くように」 (BD 1920x1080 x264 コメンタリー切替可).part1.rar
+Key  : CHK@dpCyZWgOZU1dK3xPsftMCgicUSnkzIm2TtXg~PRPQnA,DN085rngxe1mYTQmfcjel4wDE64F1AbJ8~qhomAZ4co,AAIC--8/THE IDOLM@STER 第21話 「第二十一話 まるで花が咲くように」 (BD 1920x1080 x264 コメンタリー切替可).part1.rar
+Bytes: 570000000
+SHA-1: 913d8cc368858116ae43689b6753e58705d68c6a
+
+File : THE IDOLM@STER 第21話 「第二十一話 まるで花が咲くように」 (BD 1920x1080 x264 コメンタリー切替可).part2.rar
+Key  : CHK@NQgt-5s-dSgbnM-7jtzxvR3e1Qxyk0BZzTZENnG4Nv0,z-fnVdIqoBJj~ZHIyL8FuGeZualCQOT2Xa5PY0QedNo,AAIC--8/THE IDOLM@STER 第21話 「第二十一話 まるで花が咲くように」 (BD 1920x1080 x264 コメンタリー切替可).part2.rar
+Bytes: 548469122
+SHA-1: d575e06a1b50a749ea99e04679e1e4ea3582fe1a
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.30 - 12:09:36GMT -----
+
+File : THE IDOLM@STER 第22話 「第二十二話 聖夜の夜に」 (BD 1920x1080 x264 コメンタリー切替可).part1.rar
+Key  : CHK@JL5KIN4lsy6RiXABTskq0C0y5Z7Knnek2QGQ3j9Ktec,MHJcIjU6QgETw5WxdpAkOEACISSHTrp-visPmSjwkaA,AAIC--8/THE IDOLM@STER 第22話 「第二十二話 聖夜の夜に」 (BD 1920x1080 x264 コメンタリー切替可).part1.rar
+Bytes: 570000000
+SHA-1: f0a721e48de1883c8d5f917717d113f624223eb2
+
+File : THE IDOLM@STER 第22話 「第二十二話 聖夜の夜に」 (BD 1920x1080 x264 コメンタリー切替可).part2.rar
+Key  : CHK@Y80XId-lF0ZQiwj5O7P2F2rW521K39U~1x3Kzu-8etI,vSLGPLhszGJ1vpNACY-jSe5QkYBBZCVw0yPSJdtExoE,AAIC--8/THE IDOLM@STER 第22話 「第二十二話 聖夜の夜に」 (BD 1920x1080 x264 コメンタリー切替可).part2.rar
+Bytes: 554037227
+SHA-1: ac2a3f9b024f61634df694dc1402fb8818e965dd
+
+File : THE IDOLM@STER 第23話 「第二十三話 私」 (BD 1920x1080 x264 コメンタリー切替可).mp4
+Key  : CHK@Y6UBPD5adfMeqV0-MEtHKsg-N6uDTcWL6Kqi3HK~wEY,zpH8ND8hS9QubGCexCT8kwsshoupkDbL0qjfA9RvlDc,AAIC--8/THE IDOLM@STER 第23話 「第二十三話 私」 (BD 1920x1080 x264 コメンタリー切替可).mp4
+Bytes: 860011484
+SHA-1: 5e264679c5f29f34182ff9dca2843a66b9134d22
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.31 - 08:55:19GMT -----
+
+File : THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL!」 (DVD 720x480i x264 [SAR40：33]).part1.rar
+Key  : CHK@TGFgmCNJEeio6r-Okcfyjv3EOOWdfwgtxwdaAGLCRlU,U-M963KIOwcIJGBpQLQVlgwR7YCsqmAOxpgo3uPwrKY,AAIC--8/THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL!」 (DVD 720x480i x264 [SAR40：33]).part1.rar
+Bytes: 520000000
+SHA-1: 4b0b77c6ebac14bb1f0d290e3ccd545ed510994c
+
+File : THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL!」 (DVD 720x480i x264 [SAR40：33]).part2.rar
+Key  : CHK@taxnxvxpn1mkpANmuagU07J8Dw-YHVFLa25b-nBvPps,PTCZurNjCmiRI04Xyp~ys6lyfAyPVHDY15q5fGae-bE,AAIC--8/THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL!」 (DVD 720x480i x264 [SAR40：33]).part2.rar
+Bytes: 520000000
+SHA-1: 47f4c0d993c2d5f44f99fafebb8eff31ab58ad86
+
+File : THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL!」 (DVD 720x480i x264 [SAR40：33]).part3.rar
+Key  : CHK@ohNiDHSbtebm9WNOd~~6CkubklcdR5SJdoB67aV~t-k,wdacZy7DGyRjv-HuFhR4p-C70WGTWTceLs8VkemviNc,AAIC--8/THE IDOLM@STER vol.08 映像特典 「THE IDOLM@STER WINTER C@RNIVAL!」 (DVD 720x480i x264 [SAR40：33]).part3.rar
+Bytes: 498169864
+SHA-1: 25a28df59ecd2ad33e1807a334577967adc51ec4
+
+File : THE IDOLM@STER クレジットエンディング 「空」 (BD 21話 1920x1080 x264).mp4
+Key  : CHK@RXYj6wp62CtFQcLVKP-btlXkWmbf2FNd3splnd9jnYM,RisA91mntOlLbsY6T2fEHkDxldEWEI8MIG4TI-xF01o,AAIC--8/THE IDOLM@STER クレジットエンディング 「空」 (BD 21話 1920x1080 x264).mp4
+Bytes: 132605164
+SHA-1: ab186bc18f7224e49965a54ae716ef363ec9da9a
+
+File : THE IDOLM@STER クレジットエンディング 「Happy Christmas」 (BD 22話 1920x1080 x264).mp4
+Key  : CHK@ZnDLZpi6MJnZRvAILwrS2DHtSCA5mnlaFMW0iTZTjjs,bRcO5Yq~zJUeLKJzG5WTD4RaZBhHo6VmgoO5TE0fioM,AAIC--8/THE IDOLM@STER クレジットエンディング 「Happy Christmas」 (BD 22話 1920x1080 x264).mp4
+Bytes: 122341390
+SHA-1: 6772b7f4bd24d9a8b3d91720820c357882f4aac7
+
+File : THE IDOLM@STER クレジットエンディング 「見つめて(instrumental)」 (BD 23話 1920x1080 x264).mp4
+Key  : CHK@elqYcYArFw9jTNNA0SPVVRsgsE~R3jw81zhu2gQuPXE,87D~Asrw0aevu7hGioN0svnaAOdMbccHpub5F9GnRJc,AAIC--8/THE IDOLM@STER クレジットエンディング 「見つめて(instrumental)」 (BD 23話 1920x1080 x264).mp4
+Bytes: 17972522
+SHA-1: 2ca44b4c8415ffb3f379ba8fa50793d6437d0ab0
+
+八巻終。
