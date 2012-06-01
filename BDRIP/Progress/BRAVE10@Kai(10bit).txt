@@ -141,3 +141,77 @@ Key:   CHK@OiloGZKa2zudEqR-jxA3At18NP7HNJ9tv4ANEKLvwyg,iHPmeKfbEKd6g7h~iBtn7VXjq
 Bytes: 599591373
 Hash_SHA1:   9fc21f539d6da06845e40326189f5f04164ddaae
 
+----- Anonymous ----- 2012.05.28 - 09:34:48GMT -----
+
+なぜDestripeを使用しませんか？
+
+avs:
+
+DirectShowSource("brave05.mp4")
+
+LoadPlugin("CullResize.dll")
+import("Destripe.avs")
+
+source = last
+
+Destripe(360, 4, 2, 3)
+spline36resize(1920,1080)
+
+interleave(source,last)
+
+Attached files:
+CHK@WvEHUxvCCDw988R0gSzYPP0Sp6U3c0aKB-m53BbFmCI,oi68wwd22t-ggaqkV7WJO1kbmjGQlz1KVIq1vbVs0io,AAIC--8/brave10destripe.png
+CHK@memRVaT3bS7kLvUzUKRnRPSf4-BznLr8BE2m05pcYaU,KojylFxea5Pc7K7Ktmm7XGhaptDNeDnTcnXRjmBCiPM,AAIC--8/brave10kai.png
+CHK@lKQX1-9YEtCMrRF4KvjAB2ksdpAVoXDz0ZLgK9NPR08,BAtDAkzO0YGFS71eGA3aOatGkGQjSV64BWwGcyNzERg,AAIC--8/brave10src.png
+
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.28 - 22:44:56GMT -----
+
+情報ありがとうございます
+ちょっと試してみましたがいけてますね
+
+本編6話分のエンコはおそらくやり直します
+素のままと補正版をエンコしてきましたが、これからはこれ一つエンコするだけで済みそうです
+
+----- Anonymous ----- 2012.05.29 - 09:37:24GMT -----
+
+残りの負担を考えれば、結果大歓迎ですね。落とし直しで追随させていただきます
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.30 - 21:26:49GMT -----
+
+教えてもらったDestripeでバランス良くボケ縞の改善ができたので本編のエンコをやり直しました
+今後の本編のエンコはこのやり方のみでいきます
+
+File:  BRAVE10 第01話 「運命のふたり」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@rj4F6J-p~lSiesVU34kyR0MrfQbi8aZlm3H-2TcD8HU,UbaqHXeidUJk6RcZzIwwI6UcMjKOwfFZVdjEPDcuUVQ,AAIC--8/BRAVE10 第01話 「運命のふたり」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 614140402
+Hash_SHA1:   5904c6f0be9846843a38218b753770c392d4f536
+
+File:  BRAVE10 第02話 「闇と光」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@-vUcnze65nw-fgCJvbBQDVKPAiyQSytGZ7yW0s7rk58,G1VdM2vta~L0s732MRBRZiQZB03hb-7Ccs5z9dOVpMo,AAIC--8/BRAVE10 第02話 「闇と光」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 613241511
+Hash_SHA1:   fd5d502748104eb488c7e55309a392e9372cdf57
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.05.31 - 07:46:39GMT -----
+
+同じくやり直し分3-6話です、やり直しはこの本編6話分で終わりです
+
+File:  BRAVE10 第03話 「旋風の谷」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@9mexvreLAgQlTt2lpkn-ZxcLh5BMehpcUB03VUBqBAk,5HjvZ9ErF~8CBu6ID38YwUoLc8U~0aaiCUxpJjno4Eg,AAIC--8/BRAVE10 第03話 「旋風の谷」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 684274713
+Hash_SHA1:   844ad5e43fd7f1e5e07a9a8c85ea19e8c40c9c25
+
+File:  BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@j-4gAHH7AuEss2HGEoxwBaqHHQ93NSZqPTiT1Q8r75o,mt6JKU7CtGQFpYpuQxDzy4cxAcOQKsJe8lLzgaauowU,AAIC--8/BRAVE10 第04話 「神々の魂」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 535368992
+Hash_SHA1:   a7b5ceeb9b4621a9dfe77b3eee0e8e8730299862
+
+File:  BRAVE10 第05話 「竜の懐」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@TMQizNq~b9zbdtR7loiBeKsd9sXF5jUy0mODySJbZgs,vK3n2Rol7~ZUYNwMAmoShL88ZKQZ2u5zUpYIZfZ22hs,AAIC--8/BRAVE10 第05話 「竜の懐」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 472954542
+Hash_SHA1:   caf443e62b9d1040bc50670f6cf58679288b62e8
+
+File:  BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@xyii2QZC62E9r7vuNPM0PnUArzVsE-z8EGuvaCRv8n8,Lci4Ak7oZdIfMXnSfdqNBg~IZYf6fjyXa5JBrP1cgHw,AAIC--8/BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 572236792
+Hash_SHA1:   43accdf13f6575dfb55685e5d6c8978578a335ec
