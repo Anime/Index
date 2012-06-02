@@ -227,3 +227,63 @@ Bytes: 1035489234
 SHA-1: 188E10D8F87768AA6114901945C0D4F92035BD0E
 
 五巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.05.31 - 16:44:13GMT -----
+
+File : 未来日記 vol.06 映像特典 「Menu」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@64JW5ZxlNvk93jv9uXqpRjBrXvSMxvCoCn~XgIuFOaU,hqT9IgNw4hpIiCiQU~rm~UYU7Kn047XulAdJINxnSPY,AAIC--8/未来日記 vol.06 映像特典 「Menu」 (BD 1920x1080 x264 10bit).png
+Bytes: 1433155
+SHA-1: 6d683ced0b4301313a4e8a61cd8b0fff88eecf47
+
+File : 未来日記 vol.06 映像特典 「ノンテロップ新OP＆ED」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@tWwQQA4EJVVODMJoG5pL4sHs6wC1QknN2UOqI1JDv3k,hlcmtvr00DCpiCbXH8C-4bg-MR5y-FugFtqF-dYd5KI,AAIC--8/未来日記 vol.06 映像特典 「ノンテロップ新OP＆ED」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 154339281
+SHA-1: 91b4db79aa80d24e83b415675551644a9a8f4ec3
+
+File : 未来日記 クレジットオープニング 「Dead END」 (BD 16話 1920x1080 x264).mp4
+Key  : CHK@BBKiY3olC7cRazkT2v3ksBCpl0vGGexdRBXj4QU367E,8FhlFBGka5nI54gwMVl1~7d6BR~tXNvjnFmN7pX-dSQ,AAIC--8/未来日記 クレジットオープニング 「Dead END」 (BD 16話 1920x1080 x264).mp4
+Bytes: 90186370
+SHA-1: 46db017cfd0f49344b0e555e286728c12d84d38e
+
+File : 未来日記 クレジットエンディング 「filament」 (BD 16話 1920x1080 x264).mp4
+Key  : CHK@di2bbO5RwdKLwgIA~aLrw-9agYlSMeeNBe49oJ3WNr8,QCAZe1CrzfU~TZCSdbgKXMANLFWcvZH73vwDcJrpHO0,AAIC--8/未来日記 クレジットエンディング 「filament」 (BD 16話 1920x1080 x264).mp4
+Bytes: 70343012
+SHA-1: 2adf5ecb246d3de551cc0ef4d94842b42b4fd209
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.01 - 08:36:33GMT -----
+
+File : 未来日記 第15話 「ダブルホルダー」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@M64DkY~gNhfoi5eMeFu6R7LssJ60EtfxwkjnxpHL3Cc,rOnywubfsdcnLT2ZfEv4aqxmfSPOoOrdrqBBo~7xmSs,AAIC--8/未来日記 第15話 「ダブルホルダー」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 560000000
+SHA-1: 34e7883b9367dab614404db106fc3f910854fc88
+
+File : 未来日記 第15話 「ダブルホルダー」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@LWGGXM8hoBwFfZMf50G~n0Jp2ygTmXuy4BQCk73HGy0,G6CaW1C9Q4dgm8vJc57e4wwc9hNas46OUsadEhzMYPA,AAIC--8/未来日記 第15話 「ダブルホルダー」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 546976095
+SHA-1: 7b9fae0fc50b42a51400224c8cf62f1badbd7306
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.01 - 15:31:08GMT -----
+
+File : 未来日記 第16話 「修理」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@6vA3yqJ0ALdfXAqDn55aroNgzXHnq6hAlHRcLNlN~Nc,-en6C86BbrKq1rjyrkl1mBlbIMMixIU82mZ3N6UWq-g,AAIC--8/未来日記 第16話 「修理」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 833046793
+SHA-1: 9137C7D854298637305B844EE65D39D9606EDFC4
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.02 - 02:15:04GMT -----
+
+File : 未来日記 第17話 「家族割り」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@i0akJH7goVd~MQq~6z5CkDf~Idh~uI5yRIc86FvQiG4,4tSo9rND1WVTh8i9CN5-i3c6HsAB66W-tTi-F2r64TI,AAIC--8/未来日記 第17話 「家族割り」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 540000000
+SHA-1: 1e3aeb9697049fc4976df9c0a3ec5e1850bf2e7f
+
+File : 未来日記 第17話 「家族割り」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@fEORik5Zr5dXkzYWhf8G-WKtxAFGsm7g5qwdfmapf~A,CzVg3sOmzKxJY4XwkWPgfzjlCffKRDC5VBKAsNOuX1I,AAIC--8/未来日記 第17話 「家族割り」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 540000000
+SHA-1: ec884eaa475d1e559ba3195b532fc0b7633ae8c4
+
+File : 未来日記 第17話 「家族割り」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@kyQd4mMWuS5lChLa0Q908zRL1FDeUzIaZLA~ufeDoo4,ZNXQIVk8WbwmlkY9v1nXmsmHb3T7wTkd0Me2BhcE0d0,AAIC--8/未来日記 第17話 「家族割り」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 534175545
+SHA-1: f5f81dc0c43ab5686250483dda8511467f8fa992
+
+六巻終。
