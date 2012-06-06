@@ -139,3 +139,34 @@ Bytes: 651347810
 SHA-1: 7df42f4337ea7c01c8edbef8d91224c0852e4e3f
 
 五巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.04 - 19:47:59GMT -----
+
+File : 君と僕。 vol.06 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@~Bd0PLJ~hoLU6vgMtovm~Di53HVmzZDDKrWrU1Go6is,fuFLkJUh1JUMkzEXKz0U0Cfy7B7Sf8kjCvY9Nl1sEhM,AAIC--8/君と僕。 vol.06 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 21539130
+SHA-1: e9cec6b5c49dce40812d8ac1b28081c1198c6290
+
+File : 君と僕。 vol.06 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@uFsSXKggLota94QBbErsvKBxezNNMhgpP6q0YkWlAXw,0iozVIyP-xY1HV60ZP2bI8YRrmNYKI5O3phlCsSgajA,AAIC--8/君と僕。 vol.06 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 21402907
+SHA-1: 2f2a6c5c6684238dd4862d55df53e97f8dd9d161
+
+File : 君と僕。 第11話 「三日月シルエット」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@D6-9wHEy7b-~5Dum01JR8zonevxxMs82dWTcl2qILYE,GE-OEzQ0Jyqc745Zga1oKEyVyMD~cZJOb606BvLPcrY,AAIC--8/君と僕。 第11話 「三日月シルエット」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 581077667
+SHA-1: 390897703fe654f42cf1abd795c54a8acfd9e737
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.05 - 09:27:24GMT -----
+
+File : 君と僕。 第12話 「中学生日記」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@TzW6TG5OveuVRg2MWZJTa8mwgyi6AQtSqrn0kjWLeos,TD5zswqZxqqM-lNcgEkCc9cNR2l6XaCmunetubk~~t0,AAIC--8/君と僕。 第12話 「中学生日記」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 669262389
+SHA-1: ae0b0ec1a283fd4c0fc18836fe537d9a5d2c9a0e
+
+File : 君と僕。 第13話 「陽だまりの詩」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@Vqy6gF6Zir4s3knglwZ6dYbxsm4-3oJ8xf53hCCbmAY,sbCRT-exPrTV1xM7CJPHUMmA3~MAp1WlH7ZG9WeErnU,AAIC--8/君と僕。 第13話 「陽だまりの詩」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 634227030
+SHA-1: 7527e429b08c4b2b0d8b7271e615465c9d2fbd43
+
+終、2に続く。
