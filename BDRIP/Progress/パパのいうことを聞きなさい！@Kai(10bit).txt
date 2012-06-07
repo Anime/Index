@@ -133,3 +133,42 @@ File:  パパのいうことを聞きなさい！ 第07話 「毎度おさわが
 Key:   CHK@0kDjLQzcbGfsRn6BWs1ZpWGvFECJE9UitTes0ey~IBE,cDGauHshv86Hm51oe3fYTFugkqq4NrDPcurXX-TTN-o,AAIC--8/パパのいうことを聞きなさい！ 第07話 「毎度おさわがせします」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
 Bytes: 720444318
 Hash_SHA1:   9cef5f2c023df9c9f29959c7def99062fc5081d6
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.06.06 - 21:37:40GMT -----
+
+File:  パパのいうことを聞きなさい！ BD Vol.4 特典CD ドラマCD vol.1 (EAC cue+wav+log).rar
+Key:   CHK@lcwrEi2ogD-~3Rm27h4e3IvUu~jJw4Q-lvdVCca-RsY,YPx7lW8FJ-F4aKK62S2N8GEomvMLcviR606ABq1l9uM,AAIC--8/パパのいうことを聞きなさい！ BD Vol.4 特典CD ドラマCD vol.1 (EAC cue+wav+log).rar
+Bytes: 124954333
+Hash_SHA1:   b88132761efc0c6e82144db4c8b8fedec9f205d6
+
+File:  パパのいうことを聞きなさい！ BD Vol.4 メニュー1 (1920x1080 x264 AAC).mp4
+Key:   CHK@8NdE9vhLIJeFIPIc2dmE7-Q1ZQ71-hDpaM5PHCppeTU,8FbvMxIk8XUSol~yyE5FqABTYmdECdKt1ElLs8x8cyQ,AAIC--8/パパのいうことを聞きなさい！ BD Vol.4 メニュー1 (1920x1080 x264 AAC).mp4
+Bytes: 19890155
+Hash_SHA1:   741160853867ca612cdecf46801461d7acb5eef4
+
+File:  パパのいうことを聞きなさい！ BD Vol.4 メニュー2 (1920x1080 x264 AAC).mp4
+Key:   CHK@PDiWUjpthI4YNvhqftk38dMO0P5J8rCIZlOK6LZTHvQ,qDiau-c~K8T2hE-INYogyBcQsHV28JvRFXC-MLxoz90,AAIC--8/パパのいうことを聞きなさい！ BD Vol.4 メニュー2 (1920x1080 x264 AAC).mp4
+Bytes: 18660676
+Hash_SHA1:   5aa19cea0e440d222587e11bc172eccf5f95ff5a
+
+File:  パパのいうことを聞きなさい！ BD Vol.4 映像特典 プロデューサーのいうことを聞きなさい！① (1920x1080i x264 AAC).mp4
+Key:   CHK@WtSxRq3UHUWAMp7IszRjN668qzMKs2a8cfnU1tf3VsI,O4daL5fFfOc-Ce5xukwO~8Snpf5RicRO-HPuZ8EgFVs,AAIC--8/パパのいうことを聞きなさい！ BD Vol.4 映像特典 プロデューサーのいうことを聞きなさい！① (1920x1080i x264 AAC).mp4
+Bytes: 760868712
+Hash_SHA1:   127fb34c04c1b2d414ce9683205062d595f1d8d6
+
+File:  パパのいうことを聞きなさい！ 第08話 「ゆるしません！」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@scSFsgB3JiXgwcC2UfKqdXiMzPM3UPsqijyzaNVqVgo,jE5JExoGlukeFrTUhx9ERMdPZT~JmomUZ9hVG2PeIdg,AAIC--8/パパのいうことを聞きなさい！ 第08話 「ゆるしません！」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 731752065
+Hash_SHA1:   777658593cdd4360191c4483699086490969c3fa
+
+File:  パパのいうことを聞きなさい！ 第09話 「ちょっとマイウェイ」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@Vkk5znttar8Lnm47EDLkSMP~gmWZgktMxI8ehWYlGXM,iTIRQh2sx6ExJfWn0p3L3Qb33wItKOuW9Y3TE6~Wbtc,AAIC--8/パパのいうことを聞きなさい！ 第09話 「ちょっとマイウェイ」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 732598194
+Hash_SHA1:   996422f0aac35b1ba7a857d915dc980c5c98b574
+
+File:  パパのいうことを聞きなさい！ 第10話 「私の青空」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@8naUIabjm23MNTejVTTEqzTHERPY0QA3l0sv0Y5iuDU,fJvt6K9C7OcbFIcY8VF4p7MyrD7Mn5XrOS3G368MSKE,AAIC--8/パパのいうことを聞きなさい！ 第10話 「私の青空」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 712626144
+Hash_SHA1:   5c68c3b1cb50b588a96d5d7e6fb4fc32c59ae1a3
+
+特典のプロデューサーのいうことを聞きなさい！は実写です
