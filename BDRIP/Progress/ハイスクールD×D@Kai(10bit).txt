@@ -104,3 +104,35 @@ File:  ハイスクールD×D 第06話 「アクマ、やってます！」 (BD 
 Key:   CHK@-G0tU342FwAPBFL~tPPL7pgzbxQWt~-7vtym80msUKk,nV35r7lgXaaAKcCVYJEBrEvBFrqu3yejwQojTcFQyeU,AAIC--8/ハイスクールD×D 第06話 「アクマ、やってます！」 (BD 1920x1080 x264 AAC).mp4
 Bytes: 674130346
 Hash_SHA1:   3c4a89aa2f1084fc07cfe31c5f77d79ab601e156
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.06.05 - 10:13:07GMT -----
+
+File:  ハイスクールD×D BD Vol.1 映像特典 CMクリップ集 (1920x1080 x264 AAC).mp4
+Key:   CHK@11~LyYWTDIpzTr-IO6a0rmpy3fZ0yYeq4j1s8YsyQ8w,6YRJRGNEzby6XkTU5p00oDEjGfTo7~iiq27jVGk4Z-s,AAIC--8/ハイスクールD×D BD Vol.1 映像特典 CMクリップ集 (1920x1080 x264 AAC).mp4
+Bytes: 64913821
+Hash_SHA1:   24c7c024a51624e917c1ca898ef309e96d62a7c2
+
+File:  ハイスクールD×D BD Vol.1 映像特典 プロモーションビデオ (1920x1080 x264 AAC).mp4
+Key:   CHK@ehRq1scBRG6GqYaqhmRN~~L7sFHdnKPoDaN0OPCCvzk,WMJQO0~Mxdl~IMulqXC00DLlAPkVtDwb6az~PXvx9EE,AAIC--8/ハイスクールD×D BD Vol.1 映像特典 プロモーションビデオ (1920x1080 x264 AAC).mp4
+Bytes: 97024031
+Hash_SHA1:   9df09b43006ff01d5dd2931d8b2050b5d4bfc4c7
+
+File:  ハイスクールD×D BD Vol.2 映像特典 妄想全開紳士の円盤倶楽部PV～オカルト研究部 紹介編～ (1920x1080 x264 AAC).mp4
+Key:   CHK@1MlNRo4Vv6T8EewBSqF7l6ryCW1i5wDwIC~h9NgPUw4,bV~rBeTliP2Lp6ZyTHizWidok1Clgs1Cso293X7xuw0,AAIC--8/ハイスクールD×D BD Vol.2 映像特典 妄想全開紳士の円盤倶楽部PV～オカルト研究部 紹介編～ (1920x1080 x264 AAC).mp4
+Bytes: 115760369
+Hash_SHA1:   a0c9400adee51b7e4ba01214f482dff11ca54173
+
+File:  ハイスクールD×D BD Vol.3 映像特典 妄想全開紳士の円盤倶楽部PV～お姉さま編～ (1920x1080 x264 AAC).mp4
+Key:   CHK@HX-yBczxEKkLKCOXeHXwD6g8T8ghjRkhVBni0g3Lryc,vYhTFuVtdFiyh5UHibp4aOj7lXrJuZGgOYMaS0wsNJg,AAIC--8/ハイスクールD×D BD Vol.3 映像特典 妄想全開紳士の円盤倶楽部PV～お姉さま編～ (1920x1080 x264 AAC).mp4
+Bytes: 104603527
+Hash_SHA1:   d25dbd7e5dfe985cc828ea312727358de95605ad
+
+
+今更って感じですが今まで60iでエンコしていたものを逆テレシネして24pでエンコしたものです
+エンコは簡単、楽にやりたいということで、BDに60iで収録されていたものはそのまま60iでエンコしていましたが
+ちょっと確認したところ、スクリプト一発で簡単に逆テレシネできそうなのでそうすることにしました
+
+今後はこれでやっていきます
+もしBDそのままの60iがいい、そっちも欲しい、という方がいたら言ってください
+そしたら60iの方もやりますんで
+といってもおそらく60i収録だと思われるプロモーションビデオがあるのは次のVol.4までのようですが
