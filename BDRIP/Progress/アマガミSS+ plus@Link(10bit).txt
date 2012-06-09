@@ -67,3 +67,39 @@ Bytes: 747790421
 SHA-1: 1d4b767a7698b3788d3d9487f7f9d670d6266b87
 
 二巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.08 - 13:53:27GMT -----
+
+File : アマガミSS+ plus vol.03 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@UFX6hp539uAdhrnfV8PZfwedO2o2iGZtSEl293~TlSk,pH7EY1u9B9PqRhusxBaxg6uKtDDQjgE75lztNRBMGnQ,AAIC--8/アマガミSS+ plus vol.03 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 27588649
+SHA-1: 7ab78183620073100bf3c5f45b1a58931ff26029
+
+File : アマガミSS+ plus vol.03 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@UjfrDGcXHNRQ1morKO2gkERuhaptlSktd0r9N9z-VXA,qV61GEcN1aW6KF1VpaWNEDeN~JMuRjplOAb18KqGs~8,AAIC--8/アマガミSS+ plus vol.03 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 24875116
+SHA-1: acd8d4a68aab9d9c3f42f7080159d8f618e01e1b
+
+File : アマガミSS+ plus vol.03 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Ha9jfwqM~oagDMNURc1ehEBkl-qAg-FsaMWucEwSXWs,we30S3MV~6PjqGpNM-SIUGWN1UDZLpb~qeS8KjPT4bQ,AAIC--8/アマガミSS+ plus vol.03 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 87374997
+SHA-1: 578c900316e063f3db8c7e0203a696940efe97a3
+
+File : アマガミSS+ plus vol.03 映像特典 「特製イラストカード 「ホムンクルス」「大塚子虎」」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Thyuzafj2RsoHL18hE~8siUv72X~7QmvkU~fWKBhEaU,zL9-RDJo2-xQ5bKkwTnulLllzN9xWjju4Ds~5CGEd94,AAIC--8/アマガミSS+ plus vol.03 映像特典 「特製イラストカード 「ホムンクルス」「大塚子虎」」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 2974410
+SHA-1: ce0c633cf1fc02d95c6929eb9cc484bdf4814e67
+
+File : アマガミSS+ plus 第05話 「七咲 逢 前編 ツヨガリ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@Wb2bwUN25Hf4leM7eztiphcansiuRpTLCGv4EnVl6b4,hQpVlY2-X0WtoCu0qxaKclKccD-A9sa9Fetp8BoWQ7g,AAIC--8/アマガミSS+ plus 第05話 「七咲 逢 前編 ツヨガリ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 729911219
+SHA-1: be33cb8306e3735969309e3ffc9bebeac8800f06
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.08 - 19:31:22GMT -----
+
+File : アマガミSS+ plus 第06話 「七咲 逢 後編 トウソウ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@uwP2jmsm9qKOsqtpXKlYj8OFWT567weOG70o~JGg7AY,UXnqo68nDNkPLSr~41LB1Fvj2qBDvs~tOthN4jNf11o,AAIC--8/アマガミSS+ plus 第06話 「七咲 逢 後編 トウソウ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 694622303
+SHA-1: 833dc9460b7f32cb45e64f38e51b75be43883d53
+
+三巻終。
