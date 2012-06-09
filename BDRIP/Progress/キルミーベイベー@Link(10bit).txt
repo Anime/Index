@@ -52,3 +52,22 @@ Bytes: 727476510
 SHA-1: 556a21038a2e662169ebf7476b3f392bf32ef89c
 
 三巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.09 - 04:32:01GMT -----
+
+File : キルミーベイベー vol.04 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Wt5jnAY6UjaU0aNvf9y-uQeknTBJDLeJP1X4oKu2kYI,kIDHlDY1TBm18lmmR8xEWAMI219uZMDJBlAYs9d~QmU,AAIC--8/キルミーベイベー vol.04 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 16696832
+SHA-1: dca014444388f6af45887405182565b935ba7359
+
+File : キルミーベイベー 第07話 「キルその7 ぶんかおてだまできばせん」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@s3KMKnLNytDE0HAK~aqIqZG-pk~xGow4lAr8uIVti-g,6CIBQLY-M1KWDSuqoC0akAlEGjXq4D50H-6-6p2J6SY,AAIC--8/キルミーベイベー 第07話 「キルその7 ぶんかおてだまできばせん」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 648193853
+SHA-1: 61083bfc24052ce50ce6229df8a127faa62d79c1
+
+File : キルミーベイベー 第08話 「キルその8 はまりかなでりつきささり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@9a1gbQLdKuspsFwDPVCNeYm-YGKXBd2GmFoAmSTSPV8,VUQ-b6jiB37fGlUg20XHZvFVXxc02JrdpTZGDNOXi1E,AAIC--8/キルミーベイベー 第08話 「キルその8 はまりかなでりつきささり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 627109632
+SHA-1: cb7fd46e0b05c4470c46526c9b131f2c1ae6e127
+
+四巻終。
