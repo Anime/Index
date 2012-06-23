@@ -136,3 +136,20 @@ File : RemoveAudioTrack2.rar
 Key  : CHK@nEYBTptjyxtbowUxCbBuVDAqzpvOS9PFhc23hw2TewI,YnOgdsKXndEBOwK6M1xlhSSC6Vq~eT6bJsTFLr4peTY,AAIC--8/RemoveAudioTrack2.rar
 Bytes: 1185333
 SHA-1: a51402b428e4cd13af9991e96988179de6eab0ba
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.09 - 07:45:35GMT -----
+
+File : C3 -シーキューブ- 第５巻 MENU (BD 1920x1080 x264 AAC[2.0+2.0]).mp4
+Key  : CHK@Fo7xJmMcHpxNncc0daeqWvtajmuvAAyb8-REI-8s5kg,83JfpVdnXW~z58iklxosXPl1Tgsn5zoHZM7Rs0dFo8Y,AAIC--8/C3 -シーキューブ- 第５巻 MENU (BD 1920x1080 x264 AAC[2.0+2.0]).mp4
+Bytes: 329201013
+SHA-1: ffcfbacdb2970b16b9c096d9e0b8acf5eca6040d
+
+File : C3 -シーキューブ- 第12話 ｢超越者は何処にでもいる｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@Vasme9ali-Be1tEOAhM-XBoUkDd~tcRPFExsaTg90Jc,IXeOZkDNgBvfHLF8D9w5WkjTdFyF3Uqz~WOzKWEjI~U,AAIC--8/C3 -シーキューブ- 第12話 ｢超越者は何処にでもいる｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1124687205
+SHA-1: 470bcc4f88aa208b4e5a431f7730f286967c3157
+
+File : C3 -シーキューブ- 第13話 ｢林間学校こんふゅーじょん！｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@33BJyOy-HheOezv1GVKIv257K~VJKBOPsKDsZCLbzHA,fC3~cpCZ9KhXABpkXLFMJezOcMlI3eLtlttoeKfFtPk,AAIC--8/C3 -シーキューブ- 第13話 ｢林間学校こんふゅーじょん！｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1232753479
+SHA-1: 955a20f6e173f3e0e68f2c2c16076ef182d0b0d6
