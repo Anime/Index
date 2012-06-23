@@ -508,3 +508,97 @@ File : 日常 第10巻 MENU (BD 1920x1080).png
 Key  : CHK@vJRJhg2Jp5bMDkqM~CON7dOedIFP5hzAi3i76dv7DVQ,H7ZbrlSGsrd9pITpL~6yLcJb8H0OJjKKUNkTO3~c85g,AAIC--8/日常 第10巻 MENU (BD 1920x1080).png
 Bytes: 1294191
 SHA-1: 5a40d74936cc886b9655cc3f3c19c706f7e2921b
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.14 - 21:41:04GMT -----
+
+File : 日常 第21話 「日常の第二十一話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@ZgpGZzp6~T-jILJoTpTvCgBDja~M384GCMhXBhO8zfQ,oJmnwTSM77Qzi8BZwY0dVymDPK4y8crFdkmjHuC9i5A,AAIC--8/日常 第21話 「日常の第二十一話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 954691061
+SHA-1: 7ea733ece8c3e12f9375e07bd5ccaba189bb430d
+
+File : 日常 第22話 「日常の第二十二話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@gTEChKXmwfp3heYQdNhCBWx3ac6VXvCL9JaFuctzBKU,yiDZblD5p~kgwqjFhH5PuzXyB6eoTaA1RMhbHpeKeMA,AAIC--8/日常 第22話 「日常の第二十二話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 954802799
+SHA-1: fad6bfcbf5a7ffc0a1a582e302c69d63cb5adeee
+
+File : 日常 第11巻 映像特典 「BGMレコーディングメイキング映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@2vs6DqnfywcgxXX4TgvHFYC0S1GoDMJ9dmjnm8vhVpA,XoND2p1~Innh2b~juIDQ41zb4eSi7~ctZpf6h1hOJgY,AAIC--8/日常 第11巻 映像特典 「BGMレコーディングメイキング映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 224713278
+SHA-1: 47eb94091a80dc2598423260f1b044e9df9c2e15
+
+File : 日常 第11巻 映像特典 「オリジナル次回予告映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@jcHk9Go0cegjwfkBDtl-L0e7simiW0uAgqP59KdbO6E,-u-M6k4hWzapnY3l1PE51E-rSwDoPuzuqBDl5nQXGug,AAIC--8/日常 第11巻 映像特典 「オリジナル次回予告映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 33909546
+SHA-1: 1f47cd6b66a8aa87d90285a4e4207014aaff91a9
+
+File : 日常 第11巻 MENU (BD 1920x1080).png
+Key  : CHK@8d9BxN2alKh60uN0LJL78OsboQO-wP5dOA8PsGCcqYw,zF6PnUnmAJubsojHUdPiy6bLQvK441t9oObyunUpJYE,AAIC--8/日常 第11巻 MENU (BD 1920x1080).png
+Bytes: 1402296
+SHA-1: 0bdec0a570ba2fb141a3c76e39ff87d8c5297881
+
+File : 日常 第11巻 映像特典 「ロケハン映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@cup5Qqn77eAyn-0K4F8je6e~XveTQJP1-JvMIVU~0hk,McZT8E9hxUHkXaMFulZmlz-54HSZXzVOqs5yk1VrLE4,AAIC--8/日常 第11巻 映像特典 「ロケハン映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 258107877
+SHA-1: a9ce18b731f79c29793df86e92dabdb36f68655d
+
+File : 日常 第11巻 映像特典 「新ノンテロップED（第21話）」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@iXwlk40d0PEUHfVmXoNV5Yngjv2LlqH61KY-2wR5fzI,M~oIfusVHQZNbKqnHBNJfgCsNqMERwoIo~6sCPUYn1A,AAIC--8/日常 第11巻 映像特典 「新ノンテロップED（第21話）」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 82153629
+SHA-1: 3bcfc83050192420f15e27721bac3346fa893f31
+
+File : 日常 第11巻 映像特典 「新ノンテロップED（第22話）」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@fL65V0~M3yqpdDugHNm0EYQDFB~-s0MMJVLK8dsWgrc,l0N0ekJ2nsWjx9CBH5ss9WJP-25bmTRSITctpOLRHDo,AAIC--8/日常 第11巻 映像特典 「新ノンテロップED（第22話）」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 81997426
+SHA-1: dd673902e56e17b4d6e6365b0940c02a83df8ebc
+
+File : 日常 第11巻 映像特典 「たんけんはっけん日常のまち９」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@zyeU179Y2MWkJaRfJvD4Yd2DWx2MWR9Ycrtsn1zsiI4,WEMl2SYUayLwLRJ2oQkte1yLIP6TXb0mgo02LBr61nQ,AAIC--8/日常 第11巻 映像特典 「たんけんはっけん日常のまち９」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 788027509
+SHA-1: 79bf0b15d17198cf245da5cef06dc62a5843e6db
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.15 - 09:08:36GMT -----
+
+File : 日常 第23話 「日常の第二十三話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@5yfxO9B-vY3-GmDk3Mpz3sYAw~Cc-b-U8sYoTCmHqvA,wVznCPKXFTBMBGVDV81pCJmFNb-VMFiSv0k1xJio3GI,AAIC--8/日常 第23話 「日常の第二十三話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 968265003
+SHA-1: 8a4f0ed45ff6b869e6d92006701a54a96d53d6e9
+
+File : 日常 第24話 「日常の第二十四話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@Odrt7Q2y4dh3PoqaCHDG23AicTMqjgz8PmPcwAYXf8Y,dfkVwTkWAe7rpNlD1gpHfGGTn~1rPa36U7advIfUths,AAIC--8/日常 第24話 「日常の第二十四話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 934144849
+SHA-1: 97bcab3eb0234ccb04b2c0a57beded9ea8c6667e
+
+File : 日常 第12巻 映像特典 「BGMレコーディングメイキング映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@IC2JdUy8j19a9UgSR0EuJhNKFTbl0fon5I870TROqy0,Dh~obEqXax-kOAerGI~7ecTU7vKZ6MpD5QJl~q8HL~4,AAIC--8/日常 第12巻 映像特典 「BGMレコーディングメイキング映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 330192083
+SHA-1: 815d497ba19c05c531abea5e3698b4dcaa46888a
+
+File : 日常 第12巻 映像特典 「たんけんはっけん日常のまち10」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@N24GjSLrt7g2ubkENBQce-TWDe2IpfXyTy033za88Ro,KkL5mBHaj6jOm8Rr7R-SOARIXAdQihNgEqYEtYkXCoI,AAIC--8/日常 第12巻 映像特典 「たんけんはっけん日常のまち10」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 322884733
+SHA-1: a63b2dd71b54fa78e8dac9b2396d6b600b9109e5
+
+File : 日常 第12巻 映像特典 「ロケハン映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@tqEWHZ0QjtKlJSXIAvCnjQ9YQI9RAauBNDnKkiNqkXg,XwDdmDnlHZ6GFn42nenfvhZOpDMkksftKdx6-6xo-xs,AAIC--8/日常 第12巻 映像特典 「ロケハン映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 258925969
+SHA-1: 2bf9a4a0a0958ff73b170b6b8881ff29641987c5
+
+File : 日常 第12巻 MENU (BD 1920x1080).png
+Key  : CHK@yjEt7IZSxZUNKrGAUUi7sqvuGrB6hHdhj3gF8vQmmwU,JlhOvEswwZXU4NlqcPLRhdWShecPgGRPPZtveX19AyM,AAIC--8/日常 第12巻 MENU (BD 1920x1080).png
+Bytes: 1706762
+SHA-1: 5014523b5b954f0fbf2b6144583c8f63e22ea8a9
+
+File : 日常 第12巻 映像特典 「オリジナル次回予告映像」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@LSSp1~JGG58AevTYaPq3azyTZgyp25NVByNJrJqp9l4,OE4gaYb73TzHRhgYwUYKTNGG8qBcL9dLu3W~Mth9yt4,AAIC--8/日常 第12巻 映像特典 「オリジナル次回予告映像」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 36927735
+SHA-1: b67ced091a37ee47f896c5c16faef56337ec6897
+
+File : 日常 第12巻 映像特典 「新ノンテロップED（第23話）」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@0RwLwUcuppvRtqlCiwekM1GVwuHLFSg6KeJTDJsQiew,d-L0-Piw-0~FLfIDhst6W3C6EAtL3noT8aUr-zcCtx4,AAIC--8/日常 第12巻 映像特典 「新ノンテロップED（第23話）」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 81680050
+SHA-1: 39ae584ced5cbf9b31eb4a997065567ed312a154
+
+File : 日常 第12巻 映像特典 「新ノンテロップED（第24話）」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@-DxARqVOh2baKQ3lllW3JEA1zmhdvk9i0JYXLsYj-h0,oFG62AVFV3PADYLhka7eimkNDRsdkSe6-tNuyddbyJE,AAIC--8/日常 第12巻 映像特典 「新ノンテロップED（第24話）」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 82081752
+SHA-1: a5556879229c34cb96c7778e1e867a5a63ed48f4
