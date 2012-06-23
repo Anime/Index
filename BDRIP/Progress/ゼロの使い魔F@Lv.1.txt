@@ -56,3 +56,27 @@ File : ゼロの使い魔F 第04話 「女王陛下の恩賞」 (BD 1920x1080 x2
 Key  : CHK@yC03s8bKL~MI1YOh3fGurUCuiNm7KBU~lKi6Fwr23Wo,OaMKWQ0GSd6GAlJCjj0lsFzfNT1AeB-EPd6rc7bO68I,AAIC--8/ゼロの使い魔F 第04話 「女王陛下の恩賞」 (BD 1920x1080 x264 AAC).mp4
 Bytes: 774008160
 SHA-1: 2ebedfd0af455698abef8c52c8710215db16e9e4
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.17 - 15:55:07GMT -----
+
+File : ゼロの使い魔F 第05話 「ド・オルニエールの乙女たち」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@u4~mEe0AzMMi1QVR4JtcomJTiY~JWLidEaLvC37SPR0,iIhqTWL4OsdqFzg1b7evKKiR0kZe0zyPHlNUpx5EQtg,AAIC--8/ゼロの使い魔F 第05話 「ド・オルニエールの乙女たち」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 652165002
+SHA-1: 0646001a237bd4ae194f4ac7c45e15795014f733
+
+File : ゼロの使い魔F 第06話 「波乱の露天風呂」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@9AjkEU35fXS1km3XbpuG28PV6pexlTsCF8OK95Q0oTM,3EXkVusvqJPmAJ331mLaHPEdONRt-hKEcXp8NrrOo3w,AAIC--8/ゼロの使い魔F 第06話 「波乱の露天風呂」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 684605769
+SHA-1: 769659a146a25857f05aea70b24741abc4e0c44a
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.18 - 08:52:56GMT -----
+
+File : ゼロの使い魔F 第07話 「砂漠のエルフ」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@0UYC5j9Emq55XnzKE5xJVVn273-gEwfu2JpnrGRSVeA,whNHCiVUOmNhAbys5ZIoNoMdRrApMy5SqRMgllT5bIE,AAIC--8/ゼロの使い魔F 第07話 「砂漠のエルフ」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 740209984
+SHA-1: 5cef87131ca84b98a12c39406e2f8eb5d436c009
+
+File : ゼロの使い魔F 第08話 「逃亡の地下水道」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@vzkPI~yI12H7cE-dWCdlF6eLVPkeiAI9Iurgf736AAg,cQLmWH1e4V86zq8Gjnr5ffxzy8d2ulAnZLuOL6zp-R4,AAIC--8/ゼロの使い魔F 第08話 「逃亡の地下水道」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 711440754
+SHA-1: 3f212ae674a99894d0023ea0a9d6e807c37b4b2a
