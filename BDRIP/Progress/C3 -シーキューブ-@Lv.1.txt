@@ -153,3 +153,19 @@ File : C3 -シーキューブ- 第13話 ｢林間学校こんふゅーじょん�
 Key  : CHK@33BJyOy-HheOezv1GVKIv257K~VJKBOPsKDsZCLbzHA,fC3~cpCZ9KhXABpkXLFMJezOcMlI3eLtlttoeKfFtPk,AAIC--8/C3 -シーキューブ- 第13話 ｢林間学校こんふゅーじょん！｣ (BD 1920x1080 x264 AAC).mp4
 Bytes: 1232753479
 SHA-1: 955a20f6e173f3e0e68f2c2c16076ef182d0b0d6
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.26 - 10:34:10GMT -----
+
+13話もmenuと同様で手持ちと投稿時のハッシュに相違が出てました。
+
+ファイル名をそのままで再insertしてしまいました。
+
+File : C3 -シーキューブ- 第５巻 MENU (BD 1920x1080 x264 AAC[2.0+2.0]).mp4
+Key  : CHK@~BdSwLF22xNnYxG00f~dlP94kDv8hvm5e8q8~hfmgeY,Vn3ZrRGSsriGrJSLu2q8eWQ8u0cy4mNWpW6aoBs4OqY,AAIC--8/C3 -シーキューブ- 第５巻 MENU (BD 1920x1080 x264 AAC[2.0+2.0]).mp4
+Bytes: 329201013
+SHA-1: 9a2be1f3f1b6a491ce7928728778375d6a4c139b
+
+File : C3 -シーキューブ- 第13話 ｢林間学校こんふゅーじょん！｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@hkp2C-W~aukNqpmjcefylQksdkcXs-SF-y0HOpLbvek,J1pvdzDKzNGdOso6mqkHgyKssu6rnZ4HDcaWt49Bz70,AAIC--8/C3 -シーキューブ- 第13話 ｢林間学校こんふゅーじょん！｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1232753479
+SHA-1: 318486cebffdc74a41bf6a8fb47bafd47308864b
