@@ -78,3 +78,29 @@ Bytes: 859351642
 SHA-1: 9184933873e04fe84fe4fcc1d33bc96063191147
 
 三巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.25 - 10:02:14GMT -----
+
+File : あの夏で待ってる vol.04 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@mWY14NFB-q201VgdCGg69B1YV3B4gVGP25iw5icoMPQ,BH~Vx9fijgxXspyJEhA3NeqcTW6BnitdwrpK58Rp9iE,AAIC--8/あの夏で待ってる vol.04 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 42888596
+SHA-1: 3fae14e6adb40164164437264ed80b751e5b91b3
+
+File : あの夏で待ってる 第07話 「第七話 先輩の気持ち。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@ngGUQGuGBW91MdMiB~yBj-w7-OSXDEVDhmeQYLxl3yk,sOWgLCI1MjXwvEBagmgJrXEyXIEZ0hc7c59c9Rhw1lw,AAIC--8/あの夏で待ってる 第07話 「第七話 先輩の気持ち。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 822609690
+SHA-1: 1306f374b508587bb202e0a7fd7f516c12e594fc
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.25 - 15:52:34GMT -----
+
+File : あの夏で待ってる 第08話 「第八話 先輩がPINCH,」 (BD 1920x1080 x264 10bit).part1.rar
+Key  : CHK@O-yV5Q6luNy0vtoc0KXGyOyO0JVoivpKa1eh5cx9388,JC7MO1fyT982Guo3CWptN9WyALRdvlMZx6xtWY6a6bw,AAIC--8/あの夏で待ってる 第08話 「第八話 先輩がPINCH,」 (BD 1920x1080 x264 10bit).part1.rar
+Bytes: 545259520
+SHA-1: 861888fd85b1c9fffd9696727fafa13d7d8d58a7
+
+File : あの夏で待ってる 第08話 「第八話 先輩がPINCH,」 (BD 1920x1080 x264 10bit).part2.rar
+Key  : CHK@u~nZ8UUBh0GtPFBgyYX8-uN9QnS36kgdUH-oIgZLzvA,-GienTIIPTSlTpNkUOy8oGudTs7cW~EZVD9ZM3izQNU,AAIC--8/あの夏で待ってる 第08話 「第八話 先輩がPINCH,」 (BD 1920x1080 x264 10bit).part2.rar
+Bytes: 503758200
+SHA-1: fea6e666665b26e5ab3a0f8f684f5d1a0db46cc4
+
+四巻終。
