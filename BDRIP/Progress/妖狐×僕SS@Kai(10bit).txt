@@ -87,3 +87,35 @@ File:  妖狐×僕SS 第05話 「春の蜻蛉」 (BD 1920x1080 x264 AACx2 コメ
 Key:   CHK@xgbcnvI8AHV10wx8NrPGZOV8HoVHtwsGv60ytbLUXYk,TzXQlv16lu1g89wLPeLvmvl7VwCYPQ0H7~vb5kYGLTQ,AAIC--8/妖狐×僕SS 第05話 「春の蜻蛉」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 1138944596
 Hash_SHA1:   9dffd81609cd1bbe9806c412b9b99fb39b8c3108
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.06.28 - 12:11:51GMT -----
+
+File:  妖狐×僕SS BD Vol.4 特典CD SPECIAL CD (EAC cue+wav+log).rar
+Key:   CHK@jQ-2-yr74fyXurcOm8Ph8qvmfUb5qnqU1LZFdk-Jex0,vp4aHa3EmdPWrtQvKVRqJYSR67mAxPvPoNKww0KGmt0,AAIC--8/妖狐×僕SS BD Vol.4 特典CD SPECIAL CD (EAC cue+wav+log).rar
+Bytes: 147285464
+Hash_SHA1:   59bf22ae80cb41fc024881d11fe273383bda54ef
+
+File:  妖狐×僕SS BD Vol.4 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@9v4v9DYxc5mTfnx4orn0yiRwjG1nbrEhFS1McQBbf8M,mNnquvNgKct-Nd4DjRpTCPvrYX9Ic8o48wzGWfDgFJo,AAIC--8/妖狐×僕SS BD Vol.4 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 8501788
+Hash_SHA1:   fbf0d05fcc2fd9e88e77a7e98f91c3514ab34590
+
+File:  妖狐×僕SS BD Vol.4 映像特典 第6話 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@tJz~-CFFaBo-EtaDLWCkz5oCXNu16q8fUptWGPB9xbY,B1Tkp9VAep7MJ7eqKMQpEyQUs7gwYkeAdtsykHu7v80,AAIC--8/妖狐×僕SS BD Vol.4 映像特典 第6話 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 54008162
+Hash_SHA1:   13387219859ad2c1815226a7386911bbb89bba14
+
+File:  妖狐×僕SS BD Vol.4 映像特典 第7話 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@TvrQ3zyrjpVOGEwPKDgUulHlM8cXMy76cRBT9~ue9rI,TXS0wYxvZkP3RUfvjp03eHPFYTV8wP4hKRNDIU4Oxoo,AAIC--8/妖狐×僕SS BD Vol.4 映像特典 第7話 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 22627873
+Hash_SHA1:   7a27b6af3f48454df45988f6261e6b3925751c4e
+
+File:  妖狐×僕SS 第06話 「考えるよりも」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@urEGrCX~mxQdITsR-b9Awks4neu2RH4SVVfLooiPybg,-BM7xyTE3ktYDij7eK57uZe5XSHJU8Zmb5F4KeqqJV0,AAIC--8/妖狐×僕SS 第06話 「考えるよりも」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 975582993
+Hash_SHA1:   034941eccfb028d3aab2e0e14a5dba81f7e4d1b7
+
+File:  妖狐×僕SS 第07話 「ふたりのよる」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@S3eJ~CQowhL7y-oGxtRDopPd-B3qq~BJ9PrM8-X6vJ0,E8r5-FDV3hZ-YygWhxYodHNu8zN92TlGtRATZO7XMoQ,AAIC--8/妖狐×僕SS 第07話 「ふたりのよる」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 1015303636
+Hash_SHA1:   992b11d860bdf7ab5b8c81ac30d40c9b43ba940b
