@@ -199,3 +199,25 @@ File : P4 Persona4 the ANIMATION 第03話 「#03 We are friends, aren't we？」
 Key  : CHK@wmdqk9KgT1oDIu37CzmhV0yFGI0v0~hJlEYIysvue1U,3qa-4Gn8jiy5jktZjYV9VJWL-liTovHh-a5S7TUNk4E,AAIC--8/P4 Persona4 the ANIMATION 第03話 「#03 We are friends, aren't we？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part4.rar
 Bytes: 396157047
 SHA-1: e7287ee304028f85df1df3706f3138036ff3777c
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.29 - 10:22:00GMT -----
+
+File : P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@rn5kc~mECxQIcst7fxNnsJhxTglrS453BLO63dz6Kyg,fxkNvf0SHEflsZL3sLbZyuT65O7xIXJ-0h4gX2jBSBA,AAIC--8/P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 623fc859a115e62753c87f80fe5b8af7606b8a37
+
+File : P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@mGEVaOB3~zNONv8hgTIgLJGE7ERDT6DK~UY-NJp68yg,2a-fUgSuowWtOvWhZ2aubUDWNwvx3JyakeTwJPX5Tt4,AAIC--8/P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: a38efed8fca68d988b2d54d1f4694144072e8cea
+
+File : P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@T6RzyBsGTihfSI7x5akScuH9lmztxoBk1jz-0iuYBtg,N3rMDJac5iNuRbL1JS33BXYGugtHFzlYQNw5fjrxunI,AAIC--8/P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 524288000
+SHA-1: ae361f0a37857ab2ab9523586d3c68def54d8aa1
+
+File : P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part4.rar
+Key  : CHK@8ZsepHUxNE31v2VCAwlPQ8X63AbiKzn0EsK8DdOTqnc,YQltGjPFIeFAnZXScsbjz31Id2isDlCp4QUcs4djHEg,AAIC--8/P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part4.rar
+Bytes: 435240363
+SHA-1: 8dff8032812460d4473bcdd0f403f8b88989bf63
