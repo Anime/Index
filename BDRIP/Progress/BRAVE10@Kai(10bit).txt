@@ -215,3 +215,35 @@ File:  BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャスト
 Key:   CHK@xyii2QZC62E9r7vuNPM0PnUArzVsE-z8EGuvaCRv8n8,Lci4Ak7oZdIfMXnSfdqNBg~IZYf6fjyXa5JBrP1cgHw,AAIC--8/BRAVE10 第06話 「大山鳴動」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
 Bytes: 572236792
 Hash_SHA1:   43accdf13f6575dfb55685e5d6c8978578a335ec
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.06.28 - 16:01:04GMT -----
+
+File:  BRAVE10 BD Vol.4 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@IhUkzm2iU66aMYpaxdGLCeCUYhahj9xTQSZTKVGe3Qk,mvtsVI7~QI8o2s5DW0Zu2sJQwnwDQWMBUFit-YlZE3Y,AAIC--8/BRAVE10 BD Vol.4 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 96775343
+Hash_SHA1:   8f0703d394e74e1fd23a85c2797da1de54eb3c0a
+
+File:  BRAVE10 BD Vol.4 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@4AUqHtP8TbRZ6mm8oqx8Jiw3-hsyt3xtiWjpDeJN~rU,4Aur~wuFkchRQ3IEyDHiQv3bTmrtP0MvPgJl7SeDX2I,AAIC--8/BRAVE10 BD Vol.4 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Bytes: 64358777
+Hash_SHA1:   29d39680e531f48e1f139a5dc2995be58210da9d
+
+File:  BRAVE10 BD Vol.4 映像特典 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@SNAxjOoZepZjbEJrEBNPn-qE-ID370wkLXMiCpifZdI,m38nGI6fjYgnafx0H1XbeFChhUNqmclAhTdTj5ou0j8,AAIC--8/BRAVE10 BD Vol.4 映像特典 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 46526407
+Hash_SHA1:   1de313e1d71cae7929f4d1d5288055b0614c1802
+
+File:  BRAVE10 BD Vol.4 映像特典 Blu-ray&DVD発売告知CM（発売中） (1920x1080 x264 AAC).mp4
+Key:   CHK@3docL1kX5IGuTjAVEOzzCLdk~4ZW4oGWj614Aci16F0,ou99-0~cqlGhC5~wiuxjhJru~cejIZGLICPfdUTbsYc,AAIC--8/BRAVE10 BD Vol.4 映像特典 Blu-ray&DVD発売告知CM（発売中） (1920x1080 x264 AAC).mp4
+Bytes: 9634252
+Hash_SHA1:   590a7308dfd16075e4e73ef5230785248863db13
+
+File:  BRAVE10 第07話 「剣と扇」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@xFmrbhmn6-j0WG056AEG~RPHkudpVsa4~E1YOGs49Bg,MWSFzpkQjnOUYzoKBlNZTVxziyBYQRNIA-nkMjDTlQg,AAIC--8/BRAVE10 第07話 「剣と扇」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 628274162
+Hash_SHA1:   a96bac589044288e9f6eb10333d25e388412e9c9
+
+File:  BRAVE10 第08話 「勇士誕生」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@r35Dr4PHo9UtqTCpmWWRGP9TbHc58Hvody15UWHr19k,9nNixm9xBTzfrJrwfaKWJUiJJOaUP6PcrvjrtpB3zeY,AAIC--8/BRAVE10 第08話 「勇士誕生」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 612272607
+Hash_SHA1:   0c793c5526fd12b8f7ea9139e6ea7372921be38e
