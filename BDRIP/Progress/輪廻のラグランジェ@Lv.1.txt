@@ -93,3 +93,35 @@ File : 輪廻のラグランジェ 第３巻 Information (BD 1920x1080 x264 AAC)
 Key  : CHK@MBLbEOrthsKf1f2PvRkS8qewPhexQHIv56mGrCcAmnI,CwjhOU-873UIywmR4I6x5xflwGGUyxEOcse42pRGQyw,AAIC--8/輪廻のラグランジェ 第３巻 Information (BD 1920x1080 x264 AAC).mp4
 Bytes: 82497318
 SHA-1: 1768d3559816083526530bbcb324df2b9d7ab6cb
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.29 - 10:15:42GMT -----
+
+File : 輪廻のラグランジェ 第07話 ｢曇り のち 鴨川｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@WYEY~AgELATRMXaX8mLaENHKDITq9rgDEDvlVKWd8xY,E-7YjfCkc~yXYCN5x-kzGunxyXySecCght735yqflVk,AAIC--8/輪廻のラグランジェ 第07話 ｢曇り のち 鴨川｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 1066259649
+SHA-1: 96f21cb18ed654187da6a60fff38bb08623f0919
+
+File : 輪廻のラグランジェ 第08話 ｢鴨川ロリータ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@D5~zM~drqoqdkMAsx9-5piX4P6qYHrUm~ibMwIFJmzc,gHPw9~lcJMZE-IkIx5sj5vkUsyBldeLQPFtoEkHlbZ4,AAIC--8/輪廻のラグランジェ 第08話 ｢鴨川ロリータ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 764140886
+SHA-1: 827f30daec2a1e3bd0a2270249b07a1d772b2431
+
+File : 輪廻のラグランジェ 第４巻 映像特典 ｢Behind of Lagrange 『石原夏織 鴨川に行く＜前編＞』｣ (BD 1920x1080i x264 AAC).mp4
+Key  : CHK@6URXgMPCYv6c51-BYfm~ZtKU92RYRsNbemDsXLdOx~A,HSoZwA1gIX3c~FJx6EtS8y2yQ~eu1BnCUiI6~qaZEx8,AAIC--8/輪廻のラグランジェ 第４巻 映像特典 ｢Behind of Lagrange 『石原夏織 鴨川に行く＜前編＞』｣ (BD 1920x1080i x264 AAC).mp4
+Bytes: 969976718
+SHA-1: 5cf4649c1593aabf713eb66e006be682ddb54596
+
+File : 輪廻のラグランジェ 第４巻 Information (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@Rz3tSvJeHfjYizqG0mLb~KIEpU~7DFlWv70L~dtehxw,DmN-BwW0cR-58IN~E9LkF3D3AB-0CkPK2rCA9GKpqOI,AAIC--8/輪廻のラグランジェ 第４巻 Information (BD 1920x1080 x264 AAC).mp4
+Bytes: 122691815
+SHA-1: 9f91ce43f9c8d85891cbbc17b80954fc2f90279b
+
+File : 輪廻のラグランジェ 第４巻 MENU (BD 1920x1080 x264).mp4
+Key  : CHK@bMdOf79mXHAHiG30arcszTVoK7kDhZHNyZSKPEbzoXI,DCgggqcn9tV25qhqa9ZIY8K3rzwcRBlSLo6j3GEMYFk,AAIC--8/輪廻のラグランジェ 第４巻 MENU (BD 1920x1080 x264).mp4
+Bytes: 9424293
+SHA-1: c2e0b665f7e95e0ee9b4e12a7cb5f9979bf816f6
+
+File : 輪廻のラグランジェ 第４巻 映像特典 ｢ピクチャードラマ 『かもがわゴースト』｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@KYnbnp7P5AGpmHjv4vrQqZkOWeN3MYqfRt4-5AKlXXs,IdcBUJ6M-lJqzeR1CmPkUAJHozd~ryYgt2gSHnb~F0M,AAIC--8/輪廻のラグランジェ 第４巻 映像特典 ｢ピクチャードラマ 『かもがわゴースト』｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 61366789
+SHA-1: 5ccc63e0005a0817722ebc48a90d716b73d6d3ce
