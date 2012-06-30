@@ -221,3 +221,20 @@ File : P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x
 Key  : CHK@8ZsepHUxNE31v2VCAwlPQ8X63AbiKzn0EsK8DdOTqnc,YQltGjPFIeFAnZXScsbjz31Id2isDlCp4QUcs4djHEg,AAIC--8/P4 Persona4 the ANIMATION 第04話 「#04 Somewhere not here」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part4.rar
 Bytes: 435240363
 SHA-1: 8dff8032812460d4473bcdd0f403f8b88989bf63
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.29 - 23:27:37GMT -----
+
+File : P4 Persona4 the ANIMATION 第05話 「#05 Would you love me？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@INYUtnj4JVegdaoKas8kgly6brZKt4-Q2dNUS-TyyfE,MkpwvS-KA0njSzWOTlAHoEW74rgTttOgacQWZdqZHn8,AAIC--8/P4 Persona4 the ANIMATION 第05話 「#05 Would you love me？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 461373440
+SHA-1: 9271ccbd924f60b46e361c51b0598ae3650860eb
+
+File : P4 Persona4 the ANIMATION 第05話 「#05 Would you love me？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@LU8AzBkXUfQ-WNtSiYa0f38AJPWGxKlmIjcB5opXkU8,TM1ELM1Pap4xW0Fnytx6T53jUFMr9EVmFngXszmeMa8,AAIC--8/P4 Persona4 the ANIMATION 第05話 「#05 Would you love me？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 461373440
+SHA-1: c76f57a965f76572a95f2f5de4afe681a03869e5
+
+File : P4 Persona4 the ANIMATION 第05話 「#05 Would you love me？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@pO4B8FPSWA3OzdFEgVvVzdxPKmi3A~AI8Qou9zjG8Ss,o5WPYoUpqvrsD2AKr7dwKhiX3NKEKYUW-JqkOjHLAuw,AAIC--8/P4 Persona4 the ANIMATION 第05話 「#05 Would you love me？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 402781888
+SHA-1: eca3d4db669f461f01d5e57979f35e010379f3f5
