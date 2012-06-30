@@ -136,3 +136,39 @@ Hash_SHA1:   d25dbd7e5dfe985cc828ea312727358de95605ad
 もしBDそのままの60iがいい、そっちも欲しい、という方がいたら言ってください
 そしたら60iの方もやりますんで
 といってもおそらく60i収録だと思われるプロモーションビデオがあるのは次のVol.4までのようですが
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.06.28 - 21:38:52GMT -----
+
+File:  ハイスクールD×D BD Vol.4 スペシャルドラマCD (EAC cue+wav+log).rar
+Key:   CHK@S0rN~Y5kf5gPg0aX-aquaXPxOXQOjAMddT2GukMmm~g,-aWakOKPp2B6DXVMWhf2d9ifFJxKJb6J2J2cQwACquw,AAIC--8/ハイスクールD×D BD Vol.4 スペシャルドラマCD (EAC cue+wav+log).rar
+Bytes: 105566780
+Hash_SHA1:   45aeaf62db980de60b802f6ef26ac976266146b6
+
+File:  ハイスクールD×D BD Vol.4 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@jR9LVmRiDvhwMizj35k2OIHD2HWdotIDtUHruJ16PKg,2FGd5tqIzdvjjiWUhQT1plwG29Y6FlA01GB7Xuhx-S0,AAIC--8/ハイスクールD×D BD Vol.4 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 19928462
+Hash_SHA1:   795369dba2b9056b27d72ba918ace550ff284cc6
+
+File:  ハイスクールD×D BD Vol.4 映像特典 妄想爆揺解除オリジナルビデオVol.4～ドレスブレイク、誕生秘話？～ (1920x1080 x264 AAC).mp4
+Key:   CHK@RAUxt8DHUL4RjMLchFOQv0JsJARHUKd~fX6QurXjra0,TDYIZ6ODgv2Gf9L5hcSM2F03~36EPiGDQb8ydXP4lJU,AAIC--8/ハイスクールD×D BD Vol.4 映像特典 妄想爆揺解除オリジナルビデオVol.4～ドレスブレイク、誕生秘話？～ (1920x1080 x264 AAC).mp4
+Bytes: 82903336
+Hash_SHA1:   bba66c5fe2f554acce44b9698de24e8b2ee5358e
+
+File:  ハイスクールD×D BD Vol.4 映像特典 妄想全開紳士の円盤倶楽部PV～ロリロリ編～ (1920x1080 x264 AAC).mp4
+Key:   CHK@Skd5VA-bH3ttgIdF~h3pX31s2OxNdMjGgo1uGes5yr4,X8mHgNdBfTXwRCX2HenZCMuqaz29F7ZKhUEE4mVIHsE,AAIC--8/ハイスクールD×D BD Vol.4 映像特典 妄想全開紳士の円盤倶楽部PV～ロリロリ編～ (1920x1080 x264 AAC).mp4
+Bytes: 95516939
+Hash_SHA1:   55a6b0a143bb4074ae1a58eb26bfc603ff7fb359
+
+まず特典類を
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.06.29 - 12:09:32GMT -----
+
+File:  ハイスクールD×D 第07話 「使い魔、ゲットします！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@BuvtdbskaLCtDHX3DhwKYyB-bQLH4yVfaibUubBghe8,QpA7U1qB0bNL1dDrL-Wuw9nU87FKczWcaBIzJO68XrM,AAIC--8/ハイスクールD×D 第07話 「使い魔、ゲットします！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 735482970
+Hash_SHA1:   ba99144796ef4b6bfa993623e35581833f76a45c
+
+File:  ハイスクールD×D 第08話 「喧嘩、売ります！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@EnjcV-kIjO0zG6bCLdNQtwQbKshgOh~-rM8qDkGZsTw,Bs~tAQ1Fa4GRwpgR-A43AWG~yVEHkMhZchWfjIdZ8C8,AAIC--8/ハイスクールD×D 第08話 「喧嘩、売ります！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 695107873
+Hash_SHA1:   6cb11b0d2b5043a07837e772d89624a155702a39
