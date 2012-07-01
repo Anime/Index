@@ -284,3 +284,36 @@ File : たまゆら～hitotose～ クレジットエンディング 「A HAPPY N
 Key  : CHK@WSYEduuC4KX29X6tAuI9vhOruUXrKcPkSILUdm3JSu8,ClQflwGLN2tktkyRL42xWv9UApeXBrdoQOMIg-qvEDE,AAIC--8/たまゆら～hitotose～ クレジットエンディング 「A HAPPY NEW YEAR」 (BD 12話 1920x1080 x264 10bit).mp4
 Bytes: 77772880
 SHA-1:
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.30 - 10:24:39GMT -----
+
+File : たまゆら～hitotose～ vol.07 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@9KLc-6eQ2WplYJIDlA0-9bHxAnnm2HhqmDUSzcck8t0,Gp0vzdrSp2LV~Ew7jPStF6RoNp9oLZ5D-A3EkT0EE1A,AAIC--8/たまゆら～hitotose～ vol.07 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 6584362
+SHA-1: a14e4eeb02cc5bf0a153f3da24393cbaa4b72266
+
+File : たまゆら～hitotose～ vol.07 映像特典 「わんおふ PV」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@XtpvGSrUuez3dEdlIsqIZ~Vnhm6uP~rjQhaev2nZS8I,TwNsIsBhNKKoMRwcISZvtC5lVCZiuLRr4JS1O5wRT8o,AAIC--8/たまゆら～hitotose～ vol.07 映像特典 「わんおふ PV」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 57425021
+SHA-1: 55e7f0f88d9176da0496a4674cec90ac952ec471
+
+File : たまゆら～hitotose～ 第5.5話 「あったかい風の思い出、なので」 (BD 1920x1080 x264 キャラクターコメンタリー切替可 10bit).mp4
+Key  : CHK@jAl7RE7larpdKOL6TRcSCLuPu0wBj3ICFmCRtCTl6jk,ffBcDa1YpcPmJnAKkojq5e5wvyYvxvyDEhGdlKjkRag,AAIC--8/たまゆら～hitotose～ 第5.5話 「あったかい風の思い出、なので」 (BD 1920x1080 x264 キャラクターコメンタリー切替可 10bit).mp4
+Bytes: 811380948
+SHA-1: f7e6d1c615376a3e61ff6cb44b7d210a5555e361
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.30 - 17:01:34GMT -----
+
+File : たまゆら～hitotose～ vol.07 映像特典 「たまチャレ！！ 「松来未祐のまんまるクッキングじゃけぇ」」 (BD 1920x1080i x264 10bit).mp4
+Key  : CHK@So7lZuihRBme2IewOZFxkaTGkWGJMLVuFLbxaGjU~R8,7Y8XCVeILg8uvXk2AWFwVQf1DnRHSxehuqCGN~WKOE0,AAIC--8/たまゆら～hitotose～ vol.07 映像特典 「たまチャレ！！ 「松来未祐のまんまるクッキングじゃけぇ」」 (BD 1920x1080i x264 10bit).mp4
+Bytes: 889852425
+SHA-1: 506f19a3c9dfdd2a7285e9ebe03cbb5108a03f84
+
+終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.06.30 - 17:38:20GMT -----
+
+File : たまゆら～hitotose～ filelist (BD 1920x1080 x264 10bit).txt
+Key  : CHK@dgvXba8mHwyDVhNPZUw2oDQ3wNsXrg6yAgoy3eQVyOA,WOdOCD4H15pFdr-dveh7fsMUjmw1VCzrtjEmbV5F7LE,AAIC--8/たまゆら～hitotose～ filelist (BD 1920x1080 x264 10bit).txt
+Bytes: 7935
+SHA-1:
