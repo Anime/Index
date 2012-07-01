@@ -14,3 +14,30 @@ File : これはゾンビですか？ OF THE DEAD 第00話 映像特典 ｢TVCM�
 Key  : CHK@ra3ONMF-bVS5T5yDMVi2wKiQV3imEJpEd-~2WYMjODo,qKLExcULy8~p1GTgq9XBb3~rTHsilG45Ba0IbtYQT4Q,AAIC--8/これはゾンビですか？ OF THE DEAD 第00話 映像特典 ｢TVCM｣ (DVD 1280x720 x264 AAC).mp4
 Bytes: 12607334
 SHA-1: a03f938b110abf69df1bdecf7a8bed337fec1a96
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.06.30 - 08:32:13GMT -----
+
+File : これはゾンビですか？ OF THE DEAD 第01話 ｢はい、今再びの魔装変身！｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@0mFxANJbQAUDqldgIX6T5a2gXdstPjgZnAPoZxTd9vo,LLmz69QrovVMj~6S1MkrlUYLdeeSOthsP-ijgPc5dSg,AAIC--8/これはゾンビですか？ OF THE DEAD 第01話 ｢はい、今再びの魔装変身！｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 830880692
+SHA-1: b83708672fba917b4147f6686b0be13f505a31e5
+
+File : これはゾンビですか？ OF THE DEAD 第02話 ｢嗚呼、さようなら俺｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@o64nfFsbB8p1sHpTXn3Fucx9ylL5q5Me8FM79y9JE3c,ZFbzVi-2HsaQLXa7UL2mlbUBrYxVqy-DLD2fTs9gels,AAIC--8/これはゾンビですか？ OF THE DEAD 第02話 ｢嗚呼、さようなら俺｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 767039122
+SHA-1: d8b76be1c975b065d99bb9c7afd0a86381301576
+
+File : これはゾンビですか？ OF THE DEAD 第１巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@vPAO15emNJr8dNzfc0qn-1mlu4q520JHtDgXmliQb00,N0whELIYdxu04N1a9avadaQ13FG9Lm-W7mJuG5ssE6E,AAIC--8/これはゾンビですか？ OF THE DEAD 第１巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 10205868
+SHA-1: 270ddbce291d83b88da5decd75b7966b81c8b09f
+
+File : これはゾンビですか？ OF THE DEAD 第１巻 映像特典 ｢ノンクレジットED｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@LqMJ2ksxMaU2a7GfsJ5pGDp2IDppoodFux9-l5FTX2o,gfB-noowwlrcsKBJRm0jUIyv6cJsW65XIuw3IamXjjE,AAIC--8/これはゾンビですか？ OF THE DEAD 第１巻 映像特典 ｢ノンクレジットED｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 48902764
+SHA-1: b6b6bf7c864d7f9fa22467dd130103e3e9b5f869
+
+File : これはゾンビですか？ OF THE DEAD 第１巻 映像特典 ｢ノンクレジットOP｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@PmRCNhNyeMzPsyJCg1zjjpYvybVQ9woeKTSR4ASglJM,e5g9d1vGdMeJKtMbyIU4ZxgXEUkd3u-i74kA2M1mpPo,AAIC--8/これはゾンビですか？ OF THE DEAD 第１巻 映像特典 ｢ノンクレジットOP｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 111834329
+SHA-1: 7a7353aeaefb7ad2f7c33cc5670594b0ec4a158d
