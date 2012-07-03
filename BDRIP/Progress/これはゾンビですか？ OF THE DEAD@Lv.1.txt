@@ -41,3 +41,30 @@ File : これはゾンビですか？ OF THE DEAD 第１巻 映像特典 ｢ノ�
 Key  : CHK@PmRCNhNyeMzPsyJCg1zjjpYvybVQ9woeKTSR4ASglJM,e5g9d1vGdMeJKtMbyIU4ZxgXEUkd3u-i74kA2M1mpPo,AAIC--8/これはゾンビですか？ OF THE DEAD 第１巻 映像特典 ｢ノンクレジットOP｣ (BD 1920x1080 x264 AAC).mp4
 Bytes: 111834329
 SHA-1: 7a7353aeaefb7ad2f7c33cc5670594b0ec4a158d
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.02 - 08:40:46GMT -----
+
+File : これはゾンビですか？ OF THE DEAD 第03話 ｢Yo！ それはYou！ 情！｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@bZAtsMhFpn7CfM2SKY7C~2wYOAeoroKFWHML8hZNgLA,OeEukbH0V8qLoLFEq9PQmOYNKWGNZyQjahCPnlRGxUI,AAIC--8/これはゾンビですか？ OF THE DEAD 第03話 ｢Yo！ それはYou！ 情！｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 805881574
+SHA-1: 4fe00650f93a44809d08734fd252d2654b6c44b8
+
+File : これはゾンビですか？ OF THE DEAD 第04話 ｢いや、帰れご主人様｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@gl3xZR86S1TMBgg3viF58eeJRmUUSPEMnPrCwPPKXq4,YUFKPAoFt47UvPh2LUQVR2w-480E7WkmFYB0KjPMmkg,AAIC--8/これはゾンビですか？ OF THE DEAD 第04話 ｢いや、帰れご主人様｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 717003361
+SHA-1: 664da3d6bba7b91c1a48cc2b6bda3a8a63435357
+
+File : これはゾンビですか？ OF THE DEAD 第２巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@IEqsllgJrOPVu7disYj9VjVxwMxWbIGtC2t4PczFZ1g,rb1ehsRUstt95v0flkM05nNm6-H9sF5UjWtmIEcm3Nc,AAIC--8/これはゾンビですか？ OF THE DEAD 第２巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 11071791
+SHA-1: 6fc3b666f382178c3eb629d9c0606c9e5ea5dc3f
+
+File : これはゾンビですか？ OF THE DEAD 第２巻 映像特典 ｢番組プロモーション映像①｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@Idp8EtCuqjOP5W52KburWSX8zV3fezeZ~dHha3-0KHY,eZpvk7A8bRE7WpBWZliO3ymClztDK3MBPSemUT7WPHc,AAIC--8/これはゾンビですか？ OF THE DEAD 第２巻 映像特典 ｢番組プロモーション映像①｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 79242392
+SHA-1: dca24bfeb69ee30bd9b05e2355f6fdd86aa89ffe
+
+File : これはゾンビですか？ OF THE DEAD 第２巻 映像特典 ｢番組プロモーション映像②｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@iLThP1vOzhkM2pLBU7kWBh01bAEu9BxtyDFpsUZPksw,sK5FYiNTLnSt-ywjkFGq9BVMow~Q~g6P7NZzl2d5Wo0,AAIC--8/これはゾンビですか？ OF THE DEAD 第２巻 映像特典 ｢番組プロモーション映像②｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 56516797
+SHA-1: 6e01764b41b89d35b11d7c45c86cde7621e9a2bf
