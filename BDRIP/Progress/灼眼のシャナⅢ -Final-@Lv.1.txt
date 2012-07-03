@@ -323,3 +323,25 @@ File : 灼眼のシャナⅢ -Final- 第６巻 特典DISC ｢声優座談会２�
 Key  : CHK@-b1sqo2qLIhnO~eJbixuWXcMLcQ~E3-60efxK7xychA,hRuifnYRo9m2iw3Sg0b4vqCXB0GcyuCQ4FdqCrsWVUE,AAIC--8/灼眼のシャナⅢ -Final- 第６巻 特典DISC ｢声優座談会２｣ (BD 1920x1080 x264 AAC).part5.rar
 Bytes: 474043141
 SHA-1: d506db25b0af627b531f8b6e806e351e4e5a4299
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.01 - 15:11:53GMT -----
+
+File : 灼眼のシャナⅢ -Final- 第19話 ｢彩飄が呼ぶもの｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@LXblKSi8YVSR1L6FK7GcLGX7hVVH5C7Eex6LjwnHzJM,cfKGGW2~J730PSKDOVrGW6HLBL0MrcXQ5hJp2v-zYzU,AAIC--8/灼眼のシャナⅢ -Final- 第19話 ｢彩飄が呼ぶもの｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1253682172
+SHA-1: 6c3615d212e1dfde170b1505577f59b684e8b3d3
+
+File : 灼眼のシャナⅢ -Final- 第20話 ｢世界の卵｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@XXgYdiM6a5wXdREsCCjdQ10fo-IjGoVfP-FuVqwj5i8,aMgziLZ5t5ZqdB1ZAZPVL~Nv4bj9fxKQPrRiLOzYeMU,AAIC--8/灼眼のシャナⅢ -Final- 第20話 ｢世界の卵｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 1190410998
+SHA-1: f061fb830856c309788dc85e9bf8e2a7731c2e35
+
+File : 灼眼のシャナⅢ -Final- 第21話 ｢一つの理｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@HizvL4IKjfbl72EoPbO399Si~nIXHxCQSmb~xogWZXY,8et~Q7jkp3N0XC0RvxVeyFGNyZgg9zMRrwmiQ53wNzY,AAIC--8/灼眼のシャナⅢ -Final- 第21話 ｢一つの理｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1065626178
+SHA-1: d0b6aedede9eb65aec5bd73648e6fc90ac325201
+
+File : 灼眼のシャナⅢ -Final- 第７巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@9-WgXejX78kBz8Utqt9jm-VrF6fx5kBjB14T-ZlLmmI,IMTt488AsPM~ISn06TAWphd4pA-wcFOV274zavoApH4,AAIC--8/灼眼のシャナⅢ -Final- 第７巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 31478304
+SHA-1: b05b090d257adc45a1b34e7483ce59d4a8b69480
