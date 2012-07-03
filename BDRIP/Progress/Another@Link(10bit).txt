@@ -107,3 +107,10 @@ Bytes: 634079291
 SHA-1: E1A61DD02DC033ED086C9FCA0A621C3CF0502810
 
 三巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.03 - 10:36:01GMT -----
+
+File : Another 第07話 「#07 Sphere joint -変調-」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@CCki~29RbvnOJnu2wXrsAPzS6CwI6kfblVljy1t3YH8,KIIllnnBlnp-1tOssoEukNw0F03DuBxdK0GjXCh2~kA,AAIC--8/Another 第07話 「#07 Sphere joint -変調-」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 664023669
+SHA-1: d2c7c249b50d7e15b783f3d771c8bcae9f6f0df9
