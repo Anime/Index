@@ -80,3 +80,15 @@ File : ゼロの使い魔F 第08話 「逃亡の地下水道」 (BD 1920x1080 x2
 Key  : CHK@vzkPI~yI12H7cE-dWCdlF6eLVPkeiAI9Iurgf736AAg,cQLmWH1e4V86zq8Gjnr5ffxzy8d2ulAnZLuOL6zp-R4,AAIC--8/ゼロの使い魔F 第08話 「逃亡の地下水道」 (BD 1920x1080 x264 AAC).mp4
 Bytes: 711440754
 SHA-1: 3f212ae674a99894d0023ea0a9d6e807c37b4b2a
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.04 - 11:28:06GMT -----
+
+File : ゼロの使い魔F 第09話 「タバサの戴冠」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@Kg~QpRr9KSKBzUBYCU291FIAtekQiumAPAJQjIEN66c,-VvXaAsUmWeQSY48Z9npVeLXxwhCig36Ro9l9kYZSVY,AAIC--8/ゼロの使い魔F 第09話 「タバサの戴冠」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 666049059
+SHA-1: ab603fd3fc28cbffdd5e4e41fd7ad222d319d0ce
+
+File : ゼロの使い魔F 第10話 「災厄の目覚め」 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@rEbd0QxN6Uktmp5pD8LTNb52lXmWdnKK1lmELGT~4bk,N0dHVYxA96ZLaRqQ7K16MpQOZZAEITZF7eXnP6UfETs,AAIC--8/ゼロの使い魔F 第10話 「災厄の目覚め」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 807353328
+SHA-1: 9b35782be966c973bdf96b339f604b95520265d7
