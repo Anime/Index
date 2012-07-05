@@ -1,0 +1,26 @@
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.03 - 11:58:22GMT -----
+
+File:  さんかれあ BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@CCeyUn1UptcKtRyOLVXz3sRER1qOHvxhsfTcAgKwBG4,LuBapiMuWP12C0Nv7Jln2YgZdwrcj~kTednTwxmK-lY,AAIC--8/さんかれあ BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 26262431
+Hash_SHA1:   dbf854c80cfed295411e3f34a322275531909cd3
+
+File:  さんかれあ BD Vol.1 映像特典 ノンテロップOP (1920x1080 x264 AAC).mp4
+Key:   CHK@qlr4fL1Ny5Vl1jFK9kKzY1LGotjD03-cW9~5t2617cw,Y~PsQII2nsYu0C-J74JJX4wZknUD9jv1yayPFoK-NXU,AAIC--8/さんかれあ BD Vol.1 映像特典 ノンテロップOP (1920x1080 x264 AAC).mp4
+Bytes: 45102069
+Hash_SHA1:   b14b8be7ceee27c3467196cfe575ae38a1c4855c
+
+File:  さんかれあ BD Vol.1 映像特典 ノンテロップED (1920x1080 x264 AAC).mp4
+Key:   CHK@ilOPGvC~IjMwe4APZKCPvGu9sj0Ijb~o2rJ0Xy7ipGk,TKSsBUT9qXi5bY47zTqQ0p7AaKSl23zSMESAoax1058,AAIC--8/さんかれあ BD Vol.1 映像特典 ノンテロップED (1920x1080 x264 AAC).mp4
+Bytes: 25411898
+Hash_SHA1:   04dcdfd98707b60420f405fcd78740e3f72784ee
+
+File:  さんかれあ 第01話 「私が…ゾンビに…なったら」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@3zsf-durKvQGPbWl2lY9WGc4coM-7mAgHxTfJHv5xGw,~TC0zMlj831lJFbPtPRU~It6sC9nSSAVD7wK1vx4sQ0,AAIC--8/さんかれあ 第01話 「私が…ゾンビに…なったら」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 604384102
+Hash_SHA1:   1e80ff9fde092a592087c0d1ddc31d799ecf67cc
+
+File:  さんかれあ 第02話 「成功…してた」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@AJh-Y4uitU4daNwJCPKM-kHpNqb0-CgRbiNip9rt2JI,IUphpLN4slL7ZI9fHIJukHVwqxu2xq27WFw5f5ZsY6E,AAIC--8/さんかれあ 第02話 「成功…してた」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 520620595
+Hash_SHA1:   a5e481a0ef7745dcd56d35d06c2ab1c00aa239ee
