@@ -1,0 +1,31 @@
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.05 - 11:52:57GMT -----
+
+File:  謎の彼女X BD Vol.1 特典CD 「恋のオーケストラ」吉谷彩子 (EAC cue+wav+log).rar
+Key:   CHK@jnDr5gYAok-7c0n3GLKN9YUk92FDKigFa3rmvlqKhds,4Ge7iJP6iFscPACMsjZNMWb20IWdK7Mtz6kfosUJbek,AAIC--8/謎の彼女X BD Vol.1 特典CD 「恋のオーケストラ」吉谷彩子 (EAC cue+wav+log).rar
+Bytes: 79619362
+Hash_SHA1:   f8d944f91bc06cbb744667494962018ff7857ad1
+
+File:  謎の彼女X BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@SNQ-Lsg22VwL~O4yT2NMam60EKYj8n4kgHABM5cpBr0,rkU7q4K0Bzhao1pbcINFXwHMO0xT4paFtbtzor99r6g,AAIC--8/謎の彼女X BD Vol.1 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 111446669
+Hash_SHA1:   1aff5ca5e5cd7752a585ca58c8f0b6b5d39b0c37
+
+File:  謎の彼女X BD Vol.1 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@c~8ZqMtJvU2i44mL0zRrQVa5h6bRtKhQ9EBLE4BNvdQ,4RLg6KajxRyRlFyhwoGHs6jqbjqHoeUvoLWilJTG9-g,AAIC--8/謎の彼女X BD Vol.1 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Bytes: 70667805
+Hash_SHA1:   05fb8f558da27bb91bd356efee76fbda326eacd6
+
+File:  謎の彼女X BD Vol.1 映像特典 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@IAmfF8eRqyosM0tQL6x6qlOcIrI1UqMtpQjUerS-iCU,oCT6b3jSjlsSwW45R8MwOJX9iVt37sGoDtd~9mBDN4Y,AAIC--8/謎の彼女X BD Vol.1 映像特典 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 48199938
+Hash_SHA1:   89d403dc23d93d43de3ab2f226fba7101cac633a
+
+File:  謎の彼女X 第01話 「謎の彼女」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@sVZifkrZ9fNh7HTXwDODtfhoUWJQbSkAkl0HxpIUFYM,RPvO2iU1ti0fefpvdHqDNddWBxh7Lr81CWYK0Bs7Fos,AAIC--8/謎の彼女X 第01話 「謎の彼女」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 719372575
+Hash_SHA1:   e725642e0247d98e1429a070600fca14a6de23db
+
+File:  謎の彼女X 第02話 「謎の絆」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@CpMMYuddIcxr5~JmP~sbSk52H6GPqCDrs-pOKV5ya3M,9JdbQhoOVcfcIwDBkwjpuwXhp~T7Z0YYwkvpMhnXt1A,AAIC--8/謎の彼女X 第02話 「謎の絆」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 575872764
+Hash_SHA1:   f56f234b156ccd6f38fd88c54fb1d526b888fdbf
