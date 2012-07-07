@@ -23,3 +23,24 @@ SHA-1: 8e566dae354b94e99572afffd60f89ea85ff1fa3
 P4やってた方がいなくなって結構経ちますし、被りを意識しなくていいかなと判断。
 妄想代理人はソース見てみたら周期不定だったのでインタレ保持ならば検討します。
 電脳コイルは一部ディスクに不具合があるとかなんとか、でもどうなっているのかよくわかりません。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.07 - 07:56:49GMT -----
+
+File : あっちこっち vol.02 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@x18qm4LbKbRcKIvMvE~ZVw5RCiYmXEop5K-MlkjK1vo,S7TyQfbTOvlPEG4Sx4k4j7O1niVskpWUy8B2RiBuVRE,AAIC--8/あっちこっち vol.02 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 23874546
+SHA-1: 58d521c221f594f8cdf0901bea86fc640336776a
+
+File : あっちこっち 第03話 「EPISODE 3」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@sF0U8~u1DArlAqgFllOJT1hauepY4ZHcnSj9trvHqXA,eUdBfyVLfBXSfCW2OfrGfrYpPWXQXm-XdnVr-CplZE0,AAIC--8/あっちこっち 第03話 「EPISODE 3」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 764758348
+SHA-1: efbb84583ce20c22a2219f94cefc7e6843484d19
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.07 - 13:07:33GMT -----
+
+File : あっちこっち 第04話 「EPISODE 4」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@AisFa5uAzaly8Q0PfjXuXb1NimInrEGwq2KqgYx7v58,VKU9LMP6jlIBVZkzlGFRl5kOjviViv7zyCq5jvtZKv8,AAIC--8/あっちこっち 第04話 「EPISODE 4」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 743021145
+SHA-1: dd8febd02eac5bff370ff251ea979af6ff1344ca
+
+二巻終。
