@@ -103,3 +103,39 @@ Bytes: 694622303
 SHA-1: 833dc9460b7f32cb45e64f38e51b75be43883d53
 
 三巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.08 - 17:31:24GMT -----
+
+File : アマガミSS+ plus vol.04 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@M6xsj05qt7JPSYl9YcsvcXEoEFd1MN2NE75badG74QY,z22SNG5IE8u4ETorfbUKMynJdd9JonMbtN3I5LzVw3Y,AAIC--8/アマガミSS+ plus vol.04 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 34157722
+SHA-1: d37d84d0e997ab8af5452ff038328811f65eda61
+
+File : アマガミSS+ plus vol.04 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@yn0lH5L0G9OvNMLRXDzng22PT8tFEHXbYNkjYxTwSb0,w5s90IdQDtJHGLRs65rC2eZaaarecai10E1UpnSMO5c,AAIC--8/アマガミSS+ plus vol.04 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 28533782
+SHA-1: dcc53e71bbd690930015015a285fe24f5bb599ea
+
+File : アマガミSS+ plus vol.04 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@XffJVpjAgRDgd1fAIqWwwxF8f7jcRBzIx2GSla0Mxmo,VFPQS8l9ELZD~YBD8~DRw9LIA9RFSiwe~z8QPys~c9o,AAIC--8/アマガミSS+ plus vol.04 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 72725825
+SHA-1: a466d9ad0df3406f4b198b2017014b57165c58ed
+
+File : アマガミSS+ plus vol.04 映像特典 「特製イラストカード 「フクダーダ」「小梅けいと」」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@~576dOubHeMjg6wvjSfdxpWh2028xLry8emI1s3DVq4,KEA47kIaIJWs625Ei4Gtb44CgJhswTMGVcuwRQJSJCU,AAIC--8/アマガミSS+ plus vol.04 映像特典 「特製イラストカード 「フクダーダ」「小梅けいと」」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 4747348
+SHA-1: c731c2d908a1f944eb7f86e4fb0ece541ce66b60
+
+File : アマガミSS+ plus 第07話 「棚町 薫 前編 スケッチ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@vx8Nbnx9iN0~tUTxfTN3SRCdO-IA8xYJonThQ9bPleI,xdNF3EqGi~p4YEy2RQuybggbgakmSVnVxZQvNDgq7pw,AAIC--8/アマガミSS+ plus 第07話 「棚町 薫 前編 スケッチ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 683342673
+SHA-1: 0c6a3221fa61f50cdf76a1399764a5294e70a1e0
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.09 - 10:20:35GMT -----
+
+File : アマガミSS+ plus 第08話 「棚町 薫 後編 ミチヅレ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@P6grqkg2pUpTbU0RapQ8zxMUSANYy9XOEmbwc4RbYeY,lT0VgJ7wjUNhttb~h8yv8TSgy1Ve6HmS5Koo4HWPamE,AAIC--8/アマガミSS+ plus 第08話 「棚町 薫 後編 ミチヅレ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 763508385
+SHA-1: 98f51770ee3b39eb97a95174c75e4bb2e3074fe9
+
+四巻終。
