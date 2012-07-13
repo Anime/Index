@@ -1,0 +1,61 @@
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.11 - 13:25:57GMT -----
+
+8bit depthです
+
+File : 魔法少女まどかマギカ 第１巻 映像特典 ｢ノンクレジットオープニング｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@6NwSaitY3pKQQDD7BasOTrp4ttetfPTZp56VZJ8t4-4,MLvuDQYIlMZkZyZgTkuTs84Uebaytd-wldXloONM4JE,AAIC--8/魔法少女まどかマギカ 第１巻 映像特典 ｢ノンクレジットオープニング｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 76590213
+SHA-1: 85ba56321742377cbc5e3968aea782ea5a389706
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.12 - 10:39:44GMT -----
+
+File : 魔法少女まどかマギカ 第01話 ｢夢の中で逢った、ような……｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@A6LQTo4a3UFIynASL0X6ia0E1kYcIrxxePvuhIYoQHY,m4~YuXsru0hljtOns0LDvXq~lDAtcVAkSgQh3Whto~Q,AAIC--8/魔法少女まどかマギカ 第01話 ｢夢の中で逢った、ような……｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 993793211
+SHA-1: 7f5b0b8eceb5879810c44dc2a855d8788270d4c9
+
+File : 魔法少女まどかマギカ 第02話 ｢それはとっても嬉しいなって｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@apdTJeeQdmRubmcNw2Motso0Kfw-RHKWAaU7JZO1l8A,uMu6CiWWHLq3-xkpXynAEF~q-Vv3Sp~31zIifblNZRo,AAIC--8/魔法少女まどかマギカ 第02話 ｢それはとっても嬉しいなって｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 923427017
+SHA-1: bbc5709dd28cb044764c3da703140bd7a2559f61
+
+File : 魔法少女まどかマギカ 第１巻 MENU_1 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@p-EmlfyRJxk5uulonU83pp1KfPv9C1fPtJypp2ipxG4,S-y6PX1wOCMy0HjQVET0hMbTEGgEjIvwlEDOxMdT8p0,AAIC--8/魔法少女まどかマギカ 第１巻 MENU_1 (BD 1920x1080 x264 AAC).mp4
+Bytes: 173054641
+SHA-1: 85e0cc067ded5086f720b1ddf5d94df0d9ff883d
+
+File : 魔法少女まどかマギカ 第１巻 MENU_2 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@6P1cgya36qXKZqmwJbEkJcZIRgK1f-1mTX~0IZjwSiY,DzuzPrLZdp97-AfRWlCrlh~-TFBR0wD-pi-~7R8HR-k,AAIC--8/魔法少女まどかマギカ 第１巻 MENU_2 (BD 1920x1080 x264 AAC).mp4
+Bytes: 170284899
+SHA-1: 93dd803e96f074fce10b3a8de677b07aa9c5d552
+
+
+なんかおかしいと思ったら☆が抜けてました。
+
+誤）
+魔法少女まどかマギカ
+
+正）
+魔法少女まどか☆マギカ
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.12 - 11:02:19GMT -----
+
+File : 魔法少女まどか☆マギカ 第03話 ｢もう何も怖くない｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@0IzOxAOaA43OQHUdiXODQFEGf-6NiFPM9dcGnZMCUIA,o1SeRHKsaMNnMFXHX0hu321O6GDPhG8-7QyDWpHtdQc,AAIC--8/魔法少女まどか☆マギカ 第03話 ｢もう何も怖くない｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 1010772262
+SHA-1: 77c4a42b73d90aa33daba8313c49d0ca853d1175
+
+File : 魔法少女まどか☆マギカ 第04話 ｢奇跡も、魔法も、あるんだよ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@T3-2f96r9wIjEOdRoj-hNMZXgONlOGor0xduoK3N9nw,uz7M0zVIivkeqE0Nfhvg6lM44R9liYFnVjLvz23IuIY,AAIC--8/魔法少女まどか☆マギカ 第04話 ｢奇跡も、魔法も、あるんだよ｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 1104602217
+SHA-1: 729e89a907790179e8029a132c5668392c60cd33
+
+File : 魔法少女まどか☆マギカ 第２巻 MENU_1 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@J21f0nZ5Mi8B0~HE1VPxOwgAgO9XqPpU3cFGH~zcFwg,IbbDGs9nxKXozgc4nEY~frJj0-C7LwpxUlC4~74px1A,AAIC--8/魔法少女まどか☆マギカ 第２巻 MENU_1 (BD 1920x1080 x264 AAC).mp4
+Bytes: 171839596
+SHA-1: 6cf7577775a8f0ace16770bc3287c9b6f40f7e11
+
+File : 魔法少女まどか☆マギカ 第２巻 MENU_2 (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@wvXnlnjfGuFpVTjXGyLEX0g553VUovgLbKT0CR5j49Q,w1yVgwAZI5-o6znXUoveDga4lDPBn7SyATM74TrdTaY,AAIC--8/魔法少女まどか☆マギカ 第２巻 MENU_2 (BD 1920x1080 x264 AAC).mp4
+Bytes: 168580039
+SHA-1: 775136ee99530ed8f9ac7a41ddf09189c730fa2e
