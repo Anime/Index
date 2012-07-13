@@ -172,3 +172,73 @@ Bytes: 712626144
 Hash_SHA1:   5c68c3b1cb50b588a96d5d7e6fb4fc32c59ae1a3
 
 特典のプロデューサーのいうことを聞きなさい！は実写です
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.12 - 11:31:13GMT -----
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 特典CD ドラマCD vol.2 (EAC cue+wav+log).rar
+Key:   CHK@7kkop4ERGSQph9nmQ-uOmDNNKekLTM84k7zpt11EYeE,CC9FA1ErK9hMhMaGAL6n42NumOgaibpwG6o3JbP5ob0,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 特典CD ドラマCD vol.2 (EAC cue+wav+log).rar
+Bytes: 133522275
+Hash_SHA1:   fd63c4147a4ebab767dbc3455723939f298f8145
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 メニュー1 (1920x1080 x264 AAC).mp4
+Key:   CHK@oCtno5-ksGnSpNd~dhCRiUpOGagu1IOR9dRvItr3S4I,WuKhoLDLcnvMs7~yzan5gBZchmylQgGrkCXc-6AIAzk,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 メニュー1 (1920x1080 x264 AAC).mp4
+Bytes: 21658906
+Hash_SHA1:   195c371c04b4aa7d3bbdd95dae8e95d9b1971eb1
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 メニュー2 (1920x1080 x264 AAC).mp4
+Key:   CHK@bcH-Vn05gi6EV4O79OSMS56SUCqZ2KLWYGCfbCexvSc,YP0qUlxAUcQm8LKPZVrA8eIbgiNIhUbjTt3XDoNhYWM,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 メニュー2 (1920x1080 x264 AAC).mp4
+Bytes: 20361789
+Hash_SHA1:   bfc14483b34ca5d9194086c0bd14bc6a926c6d15
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 映像特典 ノンクレジットED#12 (1920x1080 x264 AAC).mp4
+Key:   CHK@F8k0MhASAuixoPwMsKRyJCa6j2cWtTBuhrUX5qRfgq4,3GOwlGiXqzqfAJwgNsvoJ2Xoclw8ebY1XQuuDEe0YvE,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 映像特典 ノンクレジットED#12 (1920x1080 x264 AAC).mp4
+Bytes: 48902474
+Hash_SHA1:   7b27498eca791899ca6e4f7ae5ac4fefe195abf3
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 映像特典 TV SPOT集 番組宣伝SPOT (1920x1080 x264 AAC).mp4
+Key:   CHK@chagpJwe3W3rrcJk0apsxzRkF37jR3-GWws25OiJIBc,F5QFQubQKj-c4ABOGUofxXEzEizlWa2u6iQ-LrpRCu4,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 映像特典 TV SPOT集 番組宣伝SPOT (1920x1080 x264 AAC).mp4
+Bytes: 67234954
+Hash_SHA1:   b619415b58f8e4b5efe94ee38c1e873714fe8e81
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 映像特典 TV SPOT集 キャラクターソングCD (1920x1080 x264 AAC).mp4
+Key:   CHK@R7uz0ZzcAvTyXr9ON3sWuVH1fJCyZem6-PZMIEDkDMQ,hp4MPevPUNkfkP~qU9I3iMcyUilTh9hBwLeNRJF7hVY,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 映像特典 TV SPOT集 キャラクターソングCD (1920x1080 x264 AAC).mp4
+Bytes: 52265644
+Hash_SHA1:   e7ac51324e28219fc1f2d90b32b1d5fa668adb10
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 映像特典 TV SPOT集 Blu-ray (1920x1080 x264 AAC).mp4
+Key:   CHK@3JxEisbJVHRc9BZw5lP1AU6l0jVPNXInndoNRIl~fAE,13S7Y56NLT~YtAI8sH0h6BGS1MEHuEtiCEBsrzphtbA,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 映像特典 TV SPOT集 Blu-ray (1920x1080 x264 AAC).mp4
+Bytes: 98670777
+Hash_SHA1:   84f14d66e8d3cf35055b9e8ec845139241b9de4c
+
+File:  パパのいうことを聞きなさい！ 第11話 「逢いたい時にあなたはいない…」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@cknTgG7ybdtj0~AXAGMuzJ8svHifZn8vZPf1zKnFLMs,5uavf9yisihE-m1qkIrQX0mU63GJpS~LVzFLEAyRdVo,AAIC--8/パパのいうことを聞きなさい！ 第11話 「逢いたい時にあなたはいない…」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 723939734
+Hash_SHA1:   2a3be11fd4406150c22ff1a6eccc4ffb0b9f7b80
+
+File:  パパのいうことを聞きなさい！ 第12話 「世界で一番パパが好き」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@gmbwZLnpdDSPVcdCBdeD5lW86ERUAEDU0IoeqRa90dk,cBlAuxVxdhVM05okBzOz23yYs6A67BQMN8iYMwG~lYU,AAIC--8/パパのいうことを聞きなさい！ 第12話 「世界で一番パパが好き」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 727669283
+Hash_SHA1:   1f8443dd3d401b6dbbf53472ee7d6fce6bbddfea
+
+File:  パパのいうことを聞きなさい！ 第13話 「ぽっかぽか」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Key:   CHK@GkxzVGqMtNVzB7DR2UKzYYe21-Idx6Er~ezduvtK3Vs,0DQbQMziM2F41ST53zao-I0uFE4CG2lBtKVAOGriIz8,AAIC--8/パパのいうことを聞きなさい！ 第13話 「ぽっかぽか」 (BD 1920x1080 x264 AACx2 キャラクターコメンタリ付).mp4
+Bytes: 728072233
+Hash_SHA1:   d57794b1befc4472d83aa61e8a3840170a4b8930
+
+まだ実写特典がありますが後日
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.12 - 21:19:06GMT -----
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 映像特典 プロデューサーのいうことを聞きなさい！② (1920x1080i x264 AAC).part1.rar
+Key:   CHK@137J3Q7QEu9rI5l6tyl0Ga5QCMGqDGzkO6Xm1K6KT6g,Z~8cKbgxxjDtgy2AnD51nrD0nV6xdueSyhPFmh9RFZQ,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 映像特典 プロデューサーのいうことを聞きなさい！② (1920x1080i x264 AAC).part1.rar
+Bytes: 600000000
+Hash_SHA1:   50de9c7c288406dcb9070b6f301cffe566a8b628
+
+File:  パパのいうことを聞きなさい！ BD Vol.5 映像特典 プロデューサーのいうことを聞きなさい！② (1920x1080i x264 AAC).part2.rar
+Key:   CHK@dU2FJe8iurb4lw0bbGwKs5uXM1sj1JckP1PPtbMI4hw,h2U1GuvhHy29uEqiy84fklTn35r~bRnISE788-swBpU,AAIC--8/パパのいうことを聞きなさい！ BD Vol.5 映像特典 プロデューサーのいうことを聞きなさい！② (1920x1080i x264 AAC).part2.rar
+Bytes: 572739881
+Hash_SHA1:   628138dda6f90292aae5b15f6e2680c818c30288
+
+
+これで終わりです
+サイズが大きいので2分割しました
