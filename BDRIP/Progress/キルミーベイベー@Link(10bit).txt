@@ -71,3 +71,24 @@ Bytes: 627109632
 SHA-1: cb7fd46e0b05c4470c46526c9b131f2c1ae6e127
 
 四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.09 - 14:26:25GMT -----
+
+File : キルミーベイベー vol.05 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@y0gghkbS5QXs8SOA25TP8sIVPH6DolLYDfEkTEJrdEA,qt-Po7vJypztqmMUYNbNcXY5jmSyqd2pT2oNSNiaHNQ,AAIC--8/キルミーベイベー vol.05 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 11113278
+SHA-1: 33cbcad98f14ae2764c99c25abca72dbe78af439
+
+File : キルミーベイベー 第09話 「キルその9 つりつちのこしわすれえだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@JpdolX6LLIkqDg8W9Np0rirkuNqfuuqzLDEYmn8eSvQ,MLaZ8j-toU~l0eHdEWHffmJhcFkbqPJOYNy8YOKFH5A,AAIC--8/キルミーベイベー 第09話 「キルその9 つりつちのこしわすれえだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 717201078
+SHA-1: 0be4ed1a2455fad4627f212577fec6b64b4c79b0
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.10 - 01:00:53GMT -----
+
+File : キルミーベイベー 第10話 「キルその10 さんたつららてゆきだるむ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@gJzs8-DUxgBVEPLfyXErKVVFuBQJizqR9xSQYdM3xc8,6jtfYzUcLpVnuFV9ETbYzuBkUNk3j~ggrveX4vdeBDI,AAIC--8/キルミーベイベー 第10話 「キルその10 さんたつららてゆきだるむ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 728887127
+SHA-1: c7a1fd8a97d597379a2232f99d6845fe1d5d3b48
+
+五巻終。
