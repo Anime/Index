@@ -175,3 +175,39 @@ Bytes: 632966998
 SHA-1: 000af8e56045e0b6833010cb26fede3d6a7b85cf
 
 四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.14 - 13:05:17GMT -----
+
+File : モーレツ宇宙海賊 第15話 「SAILING 15 密航出航大跳躍」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@oPrYWEaPbyJwMa53nttmmcRCV8PoOtppLP4lDzshxIc,DTWLwhTTFjGgHgWje2S9V6zqa9~xcbN8Z9g821vYCXM,AAIC--8/モーレツ宇宙海賊 第15話 「SAILING 15 密航出航大跳躍」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 648418854
+SHA-1: 1f36c784d5bc4c7918d708c476f03f614c53aa5b
+
+File : モーレツ宇宙海賊 第16話 「SAILING 16 初仕事！白凰海賊団」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@8hBA5GWns7Pl10xMChRrMaXblZRssTjHGG6ixSQDJOM,zgqNCXrVKppHpw4jNWqAtp1DDIX1i~uhFqxKe73SWBg,AAIC--8/モーレツ宇宙海賊 第16話 「SAILING 16 初仕事！白凰海賊団」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 494667368
+SHA-1: dfe3bd0efd6bdb4b94ae22d86f9099e25efc68f2
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.07.15 - 05:44:58GMT -----
+
+File : モーレツ宇宙海賊 vol.05 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@KVnRLeBi6FGiFoeqeGzOsbeI8Ruvwgb4LWwas8bVRR8,n6I-GfycR1BkmgHx1a43ourHrIBiuCA2tmqNSZwjxxI,AAIC--8/モーレツ宇宙海賊 vol.05 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 10326632
+SHA-1: 589253696046698c460a6c26189e108a605683f4
+
+File : モーレツ宇宙海賊 第17話 「SAILING 17 意外なる依頼人」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@xsDM7l69fh8vY9dN34s6GUfGEtHvxmWp3JcmjL1O0uU,-zNZpFUQ1LKH34Isq11TytxeUAZTldvdxGNFdXctW2M,AAIC--8/モーレツ宇宙海賊 第17話 「SAILING 17 意外なる依頼人」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 622719996
+SHA-1: 2cfe75f6ac7f8c94ca0a3af788ced669634ddbe0
+
+File : モーレツ宇宙海賊 第18話 「SAILING 18 打ち上げはジュース」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@ADHrv4Q4pnRM3d34~vpnC9r3m3svh7i7os2s21tLoFM,yimf7eVFi4lNCUQmCSjwllk602QiPcYq39DyvjkMc~8,AAIC--8/モーレツ宇宙海賊 第18話 「SAILING 18 打ち上げはジュース」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 706965386
+SHA-1: 2a183164312f165016d4e8a02ce22a1a1449b8a8
+
+File : モーレツ宇宙海賊 クレジットエンディング 「Black Holy」 (BD 16話 1920x1080 x264 10bit).mp4
+Key  : CHK@4v-GtFJbQVio6SpRR9k0FuT7XYQgFoYcj9~D4mGGBWw,EiawpHdU-vB7HPpgI5iU3FN4RtzNTOqLc7090REMnD4,AAIC--8/モーレツ宇宙海賊 クレジットエンディング 「Black Holy」 (BD 16話 1920x1080 x264 10bit).mp4
+Bytes: 38289672
+SHA-1: 55dd078d97d23d6f899989873f2b4ba19820205e
+
+五巻終。
