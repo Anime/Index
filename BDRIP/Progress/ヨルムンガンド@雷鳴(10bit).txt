@@ -1,0 +1,34 @@
+----- 雷鳴@c8aPlz8LRZu9QLA9pwdVIxDf_V8 ----- 2012.07.16 - 07:13:13GMT -----
+
+File : ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part1.rar
+Key  : CHK@mrDHiPhbDAuOBkpTUJ0y37vN5r7m00l2GNfUe820ykQ,pwALdbrDbJe7vtTaSyL2XKSPIY3uFzgK12E4bgGsW9k,AAIC--8/ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part1.rar
+Bytes: 520000000
+SHA-1: 3f0bb93bbed45ddecaa17b9101cc38304824741f
+
+File : ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part2.rar
+Key  : CHK@6vRcIJfJhaemZ22EOZrC-v01a69kBCijMoSeK4diSAY,MOMF~JOR6XB~WAUmtUbM5skHQDYx1yKcPAvjTQbwsj4,AAIC--8/ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part2.rar
+Bytes: 520000000
+SHA-1: 9aa1ba4e82e9e399301af6a081b12281886054a0
+
+File : ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part3.rar
+Key  : CHK@9UwOMMrssprxYZjruM6qFqvIsQ-n5QXwVhbi2rzisZ0,1szkADo13ciNQtITqzXpFIxuOY9O9djHiS-utaDwhiQ,AAIC--8/ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part3.rar
+Bytes: 520000000
+SHA-1: cacf32c7093e09906a152d28b11788bec2769edc
+
+File : ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part4.rar
+Key  : CHK@qoQe7jxZ6B2iLvrokd9EfNNJKssB8rGto0GsbX2Xqhw,KeFEyUgQ~cUUDtTfJUyenmpe6ThpDR0GrSOARysM0MY,AAIC--8/ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part4.rar
+Bytes: 520000000
+SHA-1: 7333652456cd488f3f2893cf74f1ae26b21a5631
+
+File : ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part5.rar
+Key  : CHK@gXxzjb9NH1gnjtYN7Lh8jp8BJvLHpk~jaAyLLIOlLzI,ZLbahLknM2Nehej2WU03RT6NjKcNV3MMRJ18yxN8sag,AAIC--8/ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part5.rar
+Bytes: 520000000
+SHA-1: 4d49924e17bef185626623f1a5ee18b812340f99
+
+File : ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part6.rar
+Key  : CHK@sPSDmkpOG6bqckSmvEWMlxpAwxg27xYv8UzfJCg5Lt8,9NtvvrG4ViOGpR40dTUHRASDf4Up5IwwxnOvjPNWROk,AAIC--8/ヨルムンガンド 第01話 「ガンメタル・キャリコロード」 (BD 1920x1080 H.264 AAC 10bit).part6.rar
+Bytes: 430953397
+SHA-1: 1cc69e306756e385a900c16787479ecaeee7d879
+※リプが亜空間に行ってしまったようなので再度投下。
+オリジナルにある演出効果のグレインノイズはフィルタで半減させて容量をカット。
+それで尚且つSSIMとPSNRの値が基準値を超えるようにエンコードしました。サイズについてはご容赦を。
