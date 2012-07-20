@@ -32,3 +32,41 @@ SHA-1: 1cc69e306756e385a900c16787479ecaeee7d879
 ※リプが亜空間に行ってしまったようなので再度投下。
 オリジナルにある演出効果のグレインノイズはフィルタで半減させて容量をカット。
 それで尚且つSSIMとPSNRの値が基準値を超えるようにエンコードしました。サイズについてはご容赦を。
+
+----- 雷鳴@c8aPlz8LRZu9QLA9pwdVIxDf_V8 ----- 2012.07.19 - 10:59:59GMT -----
+
+File : ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part1.rar
+Key  : CHK@IeolbbRs~tWAEQC0RC8~rfAUxwQbo92kyuXvzLU5XtM,gux00qFSCocNS4QoGvyL7ULCjSf0E8mP~CANV4TKY~E,AAIC--8/ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part1.rar
+Bytes: 600000000
+SHA-1: da7a62d161e95938dd91255c46454547af0e74d2
+
+File : ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part2.rar
+Key  : CHK@-CuPaEcyc4bvdGiRU4saKQKf18nq~mEu7LmTMv8v2X4,5jD~eAH6QsTvEK2diMWIMa0QlNlyS6H2-~kdVfFHJGg,AAIC--8/ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part2.rar
+Bytes: 600000000
+SHA-1: 9774a88db0655c76c2da353205428765ff890ec1
+
+File : ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part3.rar
+Key  : CHK@nP7b-LJfJLuv3np4g6y99ZDE5I35Q-4DqwQzdZFvmDU,RtcY2kxTKxohSW2R80ehqUHBhJmn5azLH064yCam16o,AAIC--8/ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part3.rar
+Bytes: 600000000
+SHA-1: eb8acedbd427a105368537d4e3c461817a58825a
+
+File : ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part4.rar
+Key  : CHK@cCgMqUp-ebtbEthHX8pXc76RwdPkqzr8p68so5vknSw,LiDnNgGW0cKT-1DNEroMxypOUpiH8MvsxjHgQ5zSXxc,AAIC--8/ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part4.rar
+Bytes: 600000000
+SHA-1: fa04e92fd2523eda69c9d3a2549490ec61c3dac4
+
+File : ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part5.rar
+Key  : CHK@ZyGeMOvwN4kltAN9fWnDRF6JDS-Q1DSN2oWhYutxjo0,1NGYoZXXWS7dugBjQYL9irglk90QWfo14ukDuKXfVqk,AAIC--8/ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part5.rar
+Bytes: 600000000
+SHA-1: bedce4c4934f2ccafd4b3fa70abf82ed6d45f0e1
+
+File : ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part6.rar
+Key  : CHK@T1pavjANIJ13CHQkRAOXfXNNzG0q0QLmtSqSdln157U,Ld6quvbb6XOH~reQ1Y0ZMi4HWTYpSp9KMbEq9H53cGA,AAIC--8/ヨルムンガンド 第02話 「PULSAR」 (BD 1920x1080 H.264 AAC).part6.rar
+Bytes: 417245564
+SHA-1: c42243552835b9a5c472db9f20d88200db371d5b
+
+１話よりも暗部が多く、やむを得ずzonesを多用したので3GBの壁を越えました。
+それにしても全然縮まない。アニメでもグレイン山盛りはH.264には不向きなのですね。
+糞エンコ品のコレより綺麗なオリジナルをブルーレイで見たほうがいいです。
+
+あと、映像特典などはないので1巻はこれでおしまいです。次エウレカセブンAOやります。
