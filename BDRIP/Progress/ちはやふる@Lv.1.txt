@@ -213,3 +213,20 @@ File : ちはやふる 第７巻 映像特典 ｢HOW TO 競技かるた（STEP U
 Key  : CHK@5Nf~5f9xYNJyNqbFD8k7z0JrEw1Ck~~FVzDztAm9wJs,hd8ZHAt0UCcX-nZNjmDHhfcvoxh~3E4lUxwQGnYSKaU,AAIC--8/ちはやふる 第７巻 映像特典 ｢HOW TO 競技かるた（STEP UP編②）｣ (BD 1920x1080 x264 AAC).mp4
 Bytes: 76624496
 SHA-1: 04b561ee3fa2a64c64c453d350867eff0d2ba538
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.21 - 14:18:41GMT -----
+
+File : ちはやふる 第22話 ｢うつりにけりないたづらに｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@nceCTBcARq7QTJ~tLG33Tuuf5U4TQrLE7YSLbI2gqGo,oTBx7u2ApSpGrINC5Yiuse4k2FYxMu~mFfr3GdvWxC8,AAIC--8/ちはやふる 第22話 ｢うつりにけりないたづらに｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 851984671
+SHA-1: 5b4fa1e54524d63d0f43e8eb0b76bddeab4f831b
+
+File : ちはやふる 第23話 ｢しろきをみればよぞふけにける｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@Qp-qVQVB8-129MV4lG9Nl5fFlkXwXkfH4CAjFJXpmxQ,eDcgIV3F6nr4byBrhUzlDBJdA9IiyzWhG27tV45bhLc,AAIC--8/ちはやふる 第23話 ｢しろきをみればよぞふけにける｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 771170913
+SHA-1: 0f09c8c8d99556a4b9aeea59f12f466636adcd89
+
+File : ちはやふる 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@pDs22vusMbG4LXhCFobtqLeNC9WXNsk6vw9L~d23Big,-ptGi3xGOb2PCfWT5xEywYQZqKCKnVF0I2hxY47s5-g,AAIC--8/ちはやふる 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 77976188
+SHA-1: 49add5adb5464bc22680422147aa757515fc6204
