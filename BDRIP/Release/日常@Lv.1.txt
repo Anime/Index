@@ -657,3 +657,25 @@ SHA-1: 7f7975eca05920df4e3b86796419df93505e8e1f
 誤） 日常 第25話 「日常の第二十六話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
 
 正） 日常 第26話 「日常の第二十六話」 (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+
+----- Anonymous ----- 2012.07.21 - 10:32:44GMT -----
+
+スミマセン…
+第20話 14：22から2秒程ノイズのような画面が…
+
+Attached files:
+CHK@jyul1dE93cy2YhUAuU4z2Oo67pohj6y-FyvDwbUEjeo,vNj0h1TKSMGlX19Ts7OO~4bhB1Ae6WI7dwrplQ7cZQI,AAIC--8/nano.JPG
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.21 - 14:23:19GMT -----
+
+うちも再現しました。
+寝て起きてから調べます。 m(_ _)m
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.22 - 15:42:19GMT -----
+
+作り直しました
+
+File : 日常 第20話 「日常の第二十話」 (BD 1920x1080 x264 AAC コメンタリー切替可 rev).mp4
+Key  : CHK@QASbq6sGFr3uvH-JQ8xmXkUt7KXhqDYW3otCmwnKfBA,SsO-YWOPto4UTTTHkA~wRgz4i-nIku9pWH~KnyIKHnU,AAIC--8/日常 第20話 「日常の第二十話」 (BD 1920x1080 x264 AAC コメンタリー切替可 rev).mp4
+Bytes: 1077025618
+SHA-1: 15b734d07cefe9ea7e3f29baefc3081a3cded155
