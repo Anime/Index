@@ -172,3 +172,35 @@ File:  ハイスクールD×D 第08話 「喧嘩、売ります！」 (BD 1920x1
 Key:   CHK@EnjcV-kIjO0zG6bCLdNQtwQbKshgOh~-rM8qDkGZsTw,Bs~tAQ1Fa4GRwpgR-A43AWG~yVEHkMhZchWfjIdZ8C8,AAIC--8/ハイスクールD×D 第08話 「喧嘩、売ります！」 (BD 1920x1080 x264 AAC).mp4
 Bytes: 695107873
 Hash_SHA1:   6cb11b0d2b5043a07837e772d89624a155702a39
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.25 - 15:02:39GMT -----
+
+File:  ハイスクールD×D BD Vol.5 スペシャルドラマCD (EAC cue+wav+log).rar
+Key:   CHK@391MHcPIEE13sY9lHcjoXM9MHvW1WIR8gsscF1FhH-s,pxGAtxFziJoDU-d2qBrmo7JUkwMPk1cT3uFPKQo4dho,AAIC--8/ハイスクールD×D BD Vol.5 スペシャルドラマCD (EAC cue+wav+log).rar
+Bytes: 94442846
+Hash_SHA1:   3bc10dd23bfdc6e91c46a27dd7d9d05084e8bb46
+
+File:  ハイスクールD×D BD Vol.5 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@hNsB69IgLnxwJx8uq6EToCtaGnxxsFnetm2jEAlScVw,1O7XhSAQ~9~beH-kRTF8V81UaWSaZVYtyH470ls1txM,AAIC--8/ハイスクールD×D BD Vol.5 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 22608301
+Hash_SHA1:   7fde27ee6fc374018e9038251286d6a86a1873be
+
+File:  ハイスクールD×D BD Vol.5 映像特典 妄想爆揺解除オリジナルビデオVol.5 ～うどん、作ります！～ (1920x1080 x264 AAC).mp4
+Key:   CHK@KcS8JcYwj3jrvKXnjMHARwGa0oqBU8IsdqeTGMOvoDA,OkIWG7ZnBel4hmRgbeIB8ldKiL~u-8-yjbHIIj70lso,AAIC--8/ハイスクールD×D BD Vol.5 映像特典 妄想爆揺解除オリジナルビデオVol.5 ～うどん、作ります！～ (1920x1080 x264 AAC).mp4
+Bytes: 138987804
+Hash_SHA1:   1f935ab56589c84eef92d4474be413866004415a
+
+File:  ハイスクールD×D BD Vol.5 映像特典 ノンクレジットOP (1920x1080 x264 AAC).mp4
+Key:   CHK@0I0OE4PTo4pi3UrufSjn253zo3tcU2z32cjGFGWo6EU,GIe3c5oGEPa-WwFLrDGIxW4kqU4XTI98CGitakZib~c,AAIC--8/ハイスクールD×D BD Vol.5 映像特典 ノンクレジットOP (1920x1080 x264 AAC).mp4
+Bytes: 76125462
+Hash_SHA1:   de77fc444625ae03f5f0aa06e70bd1578f76cb50
+
+File:  ハイスクールD×D 第09話 「修行、はじめました！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@ongwAMl-M02E-2L-lO5CA05Ysv9f7jKq7tY5UrFtuLw,jTp3LbhGnLFHOJ0xN4YtnOB3mJfmkrZdd--D-iegXvg,AAIC--8/ハイスクールD×D 第09話 「修行、はじめました！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 707588089
+Hash_SHA1:   972ce086440c73e61acb7c3ed1a320f1d729ac5f
+
+File:  ハイスクールD×D 第10話 「決戦、始まります！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@JdgyNEHhG6Hcc9IyEM7DlX~0-VVOx8qELqJKhIEvpLY,TR~iwz7IXJI9bl-pEf609yr03azRJhzfrlf2TfZuw8w,AAIC--8/ハイスクールD×D 第10話 「決戦、始まります！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 742940053
+Hash_SHA1:   d135128c85e75a07c4f028461397356772d35235
