@@ -119,3 +119,30 @@ File:  妖狐×僕SS 第07話 「ふたりのよる」 (BD 1920x1080 x264 AACx2 
 Key:   CHK@S3eJ~CQowhL7y-oGxtRDopPd-B3qq~BJ9PrM8-X6vJ0,E8r5-FDV3hZ-YygWhxYodHNu8zN92TlGtRATZO7XMoQ,AAIC--8/妖狐×僕SS 第07話 「ふたりのよる」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 1015303636
 Hash_SHA1:   992b11d860bdf7ab5b8c81ac30d40c9b43ba940b
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.29 - 10:21:54GMT -----
+
+File:  妖狐×僕SS BD Vol.5 特典CD ENDING SONG Vol.3 (EAC cue+wav+log).rar
+Key:   CHK@zf3GEFTLECanluFSy949UkMXPgYsBVprXm5fbQ82qmc,o4zPS-wUJl1lslqHjspAP1PPf1OGTWj4fGdflRqMx78,AAIC--8/妖狐×僕SS BD Vol.5 特典CD ENDING SONG Vol.3 (EAC cue+wav+log).rar
+Bytes: 131444704
+Hash_SHA1:   dd35804e3cd1cc035f9b9b28b00f6fd834d12014
+
+File:  妖狐×僕SS BD Vol.5 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@WH56BGa5Zf-U7h91AFSk~sdmdkS8f9VTuvvYikDzoW0,r9q0Pa5IjIFbanYf1IhoG1NDuVkIJIsQe6EsffFpmao,AAIC--8/妖狐×僕SS BD Vol.5 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 9653589
+Hash_SHA1:   6c427f91f9a7197e86119614319d90b464732499
+
+File:  妖狐×僕SS BD Vol.5 映像特典 第9話 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Key:   CHK@KI4ai3CVB-IATeDwbxLRc45kGDiouCYPk9WgIn3iFc4,6MAlW8VxaYXB0EqRZJVhWfnBPnLlJ9bhq1REXeP03fo,AAIC--8/妖狐×僕SS BD Vol.5 映像特典 第9話 ノンクレジットエンディング (1920x1080 x264 AAC).mp4
+Bytes: 51509347
+Hash_SHA1:   0a55f4ac55255d464fe3717c27b8f1ee743e0bf2
+
+File:  妖狐×僕SS 第08話 「お茶と距離」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@C1kSb2lbk82WQriQcLK17gCtCt7iTxmt-Q73F68wFDQ,IIbL2wPMdt1TMaCH9la79sD65VRA2ExgojbrIvGgy0I,AAIC--8/妖狐×僕SS 第08話 「お茶と距離」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 888817615
+Hash_SHA1:   52a19444db3992889ed6087a7a67a6896b59d862
+
+File:  妖狐×僕SS 第09話 「約束の日」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@yC4~tDXzZ4RCtWM69VdioTW0WYHNjuzSlnWAph4VEWY,b92x7dkwLyo~VDLO5OulFB8~ejvNIui4K7kGcoKKap8,AAIC--8/妖狐×僕SS 第09話 「約束の日」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 1006928376
+Hash_SHA1:   c98d4ff45f2af0d409eae06f4375d33397e22443
