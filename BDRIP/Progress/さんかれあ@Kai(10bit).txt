@@ -24,3 +24,25 @@ File:  さんかれあ 第02話 「成功…してた」 (BD 1920x1080 x264 AACx
 Key:   CHK@AJh-Y4uitU4daNwJCPKM-kHpNqb0-CgRbiNip9rt2JI,IUphpLN4slL7ZI9fHIJukHVwqxu2xq27WFw5f5ZsY6E,AAIC--8/さんかれあ 第02話 「成功…してた」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 520620595
 Hash_SHA1:   a5e481a0ef7745dcd56d35d06c2ab1c00aa239ee
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.29 - 15:24:52GMT -----
+
+File:  さんかれあ BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@5Kf1X7sxu~k8XEL4my77mRvSrijXgZnA1QJ7kBCy-gE,NY0BqVzm3OLcqKd8EkW1VMu4WmFargk5QHmycIAxUKM,AAIC--8/さんかれあ BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 27602757
+Hash_SHA1:   a0fbf4616cee9118f47b02579060c388fa1f9b5e
+
+File:  さんかれあ BD Vol.2 映像特典 ノンテロップED(Ver.2) (1920x1080 x264 AAC).mp4
+Key:   CHK@IaH3RYA0qvXplhGUQJk8~bxptDeRn8iKLrDjbWHc~ps,9qMU7glqjfq~WdwqWDeYP0Tf8Vm0TZRY22qCFSzkmh8,AAIC--8/さんかれあ BD Vol.2 映像特典 ノンテロップED(Ver.2) (1920x1080 x264 AAC).mp4
+Bytes: 25372501
+Hash_SHA1:   45de844d765bab8d499a2d18bdbc829ae78e445d
+
+File:  さんかれあ 第03話 「さんか…れあ」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@2KsXETrFaL18FGdRT0gOBVrFb7-551b23Np7KSJ7OVA,9clDSL~WlIP3T3vDXV~~mmRPk12PaNMAiNr031Z3Adc,AAIC--8/さんかれあ 第03話 「さんか…れあ」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 579075272
+Hash_SHA1:   58ca6afb590385695927d88f95931316bcf01346
+
+File:  さんかれあ 第04話 「普通の…女の子…」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@NwRJqa4~g~GOdLLzGZg1-vmBRlj-aUyoDZMk6xUevl8,qCGo5KftaKrZI4NohuA8Ohom9a6dlffESxzbSMQteJk,AAIC--8/さんかれあ 第04話 「普通の…女の子…」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 469469610
+Hash_SHA1:   9c2ffaeb80f2e97f675760d6906d8bec09129333
