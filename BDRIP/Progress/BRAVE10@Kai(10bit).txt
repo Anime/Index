@@ -247,3 +247,25 @@ File:  BRAVE10 第08話 「勇士誕生」 (BD 1920x1080 x264 AACx2 キャスト
 Key:   CHK@r35Dr4PHo9UtqTCpmWWRGP9TbHc58Hvody15UWHr19k,9nNixm9xBTzfrJrwfaKWJUiJJOaUP6PcrvjrtpB3zeY,AAIC--8/BRAVE10 第08話 「勇士誕生」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
 Bytes: 612272607
 Hash_SHA1:   0c793c5526fd12b8f7ea9139e6ea7372921be38e
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.30 - 14:45:18GMT -----
+
+File:  BRAVE10 BD Vol.5 スペシャルサウンドトラックCD (EAC cue+wav+log).rar
+Key:   CHK@JectYAMR4hC2N6FBDUPPlDrcWlAt8jmlvMMyeudOACc,yqDTPSErZjO5J0pk35xNwuiSHd7umbKRSwMKuboZfGU,AAIC--8/BRAVE10 BD Vol.5 スペシャルサウンドトラックCD (EAC cue+wav+log).rar
+Bytes: 190013463
+Hash_SHA1:   0a3c25d0fdbb7677e9d7b5e080a8d021347bfbf5
+
+File:  BRAVE10 BD Vol.5 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@rw5sd0p~v9ZFbWmoIgJmCHHn7jY5ic7Wrk-PhKVw2cA,uQkkaMGwDUo6SFwG9I0uUYk8N4q0UFzXi5csy~FvkmA,AAIC--8/BRAVE10 BD Vol.5 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 88991723
+Hash_SHA1:   a7f73f6a5368aa8d4a5f3868e634c8745e7547c7
+
+File:  BRAVE10 第09話 「氷の素顔」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@OCdejIMOXWMiuhvzkbZT1lA9k~bklfUGQpy~6z8pNP0,sCwujtZwKArnm2tQ47sUO8sG9GfieN2f2B-EdoRHweI,AAIC--8/BRAVE10 第09話 「氷の素顔」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 509390909
+Hash_SHA1:   7fd41ea2c8ff0e31c85bd587f4ae5f3dbefec761
+
+File:  BRAVE10 第10話 「惨劇の幕開け」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Key:   CHK@lxmiR3HC14GJZzyReQ-RseBadoMj0dCZskX9NyxWiGk,Phiv7MWf7K2eMorM-fJKe2Bz0UEANXWnQh3uI3PjMGo,AAIC--8/BRAVE10 第10話 「惨劇の幕開け」 (BD 1920x1080 x264 AACx2 キャストコメンタリ付).mp4
+Bytes: 737401175
+Hash_SHA1:   ef47d1f3a58a057de131a713fa014ed513016bc4
