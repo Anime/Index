@@ -69,3 +69,30 @@ File : 氷菓 第１巻 映像特典 ｢OP＆EDレコーディング風景①｣
 Key  : CHK@2eZK3o8NHJIty-SGADZ6aiHD~O0RQPaeWdgfXdTjuak,Lp41qGUoT8G~2fZxFVHOuJGo-hWc9DjxWeOycNbtHWw,AAIC--8/氷菓 第１巻 映像特典 ｢OP＆EDレコーディング風景①｣ (BD 1920x1080i x264 AAC rev).mp4
 Bytes: 147503235
 SHA-1: e55ba0c0837f542b6795f72bdd2826d9aad283de
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.30 - 08:50:53GMT -----
+
+File : 氷菓 第03話 ｢事情ある古典部の末裔｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@2R-yjwm3Z5MkrM6y~a07zOOZ8IdKAvWgM~QOUxadIQY,Hmn-tjy2Gfwl3plvGsR76~kft9yGQQFms799vQDdRUQ,AAIC--8/氷菓 第03話 ｢事情ある古典部の末裔｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 760430833
+SHA-1: 38147d3579065a37b8fc360c92824694fb6ff649
+
+File : 氷菓 第04話 ｢栄光ある古典部の昔日｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@myaZwAO5hcOhP1FxtQw5RfK6ZRbbg9LeTUcsVcHbytE,okDR06a2LJTqasfZHWNk7sY5gwY9tdXYxyv0HHxoYCQ,AAIC--8/氷菓 第04話 ｢栄光ある古典部の昔日｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 968020707
+SHA-1: f3a5d9afade9746fdcf471dafd9b23a85b8d5ba1
+
+File : 氷菓 第２巻 映像特典 ｢OP＆EDレコーディング風景②｣ (BD 1920x1080i x264 AAC).mp4
+Key  : CHK@BgpRGsiGkhTKZVrigUF2nV8q85EyHhwqwOChJaenQac,FLpMEkFonRFlhj4Tz9iCsOaVEqCf7JuVVkUKyebA7ng,AAIC--8/氷菓 第２巻 映像特典 ｢OP＆EDレコーディング風景②｣ (BD 1920x1080i x264 AAC).mp4
+Bytes: 137797871
+SHA-1: e7e42d423188bc7df5e9081d074eabe01fb26946
+
+File : 氷菓 第２巻 映像特典 ｢BGMレコーディング風景②｣ (BD 1920x1080i x264 AAC).mp4
+Key  : CHK@me3mIlSLqKcJtXdQGeQkNSLfpesN0UR9w3sN~5Tm0Zk,syFDU9spSQGcha94LGP8qRNxoQ8IrG0DKePcGPz-~9U,AAIC--8/氷菓 第２巻 映像特典 ｢BGMレコーディング風景②｣ (BD 1920x1080i x264 AAC).mp4
+Bytes: 261242258
+SHA-1: b2020bda12b507bddd81a264384a5c9cb74dbb41
+
+File : 氷菓 第２巻 映像特典 ｢ロケハン映像｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@1ysTq090JoolCQWQRkP4M-N4CTsuwIJt2k6bl95jp-4,HtNfR0lnhbv0cUo-LG11YOoLmziNrfDLmYN0tvpluho,AAIC--8/氷菓 第２巻 映像特典 ｢ロケハン映像｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 295574904
+SHA-1: 62d54765017d2f9513c1bb32c82cb6b38c4df27a
