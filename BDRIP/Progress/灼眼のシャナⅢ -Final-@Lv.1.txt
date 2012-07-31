@@ -345,3 +345,30 @@ File : 灼眼のシャナⅢ -Final- 第７巻 MENU (BD 1920x1080 x264 AAC).mp4
 Key  : CHK@9-WgXejX78kBz8Utqt9jm-VrF6fx5kBjB14T-ZlLmmI,IMTt488AsPM~ISn06TAWphd4pA-wcFOV274zavoApH4,AAIC--8/灼眼のシャナⅢ -Final- 第７巻 MENU (BD 1920x1080 x264 AAC).mp4
 Bytes: 31478304
 SHA-1: b05b090d257adc45a1b34e7483ce59d4a8b69480
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.07.31 - 09:38:39GMT -----
+
+File : 灼眼のシャナⅢ -Final- 第22話 ｢異邦人の夢｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@1is3c4AMzUfBIVhMjv54~WhpJrICjfPl1tl80Ta2mGY,sRnuVFzElgNAlNF2ogzfxXkgna2FFT7dDwrbWRNFvN0,AAIC--8/灼眼のシャナⅢ -Final- 第22話 ｢異邦人の夢｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1308522150
+SHA-1: 6d10ff6862776a6ccde6b9fd7af8ae2a2bcbdac6
+
+File : 灼眼のシャナⅢ -Final- 第23話 ｢神の夢｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@HVXeqJY9UeS5vqU5-NGnyAe-vtp4q9BMhzwdevCW4I0,ix6l6~lkGm-sK5TvpEOjS0F~1ZX8acketuBIQ5YzVqY,AAIC--8/灼眼のシャナⅢ -Final- 第23話 ｢神の夢｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 1239932938
+SHA-1: e7d6b59963188aa33ea4dde56243435762f2ef1d
+
+File : 灼眼のシャナⅢ -Final- 第24話 ｢涯てより開く｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@LCr5TIhkAa5JnP1y6b28OmKSDO1Sgkoci4MdhO8yhaw,9tltiVE~2ptxBqXULmnAQDX9Dgm~kD-uUu9TXNkYLn0,AAIC--8/灼眼のシャナⅢ -Final- 第24話 ｢涯てより開く｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 1314581987
+SHA-1: 795410c922e37d9df21ea120727b8e02fa9e27fb
+
+File : 灼眼のシャナⅢ -Final- 第８巻 映像特典 ｢第24話ノンクレジットED｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@dB5Vq9avBdGhOB~JaAaUoXz2Y0H7GITujJWPsQl0YXk,Wq17YsBdiV7ZFzWn4sngYb3Xx8cqax4-pwWmWZXN2jg,AAIC--8/灼眼のシャナⅢ -Final- 第８巻 映像特典 ｢第24話ノンクレジットED｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 97477677
+SHA-1: df98b1bec9dac7d350920215bbd8b46cc454a07c
+
+File : 灼眼のシャナⅢ -Final- 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@tjVAixEOAeJFkb2LWJ86V6ddKv~bWiw7CtoAdfm~QxY,cADSi9gV1A2aeCMyht2EXGbafGZmJ-y5k8C9hAHBmQg,AAIC--8/灼眼のシャナⅢ -Final- 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 27820259
+SHA-1: d703cd868c11f64ac76893ce0c7ba0f540b564dd
