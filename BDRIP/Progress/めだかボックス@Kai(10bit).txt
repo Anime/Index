@@ -1,0 +1,41 @@
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.30 - 14:45:46GMT -----
+
+File:  めだかボックス BD Vol.1 特典スペシャルCD (EAC cue+wav+log).rar
+Key:   CHK@eqg~ItMqgC7zNaCkXhYvFb9Ag3wzFqMqaHFG~eytHEc,da8W1hoSoEJKFXxnz2YYkSKw92QqU-8zDRxL8U0-OTg,AAIC--8/めだかボックス BD Vol.1 特典スペシャルCD (EAC cue+wav+log).rar
+Bytes: 197908808
+Hash_SHA1:   9cf9ec9dcf84d437772d33ada5913dcd1096119c
+
+File:  めだかボックス BD Vol.1 メニュー1 (1920x1080 x264 AAC).mp4
+Key:   CHK@2l0DaX45D8K-eB9WST3uKHsXJWWj7tpQ7UfQSmttg9c,BoJ5qV79NYEh6Mm5DwBB40ZKVBjBXa8RcFa4i~1uTCs,AAIC--8/めだかボックス BD Vol.1 メニュー1 (1920x1080 x264 AAC).mp4
+Bytes: 25023804
+Hash_SHA1:   a4287db6f9584c38d278a49b4b1881310509d9d9
+
+File:  めだかボックス BD Vol.1 メニュー2 (1920x1080 x264 AAC).mp4
+Key:   CHK@vAA7Tjx6eT7pywgWeLdgI5xPNY-1UQgA0gU8-eiPvjc,znyzUcmBsg0EjEHqoZFVE8M3qQWvyUiLx-Mwg4w~XqA,AAIC--8/めだかボックス BD Vol.1 メニュー2 (1920x1080 x264 AAC).mp4
+Bytes: 24654011
+Hash_SHA1:   0560d82d89899943db8eeef47eee9d2680f691fb
+
+File:  めだかボックス BD Vol.1 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Key:   CHK@pSlKL5HhcGy9kEBBHGH5r~LjfVuYecnpkdW~tEBnk14,pybEvnd5HY9L7BWblxZJONHRYHhe4PTJdglYH5Zp8MU,AAIC--8/めだかボックス BD Vol.1 映像特典 ノンクレジットオープニング (1920x1080 x264 AAC).mp4
+Bytes: 75026468
+Hash_SHA1:   1be2a59c990867a77667330b9377d0317c61fe90
+
+File:  めだかボックス BD Vol.1 映像特典 ノンクレジットエンディング Ver.1 (1920x1080 x264 AAC).mp4
+Key:   CHK@Z7mX56-zxft1Sx~jU4kLGEUWZ1iCy-BMoZN3SLFa9-8,R8njTVzgEnAhOYiwzzFHu~PHGE7f23K1QGXSPMJgnG0,AAIC--8/めだかボックス BD Vol.1 映像特典 ノンクレジットエンディング Ver.1 (1920x1080 x264 AAC).mp4
+Bytes: 31263099
+Hash_SHA1:   d8cf700b86c87c1581e238988b15cc6008dd5a4f
+
+File:  めだかボックス BD Vol.1 映像特典 先行プロモーションビデオ (1920x1080 x264 AAC).mp4
+Key:   CHK@-01uJLwzblOEvoTwN3~e0xT6BfK3JZPXuzwewNX6yyw,JY6QqZ2OFhcX0X844DYuyR1o6r1hNV6O7cU1g~vVkeo,AAIC--8/めだかボックス BD Vol.1 映像特典 先行プロモーションビデオ (1920x1080 x264 AAC).mp4
+Bytes: 44246885
+Hash_SHA1:   416cafe9248242de59e6604142ced2a3f5b8688e
+
+File:  めだかボックス 第01箱 「生徒会を執行する！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@v1y9T0D1o-Y64nYdiPNNiXCOY9wQGeO5hXa50SZKADg,yCEv7Dc0v2Q3qmW-AnyuYxJO7kWdQHWHBOWsr-XgxWw,AAIC--8/めだかボックス 第01箱 「生徒会を執行する！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 931815879
+Hash_SHA1:   7109f680637b530d858c0707f087f23e711e82de
+
+File:  めだかボックス 第02箱 「貴様が犯人か？／当然、私だ！」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@h8LdKd90rYOci5JLXvPWtjZEC9IeZ8DFp17v8hFAQ1w,Fh0PApzE8l6AjAXfxpFzPyi6e1uecC2GfeANgNUrER8,AAIC--8/めだかボックス 第02箱 「貴様が犯人か？／当然、私だ！」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 898768723
+Hash_SHA1:   e0b3ff45b1153734f5c5f0fac98e1da44a775e2a
