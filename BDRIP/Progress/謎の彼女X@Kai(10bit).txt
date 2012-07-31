@@ -29,3 +29,25 @@ File:  謎の彼女X 第02話 「謎の絆」 (BD 1920x1080 x264 AACx2 コメン
 Key:   CHK@CpMMYuddIcxr5~JmP~sbSk52H6GPqCDrs-pOKV5ya3M,9JdbQhoOVcfcIwDBkwjpuwXhp~T7Z0YYwkvpMhnXt1A,AAIC--8/謎の彼女X 第02話 「謎の絆」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 575872764
 Hash_SHA1:   f56f234b156ccd6f38fd88c54fb1d526b888fdbf
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.07.30 - 23:43:06GMT -----
+
+File:  謎の彼女X BD Vol.2 特典CD 「放課後の約束」吉谷彩子 (EAC cue+wav+log).rar
+Key:   CHK@FckfI3OILPPc84xSrKHz9DdT0LoHtLCjnc2AegfKhYI,IJP54~6FfDr-PUNpoMOUfNfs3~uNqpTczPCRkToVOgE,AAIC--8/謎の彼女X BD Vol.2 特典CD 「放課後の約束」吉谷彩子 (EAC cue+wav+log).rar
+Bytes: 96906102
+Hash_SHA1:   f18e2d132e02e098b4503cdbf29cfd7cce35686b
+
+File:  謎の彼女X BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@bsjDmf73QFPnhoEVyQOlH7tB1Iul~Wlg59Az3rlrddE,8eihvydMd9yElp~DFAHMdYfBg0s0uYbL-WehiCzShPg,AAIC--8/謎の彼女X BD Vol.2 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 154286583
+Hash_SHA1:   9c1d76f2d333f837589aa44c5e86cd2658e057e7
+
+File:  謎の彼女X 第03話 「謎の試験管」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@Meko8hfJhFQ4l0nbLPUXUmkCLKSNvpHIEMZTWi2Z4QM,uI8QZmW4lzsTK8~Tb6hAVEmORMZ5QqYDzdDI4BYyrzo,AAIC--8/謎の彼女X 第03話 「謎の試験管」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 575926628
+Hash_SHA1:   234956c0def110c8210ef583cf11aecd7adcb4de
+
+File:  謎の彼女X 第04話 「謎のガール・ミーツ・ガール」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@5ZAx4anpk9NcOhRN3wmWMEEwPW81QfRzJkwphh~M6D0,Prj35Vrl8nQ~~-nf3BxGAMuAdG1YQNlILszew3YbSBQ,AAIC--8/謎の彼女X 第04話 「謎のガール・ミーツ・ガール」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 591291517
+Hash_SHA1:   08d65fd8a5f00b2b760de4a02d8deec8fc60b4cb
