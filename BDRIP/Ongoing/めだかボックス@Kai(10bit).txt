@@ -39,3 +39,13 @@ File:  めだかボックス 第02箱 「貴様が犯人か？／当然、私だ
 Key:   CHK@h8LdKd90rYOci5JLXvPWtjZEC9IeZ8DFp17v8hFAQ1w,Fh0PApzE8l6AjAXfxpFzPyi6e1uecC2GfeANgNUrER8,AAIC--8/めだかボックス 第02箱 「貴様が犯人か？／当然、私だ！」 (BD 1920x1080 x264 AAC).mp4
 Bytes: 898768723
 Hash_SHA1:   e0b3ff45b1153734f5c5f0fac98e1da44a775e2a
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.08.03 - 08:33:08GMT -----
+
+File:  めだかボックス BD Vol.1 映像特典 先行プロモーションビデオ (1920x1080 x264 AAC).mp4
+Key:   CHK@FeAlEolUD6U7aJE5Eo~h9FKF9GTbycBfNAeJNbOO8zI,MhUhWKmOhzBwZZ8d3PVfrlI11Zls01zXfxJnVPI7Zb0,AAIC--8/めだかボックス BD Vol.1 映像特典 先行プロモーションビデオ (1920x1080 x264 AAC).mp4
+Bytes: 38993622
+Hash_SHA1:   9f0057d59f9379a956aadeef00eb93369663d541
+
+フレームレートの間違いを修正しました
+こちらが正式版ということで
