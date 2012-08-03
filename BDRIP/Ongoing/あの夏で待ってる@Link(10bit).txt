@@ -104,3 +104,24 @@ Bytes: 503758200
 SHA-1: fea6e666665b26e5ab3a0f8f684f5d1a0db46cc4
 
 四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.02 - 12:49:03GMT -----
+
+File : あの夏で待ってる vol.05 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@eD1iG-YHzSvAJz3jHjTicHICGCh0Jhq7Ehd9kQay4P0,t710Rsf4ppZEPVj5bHQY5TLEecTMohRNxqwmWYjIaWY,AAIC--8/あの夏で待ってる vol.05 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 318554000
+SHA-1: 8037074e9a9c1383a15f257038f46ca3b8e71751
+
+File : あの夏で待ってる 第09話 「第九話 せんぱい」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@qDsbOKujoLB~uv9AAiffQg8X7h10o0kcAxxXXtZFWz0,t7KUiE2vVk6AFDoZP7PNNJ8hD~2Nz-yL0lTJ0U30ZPY,AAIC--8/あの夏で待ってる 第09話 「第九話 せんぱい」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 839308890
+SHA-1: e6636c2c618504b6cd0f40a3d659cf1d080dcd31
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.02 - 18:34:19GMT -----
+
+File : あの夏で待ってる 第10話 「第十話 先輩と僕らの。」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@9Ku6A4URVURiYj1qbuEgyg9N8NpIsku3r51K--74ctM,iYpLH9at7G1epAmzSqZX4ZCq8CLaCgRC8UhjSQyFvuw,AAIC--8/あの夏で待ってる 第10話 「第十話 先輩と僕らの。」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 716889931
+SHA-1: 403e13773987514f1e39d008e21632e26178a140
+
+五巻終。
