@@ -345,3 +345,54 @@ Bytes: 502251964
 SHA-1: b30f39c70abef645e8065977d6f70a2e317b1dbc
 
 七巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.03 - 14:54:00GMT -----
+
+File : 未来日記 vol.08 映像特典 「Menu」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@EZvpSkabTw1Wx78ekkNtqDolYY7DAOeczuIG-0VjVp0,2FCNPAFZEg2Z7cvCO7h5Evm30uaEeniT0aFOMQ32rSs,AAIC--8/未来日記 vol.08 映像特典 「Menu」 (BD 1920x1080 x264 10bit).png
+Bytes: 1433736
+SHA-1: f363644bada62313a8842b1fa0140258e2426254
+
+File : 未来日記 第21話 「暗証番号」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@HOr5hFs0TgeXtHf47l5UCD11zQqCbtgoqnBr6t1QhHc,iYxab6JB9vvsM8buGGMrgNPRdiSAp-NDCgkx~AKw1co,AAIC--8/未来日記 第21話 「暗証番号」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 9155394402678328676d5cebb2840d53030031e7
+
+File : 未来日記 第21話 「暗証番号」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@cMOIVaMJNCj~vSNxjewAg3IhNgpJYxAbjlxjuYusins,Uq~1q7S-~gmt2rFMYENMJbb5R8Xe1~PnBxykqcLtrC8,AAIC--8/未来日記 第21話 「暗証番号」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 452610842
+SHA-1: 861fa0f69669e33d461500aeadf634483f169ca0
+
+File : 未来日記 第22話 「切断」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@16ifGU~3TGMFxAXccs5mb9fsF9ptgPlpWBuyAxT5jqE,xkngoaRJwPmV-LgOG4mVH9q~IPOqVVreNfgaOMIIjGw,AAIC--8/未来日記 第22話 「切断」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 4cd25db4e1367b802b45f2ed48d20a7f5fdf3385
+
+File : 未来日記 第22話 「切断」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@jr2UkDa09OzTHILBGL0JA0p8bjrTcSvBVzgrl-n4kcs,0CfJ2L3BFdxN0uz3mXQkEl-l9n3ErwdkZ3HrVkk3U4Q,AAIC--8/未来日記 第22話 「切断」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: 10af7755cae5f61e03004e69de4e0600ec633802
+
+File : 未来日記 第22話 「切断」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@88g6j9fLfQeUfeD8dGUL8WtlEyHTVIl8uyduL7cfdAc,gY9t3RSUdwxZxk~M~1h~9Bm~UZJ3VRvZ9WZw4QOVnvs,AAIC--8/未来日記 第22話 「切断」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 305069204
+SHA-1: a9a7eb7d45f30f263391abc3f9416567135bc300
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.04 - 03:03:01GMT -----
+
+File : 未来日記 第23話 「契約不履行」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@Uw4539bLqxLeppJf~C11TtwQCjbbxPSjiqq4zlyJZSY,Wp9mxIX4MqErtpEDt32CFaYBLKouCC5peRepQjxf2qo,AAIC--8/未来日記 第23話 「契約不履行」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 9ac7113a7fca2e622fbced90112aad014d5baab0
+
+File : 未来日記 第23話 「契約不履行」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@HZtmAV6cTj~wBhOaMDienbSAw0~KfpJ3dvGji8E04QY,ouBNPXx0OILqNGO3rR6AmVKBbgv~EYHZ-Roic9KQAqc,AAIC--8/未来日記 第23話 「契約不履行」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: ae251f32e200a3ccc6ce07de7a8e0dc1c43de4e1
+
+File : 未来日記 第23話 「契約不履行」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@dP6Lm7Hny2JReA5F9AXUTJ21zjes6GjBwLToitOVha4,rGvJuuGscjhYWqGfhnO-FsR7g~Oh~jtOeoMd9oiY1FA,AAIC--8/未来日記 第23話 「契約不履行」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 177066673
+SHA-1: f763e77a6e3877da3bcb3ffd4c926b43fae3fe50
+
+八巻終。
