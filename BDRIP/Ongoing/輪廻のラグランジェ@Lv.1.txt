@@ -125,3 +125,35 @@ File : 輪廻のラグランジェ 第４巻 映像特典 ｢ピクチャード�
 Key  : CHK@KYnbnp7P5AGpmHjv4vrQqZkOWeN3MYqfRt4-5AKlXXs,IdcBUJ6M-lJqzeR1CmPkUAJHozd~ryYgt2gSHnb~F0M,AAIC--8/輪廻のラグランジェ 第４巻 映像特典 ｢ピクチャードラマ 『かもがわゴースト』｣ (BD 1920x1080 x264 AAC).mp4
 Bytes: 61366789
 SHA-1: 5ccc63e0005a0817722ebc48a90d716b73d6d3ce
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.08.05 - 16:30:02GMT -----
+
+File : 輪廻のラグランジェ 第09話 ｢勝浦発→鴨川行｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@0peNs3n0ynSWXaP9ar07PItFHyPfGEIMB1LKUPPluSY,RAv8S7kqaLcGqjhVmg0tlfgr7z2sSMcJdGm0rHS0YzY,AAIC--8/輪廻のラグランジェ 第09話 ｢勝浦発→鴨川行｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 795428794
+SHA-1: 0ef72736c4b338d9503f19163aea49f98b5d7f0f
+
+File : 輪廻のラグランジェ 第10話 ｢さらば鴨川｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Key  : CHK@guiAfXjqh4F7JNiAjo-Mt76rEQ6Z7NYUYxDlLf3gdT8,dOci2oex2UfTvpzFU7SXhfRhDice-8NwGy54BKAqLMI,AAIC--8/輪廻のラグランジェ 第10話 ｢さらば鴨川｣ (BD 1920x1080 x264 AAC コメンタリー切替可).mp4
+Bytes: 804949541
+SHA-1: 2ff434c8cd28991387d191a77822c4072f539c54
+
+File : 輪廻のラグランジェ 第５巻 Information (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@it5IKhUdXKcfnBct6AkF1R-OdEW-Zrv4RyuE6kPOrgI,zmok0K2gv9i1PpgCHsfL3T-wBErQKN3il-BB9hBBBZ4,AAIC--8/輪廻のラグランジェ 第５巻 Information (BD 1920x1080 x264 AAC).mp4
+Bytes: 312725236
+SHA-1: 3b73e0a743b598d6e3aa59878c27de8dce60bc5b
+
+File : 輪廻のラグランジェ 第５巻 MENU (BD 1920x1080 x264).mp4
+Key  : CHK@lm~2dP5CXDEf1T00bpVnQmmJ8inTyvW7K17L6-4C0bk,VE~8FrhOw0SLrmv0V4eZiTXhr7tA4V7fexHiWGCuTFE,AAIC--8/輪廻のラグランジェ 第５巻 MENU (BD 1920x1080 x264).mp4
+Bytes: 12072541
+SHA-1: 9e8b8798220c96e6a8c7eab24a232276b36e17b9
+
+File : 輪廻のラグランジェ 第５巻 映像特典 ｢ピクチャードラマ 『カモガワ初恋物語』｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@fkgn811zYfQ2ch9yp0Jzu9MhdsJR0vnjvYPyTS5tU4Y,Uyi5CI0l4Uin8~ZT0af0FKM-WVMNje8J3imlkfOnAm0,AAIC--8/輪廻のラグランジェ 第５巻 映像特典 ｢ピクチャードラマ 『カモガワ初恋物語』｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 83170154
+SHA-1: 2130010fb70f916297bd5c3b645340f5f4be1640
+
+File : 輪廻のラグランジェ 第５巻 映像特典 ｢Behind of Lagrange 『石原夏織 鴨川に行く＜後編＞』｣ (BD 1920x1080i x264 AAC).mp4
+Key  : CHK@qw8GdTvqM2nPpO1D8GP1lhaonGAtOYgB9hc~B8FrgYI,haLiZk8NGvXYUjli90yWuEw~GWrRtpXoXEfW5in3kqA,AAIC--8/輪廻のラグランジェ 第５巻 映像特典 ｢Behind of Lagrange 『石原夏織 鴨川に行く＜後編＞』｣ (BD 1920x1080i x264 AAC).mp4
+Bytes: 883757653
+SHA-1: 5c69a730f36def74747fe28b240176c81551e8ed
