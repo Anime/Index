@@ -145,3 +145,63 @@ Bytes: 18182978
 SHA-1: 52cbe5b2ab4e8bbc5e1584ea785e7ef8a14f3451
 
 一巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.04 - 03:03:35GMT -----
+
+File : 這いよれ！ニャル子さん vol.02 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@J07sIps~mv65I00FiZGDRXEnr7iXdtjJJ9AHjfDc62A,89hULxtcaJPvW3Rrjet65uqZTMbNa-jt265G52AS7so,AAIC--8/這いよれ！ニャル子さん vol.02 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).png
+Bytes: 967167
+SHA-1: 
+
+File : 這いよれ！ニャル子さん vol.02 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@12pZwXwY0L15vWXLvUPOu7DIOmgSsfJDFEc5gbpG5wk,9PPIJzCBwnf8CCLEfC-4j8Wvs-dMHtb08ZavTlNkhkw,AAIC--8/這いよれ！ニャル子さん vol.02 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).png
+Bytes: 1146451
+SHA-1: bb4353647db3de7c6e039809ce3bd6d219d9ce33
+
+File : 這いよれ！ニャル子さん vol.02 映像特典 「Menu 3」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@vh4eNra6RhaiWXgcxtiAB3RyN1CIWGyCtyJ9mSQmOqE,IuvRsO2gFoeXWz6DadswS0FMA4UTvUf9yYg3wTEV5f4,AAIC--8/這いよれ！ニャル子さん vol.02 映像特典 「Menu 3」 (BD 1920x1080 x264 10bit).png
+Bytes: 1625126
+SHA-1: 1955a117c0ad8525306cd5d8129a2b6d58bc8ec6
+
+File : 這いよれ！ニャル子さん vol.02 映像特典 「Menu 4」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@ccGkgJ3QJ4mTV5v8KcXRg8LnA3GBw0F1cVWw1teDjnc,HC~q9-tUxFgrdlsH3nHMJo8D35SIek0Ybp~y4jT8iKA,AAIC--8/這いよれ！ニャル子さん vol.02 映像特典 「Menu 4」 (BD 1920x1080 x264 10bit).png
+Bytes: 1377574
+SHA-1: c72644b8ef33af417cf3141c58bc37ac5b1ddf44
+
+File : 這いよれ！ニャル子さん vol.02 映像特典 「おことわり」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Cfz546dAHka3xuWYWTQOBsrGfzgK4OL5b65hzjjOZWo,uF2g7QA1ZE3ITco-4Yb9B6LKL3h0OPpGkeIAI~xypCU,AAIC--8/這いよれ！ニャル子さん vol.02 映像特典 「おことわり」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 49011864
+SHA-1: bee325c50788bfbbec6d01e4790eec6331cf6dca
+
+File : 這いよれ！ニャル子さん vol.02 映像特典 「キャラ設定紹介」 (BD 1920x1080 x264 png x17 10bit).rar
+Key  : CHK@4m7j6IVvVbThyZzEJunSw2dm~dzCimu7VncQqdCKbho,vSTAYs~1driO3xrvRFo1dWt6dae7FnhrvH29ZIw~PwY,AAIC--8/這いよれ！ニャル子さん vol.02 映像特典 「キャラ設定紹介」 (BD 1920x1080 x264 png x17 10bit).rar
+Bytes: 5540519
+SHA-1: 4fded5c0fcefd7cacdfbadc50a4e4976cca347c7
+
+File : 這いよれ！ニャル子さん vol.01 映像特典 「キャラ設定紹介」 (BD 1920x1080 x264 png x17 10bit).rar
+Key  : CHK@jDtiBR6PfGWBS5xaYym2~iHw8JsSXzhIh5ncQiKGOb8,w-PidI8NRn3rXDRcwfBZpsMB8MN8u1nHG3i5jKVS0oU,AAIC--8/這いよれ！ニャル子さん vol.01 映像特典 「キャラ設定紹介」 (BD 1920x1080 x264 png x17 10bit).rar
+Bytes: 6173733
+SHA-1: fbc56cf73f86020d97ed8dc0915dc9105ad5beba
+
+vol.01のpngはバラをまとめただけのもの。念のため。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.04 - 09:17:21GMT -----
+
+File : 這いよれ！ニャル子さん 第03話 「八坂真尋は静かに暮らしたい」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@cL1SIbWJVyV~C~nRTNGa~QhjcoDn23BZ0j85BjMPZiE,hVIQDOZF~ffZmzVh9apdI2A-9p3yIzmg3p74xa2gKV4,AAIC--8/這いよれ！ニャル子さん 第03話 「八坂真尋は静かに暮らしたい」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 6170ef586a9faea32695247f36e42b2c6029406c
+
+File : 這いよれ！ニャル子さん 第03話 「八坂真尋は静かに暮らしたい」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@-Mz~S5DuDtuz5mCbeAZRF40qul93avpPK1IRdtJz8q4,wbszkG0hBBC5ChvBQLoqjoqNdAAI3Pqv7phjo~Ez~FQ,AAIC--8/這いよれ！ニャル子さん 第03話 「八坂真尋は静かに暮らしたい」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 396447263
+SHA-1: 064ef61bba4057e6177702c88ca755724810f105
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.04 - 14:53:09GMT -----
+
+File : 這いよれ！ニャル子さん 第04話 「マザーズ･アタック!」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@DFd6AXyA4F0IUO3dnIqJF6xIps3BaBrFPyKCJepsRkI,6oCsMJ2ILfmaekVIddwjbeTVqThI1ElrEo-DULz~U84,AAIC--8/這いよれ！ニャル子さん 第04話 「マザーズ･アタック!」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 729471265
+SHA-1: 542de2f73cd9386d2fc9aa5c2ad3e6ae9610bca0
+
+二巻終。
