@@ -92,3 +92,46 @@ Bytes: 728887127
 SHA-1: c7a1fd8a97d597379a2232f99d6845fe1d5d3b48
 
 五巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.05 - 15:01:17GMT -----
+
+File : キルミーベイベー vol.06 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@iN8dtp18EzwyCJJRHM1vx1Rq2IUco78E~Z8E~5N-fPw,D7y1J6F9xcUvCU38gJ2Q~-vyBHX9MVVYHuwHZB5kty0,AAIC--8/キルミーベイベー vol.06 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 11915588
+SHA-1: 2c4b8130623c3248f4928899c0226665925431b6
+
+File : キルミーベイベー vol.06 映像特典 「ノンテロップエンディング」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@BsWZhGOhQwsRU2cXQ2FPcgNrdVuWKjW9K96J6Pe~Hls,LpoAG9QCx~XVgYRlgIC4n5hhjwKpbKHo-l6VWqC7ta4,AAIC--8/キルミーベイベー vol.06 映像特典 「ノンテロップエンディング」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 52581397
+SHA-1: 2f6af2233a5ac00406f85be71410f7a2eab1a040
+
+File : キルミーベイベー vol.06 映像特典 「ノンテロップオープニング」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@5Uk0LBCIU8zqugpB6Wy5sFVFyrjkXkLZxQSE9LDrp-4,wgxaSEC6cr9EYAkfy25H82DMCQdmpVCDTtisfHGeuiQ,AAIC--8/キルミーベイベー vol.06 映像特典 「ノンテロップオープニング」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 71119853
+SHA-1: d2f2b28d5c9735bcaa06c5e100c75127b1b4a980
+
+File : キルミーベイベー 第11話 「キルその11 ふろたこもちてはつゆめし」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@UM-LY1LvvOeHVL08OjBvLlISbC2o1vmuu5Xtz2~0wpI,kdHzQ8VnNmxJUqRfwmCRgrjDTf3PHYkHD4GX4gW5o68,AAIC--8/キルミーベイベー 第11話 「キルその11 ふろたこもちてはつゆめし」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 729861638
+SHA-1: 2b4e5a0331d37d2326d276152fa5e194443e49e8
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.06 - 13:02:26GMT -----
+
+File : キルミーベイベー 第12話 「キルその12 ちょこがねむけてけがしっぷ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@RYX~qJTUPlBDlZBdAXiL-24YsqNr4cjB~-NcOIojEeA,mNH9rdj8J1lbEZeClN52VNZ--yLWl045vhwb~vhPUWU,AAIC--8/キルミーベイベー 第12話 「キルその12 ちょこがねむけてけがしっぷ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 702859977
+SHA-1: 4d4665e663bf99144db7d23a233e4a54d2df04af
+
+File : キルミーベイベー 第13話 「キルその13 きるがみーしてべいべする」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@t5tk4GgLLaL~sCmZhGTdi3D77xNUo8N55tlqTVcdWc8,AdybcG95ifqFLHqPU4C5kxkku4vQVWZhOQES~BtXypI,AAIC--8/キルミーベイベー 第13話 「キルその13 きるがみーしてべいべする」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 700268714
+SHA-1: ce0a6de016ab92935e4753fc77ac71a93e2fe8c2
+
+終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.06 - 13:25:24GMT -----
+
+File : キルミーベイベー filelist (BD 1920x1080 x264 コメンタリー切替可 10bit).txt
+Key  : CHK@Qe8jHTBF6cKM~7PkHvQr88ayFwbAg5xSCYd2HpNz1M4,uMPU9-kAtnOfTxfvbsqVGaEunMdDY28sgM8eCdOAceE,AAIC--8/キルミーベイベー filelist (BD 1920x1080 x264 コメンタリー切替可 10bit).txt
+Bytes: 4160
+SHA-1:
