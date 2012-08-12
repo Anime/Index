@@ -1,0 +1,15 @@
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.07 - 08:18:58GMT -----
+
+File : ひだまりスケッチ filelist (BD 1920x1080 x264 10bit).txt
+Key  : CHK@-PhPZTfUqYjgOYLHu7gW4rUekmCCAexkf-OYadn1FhQ,PV3VSfmD9oIFbF-JehWC~DLdc-nGGaijsfKbwPQOHRk,AAIC--8/ひだまりスケッチ filelist (BD 1920x1080 x264 10bit).txt
+Bytes: 6671
+SHA-1:
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.07 - 15:19:27GMT -----
+
+File : ひだまりスケッチ filelist (BD 1920x1080 x264 10bit rev2).txt
+Key  : CHK@aXnmNYnfBWfOT3RVbPC8xGc1sK93ZhEhaOrNc8310Co,pHa7sinVIhgQn4QxPcWVWPVrkG42koAarECbY-O2940,AAIC--8/ひだまりスケッチ filelist (BD 1920x1080 x264 10bit rev2).txt
+Bytes: 7974
+SHA-1: 
+
+rev2 : DVD特典のSHA1を追加。
