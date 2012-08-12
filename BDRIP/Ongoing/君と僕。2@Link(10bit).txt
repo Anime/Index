@@ -43,3 +43,22 @@ Bytes: 751014424
 SHA-1: 0c33ea90a462b93b338344fdc93e7c928d3b5dc2
 
 一巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.11 - 08:56:55GMT -----
+
+File : 君と僕。2 vol.02 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@UA5-P1OM-HTA~HEYvlyV~CSgb6UE9etkPp9O~HQipDc,vUdJ941W5Kk4fRuhStQ5Vj2IxC~XojeomGKZvMU7H-8,AAIC--8/君と僕。2 vol.02 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 11858884
+SHA-1: 4a2172b1d51a5e990aa9eec66b611a6fedbff9bc
+
+File : 君と僕。2 第03話 「VERY CHRISTMAS」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@ORqi~TedjHNYrPwAhRuKgcdMQ14fur1r-QEGUi6dHV4,aAmmBkJW6cOk58M16Gk-nzfAREiRl-FtnuIY-LLobCQ,AAIC--8/君と僕。2 第03話 「VERY CHRISTMAS」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 674253068
+SHA-1: 4bb41b33f708aadfd5385a22e3f4f6f300a95cc3
+
+File : 君と僕。2 第04話 「ゆげのなかに」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@8bjVQ1wD9Xy63cIuXhZKQonCCe8yBtlaNNZmAUEX-fs,bp1MXRm4UAOYEXzaK219afr5uzyD8jhC-RC2s40DB2A,AAIC--8/君と僕。2 第04話 「ゆげのなかに」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 638719359
+SHA-1: fb91195b82fb3a7cfcf963eb30b3c6734dfec94b
+
+二巻終。
