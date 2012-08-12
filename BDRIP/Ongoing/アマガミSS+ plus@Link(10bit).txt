@@ -139,3 +139,39 @@ Bytes: 763508385
 SHA-1: 98f51770ee3b39eb97a95174c75e4bb2e3074fe9
 
 四巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.06 - 22:55:43GMT -----
+
+File : アマガミSS+ plus vol.05 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@1pQZ5yK3KqXPbtMVqcvE9sVK4ubMNRmE7y4lxfobf8g,G-ZD0KzvjbLa0utIZfsRlYx10v2UHp30E5uLZ51pFfs,AAIC--8/アマガミSS+ plus vol.05 映像特典 「Menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 36492017
+SHA-1: bf7f143832e05c90f51fda3186206f24b9f19d19
+
+File : アマガミSS+ plus vol.05 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@3TKcVco~ymM0CqrEnl8OHogCIiCw~fllSTVmmrhC66I,q8PpbKESCygesDPrWrg0baZDei20P7ynHPIL5IV1KL8,AAIC--8/アマガミSS+ plus vol.05 映像特典 「Menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 30682387
+SHA-1: bd1ebc4c14a2c6c3a094faf6b9f9a7cb16a705d5
+
+File : アマガミSS+ plus vol.05 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@3M3gnNi1mhU6j4Pku-X7kO9hchWIgFuGQ09Q3Au49~o,pPmLKO3MhMkjk4PcMGWZJAlbNmcPfPKaImZNcz74FKE,AAIC--8/アマガミSS+ plus vol.05 映像特典 「エクストラ・エピソード+ plus」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 104582659
+SHA-1: fb8488379448ade357e5fd81aa31964a6ad7ddcf
+
+File : アマガミSS+ plus vol.05 映像特典 「特製イラストカード 「オトウフ」「渡会けいじ」」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@Wa4JtgFKtW3C15eV9S6GpFZfC44YZYRrBppmek7QisM,FDeilFs8K5qZcCfpfUzCiBGIhACjGfbu-ushxIjEibk,AAIC--8/アマガミSS+ plus vol.05 映像特典 「特製イラストカード 「オトウフ」「渡会けいじ」」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 7589924
+SHA-1: a21f1e87341ccc3dc16bae7a10eb66adf6074f43
+
+File : アマガミSS+ plus 第09話 「中多紗江 前編 ウタガイ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@N8~tPRbtDGaN-BjwGDToU2SPi8EZ2gHiyLyBVMrDwuM,NUdC-V7Fj7BW2vZ1q0n4T8A5x67k2GBNxNayuFvMge0,AAIC--8/アマガミSS+ plus 第09話 「中多紗江 前編 ウタガイ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 749265788
+SHA-1: 3cd7199f31649f126f0c6641f55ee7b257910e41
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.07 - 07:55:25GMT -----
+
+File : アマガミSS+ plus 第10話 「中多紗江 後編 オネガイ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@XqWZmjRXRXmuBAUcNnvPLMQniXYZj5TCoxsxDVmr95E,6-gIDrjb4PeefRdjz1AuCCTSqsVegSdKPzVmyLkO2n8,AAIC--8/アマガミSS+ plus 第10話 「中多紗江 後編 オネガイ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 673621428
+SHA-1: dd3251497634805544b31fd3ae9cf92b93b59f27
+
+五巻終。
