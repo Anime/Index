@@ -211,3 +211,46 @@ Bytes: 38289672
 SHA-1: 55dd078d97d23d6f899989873f2b4ba19820205e
 
 五巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.10 - 09:00:40GMT -----
+
+File : モーレツ宇宙海賊 第19話 「SAILING 19 四人の絆」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@rLJlruOZJ39letVBKGPU49wlO5C27O7F~y0NsmycJuw,RaspX7K8NEQ5vrAsCuSMf9NWquBcBM597Poo6qIHML0,AAIC--8/モーレツ宇宙海賊 第19話 「SAILING 19 四人の絆」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 567246808
+SHA-1: 7aef6f3bcc831f923d8b950f9ee5b8f9f20fbc29
+
+File : モーレツ宇宙海賊 第20話 「SAILING 20 茉莉香(せんちょう)、波に乗る」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@iIv~fimRsC3XJTFLTlqHRBWQek142N7WCvagZ5Ho5GE,b9xAjtmgM~LcFiG61hT0wUjk9QV3kg7K7kK3g0ROSFU,AAIC--8/モーレツ宇宙海賊 第20話 「SAILING 20 茉莉香(せんちょう)、波に乗る」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 738109674
+SHA-1: 5748d3f8c9fb26e38710c7b51e6fd268e48d05fe
+
+File : モーレツ宇宙海賊 第21話 「SAILING 21 決戦!ネビュラカップ」 (BD 1920x1080 x264 10bit).part1.rar
+Key  : CHK@ThzXbcFebwiFqWDig~598Q5E3CEXxunxo1YHhCbhWjg,viJl4PTS0G~8VZaosRqIRzrVFE20i~BkcsIQXVI4L2c,AAIC--8/モーレツ宇宙海賊 第21話 「SAILING 21 決戦!ネビュラカップ」 (BD 1920x1080 x264 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 3311e5300658b216a862a501390fb6b8f2a6a5c3
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.10 - 13:32:21GMT -----
+
+File : モーレツ宇宙海賊 第21話 「SAILING 21 決戦!ネビュラカップ」 (BD 1920x1080 x264 10bit).part2.rar
+Key  : CHK@o2OC6VRj02Xyo3fS8K5QWtXyOfSABQnhdAX1IlFsfr0,3YKeVPOsccAiHsO4M~uXm788bBLBV8Ao2C8EGTazS~8,AAIC--8/モーレツ宇宙海賊 第21話 「SAILING 21 決戦!ネビュラカップ」 (BD 1920x1080 x264 10bit).part2.rar
+Bytes: 524288000
+SHA-1: 5a4c8da752f0eb519c3ef902da76c5ebf8b81c95
+
+File : モーレツ宇宙海賊 第21話 「SAILING 21 決戦!ネビュラカップ」 (BD 1920x1080 x264 10bit).part3.rar
+Key  : CHK@240~KEHVqPD9KRs8JcT~Yr48ha8y7YAYfLbhjVKZ7T4,Q9EB8-4whAGwL8KpFZUStnsogDCtXsv9k7Xp1W4cfl4,AAIC--8/モーレツ宇宙海賊 第21話 「SAILING 21 決戦!ネビュラカップ」 (BD 1920x1080 x264 10bit).part3.rar
+Bytes: 4998606
+SHA-1: 05e540812d9270e31e106fe9170e40235dacb6c3
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.10 - 20:39:03GMT -----
+
+File : モーレツ宇宙海賊 第22話 「SAILING 22 海賊狩り」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@DcvgWzBgAoVQm97L7FfWV~SiNCwprXQ-i~m2n2mUgGM,Vq5WJQU6RouWgAnyHQ2cpxj-e8WS61T5CzUj-7zMEIk,AAIC--8/モーレツ宇宙海賊 第22話 「SAILING 22 海賊狩り」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 812069293
+SHA-1: 2e7a80358533c3758f6c6b16af72626b7297076f
+
+File : モーレツ宇宙海賊 vol.06 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@vo2wRTxXHJCaA0reyMX~yxccxYh83OE3cRq-SxZFoTo,vtWomWZKDJZKwqOY3SgUc~bmlt-lHT7QT~kVpjXizJM,AAIC--8/モーレツ宇宙海賊 vol.06 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 10326632
+SHA-1: 9193202cf7558c780f44a744fb2cbe071a0281f0
+
+六巻終。
