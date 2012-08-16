@@ -13,3 +13,346 @@ Bytes: 7974
 SHA-1: 
 
 rev2 : DVD特典のSHA1を追加。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.07 - 17:21:17GMT -----
+
+File : ひだまりスケッチ 映像特典 「Disc.1 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@h34oo-h7bi4DGejmPRTx2aU6m8OnFwPQdtgZjj0~Bm8,nsAcU~3VaPpuC1PK-XXTgpKnJLQyODQ9K-9X4qeACVU,AAIC--8/ひだまりスケッチ 映像特典 「Disc.1 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 13340878
+SHA-1: d8fce1311d3a6e3eb337431a38c013ecbfdcd30e
+
+File : ひだまりスケッチ 映像特典 「Disc.1 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@kqUaMAAHPKeiJxDtbmm5efqpwea8p-nWITMVGolUmqs,7I2vGjIy4WKljCHWLBdUUWFukKbJq2egCx0FNeaegKo,AAIC--8/ひだまりスケッチ 映像特典 「Disc.1 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 11098219
+SHA-1: 71e64b6c4c1a617dba2b91ffd407d9c3f141c57e
+
+File : ひだまりスケッチ 映像特典 「Disc.1 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@YyrrEblRPo1AeSnbjJCXpFRUAheH9f~j4oIzrSHKUTg,8eymPStMOfyNwVy5GhG9zsKtYsUuJc8DTkroMzDxikk,AAIC--8/ひだまりスケッチ 映像特典 「Disc.1 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 21732998
+SHA-1: b42ff1ea5a03bfcafe06345c007cb1b7a8c271d2
+
+File : ひだまりスケッチ 映像特典 「Disc.1 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@sph7mwKAJmNwQc3B4TqnMf8yBYomtTiZVSSPteY~L3k,JBom~sMYgay4l1vwjS8Z-8nTSJG4wIjK~Kc7h4kpU08,AAIC--8/ひだまりスケッチ 映像特典 「Disc.1 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 17534398
+SHA-1: 2a601e5a7414fd376a8024ec75cf6d85708e7543
+
+File : ひだまりスケッチ 映像特典 「Disc.1 Special menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@wqAEAjNNHfd~592-CHGZt2Jsi3La82e2z5sIzUTj~T0,z6aIZTqw48U-FoYk~TPcIH-bErg1h5lYXyyhUDXuNeQ,AAIC--8/ひだまりスケッチ 映像特典 「Disc.1 Special menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 15047267
+SHA-1: ff0554574b77f217beb2dbd6fbbfe24d23386830
+
+File : ひだまりスケッチ 映像特典 「Disc.2 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@CyenB3TAi~Y4jRjbiVkyTKXPnUWclO6ea1dYvOS-lSQ,-EjP2CXeUp4NLgokNYRVgrALlnPbKHHYdWscfbZ-nTs,AAIC--8/ひだまりスケッチ 映像特典 「Disc.2 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 13283910
+SHA-1: 2e82571b6a4049d13a67ab32d456ac2ba2b16212
+
+File : ひだまりスケッチ 映像特典 「Disc.2 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@nP-dhhnvOk5xkFGxHtH9lC3ZhiXXVIIbEiDrIGtJkr8,0Tno7bgpep4M~qsDLkigy9iSGtM3~PkKvf8PLoVyeWg,AAIC--8/ひだまりスケッチ 映像特典 「Disc.2 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 10902821
+SHA-1: 2e7e8a06f5953b83d126a92175f4a6f5061d1f30
+
+File : ひだまりスケッチ 映像特典 「Disc.2 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@JyhO7XlifXkbZyRkyk~INbAf-r-IoYA0oro2nAmdgO8,6jjWJM-Ha4giG2UlgWJ~eRSoY9hPHuL1Kl~CDOYvU-Y,AAIC--8/ひだまりスケッチ 映像特典 「Disc.2 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 22668745
+SHA-1: 7eeefb371eca0eb69faeefcf26cf82e5039f60e0
+
+File : ひだまりスケッチ 映像特典 「Disc.2 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@4uNQEySDmxpu58xaWfjLC65Fubyjeg6SFvlhcfH9TKc,9Wv0OGn44-IfVZUIVd76sOp41Go9WoL3edY2qa-EsD4,AAIC--8/ひだまりスケッチ 映像特典 「Disc.2 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 18320395
+SHA-1: e9c8001d1ad53f042dc3b276e1492fca0c225536
+
+File : ひだまりスケッチ 映像特典 「Disc.3 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@2~wot8dSAHuyfNLBbGCIeIU-dWrxYrJGVDQtTZNivJ0,svSpi9vNzO6TCYBAcpNJSYWMe-DcuRI9hjPIJXPlOec,AAIC--8/ひだまりスケッチ 映像特典 「Disc.3 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 12085850
+SHA-1: 8d72fe05071fd3e8af5b28e82287eca82124be47
+
+File : ひだまりスケッチ 映像特典 「Disc.3 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@pig4OTdMFOW~A6rxYk6UFsqCfmqi0bEUaoqPUjXkbhA,a1OQD1mbaH0y9etrZnzPeN8r9u88zQaU~82PWOPjyCA,AAIC--8/ひだまりスケッチ 映像特典 「Disc.3 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 9853317
+SHA-1: e8f74492e4e33b3738d0e77b46783ef383b20c35
+
+File : ひだまりスケッチ 映像特典 「Disc.3 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@QoeVtWp2VHhCrCNv9l~N06T7YqHONDLs7zB9efAoqwY,5wKhL~jOnF6lUkRgzYrCc2Kv-GQ3ioFZ8wUjUZk6ciY,AAIC--8/ひだまりスケッチ 映像特典 「Disc.3 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 20620242
+SHA-1: 72bc5b82d92f78c5865012f168b0f76eab1f2546
+
+File : ひだまりスケッチ 映像特典 「Disc.3 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@YcRB8aD8n3PU-2KJmT7uyv2bnpThGSvwbJ0jcByERSc,pWUMC~PvHu-hez7ez6sWg4LebwZUaMx3RS4az1WQdd4,AAIC--8/ひだまりスケッチ 映像特典 「Disc.3 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 16573077
+SHA-1: 5d58645401ab113385eee1bd3d91296bcd85ad70
+
+File : ひだまりスケッチ 映像特典 「Disc.4 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@BRWanzmVQcgrTaG1ma8042GTFOm6LUvhf0IS~ZNRClU,Rr5Jjyd9XLZQi5cPsoZAnvUWO2~KnkwSVr4fJ8nqpe0,AAIC--8/ひだまりスケッチ 映像特典 「Disc.4 Chapter menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 12195363
+SHA-1: 404986b1ffa79dae456ea21e61f10423cd0aeb41
+
+File : ひだまりスケッチ 映像特典 「Disc.4 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@ViNBy9iP64VshrGzCwLqPr3Kb49oYTfdJQSAhY0GR3A,dxtfpB~e-mpmVxJilqwVFdmKfCSgzBaYP~grtqVY3ys,AAIC--8/ひだまりスケッチ 映像特典 「Disc.4 Chapter menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 9878800
+SHA-1: 863f624f1c7e3095ac88f41ab4e87d4f731066ee
+
+File : ひだまりスケッチ 映像特典 「Disc.4 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@KLz3eV1AzCl8csavmPiOzxu92uk1CIK0qj8U~K2oqaw,IvJjioidiAlIpfn-C87e35GUBRZpJSZlU681UVJ8bs4,AAIC--8/ひだまりスケッチ 映像特典 「Disc.4 Main menu 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 20801764
+SHA-1: e78ab4a3cc223556144a97c1f5a28f0db52c6483
+
+File : ひだまりスケッチ 映像特典 「Disc.4 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@w7M05eEdHc9NsweiBXsPzSiHv0bRaLPmHVAy8yzdVA8,48i93-8dXLzMGGZ-tOKSGUJe1pSyCQhu5srHVUL1KqI,AAIC--8/ひだまりスケッチ 映像特典 「Disc.4 Main menu 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 16756359
+SHA-1: 2f450ba837add3b384dabc853ec4a7875e13c606
+
+File : ひだまりスケッチ 映像特典 「Disc.4 Special menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@g4JKxCbxabbmZPmx9gEVzTBabAStZPUtWSakfH0GI7w,e9aK5ZKzwFTCEdCrItym56Mmi6eMndO5-CMHyFrfmBw,AAIC--8/ひだまりスケッチ 映像特典 「Disc.4 Special menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 8400132
+SHA-1: bc6c46a35138d9e55803085afe3889702ed6f94b
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.08 - 02:37:07GMT -----
+
+File : ひだまりスケッチ 映像特典 「ノンクレジットED」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@EtmPtWPm4NQivuB9ICnzSRbXO6cK0FHArmcu0kPIcVQ,SvayOWoGxsoVCxm6Iyc9-d4tPlXUolyYlRx4OhrevMM,AAIC--8/ひだまりスケッチ 映像特典 「ノンクレジットED」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 49618064
+SHA-1: 63ecc775998b12bc8da0bff47187eb4ba06799ef
+
+File : ひだまりスケッチ 映像特典 「ノンクレジットOP 1」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@gaY7wKEAkSPCAlixwVpPZFFH9Ip6K3aeI~psZCmO6Ag,KISrzrBR8xHVPDo86vb4CN-A205a7LfCUTwlEgG1XpM,AAIC--8/ひだまりスケッチ 映像特典 「ノンクレジットOP 1」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 66215677
+SHA-1: 8717781b27a7a321be7e5150b6cf7ab2249ac146
+
+File : ひだまりスケッチ 映像特典 「ノンクレジットOP 2」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@7qQR4jGse6hvTMgr~qjGUc70DZ-taSWZP3qja0e9NKw,OAJf1eA6NBlokUefY3~rLPNdo8eEZbTTAq~Wu0klUY8,AAIC--8/ひだまりスケッチ 映像特典 「ノンクレジットOP 2」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 66739465
+SHA-1: 00016f291492dff0be2b71b8ad2bb90a7f7246f3
+
+File : ひだまりスケッチ 映像特典 「ノンクレジットOP 3」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@GbzOxIE1ldEU~MCzpEohy4IGpy3pzG~rnUAIc8NLqCQ,MIBsRALL36f5uuXg3bFNkWoR1UHaUrw5E98Z2WTJPFQ,AAIC--8/ひだまりスケッチ 映像特典 「ノンクレジットOP 3」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 67031910
+SHA-1: 3245d63b3c3a1c2b5f5cc7415a18a48208078f38
+
+File : ひだまりスケッチ 映像特典 「特別編 次回予告」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@kEKhppGtofSmog5DTsgDqNZPdoUY2Xu1i7I235q3zQk,5Uxp8mq4wsCNnypgM1nYHnyKN3gbf-zYNAhdh-qOhtg,AAIC--8/ひだまりスケッチ 映像特典 「特別編 次回予告」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 21545928
+SHA-1: 3506ebce66141940687593a13bee0d8b0655f39f
+
+File : ひだまりスケッチ 映像特典 「main menu」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Key  : CHK@a0QEhsN8gu0ghzbC33xVXt-a1x52F~USZdWt5d13T-w,v4~5eebMwOqAfqOQCLoq7RdZNv4MaPy8eMWYTca1RYM,AAIC--8/ひだまりスケッチ 映像特典 「main menu」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Bytes: 33232435
+SHA-1: 019044a2f4c09d4cdef9b80c9111ea9919d100c2
+
+File : ひだまりスケッチ 映像特典 「「ひだまりスケッチx365」新作トレーラー」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Key  : CHK@zMTWUTRK5iCjkZBGjmyBHxqr48cY9j92fRRNDwPM1xI,K9OETw6SxLkcItNZ3G6tR~P-~F1SQhF7Wb0eQ6YhoY0,AAIC--8/ひだまりスケッチ 映像特典 「「ひだまりスケッチx365」新作トレーラー」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Bytes: 21626267
+SHA-1: a92256fceb3171f7fb15e22dba116014d5d992f8
+
+File : ひだまりスケッチ 映像特典 「見える「ひだまりラジオx365」」 (DVD 720x480i x264 [SAR10：11] 10bit).mp4
+Key  : CHK@xcLiCCpJB5q4qlZtk4YAOIuoux80HYrDbCyRsLGozr8,UkkiHfOqvBn1RErQci0Fl~EbQluzaSwHX0cdkriBmHU,AAIC--8/ひだまりスケッチ 映像特典 「見える「ひだまりラジオx365」」 (DVD 720x480i x264 [SAR10：11] 10bit).mp4
+Bytes: 136733894
+SHA-1: 9d71a917f9111280b74bc4c17543fc7ff224ea9f
+
+File : ひだまりスケッチ 映像特典 「8月26日、超ひだまつり」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Key  : CHK@KokomIg-Li7n0rujw3AGaUqWUzJUL2Bf-xZn7K60zTo,SK9FqaOuketz~hbczr6BX-tvC5bRoZcii4c2y91eiqs,AAIC--8/ひだまりスケッチ 映像特典 「8月26日、超ひだまつり」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Bytes: 180362385
+SHA-1: 87167cbe66f21868eb1773a1445d3c8a1cf14573
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.08 - 09:06:17GMT -----
+
+File : ひだまりスケッチ 映像特典 「3月31日、ひだまりデイズ Angle 1」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Key  : CHK@MmRl42OFQZUgvK-Re-P7w90jzIuiUKPzI43cIiCTr3s,WS2BD3LjjUryjlY8cFwOR-XT2-T3sYWO-VQFvXbxSMo,AAIC--8/ひだまりスケッチ 映像特典 「3月31日、ひだまりデイズ Angle 1」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Bytes: 642875706
+SHA-1: 6e74637900d26a8342be47fdad6232ea599a392b
+
+File : ひだまりスケッチ 映像特典 「3月31日、ひだまりデイズ Angle 2」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Key  : CHK@7uk7D7y5RIiayt7e-eC2B0P14MyQzAwrc0-ZQlkIhC4,t~qnyVLi56UrP3WhoP1jZib5gR1g4IqJ59TFlNnCbas,AAIC--8/ひだまりスケッチ 映像特典 「3月31日、ひだまりデイズ Angle 2」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Bytes: 663627187
+SHA-1: 244e9ddf663dc4ccd8913047bf4066e2b0e40ad8
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.09 - 01:12:31GMT -----
+
+File : ひだまりスケッチ 映像特典 「3月31日、ひだまりデイズ Angle 3」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Key  : CHK@CvuJ1wBBqENy7pRZL47YArj0NFlSvw53huNhvdy8lc4,GpEp30NbqeFdCJmrraCbRTGzMMEfILOVxfDykuYozPc,AAIC--8/ひだまりスケッチ 映像特典 「3月31日、ひだまりデイズ Angle 3」 (DVD 720x480i x264 [SAR40：33] 10bit).mp4
+Bytes: 744563000
+SHA-1: 90df3f7a1eb42776f23aadcecda3fa4a220414da
+
+File : ひだまりスケッチ 第01話 「1月11日 冬のコラージュ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@fHDoOPUj2oqhSUz9OpM5cKKHMQGoqVw5grmihQEh8lg,7PESZFvjaxFkmpweWSIMTwnVpQE4PKygHbQRSYXQJHg,AAIC--8/ひだまりスケッチ 第01話 「1月11日 冬のコラージュ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 65fad323d0de1080a7a28a029dba0b40961ccad2
+
+File : ひだまりスケッチ 第01話 「1月11日 冬のコラージュ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@3Fl7eIK5vdDku~XRYP7~16fNWphnQg-N-5q1XSXgHhg,ue4eNy8TE7ybjOBHQp-3upkVt2ZTN653sXxoWqXXvrM,AAIC--8/ひだまりスケッチ 第01話 「1月11日 冬のコラージュ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 360015106
+SHA-1: fe3768fc9f7ab488fd299894a40b37aa9564b10e
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.09 - 09:13:58GMT -----
+
+File : ひだまりスケッチ 第02話 「8月21日 ニッポンの夏」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@450zL-jn-fBQjl104rHUxhyOgx4niDWLGuBniKobv2Y,khppyG65JeVNF9J7ALTvm8LtDircsRzgSuHMu17~zEs,AAIC--8/ひだまりスケッチ 第02話 「8月21日 ニッポンの夏」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 48248c45f76f6012ab2262946a90ecea34b79c9e
+
+File : ひだまりスケッチ 第02話 「8月21日 ニッポンの夏」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@VpvBwwM8SdCF2QcLLLDq8wmQS3NtO40UGjUwri02dsg,FMQvzm8K1d~zz1Yp92R2W5IPfiK0C6~Cffn7heVAUhc,AAIC--8/ひだまりスケッチ 第02話 「8月21日 ニッポンの夏」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 467782172
+SHA-1: e2f8ac2a20b9458de43234a5a12198391155b15e
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.12 - 06:46:41GMT -----
+
+File : ひだまりスケッチ 第03話 「6月17日 またはインド人」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@dFDNi4Yysj3HUcCdxHdCimSHHOWQXIHeFtqnQQimIiA,Q8IkhsTnRqwKLafCPVsPKQ0RFY8ne2VSLCY46DoQdYM,AAIC--8/ひだまりスケッチ 第03話 「6月17日 またはインド人」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 04c9cd800ea5b240da2c190049f02f00b1f40616
+
+File : ひだまりスケッチ 第03話 「6月17日 またはインド人」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@eur9UeC37ShuhkTC3R-J1vElWlkxKoxbue5iHXLhoWs,kwG-QpZC0Zp-PjZcZ9hfF1ch2YW~iDPwnZ9N~Y3xh08,AAIC--8/ひだまりスケッチ 第03話 「6月17日 またはインド人」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: d5eb470da08c5ef5ac63f77a8d000ca2f9f008e3
+
+File : ひだまりスケッチ 第03話 「6月17日 またはインド人」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@eWZ3PLzvItTTwN3dl2W3ctmr8JQzI1K5NZGhJErmmh4,gPPzDweUnv739wxbg05ZEAKNYPGiI3~e6Su5FAREpnk,AAIC--8/ひだまりスケッチ 第03話 「6月17日 またはインド人」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 21356883
+SHA-1: 6f9cbf45b8a4552a70734315f12e4e9287304623
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.12 - 15:24:34GMT -----
+
+File : ひだまりスケッチ 第04話 「5月18日 歌うショートケーキ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@q0KupEQJYycxdxGDlaHQA5s3Qe6r5UtRWUshgvuTMyQ,4YqIt3i8grKQUboFepLEVY~EGb8vS05EaXhnwl2wcAg,AAIC--8/ひだまりスケッチ 第04話 「5月18日 歌うショートケーキ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 770441124
+SHA-1: 9a04f28e5d71fcbcd08f6d383ed0cb64f0fea031
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.13 - 00:30:34GMT -----
+
+File : ひだまりスケッチ 第05話 「2月13日 こころとからだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@7U~vtXYUGDtHj-Hivcn3gg~fMnMXhjTQbsEaQpk4hOM,ZMAFuZaFR3ni4zk4tcoSKkKdbjQKcfFs9kSyXCJMUpA,AAIC--8/ひだまりスケッチ 第05話 「2月13日 こころとからだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: cc8ad440681c865569f29ef7f8a7611be35baa2c
+
+File : ひだまりスケッチ 第05話 「2月13日 こころとからだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@6US9-PUwn4XpDBn2Xxd3jUAhX287cHSxhU9YAt7loLE,RQ0wB6XZLwmu~E8-bs04ZYq~0Na4X2SGfFtTKAGj9CY,AAIC--8/ひだまりスケッチ 第05話 「2月13日 こころとからだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: 6784c01018b5d31ddadfc09edfc04e6961d18875
+
+File : ひだまりスケッチ 第05話 「2月13日 こころとからだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@oOCPn8Tl2GjxCh-Enn89jMW-8z2Y6eMgGuvtGBrcJuQ,Vroz8SqUj-a4r-wC1c8Sya6XlfFCZgkINpt9MnV-xSs,AAIC--8/ひだまりスケッチ 第05話 「2月13日 こころとからだ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 1364385
+SHA-1: bdb7c902cbc8f4badff3a5086f4972a36482a77e
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.13 - 10:17:16GMT -----
+
+File : ひだまりスケッチ 第06話 「7月14日 ひんやり、まったり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@oouhmGiMIKXLYgTCku5L02-sGpBlfcgXUOl4gq0xyTA,HmI-HdILlnaXYaMotJjmjLUSWxh71p-nxKYZo6oNKcg,AAIC--8/ひだまりスケッチ 第06話 「7月14日 ひんやり、まったり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: b8881ca63f84e1a963cd78a8347768b0ef793eb6
+
+File : ひだまりスケッチ 第06話 「7月14日 ひんやり、まったり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@F6uf7a7lsLq2qZt1~VQ-aitkdArNxsfWjIO7UqGp1Mw,50LvwFR0YJyXUHO7z6jR5e5pTUE3twhhwjuS1PrZGtw,AAIC--8/ひだまりスケッチ 第06話 「7月14日 ひんやり、まったり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: aa01e2e32f23fb70433f72572d421ed10838bbc8
+
+File : ひだまりスケッチ 第06話 「7月14日 ひんやり、まったり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@qmA-H3YDlFgrymS4TLSF01m~bHKWdEz1ZKOLgr0VahY,~RB3~ChFf3PC6Yq8jEQPQHRBmIuyjc32gY9N52pXcQs,AAIC--8/ひだまりスケッチ 第06話 「7月14日 ひんやり、まったり」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 201063984
+SHA-1: 41bac69ad112332d22973e53340539591ccb63a9
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.13 - 20:22:40GMT -----
+
+File : ひだまりスケッチ 第07話 「10月12日 嵐ノ乾燥剤」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@YPlqAdVlVkCTwsshCT0CD7ApKGCbUsrv2UX6PX7eg~4,1E~LYeKSLW0rpl39MSy045AxzES5Crr-nWD7-JMC3lg,AAIC--8/ひだまりスケッチ 第07話 「10月12日 嵐ノ乾燥剤」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 6c1a7f9a1135c04d9068787287b9302a054e55eb
+
+File : ひだまりスケッチ 第07話 「10月12日 嵐ノ乾燥剤」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@dWeuHw0QEsM9ter6JubnCbzsLJGP8ldA2fWfsiSxK2Q,GwaGJYFxo1ipuVIj72TPd7~FzwxNj5n56aVhLhbiNG4,AAIC--8/ひだまりスケッチ 第07話 「10月12日 嵐ノ乾燥剤」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: cd9c27c4854a74eabc09fe7cec70cca1e095323f
+
+File : ひだまりスケッチ 第07話 「10月12日 嵐ノ乾燥剤」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@FgVtFPJS76qWzTEW43Zkf9w4N4XAZivWM4jlVHfvCx8,t6NESc3KHhFbeVsTTp6RmBLHMHfmChjlrG-NkC9TTAA,AAIC--8/ひだまりスケッチ 第07話 「10月12日 嵐ノ乾燥剤」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 93222667
+SHA-1: 927db2f08d751b310083d7acaf73d012ee12a6fe
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.14 - 03:23:41GMT -----
+
+File : ひだまりスケッチ 第08話 「3月13日 3%の希望」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@jcEmLKZFR5MaZ1jgZwkPVI~Y~3AOMBxtIqpYh63qQlI,QZnrYo4eiPm7kG6g~bjLf1ARNpkvIU74LgRtbWvr9-o,AAIC--8/ひだまりスケッチ 第08話 「3月13日 3%25の希望」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 653761076
+SHA-1: 12fe68415704bb416bce241508a623568318e7d2
+
+投稿する場所ミス。内容は同じ。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.14 - 07:44:29GMT -----
+
+File : ひだまりスケッチ 第09話 「9月4日 裏新宿の狼」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@tWlBjSQWo~4Y3eWyVywbN2GGSPk7JzZaSYSPIKSsysQ,va1in8nSt7ohdMXBVOF4XwEIJkTq~RvBWUkqlecGd94,AAIC--8/ひだまりスケッチ 第09話 「9月4日 裏新宿の狼」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 807223081
+SHA-1: 386a149f8b5968e916a4f61a9523f06b60432e86
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.14 - 16:40:15GMT -----
+
+File : ひだまりスケッチ 第10話 「11月3日 ゆのさま」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@WTeJhm2JSrZV8vs1hUzG0BRIdXtqAeChMIpf-hqXKFM,ea2xTpSF9iHmtIlvLZnBH1s9zIC0gJC0gKtXo89gyoM,AAIC--8/ひだまりスケッチ 第10話 「11月3日 ゆのさま」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 3c15c10ba8b0ae8515953886263318c51703474e
+
+File : ひだまりスケッチ 第10話 「11月3日 ゆのさま」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@O15bpKSt3NFVgIm3XXia~ahiUMlTDYcm8x5pz99UJ5Q,Z36M7TeVc8E3S9PWRGnmrgP1US-kW~~cYOrHHQ1FwYE,AAIC--8/ひだまりスケッチ 第10話 「11月3日 ゆのさま」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: 77450b608133a2f0b2906fe1fb06cac6b65f6abc
+
+File : ひだまりスケッチ 第10話 「11月3日 ゆのさま」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@AJUYHsj~RiJDHapEFK2QcrkCAgdgEY-jrbneYhWLfOk,91gt3mtnlat26decTGIRXHg4KhcqUoEbnNIJkjzgz9w,AAIC--8/ひだまりスケッチ 第10話 「11月3日 ゆのさま」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 31613768
+SHA-1: ca5b87af5d780702fa659eae5e3b31d1cb3d6f63
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.15 - 00:20:17GMT -----
+
+File : ひだまりスケッチ 第11話 「4月28日 まーるキャベツ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@L2TEH0Vyr0KDPDWTFC-v7ieu9fDYR7w8rFdynwgHO14,GcXe7JoeQ1NnMkBziHRgB-V9JjEf1L2u0DzaY728LiU,AAIC--8/ひだまりスケッチ 第11話 「4月28日 まーるキャベツ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: e9f4983ac40e1660118347cb50f69be488aba247
+
+File : ひだまりスケッチ 第11話 「4月28日 まーるキャベツ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@jeefz44318SkNI1M-xlDHft~Egur9E~7YXqPde-CDWs,ekXWimqNTh309HPx5auzn9-BBh4RSdAS~LOBQM1xi1E,AAIC--8/ひだまりスケッチ 第11話 「4月28日 まーるキャベツ」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 464689215
+SHA-1: 63518a0c9b1af4167119744847848b0f0a489024
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.15 - 10:16:02GMT -----
+
+File : ひだまりスケッチ 第12話 「12月25日 サヨナラ…うめ先生」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@hOg-~DsplcCdohCdgCuurP7HQ0B3sSO7h2zavZaAmbw,tny6JNQ~YObsY2reSl-alTi2vbaqvKechuG43q33FrI,AAIC--8/ひだまりスケッチ 第12話 「12月25日 サヨナラ…うめ先生」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: 6a56731f6002c7adc42bdd2a4053046c01441309
+
+File : ひだまりスケッチ 第12話 「12月25日 サヨナラ…うめ先生」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@T5DXT5qvdEmwlGmdKCV9XKN2ddQUgFPPMNbXCgt-6hg,QvwS5uiWsRoufIZm13gSKfb7QEYzaFpcWy9ymRKN2w8,AAIC--8/ひだまりスケッチ 第12話 「12月25日 サヨナラ…うめ先生」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: 503a4948e6d31b83ed3447e78743e513a1b7f7a8
+
+File : ひだまりスケッチ 第12話 「12月25日 サヨナラ…うめ先生」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@pbDJFohfZusy00JYtzsBld8kZB2pDDv4Oav-F~~PpAE,eTZNFRVGU0-507eWzG7OcD9p4f7NiMSLQMBEaJs-Re4,AAIC--8/ひだまりスケッチ 第12話 「12月25日 サヨナラ…うめ先生」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 53267294
+SHA-1: ecfa618474a0e0318a550d268e0b9e893a2a1807
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.15 - 17:49:05GMT -----
+
+File : ひだまりスケッチ 特別編1 「8月11日 そして元の位置に戻す」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@j-hynJ1TkWCAozGz8KxurfF9L-C5eys7OWlaSbDCldU,Il0V0DpLGPJlfSrxPyPx8t9ulrMtvTP244DpQMkEE3o,AAIC--8/ひだまりスケッチ 特別編1 「8月11日 そして元の位置に戻す」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: b94697d6af6d9e5a971b1764a1c168f7d339a3df
+
+File : ひだまりスケッチ 特別編1 「8月11日 そして元の位置に戻す」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@qCx3MlhDO02SnJHwUBxtQC~PFwC8P~LaYu0Wg2Hnm8I,JIRfDDq6Z8cLUOxV~wd2GZFoJbFftxGv-1m~QJuYKXI,AAIC--8/ひだまりスケッチ 特別編1 「8月11日 そして元の位置に戻す」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 472087217
+SHA-1: 4dd4b7ef6ebcdc1d3aaa0fdc6f4956b58db8be7b
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.16 - 02:09:58GMT -----
+
+File : ひだまりスケッチ 特別編2 「11月27日 そこに愛はあるのか？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@z9Y2zqywPCDJ8w74Krzyd3B9fOiZtewn58qhdv8hP24,YZIK9VZ2aA76mR57C2lC5DZpCMw3~ToLIm~eQhqIzOA,AAIC--8/ひだまりスケッチ 特別編2 「11月27日 そこに愛はあるのか？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: b3aa60ab507efdcfe0494ce0b9cb934759dd6f7e
+
+File : ひだまりスケッチ 特別編2 「11月27日 そこに愛はあるのか？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@B-2FMDi-6PTAa~Q74KgwVyCEepGU5wXO1v32RvGZFvQ,UT7EKugc-oSL2UnSS-6SSX-4TFHIq7A738QkuzK4Byw,AAIC--8/ひだまりスケッチ 特別編2 「11月27日 そこに愛はあるのか？」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 496347236
+SHA-1: 9fb841d204fab0d64bd59b783d518c24a72aae52
+
+終。
