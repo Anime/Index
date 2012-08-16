@@ -105,3 +105,44 @@ Bytes: 72842216
 SHA-1: 45ffbd300a4793fa771758f8a3507b566db62628
 
 二巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.15 - 13:42:51GMT -----
+
+File : 咲-Saki-阿知賀編 episode of side-A vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).png
+Key  : CHK@K0L2VkctyWihrFXdPz-ucjZRn4HmGNsoV9t-rW7x5mk,FD3qEoICoH7rnUT51Ao4OASCDKwlEs8CTtDwuuISYoo,AAIC--8/咲-Saki-阿知賀編 episode of side-A vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).png
+Bytes: 1334732
+SHA-1: 127ba82e4d32911c9c58975b008c8208ec9acdd8
+
+File : 咲-Saki-阿知賀編 episode of side-A vol.03 映像特典 「ノンテロップ・シリアスエンディング」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@z30gAr5VHJogWPd0zBg8A-l4MabVFg9e5yDpLz5I~l4,i4-g-hprjvZnFMS3uo8VY2u2aLqh-JYJ~XgqPDiki00,AAIC--8/咲-Saki-阿知賀編 episode of side-A vol.03 映像特典 「ノンテロップ・シリアスエンディング」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 144734262
+SHA-1: 56ca866bea888fecfb5a705b05ad850c4fa02e6b
+
+File : 咲-Saki-阿知賀編 episode of side-A 第05話 「第5局 強豪」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Key  : CHK@LPeIdR3rWwqVVIB0HXsKM8JKprEo2ujB1OAkvn~JYVI,THK1fQ7s-ef9rLpSDKBdo~iTmtgsTQR5jrNP1yT-yW0,AAIC--8/咲-Saki-阿知賀編 episode of side-A 第05話 「第5局 強豪」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part1.rar
+Bytes: 524288000
+SHA-1: fc178c6e0e0625f49b5be348195e7f7694b44819
+
+File : 咲-Saki-阿知賀編 episode of side-A 第05話 「第5局 強豪」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Key  : CHK@2b3ju10UY7V3YWn3Y5VID304e~G9LOvIKE8HBMdwc94,l5Rrr-c8HhaEP-a0eNe~Mqy26bal47GRkYm8Qz5qtZU,AAIC--8/咲-Saki-阿知賀編 episode of side-A 第05話 「第5局 強豪」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part2.rar
+Bytes: 524288000
+SHA-1: 0f079b018d85e443dc19e65a76d7dbcd4514f9ee
+
+File : 咲-Saki-阿知賀編 episode of side-A 第05話 「第5局 強豪」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Key  : CHK@Wpr1FMH8y30176iX697uwos~EYWFGedJmQJN2SyvsYo,Rd0unRl0lqCiy5omGi2nuly9OCgTadNYp6tmKX5tYpo,AAIC--8/咲-Saki-阿知賀編 episode of side-A 第05話 「第5局 強豪」 (BD 1920x1080 x264 コメンタリー切替可 10bit).part3.rar
+Bytes: 94679465
+SHA-1: f6757076a2829d7ad2f735a5faf654a61eb3771e
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.16 - 02:09:37GMT -----
+
+File : 咲-Saki-阿知賀編 episode of side-A 第06話 「第6局 奪回」 (BD 1920x1080 x264 10bit).part1.rar
+Key  : CHK@U1csZ05yfdHdKTNqy7iaZ2criw~aC6nzfu9GqwTT1hw,Q8DpaqFxwpnky~F16W-vaqNttG50ZVEyGUnKlLgg9x4,AAIC--8/咲-Saki-阿知賀編 episode of side-A 第06話 「第6局 奪回」 (BD 1920x1080 x264 10bit).part1.rar
+Bytes: 524288000
+SHA-1: a033628d17f72f1e42960d2453873333502b2d09
+
+File : 咲-Saki-阿知賀編 episode of side-A 第06話 「第6局 奪回」 (BD 1920x1080 x264 10bit).part2.rar
+Key  : CHK@yZMVhQWg2XGBWfGygmI3SRfFsv5PO58SZML20M69FBY,qQhmmKzM26iEIeQGES1AIJd0oOSma6RS4RPZRF3hvPI,AAIC--8/咲-Saki-阿知賀編 episode of side-A 第06話 「第6局 奪回」 (BD 1920x1080 x264 10bit).part2.rar
+Bytes: 505623038
+SHA-1: b02296fd7c4040cef1bb8c3cd740a334c9c84927
+
+三巻終。
