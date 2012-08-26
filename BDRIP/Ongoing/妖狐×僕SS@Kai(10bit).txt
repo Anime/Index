@@ -146,3 +146,25 @@ File:  妖狐×僕SS 第09話 「約束の日」 (BD 1920x1080 x264 AACx2 コメ
 Key:   CHK@yC4~tDXzZ4RCtWM69VdioTW0WYHNjuzSlnWAph4VEWY,b92x7dkwLyo~VDLO5OulFB8~ejvNIui4K7kGcoKKap8,AAIC--8/妖狐×僕SS 第09話 「約束の日」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 1006928376
 Hash_SHA1:   c98d4ff45f2af0d409eae06f4375d33397e22443
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.08.22 - 17:49:10GMT -----
+
+File:  妖狐×僕SS BD Vol.6 特典CD Soundtrack Vol.2 (EAC cue+wav+log).rar
+Key:   CHK@CLifMe7rmWx74oSfmvViLmNfkJJUQMogjDJOEkz4Eo4,PkZXnZeDJoNbbicLwrm433ZmU6EUkOva5OCmKE7v33w,AAIC--8/妖狐×僕SS BD Vol.6 特典CD Soundtrack Vol.2 (EAC cue+wav+log).rar
+Bytes: 187782498
+Hash_SHA1:   b531206591b35cab3f7acf91e72f00684a3a443d
+
+File:  妖狐×僕SS BD Vol.6 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@5gSgh~LycIvS686yJTdIpUDaR39owsxjmlNo7MpKnl4,x0q9FrbbsMOLKOhDbdPDEiPt4w2tLR8OdpClxH1AkL8,AAIC--8/妖狐×僕SS BD Vol.6 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 8706025
+Hash_SHA1:   5271a6f1d74e02082a0eafbdfcb702b4de004898
+
+File:  妖狐×僕SS 第10話 「裏切りの妖狐」 (BD 1920x1080 x264 AAC).mp4
+Key:   CHK@S8v9xNIKfHELdZLOowVDUG-OT8AaD-nKZUMQl3Younk,Ui~qWSAHzuKuSRkM2545CiyjcsflhePGAvTQfrf4PCg,AAIC--8/妖狐×僕SS 第10話 「裏切りの妖狐」 (BD 1920x1080 x264 AAC).mp4
+Bytes: 1040663884
+Hash_SHA1:   fcd0ec5bf83e0277fd7658b1e311b9c587ba1199
+
+File:  妖狐×僕SS 第11話 「陽炎」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@-1e1iMC6wbSOXZuhLeOKpnBx1PhdRN3frMWaAUY-s5s,x~TKSCdCjZUdyNe7oyYIONvlq5WpB7zFkTl87wKUE2E,AAIC--8/妖狐×僕SS 第11話 「陽炎」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 1012218983
+Hash_SHA1:   26573575b3b7e364fdf9ed916d627e770b4a0830
