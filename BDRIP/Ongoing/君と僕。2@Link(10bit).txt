@@ -62,3 +62,22 @@ Bytes: 638719359
 SHA-1: fb91195b82fb3a7cfcf963eb30b3c6734dfec94b
 
 二巻終。
+
+----- Link@no_OXlix91hBoWGMf_ZPp8nTXaM ----- 2012.08.26 - 09:40:19GMT -----
+
+File : 君と僕。2 vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Key  : CHK@TVP2o43TF8urhtdp3kMPM2pLu5KDVR~2Dksvx244nCk,~dxXafoD97yFNsN41lS3wxzZwMnqHw5TDsLtZj2vioE,AAIC--8/君と僕。2 vol.03 映像特典 「Menu」 (BD 1920x1080 x264 10bit).mp4
+Bytes: 9479629
+SHA-1: 7247b5e1856816ee270998cfecb0439c5b55dd30
+
+File : 君と僕。2 第05話 「あの空の裾」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@2c0BPxMHUOX2GDC~cQRj-GjkyBgV~MmbGKa6L8Xfb-o,6qXYFcxJdpszoSQifz0xzMswtZd~FRy7jgm~SGHEB2I,AAIC--8/君と僕。2 第05話 「あの空の裾」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 714193106
+SHA-1: 7c79f74d293fa3f368eddd25ed2f93629d98e4af
+
+File : 君と僕。2 第06話 「Colorless blue」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Key  : CHK@OmJewL~dJEsW~j1BJ40tilPxOxvnOJ3fTCEXntBQlxo,2lk1TLOxtUlxLMJrIOjlMEQfetotJQz89Mu5omd~ZNg,AAIC--8/君と僕。2 第06話 「Colorless blue」 (BD 1920x1080 x264 コメンタリー切替可 10bit).mp4
+Bytes: 623724987
+SHA-1: fe012d4e306aec2255e411ad3709071f442e55f3
+
+三巻終。
