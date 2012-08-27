@@ -230,3 +230,25 @@ File : ちはやふる 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
 Key  : CHK@pDs22vusMbG4LXhCFobtqLeNC9WXNsk6vw9L~d23Big,-ptGi3xGOb2PCfWT5xEywYQZqKCKnVF0I2hxY47s5-g,AAIC--8/ちはやふる 第８巻 MENU (BD 1920x1080 x264 AAC).mp4
 Bytes: 77976188
 SHA-1: 49add5adb5464bc22680422147aa757515fc6204
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.08.26 - 11:06:27GMT -----
+
+File : ちはやふる 第24話 ｢をのへのさくらさきにけり｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@sQ10Cl6FWGfXMbX7C~12Wdit7qs3RSFZ4bWCpGPPTMg,QYBh-eYqKWDjS5Johjhu5uTviK8prbDN2lUi~7I03Sk,AAIC--8/ちはやふる 第24話 ｢をのへのさくらさきにけり｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 837089782
+SHA-1: d1e3f98530bc351b4cd5f60c27062874512e1409
+
+File : ちはやふる 第25話 ｢もれいづるつきのかげのさやけさ｣ (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@b5J37OXgB5PqMnsKook2IhZN63DlV0fOxt66~alZ9JI,eCTeMLCBFl~9SC0bEAuqO-Acq-b2VvHEKw0RegQ7kfc,AAIC--8/ちはやふる 第25話 ｢もれいづるつきのかげのさやけさ｣ (BD 1920x1080 x264 AAC).mp4
+Bytes: 845293491
+SHA-1: 6304f7cd50a63823a05f8bcd59040043f52c4cd6
+
+File : ちはやふる 第９巻 MENU (BD 1920x1080 x264 AAC).mp4
+Key  : CHK@rfG2WPK5dC0GE4T1iiVhzzSCRe-sulla4g41XsLCdyk,sUgcxyCldAQgR~wPk7~5P5PUL3fAbem1nUReYmc83z8,AAIC--8/ちはやふる 第９巻 MENU (BD 1920x1080 x264 AAC).mp4
+Bytes: 80721189
+SHA-1: e8158a34039f70315ebb0f8de078e573f188fb09
+
+----- Lv.1@kXH8uKJTFiSbahXhNIN4SfMqNz4 ----- 2012.08.26 - 11:52:42GMT -----
+
+おわり
+
