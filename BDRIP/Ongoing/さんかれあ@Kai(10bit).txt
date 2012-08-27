@@ -46,3 +46,42 @@ File:  さんかれあ 第04話 「普通の…女の子…」 (BD 1920x1080 x26
 Key:   CHK@NwRJqa4~g~GOdLLzGZg1-vmBRlj-aUyoDZMk6xUevl8,qCGo5KftaKrZI4NohuA8Ohom9a6dlffESxzbSMQteJk,AAIC--8/さんかれあ 第04話 「普通の…女の子…」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
 Bytes: 469469610
 Hash_SHA1:   9c2ffaeb80f2e97f675760d6906d8bec09129333
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.08.15 - 12:27:25GMT -----
+
+File:  さんかれあ コミックス第6巻付属DVD メニュー (1280x720 x264).mp4
+Key:   CHK@L7XxZ3PuPQ5yBdPblMcXsHcQBLvK2K4EduhLalIG8aY,8DscoY1N-lhjanZJ5f9w8zSWpUowvGe7PAjfxbUJoFU,AAIC--8/さんかれあ コミックス第6巻付属DVD メニュー (1280x720 x264).mp4
+Bytes: 176141
+Hash_SHA1:   8766500ce9bc34e753d6197a2d96c58e1cc73661
+
+File:  さんかれあ コミックス第6巻付属DVD 番組宣伝CM 15秒 (1280x720 x264 AAC).mp4
+Key:   CHK@pdSz916mCKI5HY8vrrdr4eZ2OK5qIP8LlQNcOJoT~xY,NGy55ecqlDg~035Ov7AJppkFC3BQnseI5Na3LI8ELnw,AAIC--8/さんかれあ コミックス第6巻付属DVD 番組宣伝CM 15秒 (1280x720 x264 AAC).mp4
+Bytes: 3748849
+Hash_SHA1:   9a3a57c75e0d9d9ad295597eb76be40703cfe71b
+
+File:  さんかれあ コミックス第6巻付属DVD 商品情報 (1280x720 x264 AAC).mp4
+Key:   CHK@behKH157B-R0eq50Dt6DLdIPujwA1tPUvZNjGAMu5pA,J4zvUxfZ4WQB42w71EiQroIivAcSK0ziSSWhNElfm9Y,AAIC--8/さんかれあ コミックス第6巻付属DVD 商品情報 (1280x720 x264 AAC).mp4
+Bytes: 15600193
+Hash_SHA1:   4fe97afe1a55a5524368fff00dc8fc97afb7bb1c
+
+File:  さんかれあ コミックス第6巻付属DVD 第0話 「運命って…ヤツは…」 (1280x720 x264 AAC).mp4
+Key:   CHK@9u2xoLwfR13jnFumL1CwTYl5EJxKFRDzK4I8GkXlG9M,WUsxkse9Q12fYz0OpbxSwRf~YAinNb52XL9wOic-WDI,AAIC--8/さんかれあ コミックス第6巻付属DVD 第0話 「運命って…ヤツは…」 (1280x720 x264 AAC).mp4
+Bytes: 260822350
+Hash_SHA1:   bc698717089530d1cce59d097088caa89a27d9a9
+
+----- kai@oh2y93jkHm63WiSFAPlJPiyuMlY ----- 2012.08.24 - 14:25:35GMT -----
+
+File:  さんかれあ BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Key:   CHK@eNVsGQcKrw1Xzewfx8lebRKhjnfAMlS8zfVg5TigkzI,SF2hIp6obNnkVvCUhUTjJjpbOwtpxSMmf~0iVNzybGI,AAIC--8/さんかれあ BD Vol.3 メニュー (1920x1080 x264 AAC).mp4
+Bytes: 29509553
+Hash_SHA1:   ac6a2fc0a7de7bd2eb42c90628bb59f8865f97c9
+
+File:  さんかれあ 第05話 「ゾンビって…コトは…」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@64TalrszhKzldhtYndiwWzik9BtYvHKcxQcVMcByOI4,Zb7414B7D7z~8XryFtwmd8gOOO647wIHnff6n5voCpA,AAIC--8/さんかれあ 第05話 「ゾンビって…コトは…」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 466679206
+Hash_SHA1:   153608ae67a8be604f8400ed062816989c43c93b
+
+File:  さんかれあ 第06話 「あなたに…出会えたから」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Key:   CHK@NyEbBJWkBn~9VUXgB4A2GbvIdEdsqcBTODa9UFqrFZ0,kxfKZaD-E4Ft59i70eaC2PcZE0s5y59RzPjHyevJb5k,AAIC--8/さんかれあ 第06話 「あなたに…出会えたから」 (BD 1920x1080 x264 AACx2 コメンタリ付).mp4
+Bytes: 470359471
+Hash_SHA1:   f08217e2b2ac92a5f7ab7c0a37c270049ef7391e
